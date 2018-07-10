@@ -348,9 +348,9 @@ class MemN2N(object):
             return new_words_p
 
         for idx_story,story in enumerate(test_stories):
+            print('test number:', idx_story)
             for idx_sents,sents in enumerate(story):
                 # pdb.set_trace()
-                print('test number:',idx_sents)
                 position_list=new_words_position(sents[:-1], train_set)
                 if len(position_list)>0:
                     for position in position_list:
