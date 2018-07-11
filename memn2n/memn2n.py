@@ -12,6 +12,8 @@ import pdb
 import copy
 import nltk
 import re
+
+
 def position_encoding(sentence_size, embedding_size):
     """
     Position Encoding described in section 4.1 [1]
@@ -45,7 +47,6 @@ def zero_nil_slot(t, name=None):
 
 
 def find_lcseque(s1, s2):
-
     m = [[0 for x in range(len(s2) + 1)] for y in range(len(s1) + 1)]
 
     d = [[None for x in range(len(s2) + 1)] for y in range(len(s1) + 1)]
@@ -62,6 +63,7 @@ def find_lcseque(s1, s2):
                 m[p1 + 1][p2 + 1] = m[p1][p2 + 1]
                 d[p1 + 1][p2 + 1] = 'up'
     (p1, p2) = (len(s1), len(s2))
+    # pdb.set_trace()
     # print (np.array(d))
     s = []
     while m[p1][p2]:
@@ -287,82 +289,98 @@ class MemN2N(object):
         loss, _ = self._sess.run([self.loss_op, self.train_op], feed_dict=feed_dict)
         return loss
 
-    def simulate_query(self, test_stories, test_queries,test_tags, train_data,word_idx, train_set):
-        babi_fb_map = {'daniel': 'conn',
-                       'john': 'colliani',
-                       'mary': 'geneva',
-                       'sandra': 'burnhard'}
+    def simulate_query(self, test_stories, test_queries, test_tags, train_data, word_idx, train_set):
+        # babi_fb_map = {'daniel': 'conn',
+        #                'john': 'colliani',
+        #                'mary': 'doud',
+        #                'sandra': 'burnhard'}
         # babi_fb_map = {'daniel': 'burnhard',
         #                'john': 'conn',
         #                'mary': 'colliani',
         #                'sandra': 'doud'}
-        name_map = {}
-        for key in babi_fb_map:
-            name_map[word_idx[key]] = word_idx[babi_fb_map[key]]
+        # name_map = {}
+        # for key in babi_fb_map:
+        #     name_map[word_idx[key]] = word_idx[babi_fb_map[key]]
 
         # pdb.set_trace()
-        s=train_data[0]
-        q=train_data[1]
-        a=train_data[2]
-        tags_train=train_data[3]
+        s = train_data[0]
+        q = train_data[1]
+        a = train_data[2]
+        tags_train = train_data[3]
         tags_test = test_tags
-        print('old name_map:',name_map)
+        # print('old name_map:',name_map)
+        name_map = self.entities_map(tags_test, tags_train, s, test_stories, train_set)
         # pdb.set_trace()
-        name_map=self.entities_map(tags_test,tags_train,s,test_stories,train_set)
-        print('new name_map:', name_map)
-        # for query in test_queries:
-        #     a_list=test_entities
-        #     b_list=query
-        #     cross=list((set(a_list).union(set(b_list))) ^ (set(a_list) ^ set(b_list)))
-        #     if len(cross)>0:
-        # pdb.set_trace()
-        print('simulate querying...')
-        batches = zip(range(0, len(q) - 32, 32), range(32, len(q), 32))
-        batches = [(start, end) for start, end in batches]
 
-        for s_e in range(30):
+            # losses=0
+            # for key, value in name_map.items():
+            #     name_map_temp = {value: key}
+        name_map={value: key for key, value in name_map.items()}
+            # print('new name_map:', name_map)
+            # for query in test_queries:
+            #     a_list=test_entities
+            #     b_list=query
+            #     cross=list((set(a_list).union(set(b_list))) ^ (set(a_list) ^ set(b_list)))
+            #     if len(cross)>0:
+            # pdb.set_trace()
+            # print('simulate querying...')
+
             # losses = 0
-            losses = self.simulate_train(name_map,batches, s, q, a, 0.01)
+        for s_e in range(30):
+            losses = self.simulate_train(name_map, s, q, a, 0.01)
             print('The %d th simulation loss:%f' % (s_e, losses))
 
-    def entities_map(self,tags_test,tags_train,train_stories,test_stories,train_set):
-        name_map={}
+    def entities_map(self, tags_test, tags_train, train_stories, test_stories, train_set):
+        name_map = {}
+
         # samples=[]
-        def similar_sample(tags_test_sent_,tags_train_):
-            similar_sample_index=[]
-            longest_len=0
-            for idx_story,tags_story in enumerate(tags_train_):
+        def similar_sample(tags_test_sent_, tags_train_):
+            similar_sample_index = []
+            longest_len = 0
+            for idx_story, tags_story in enumerate(tags_train_):
                 for idx_sent, tags_sents in enumerate(tags_story):
-                    length=len(find_lcseque(tags_test_sent_,tags_sents))
-                    if length>longest_len:
-                        longest_len=length
-                        similar_sample_index=[idx_story,idx_sent]
+                    length = len(find_lcseque(tags_test_sent_, tags_sents))
+                    if length > longest_len:
+                        longest_len = length
+                        similar_sample_index = [idx_story, idx_sent]
             return similar_sample_index
 
         def new_words_position(sent, train_set):
             new_words_p = []
+            new_word = []
             # token = [x.strip() for x in re.split('(\W+)?', sent) if x.strip()]
-            for idx,word in enumerate(sent):
+            for idx, word in enumerate(sent):
                 if word not in train_set and not word == 0:
                     new_words_p.append(idx)
-            return new_words_p
+                    new_word.append(word)
+            return new_words_p, new_word
 
-        for idx_story,story in enumerate(test_stories):
-            print('test number:', idx_story)
-            for idx_sents,sents in enumerate(story):
+        for idx_story, story in enumerate(test_stories):
+            # print('test number:', idx_story)
+            recognise = False
+            for idx_sents, sents in enumerate(story):
                 # pdb.set_trace()
-                position_list=new_words_position(sents[:-1], train_set)
-                if len(position_list)>0:
+                position_list, new_words = new_words_position(sents[:-1], train_set)
+                for words in new_words:
+                    if words not in name_map.keys():
+                        recognise = True
+
+                if len(position_list) > 0 and recognise:
                     for position in position_list:
-                        train_position=similar_sample(tags_test[idx_story][idx_sents],tags_train)
-                        value=train_stories[train_position[0]][train_position[1]][position]
-                        name_map[sents[position]]=value
+                        train_position = similar_sample(tags_test[idx_story][idx_sents], tags_train)
+                        if tags_train[train_position[0]][train_position[1]][position]==tags_test[idx_story][idx_sents][position]:
+
+                            value = train_stories[train_position[0]][train_position[1]][position]
+                            name_map[sents[position]] = value
+                        else:
+                            # pdb.set_trace()
+                            continue
         return name_map
 
-
-
-    def simulate_train(self, name_map,batches, story, query, answer, lr):
+    def simulate_train(self, name_map, story, query, answer, lr):
         stories, queries, answers = [], [], []
+        # for key,value in name_map.items():
+        #     name_map_temp={value:key}
         flag = False
         for i in range(len(query)):
             s = copy.copy(story[i])
@@ -383,17 +401,24 @@ class MemN2N(object):
                 answers.append(a)
                 flag = False
 
-        # pdb.set_trace()
+        if len(queries) <= 0: pdb.set_trace()
         total_cost = 0.0
-        for start, end in batches:
-            s = stories[start:end]
-            q = queries[start:end]
-            a = answers[start:end]
-            cost_t = self.batch_fit(s, q, a, lr)
-            total_cost += cost_t
+        if len(queries) > 32:
+            batches = zip(range(0, len(queries) - 32, 32), range(32, len(queries), 32))
+            batches = [(start, end) for start, end in batches]
+            np.random.shuffle(batches)
+            # pdb.set_trace()
+            for start, end in batches:
+                s = stories[start:end]
+                q = queries[start:end]
+                a = answers[start:end]
+                cost_t = self.batch_fit(s, q, a, lr)
+                total_cost += cost_t
+        else:
+            total_cost = self.batch_fit(stories, queries, answers, lr)
         return total_cost
 
-    def predict(self, stories, queries, type=None, test_tags=None,train_data=None, word_idx=None,train_set=None):
+    def predict(self, stories, queries, type=None, test_tags=None, train_data=None, word_idx=None, train_set=None):
         """Predicts answers as one-hot encoding.
 
         Args:
@@ -404,7 +429,7 @@ class MemN2N(object):
             answers: Tensor (None, vocab_size)
         """
         if type == 'introspect':
-            self.simulate_query(stories, queries,test_tags, train_data,word_idx, train_set)
+            self.simulate_query(stories, queries, test_tags, train_data, word_idx, train_set)
             feed_dict = {self._stories: stories, self._queries: queries}
             return self._sess.run(self.predict_op, feed_dict=feed_dict)
         else:
