@@ -289,7 +289,7 @@ class MemN2N(object):
         loss, _ = self._sess.run([self.loss_op, self.train_op], feed_dict=feed_dict)
         return loss
 
-    def simulate_query(self, test_stories, test_queries, test_tags, train_data, word_idx, train_set):
+    def simulate_query(self, test_stories, test_queries, test_tags, train_data, word_idx, train_word_set):
         # babi_fb_map = {'daniel': 'conn',
         #                'john': 'colliani',
         #                'mary': 'doud',
@@ -298,9 +298,20 @@ class MemN2N(object):
         #                'john': 'conn',
         #                'mary': 'colliani',
         #                'sandra': 'doud'}
+        # babi_fb_map = {'bathroom': 'moon',
+                       # 'bedroom': 'earth',
+                       # 'cinema': 'mercury',
+                       # 'garden': 'venus',
+                       # 'kitchen': 'mars',
+                       # 'office': 'jupiter',
+                       # 'park': 'saturn',
+                       # 'school': 'uranus',
+                       # 'hallway': 'neptune'
+        #                }
         # name_map = {}
         # for key in babi_fb_map:
-        #     name_map[word_idx[key]] = word_idx[babi_fb_map[key]]
+        #     if key in word_idx:
+        #         name_map[word_idx[key]] = word_idx[babi_fb_map[key]]
 
         # pdb.set_trace()
         s = train_data[0]
@@ -308,14 +319,11 @@ class MemN2N(object):
         a = train_data[2]
         tags_train = train_data[3]
         tags_test = test_tags
-        # print('old name_map:',name_map)
-        name_map = self.entities_map(tags_test, tags_train, s, test_stories, train_set)
         # pdb.set_trace()
-
-            # losses=0
-            # for key, value in name_map.items():
-            #     name_map_temp = {value: key}
+        name_map = self.entities_map(tags_test, tags_train, s, test_stories, train_word_set)
         name_map={value: key for key, value in name_map.items()}
+
+
             # print('new name_map:', name_map)
             # for query in test_queries:
             #     a_list=test_entities
@@ -357,14 +365,14 @@ class MemN2N(object):
 
         for idx_story, story in enumerate(test_stories):
             # print('test number:', idx_story)
-            recognise = False
             for idx_sents, sents in enumerate(story):
                 # pdb.set_trace()
+                recognise = False
                 position_list, new_words = new_words_position(sents[:-1], train_set)
                 for words in new_words:
                     if words not in name_map.keys():
                         recognise = True
-
+                # print (recognise,new_words,name_map)
                 if len(position_list) > 0 and recognise:
                     for position in position_list:
                         train_position = similar_sample(tags_test[idx_story][idx_sents], tags_train)
@@ -372,9 +380,9 @@ class MemN2N(object):
 
                             value = train_stories[train_position[0]][train_position[1]][position]
                             name_map[sents[position]] = value
-                        else:
+                        # else:
                             # pdb.set_trace()
-                            continue
+                            # continue
         return name_map
 
     def simulate_train(self, name_map, story, query, answer, lr):
