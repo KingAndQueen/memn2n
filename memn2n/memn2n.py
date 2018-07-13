@@ -299,14 +299,14 @@ class MemN2N(object):
         #                'mary': 'colliani',
         #                'sandra': 'doud'}
         # babi_fb_map = {'bathroom': 'moon',
-                       # 'bedroom': 'earth',
-                       # 'cinema': 'mercury',
-                       # 'garden': 'venus',
-                       # 'kitchen': 'mars',
-                       # 'office': 'jupiter',
-                       # 'park': 'saturn',
-                       # 'school': 'uranus',
-                       # 'hallway': 'neptune'
+        #                'bedroom': 'earth',
+        #                'cinema': 'mercury',
+        #                'garden': 'venus',
+        #                'kitchen': 'mars',
+        #                'office': 'jupiter',
+        #                'park': 'saturn',
+        #                'school': 'uranus',
+        #                'hallway': 'neptune'
         #                }
         # name_map = {}
         # for key in babi_fb_map:
@@ -403,6 +403,14 @@ class MemN2N(object):
                     if id in name_map.keys():
                         sent[no_] = name_map[id]
                         flag = True
+            # pdb.set_trace()
+
+            ans_id=np.argmax(a,0)
+            if ans_id in name_map.keys():
+                a=np.zeros(len(a))
+                a[name_map[ans_id]]=1
+                flag=True
+            # pdb.set_trace()
             if flag:
                 stories.append(s)
                 queries.append(q)
