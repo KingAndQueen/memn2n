@@ -1,0 +1,3470 @@
+1 Doud got the milk there.
+2 Colliani moved to the bedroom.
+3 How many objects is Doud carrying? 	one	1
+4 Burnhard went back to the bathroom.
+5 Colliani got the football there.
+6 How many objects is Doud carrying? 	one	1
+7 Doud journeyed to the bathroom.
+8 Doud gave the milk to Burnhard.
+9 How many objects is Doud carrying? 	none	1 8
+10 Colliani went back to the bathroom.
+11 Colliani left the football.
+12 How many objects is Colliani carrying? 	none	5 11
+13 Burnhard gave the milk to Colliani.
+14 Colliani journeyed to the garden.
+15 How many objects is Colliani carrying? 	one	5 11 13
+1 Conn took the milk there.
+2 Colliani moved to the hallway.
+3 How many objects is Conn carrying? 	one	1
+4 Conn left the milk.
+5 Conn journeyed to the office.
+6 How many objects is Conn carrying? 	none	1 4
+7 Colliani went back to the office.
+8 Colliani went to the hallway.
+9 How many objects is Conn carrying? 	none	1 4
+10 Doud travelled to the bedroom.
+11 Doud got the football there.
+12 How many objects is Doud carrying? 	one	11
+13 Burnhard went back to the kitchen.
+14 Conn moved to the kitchen.
+15 How many objects is Doud carrying? 	one	11
+1 Burnhard went to the hallway.
+2 Burnhard grabbed the apple there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Conn moved to the kitchen.
+5 Burnhard got the milk there.
+6 How many objects is Burnhard carrying? 	two	2 5
+7 Doud got the football there.
+8 Burnhard went back to the office.
+9 How many objects is Doud carrying? 	one	7
+10 Burnhard put down the apple.
+11 Conn journeyed to the hallway.
+12 How many objects is Burnhard carrying? 	one	2 5 10
+13 Conn went back to the kitchen.
+14 Doud travelled to the hallway.
+15 How many objects is Burnhard carrying? 	one	2 5 10
+1 Burnhard travelled to the bathroom.
+2 Conn journeyed to the bedroom.
+3 Conn went to the hallway.
+4 Burnhard journeyed to the hallway.
+5 Conn went back to the bedroom.
+6 Colliani moved to the garden.
+7 Conn journeyed to the hallway.
+8 Colliani grabbed the apple there.
+9 How many objects is Colliani carrying? 	one	8
+10 Colliani gave the apple to Doud.
+11 Doud passed the apple to Colliani.
+12 How many objects is Colliani carrying? 	one	8 10 11
+13 Doud journeyed to the hallway.
+14 Colliani dropped the apple there.
+15 How many objects is Colliani carrying? 	none	8 10 11 14
+16 Burnhard went to the garden.
+17 Doud went to the kitchen.
+18 How many objects is Doud carrying? 	none	10 11
+19 Doud picked up the football there.
+20 Doud picked up the milk there.
+21 How many objects is Doud carrying? 	two	10 11 19 20
+1 Colliani moved to the hallway.
+2 Doud grabbed the milk there.
+3 How many objects is Doud carrying? 	one	2
+4 Colliani went back to the kitchen.
+5 Burnhard got the football there.
+6 How many objects is Burnhard carrying? 	one	5
+7 Doud picked up the apple there.
+8 Doud dropped the milk.
+9 How many objects is Doud carrying? 	one	2 7 8
+10 Colliani travelled to the hallway.
+11 Burnhard left the football.
+12 How many objects is Doud carrying? 	one	2 7 8
+13 Colliani moved to the garden.
+14 Colliani went back to the kitchen.
+15 How many objects is Burnhard carrying? 	none	5 11
+1 Conn went to the bathroom.
+2 Colliani moved to the office.
+3 Conn went to the kitchen.
+4 Colliani got the apple there.
+5 How many objects is Colliani carrying? 	one	4
+6 Colliani left the apple.
+7 Doud got the football there.
+8 How many objects is Doud carrying? 	one	7
+9 Colliani moved to the hallway.
+10 Doud dropped the football.
+11 How many objects is Doud carrying? 	none	7 10
+12 Conn went to the hallway.
+13 Burnhard journeyed to the hallway.
+14 How many objects is Doud carrying? 	none	7 10
+15 Doud got the football there.
+16 Doud left the football.
+17 How many objects is Doud carrying? 	none	7 10 15 16
+1 Doud went to the garden.
+2 Burnhard went back to the bathroom.
+3 Burnhard went to the kitchen.
+4 Burnhard went back to the bedroom.
+5 Doud got the apple there.
+6 Doud left the apple.
+7 How many objects is Doud carrying? 	none	5 6
+8 Burnhard went back to the kitchen.
+9 Doud got the apple there.
+10 How many objects is Doud carrying? 	one	5 6 9
+11 Doud moved to the bedroom.
+12 Doud journeyed to the hallway.
+13 How many objects is Doud carrying? 	one	5 6 9
+14 Conn went to the bedroom.
+15 Doud got the milk there.
+16 How many objects is Doud carrying? 	two	5 6 9 15
+17 Burnhard moved to the office.
+18 Burnhard journeyed to the bedroom.
+19 How many objects is Doud carrying? 	two	5 6 9 15
+1 Colliani grabbed the apple there.
+2 Colliani gave the apple to Doud.
+3 How many objects is Colliani carrying? 	none	1 2
+4 Doud passed the apple to Colliani.
+5 Colliani discarded the apple.
+6 How many objects is Colliani carrying? 	none	1 2 4 5
+7 Colliani went back to the office.
+8 Conn journeyed to the hallway.
+9 How many objects is Colliani carrying? 	none	1 2 4 5
+10 Doud got the apple there.
+11 Doud gave the apple to Conn.
+12 How many objects is Doud carrying? 	none	2 4 10 11
+13 Conn passed the apple to Doud.
+14 Doud passed the apple to Conn.
+15 How many objects is Doud carrying? 	none	2 4 10 11 13 14
+1 Burnhard picked up the apple there.
+2 Conn moved to the office.
+3 How many objects is Burnhard carrying? 	one	1
+4 Burnhard discarded the apple there.
+5 Conn went back to the kitchen.
+6 How many objects is Burnhard carrying? 	none	1 4
+7 Burnhard moved to the bedroom.
+8 Burnhard went back to the hallway.
+9 How many objects is Burnhard carrying? 	none	1 4
+10 Doud travelled to the kitchen.
+11 Burnhard travelled to the office.
+12 Colliani travelled to the office.
+13 Burnhard went back to the bathroom.
+14 Colliani went back to the bathroom.
+15 Burnhard journeyed to the bedroom.
+16 Burnhard went back to the hallway.
+17 Conn travelled to the garden.
+18 Doud journeyed to the hallway.
+19 Colliani picked up the football there.
+20 How many objects is Colliani carrying? 	one	19
+21 Doud went back to the kitchen.
+22 Colliani discarded the football.
+23 How many objects is Colliani carrying? 	none	19 22
+1 Colliani journeyed to the hallway.
+2 Doud went back to the garden.
+3 Doud went to the bedroom.
+4 Conn grabbed the milk there.
+5 How many objects is Conn carrying? 	one	4
+6 Colliani went to the bathroom.
+7 Colliani picked up the apple there.
+8 How many objects is Conn carrying? 	one	4
+9 Burnhard journeyed to the hallway.
+10 Conn discarded the milk.
+11 How many objects is Conn carrying? 	none	4 10
+12 Conn travelled to the bathroom.
+13 Conn went back to the kitchen.
+14 How many objects is Conn carrying? 	none	4 10
+15 Doud went back to the bathroom.
+16 Colliani passed the apple to Doud.
+17 How many objects is Conn carrying? 	none	4 10
+1 Doud travelled to the garden.
+2 Colliani journeyed to the kitchen.
+3 Colliani travelled to the hallway.
+4 Conn went back to the garden.
+5 Conn journeyed to the office.
+6 Doud grabbed the football there.
+7 How many objects is Doud carrying? 	one	6
+8 Colliani went to the garden.
+9 Doud handed the football to Colliani.
+10 How many objects is Doud carrying? 	none	6 9
+11 Conn moved to the hallway.
+12 Colliani handed the football to Doud.
+13 How many objects is Doud carrying? 	one	6 9 12
+14 Burnhard moved to the bedroom.
+15 Doud gave the football to Colliani.
+16 How many objects is Doud carrying? 	none	6 9 12 15
+17 Colliani moved to the kitchen.
+18 Doud went to the bathroom.
+19 How many objects is Doud carrying? 	none	6 9 12 15
+1 Burnhard travelled to the garden.
+2 Colliani took the apple there.
+3 How many objects is Colliani carrying? 	one	2
+4 Doud went back to the hallway.
+5 Colliani travelled to the hallway.
+6 How many objects is Colliani carrying? 	one	2
+7 Colliani journeyed to the garden.
+8 Conn went to the bathroom.
+9 How many objects is Colliani carrying? 	one	2
+10 Colliani passed the apple to Burnhard.
+11 Burnhard passed the apple to Colliani.
+12 How many objects is Burnhard carrying? 	none	10 11
+13 Colliani gave the apple to Burnhard.
+14 Burnhard went to the office.
+15 How many objects is Burnhard carrying? 	one	10 11 13
+1 Burnhard travelled to the office.
+2 Doud went back to the bedroom.
+3 Doud moved to the kitchen.
+4 Doud journeyed to the hallway.
+5 Doud took the apple there.
+6 Doud dropped the apple.
+7 How many objects is Doud carrying? 	none	5 6
+8 Conn journeyed to the office.
+9 Burnhard went back to the bedroom.
+10 How many objects is Doud carrying? 	none	5 6
+11 Doud took the football there.
+12 Doud left the football.
+13 How many objects is Doud carrying? 	none	5 6 11 12
+14 Burnhard went back to the garden.
+15 Colliani went to the kitchen.
+16 How many objects is Doud carrying? 	none	5 6 11 12
+17 Colliani journeyed to the hallway.
+18 Doud went back to the bedroom.
+19 How many objects is Doud carrying? 	none	5 6 11 12
+1 Colliani journeyed to the kitchen.
+2 Burnhard grabbed the apple there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Burnhard handed the apple to Conn.
+5 Conn discarded the apple.
+6 How many objects is Burnhard carrying? 	none	2 4
+7 Conn picked up the apple there.
+8 Conn gave the apple to Burnhard.
+9 How many objects is Burnhard carrying? 	one	2 4 8
+10 Burnhard went to the kitchen.
+11 Burnhard passed the apple to Colliani.
+12 How many objects is Conn carrying? 	none	4 5 7 8
+13 Colliani gave the apple to Burnhard.
+14 Colliani travelled to the garden.
+15 How many objects is Burnhard carrying? 	one	2 4 8 11 13
+1 Burnhard grabbed the milk there.
+2 Colliani went back to the hallway.
+3 How many objects is Burnhard carrying? 	one	1
+4 Burnhard moved to the garden.
+5 Burnhard discarded the milk there.
+6 How many objects is Burnhard carrying? 	none	1 5
+7 Burnhard got the milk there.
+8 Doud moved to the bedroom.
+9 How many objects is Burnhard carrying? 	one	1 5 7
+10 Burnhard went to the hallway.
+11 Conn got the apple there.
+12 How many objects is Conn carrying? 	one	11
+13 Conn moved to the office.
+14 Burnhard passed the milk to Colliani.
+15 How many objects is Conn carrying? 	one	11
+1 Doud took the milk there.
+2 Colliani got the football there.
+3 How many objects is Colliani carrying? 	one	2
+4 Burnhard went to the bathroom.
+5 Doud put down the milk.
+6 How many objects is Colliani carrying? 	one	2
+7 Burnhard went back to the garden.
+8 Burnhard took the milk there.
+9 How many objects is Burnhard carrying? 	one	8
+10 Burnhard dropped the milk there.
+11 Doud journeyed to the bedroom.
+12 How many objects is Burnhard carrying? 	none	8 10
+13 Colliani went to the office.
+14 Colliani grabbed the apple there.
+15 How many objects is Burnhard carrying? 	none	8 10
+1 Doud grabbed the milk there.
+2 Doud moved to the bathroom.
+3 How many objects is Doud carrying? 	one	1
+4 Colliani went back to the hallway.
+5 Doud grabbed the apple there.
+6 How many objects is Doud carrying? 	two	1 5
+7 Conn journeyed to the hallway.
+8 Burnhard went back to the bedroom.
+9 How many objects is Doud carrying? 	two	1 5
+10 Doud discarded the apple.
+11 Doud took the apple there.
+12 How many objects is Doud carrying? 	two	1 5 10 11
+13 Doud travelled to the office.
+14 Doud left the apple there.
+15 How many objects is Doud carrying? 	one	1 5 10 11 14
+1 Doud picked up the football there.
+2 Conn went back to the bedroom.
+3 How many objects is Doud carrying? 	one	1
+4 Conn went back to the bathroom.
+5 Doud journeyed to the bedroom.
+6 How many objects is Doud carrying? 	one	1
+7 Doud dropped the football.
+8 Colliani went to the kitchen.
+9 How many objects is Doud carrying? 	none	1 7
+10 Doud travelled to the office.
+11 Conn went to the bedroom.
+12 How many objects is Doud carrying? 	none	1 7
+13 Doud journeyed to the hallway.
+14 Doud travelled to the bathroom.
+15 Conn moved to the kitchen.
+16 Doud grabbed the milk there.
+17 How many objects is Doud carrying? 	one	1 7 16
+1 Burnhard travelled to the garden.
+2 Conn journeyed to the garden.
+3 Conn journeyed to the bathroom.
+4 Colliani travelled to the garden.
+5 Conn travelled to the bedroom.
+6 Burnhard went back to the office.
+7 Colliani travelled to the kitchen.
+8 Conn took the milk there.
+9 How many objects is Conn carrying? 	one	8
+10 Conn moved to the garden.
+11 Doud travelled to the kitchen.
+12 How many objects is Conn carrying? 	one	8
+13 Burnhard travelled to the hallway.
+14 Doud journeyed to the bedroom.
+15 How many objects is Conn carrying? 	one	8
+16 Conn moved to the kitchen.
+17 Conn left the milk.
+18 How many objects is Conn carrying? 	none	8 17
+19 Conn went back to the bathroom.
+20 Burnhard moved to the bedroom.
+21 How many objects is Conn carrying? 	none	8 17
+1 Burnhard travelled to the bedroom.
+2 Burnhard grabbed the football there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Colliani journeyed to the hallway.
+5 Doud went to the garden.
+6 How many objects is Burnhard carrying? 	one	2
+7 Burnhard went back to the office.
+8 Colliani journeyed to the bedroom.
+9 How many objects is Burnhard carrying? 	one	2
+10 Burnhard got the milk there.
+11 Doud moved to the hallway.
+12 How many objects is Burnhard carrying? 	two	2 10
+13 Colliani went to the office.
+14 Burnhard passed the football to Colliani.
+15 How many objects is Burnhard carrying? 	one	2 10 14
+1 Doud took the milk there.
+2 Doud went to the office.
+3 How many objects is Doud carrying? 	one	1
+4 Doud travelled to the hallway.
+5 Burnhard journeyed to the kitchen.
+6 How many objects is Doud carrying? 	one	1
+7 Burnhard went back to the garden.
+8 Conn grabbed the apple there.
+9 How many objects is Conn carrying? 	one	8
+10 Conn discarded the apple.
+11 Burnhard moved to the bedroom.
+12 How many objects is Conn carrying? 	none	8 10
+13 Conn travelled to the hallway.
+14 Doud journeyed to the bedroom.
+15 How many objects is Conn carrying? 	none	8 10
+1 Colliani went to the bathroom.
+2 Colliani grabbed the football there.
+3 How many objects is Colliani carrying? 	one	2
+4 Conn travelled to the hallway.
+5 Doud moved to the hallway.
+6 How many objects is Colliani carrying? 	one	2
+7 Burnhard picked up the apple there.
+8 Colliani dropped the football.
+9 How many objects is Colliani carrying? 	none	2 8
+10 Doud travelled to the bedroom.
+11 Burnhard went to the kitchen.
+12 How many objects is Burnhard carrying? 	one	7
+13 Colliani picked up the football there.
+14 Doud got the milk there.
+15 How many objects is Doud carrying? 	one	14
+1 Doud picked up the milk there.
+2 Burnhard travelled to the office.
+3 How many objects is Doud carrying? 	one	1
+4 Doud handed the milk to Burnhard.
+5 Burnhard dropped the milk.
+6 How many objects is Doud carrying? 	none	1 4
+7 Colliani went to the office.
+8 Colliani grabbed the milk there.
+9 How many objects is Doud carrying? 	none	1 4
+10 Conn went to the bedroom.
+11 Colliani passed the milk to Doud.
+12 How many objects is Burnhard carrying? 	none	4 5
+13 Doud gave the milk to Colliani.
+14 Conn went to the garden.
+15 How many objects is Doud carrying? 	none	1 4 11 13
+1 Colliani went back to the office.
+2 Conn travelled to the garden.
+3 Doud moved to the bathroom.
+4 Doud journeyed to the bedroom.
+5 Doud went to the bathroom.
+6 Doud travelled to the hallway.
+7 Doud journeyed to the office.
+8 Doud went back to the hallway.
+9 Doud picked up the apple there.
+10 Burnhard journeyed to the hallway.
+11 How many objects is Doud carrying? 	one	9
+12 Doud handed the apple to Burnhard.
+13 Burnhard passed the apple to Doud.
+14 How many objects is Doud carrying? 	one	9 12 13
+15 Burnhard journeyed to the kitchen.
+16 Burnhard travelled to the hallway.
+17 How many objects is Doud carrying? 	one	9 12 13
+18 Doud put down the apple there.
+19 Burnhard picked up the apple there.
+20 How many objects is Burnhard carrying? 	one	12 13 19
+21 Burnhard handed the apple to Doud.
+22 Doud dropped the apple there.
+23 How many objects is Doud carrying? 	none	9 12 13 18 21 22
+1 Doud got the football there.
+2 Conn journeyed to the bathroom.
+3 How many objects is Doud carrying? 	one	1
+4 Colliani moved to the hallway.
+5 Burnhard grabbed the milk there.
+6 How many objects is Doud carrying? 	one	1
+7 Conn picked up the apple there.
+8 Conn dropped the apple.
+9 How many objects is Conn carrying? 	none	7 8
+10 Conn grabbed the apple there.
+11 Conn left the apple.
+12 How many objects is Conn carrying? 	none	7 8 10 11
+13 Doud went to the office.
+14 Burnhard left the milk.
+15 How many objects is Burnhard carrying? 	none	5 14
+1 Doud journeyed to the office.
+2 Colliani picked up the football there.
+3 How many objects is Colliani carrying? 	one	2
+4 Colliani discarded the football.
+5 Burnhard went to the bathroom.
+6 How many objects is Colliani carrying? 	none	2 4
+7 Burnhard picked up the milk there.
+8 Conn got the apple there.
+9 How many objects is Colliani carrying? 	none	2 4
+10 Conn discarded the apple there.
+11 Conn picked up the apple there.
+12 How many objects is Burnhard carrying? 	one	7
+13 Burnhard left the milk there.
+14 Burnhard journeyed to the office.
+15 How many objects is Conn carrying? 	one	8 10 11
+1 Colliani went back to the garden.
+2 Conn grabbed the milk there.
+3 How many objects is Conn carrying? 	one	2
+4 Conn passed the milk to Colliani.
+5 Colliani gave the milk to Conn.
+6 How many objects is Conn carrying? 	one	2 4 5
+7 Conn gave the milk to Colliani.
+8 Colliani picked up the apple there.
+9 How many objects is Conn carrying? 	none	2 4 5 7
+10 Colliani passed the apple to Conn.
+11 Conn handed the apple to Colliani.
+12 How many objects is Colliani carrying? 	two	4 5 7 8 10 11
+13 Burnhard moved to the kitchen.
+14 Colliani passed the apple to Conn.
+15 How many objects is Colliani carrying? 	one	4 5 7 8 10 11 14
+1 Colliani took the milk there.
+2 Conn travelled to the garden.
+3 How many objects is Colliani carrying? 	one	1
+4 Colliani went to the office.
+5 Colliani dropped the milk.
+6 How many objects is Colliani carrying? 	none	1 5
+7 Doud grabbed the apple there.
+8 Doud put down the apple.
+9 How many objects is Doud carrying? 	none	7 8
+10 Doud went back to the hallway.
+11 Doud grabbed the football there.
+12 How many objects is Doud carrying? 	one	7 8 11
+13 Colliani got the milk there.
+14 Doud put down the football.
+15 How many objects is Doud carrying? 	none	7 8 11 14
+1 Doud travelled to the hallway.
+2 Colliani moved to the hallway.
+3 Burnhard went to the hallway.
+4 Burnhard took the milk there.
+5 How many objects is Burnhard carrying? 	one	4
+6 Burnhard passed the milk to Colliani.
+7 Colliani picked up the football there.
+8 How many objects is Burnhard carrying? 	none	4 6
+9 Colliani travelled to the kitchen.
+10 Doud went back to the office.
+11 How many objects is Colliani carrying? 	two	6 7
+12 Colliani passed the football to Conn.
+13 Doud travelled to the hallway.
+14 How many objects is Colliani carrying? 	one	6 7 12
+15 Colliani got the apple there.
+16 Colliani discarded the apple.
+17 How many objects is Colliani carrying? 	one	6 7 12 15 16
+1 Colliani went back to the office.
+2 Conn went to the kitchen.
+3 Burnhard travelled to the bathroom.
+4 Burnhard moved to the kitchen.
+5 Doud journeyed to the office.
+6 Burnhard went to the bathroom.
+7 Colliani moved to the garden.
+8 Colliani went back to the bathroom.
+9 Colliani picked up the football there.
+10 Conn picked up the apple there.
+11 How many objects is Conn carrying? 	one	10
+12 Colliani journeyed to the bedroom.
+13 Conn journeyed to the hallway.
+14 How many objects is Conn carrying? 	one	10
+15 Conn travelled to the bathroom.
+16 Colliani took the milk there.
+17 How many objects is Conn carrying? 	one	10
+18 Conn journeyed to the garden.
+19 Conn discarded the apple.
+20 How many objects is Colliani carrying? 	two	9 16
+21 Colliani went to the garden.
+22 Colliani passed the football to Conn.
+23 How many objects is Colliani carrying? 	one	9 16 22
+1 Conn went to the kitchen.
+2 Conn travelled to the hallway.
+3 Colliani moved to the office.
+4 Colliani moved to the kitchen.
+5 Conn moved to the bathroom.
+6 Colliani moved to the bathroom.
+7 Conn got the football there.
+8 Conn handed the football to Colliani.
+9 How many objects is Conn carrying? 	none	7 8
+10 Colliani passed the football to Burnhard.
+11 Burnhard handed the football to Colliani.
+12 How many objects is Conn carrying? 	none	7 8
+13 Colliani handed the football to Burnhard.
+14 Burnhard went back to the hallway.
+15 How many objects is Conn carrying? 	none	7 8
+16 Burnhard left the football.
+17 Colliani went back to the bedroom.
+18 How many objects is Colliani carrying? 	none	8 10 11 13
+19 Colliani went to the office.
+20 Burnhard picked up the football there.
+21 How many objects is Burnhard carrying? 	one	10 11 13 16 20
+1 Conn took the football there.
+2 Conn moved to the office.
+3 How many objects is Conn carrying? 	one	1
+4 Conn handed the football to Burnhard.
+5 Colliani grabbed the apple there.
+6 How many objects is Conn carrying? 	none	1 4
+7 Burnhard handed the football to Conn.
+8 Colliani dropped the apple.
+9 How many objects is Conn carrying? 	one	1 4 7
+10 Conn handed the football to Burnhard.
+11 Doud went back to the bedroom.
+12 How many objects is Colliani carrying? 	none	5 8
+13 Burnhard journeyed to the kitchen.
+14 Doud picked up the apple there.
+15 How many objects is Doud carrying? 	one	14
+1 Burnhard moved to the kitchen.
+2 Colliani travelled to the bedroom.
+3 Burnhard moved to the garden.
+4 Burnhard picked up the football there.
+5 How many objects is Burnhard carrying? 	one	4
+6 Burnhard went to the bedroom.
+7 Burnhard passed the football to Colliani.
+8 How many objects is Burnhard carrying? 	none	4 7
+9 Colliani passed the football to Burnhard.
+10 Burnhard handed the football to Colliani.
+11 How many objects is Colliani carrying? 	one	7 9 10
+12 Colliani discarded the football there.
+13 Colliani picked up the football there.
+14 How many objects is Colliani carrying? 	one	7 9 10 12 13
+15 Colliani gave the football to Burnhard.
+16 Colliani journeyed to the hallway.
+17 How many objects is Burnhard carrying? 	one	4 7 9 10 15
+1 Burnhard travelled to the hallway.
+2 Colliani went back to the office.
+3 Colliani moved to the bedroom.
+4 Colliani moved to the office.
+5 Conn travelled to the bedroom.
+6 Conn journeyed to the bathroom.
+7 Doud journeyed to the garden.
+8 Doud travelled to the bedroom.
+9 Burnhard went to the bathroom.
+10 Conn moved to the hallway.
+11 Burnhard went back to the hallway.
+12 Burnhard journeyed to the bedroom.
+13 Burnhard went back to the bathroom.
+14 Colliani moved to the bedroom.
+15 Colliani journeyed to the hallway.
+16 Doud grabbed the football there.
+17 How many objects is Doud carrying? 	one	16
+18 Doud left the football.
+19 Conn went to the garden.
+20 How many objects is Doud carrying? 	none	16 18
+21 Burnhard took the apple there.
+22 Burnhard took the milk there.
+23 How many objects is Burnhard carrying? 	two	21 22
+24 Colliani journeyed to the bathroom.
+25 Conn went back to the office.
+26 How many objects is Burnhard carrying? 	two	21 22
+27 Conn journeyed to the bedroom.
+28 Colliani journeyed to the office.
+29 How many objects is Burnhard carrying? 	two	21 22
+1 Colliani picked up the football there.
+2 Colliani dropped the football.
+3 How many objects is Colliani carrying? 	none	1 2
+4 Doud moved to the office.
+5 Conn went back to the bedroom.
+6 How many objects is Colliani carrying? 	none	1 2
+7 Burnhard journeyed to the garden.
+8 Conn went to the garden.
+9 How many objects is Colliani carrying? 	none	1 2
+10 Conn went back to the bedroom.
+11 Colliani took the football there.
+12 How many objects is Colliani carrying? 	one	1 2 11
+13 Colliani moved to the kitchen.
+14 Burnhard moved to the office.
+15 How many objects is Colliani carrying? 	one	1 2 11
+1 Conn went back to the garden.
+2 Conn journeyed to the kitchen.
+3 Doud journeyed to the office.
+4 Colliani went to the bedroom.
+5 Colliani picked up the football there.
+6 Burnhard journeyed to the office.
+7 How many objects is Colliani carrying? 	one	5
+8 Doud went to the hallway.
+9 Colliani took the milk there.
+10 How many objects is Colliani carrying? 	two	5 9
+11 Conn travelled to the hallway.
+12 Colliani journeyed to the kitchen.
+13 How many objects is Colliani carrying? 	two	5 9
+14 Colliani dropped the football.
+15 Conn travelled to the garden.
+16 How many objects is Colliani carrying? 	one	5 9 14
+17 Conn took the apple there.
+18 Conn put down the apple.
+19 How many objects is Colliani carrying? 	one	5 9 14
+1 Burnhard moved to the garden.
+2 Burnhard picked up the football there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Burnhard discarded the football there.
+5 Colliani journeyed to the hallway.
+6 How many objects is Burnhard carrying? 	none	2 4
+7 Doud grabbed the milk there.
+8 Colliani went back to the bedroom.
+9 How many objects is Burnhard carrying? 	none	2 4
+10 Conn went back to the office.
+11 Burnhard went back to the bathroom.
+12 How many objects is Doud carrying? 	one	7
+13 Conn moved to the hallway.
+14 Doud handed the milk to Burnhard.
+15 How many objects is Doud carrying? 	none	7 14
+1 Burnhard travelled to the garden.
+2 Burnhard travelled to the bedroom.
+3 Doud travelled to the bathroom.
+4 Colliani got the milk there.
+5 How many objects is Colliani carrying? 	one	4
+6 Colliani passed the milk to Conn.
+7 Colliani went to the bedroom.
+8 How many objects is Colliani carrying? 	none	4 6
+9 Doud went back to the bedroom.
+10 Conn dropped the milk.
+11 How many objects is Colliani carrying? 	none	4 6
+12 Conn went back to the bathroom.
+13 Burnhard moved to the garden.
+14 How many objects is Conn carrying? 	none	6 10
+15 Burnhard travelled to the hallway.
+16 Burnhard went back to the bathroom.
+17 How many objects is Conn carrying? 	none	6 10
+1 Conn picked up the apple there.
+2 Colliani went to the hallway.
+3 How many objects is Conn carrying? 	one	1
+4 Colliani travelled to the bedroom.
+5 Conn left the apple.
+6 How many objects is Conn carrying? 	none	1 5
+7 Colliani travelled to the kitchen.
+8 Doud took the football there.
+9 How many objects is Doud carrying? 	one	8
+10 Burnhard moved to the garden.
+11 Doud put down the football.
+12 How many objects is Doud carrying? 	none	8 11
+13 Burnhard journeyed to the office.
+14 Burnhard moved to the garden.
+15 How many objects is Doud carrying? 	none	8 11
+1 Colliani went back to the hallway.
+2 Doud went back to the office.
+3 Burnhard went back to the kitchen.
+4 Burnhard travelled to the bathroom.
+5 Burnhard got the milk there.
+6 Burnhard left the milk.
+7 How many objects is Burnhard carrying? 	none	5 6
+8 Conn went to the bedroom.
+9 Conn went to the bathroom.
+10 How many objects is Burnhard carrying? 	none	5 6
+11 Conn got the milk there.
+12 Conn dropped the milk.
+13 How many objects is Burnhard carrying? 	none	5 6
+14 Colliani journeyed to the bathroom.
+15 Conn went back to the office.
+16 How many objects is Conn carrying? 	none	11 12
+17 Colliani journeyed to the office.
+18 Doud travelled to the hallway.
+19 How many objects is Conn carrying? 	none	11 12
+1 Burnhard went to the office.
+2 Doud travelled to the kitchen.
+3 Colliani grabbed the apple there.
+4 Colliani handed the apple to Burnhard.
+5 How many objects is Colliani carrying? 	none	3 4
+6 Doud travelled to the hallway.
+7 Colliani went back to the garden.
+8 How many objects is Colliani carrying? 	none	3 4
+9 Burnhard grabbed the football there.
+10 Burnhard passed the apple to Conn.
+11 How many objects is Colliani carrying? 	none	3 4
+12 Conn passed the apple to Burnhard.
+13 Burnhard passed the apple to Conn.
+14 How many objects is Conn carrying? 	one	10 12 13
+15 Burnhard left the football.
+16 Conn gave the apple to Burnhard.
+17 How many objects is Conn carrying? 	none	10 12 13 16
+1 Doud journeyed to the office.
+2 Doud went back to the bathroom.
+3 Colliani got the milk there.
+4 Burnhard moved to the hallway.
+5 How many objects is Colliani carrying? 	one	3
+6 Doud took the football there.
+7 Doud journeyed to the hallway.
+8 How many objects is Colliani carrying? 	one	3
+9 Colliani moved to the hallway.
+10 Doud passed the football to Colliani.
+11 How many objects is Doud carrying? 	none	6 10
+12 Colliani handed the football to Doud.
+13 Burnhard travelled to the bedroom.
+14 How many objects is Colliani carrying? 	one	3 10 12
+15 Burnhard journeyed to the office.
+16 Conn went to the office.
+17 How many objects is Doud carrying? 	one	6 10 12
+1 Conn journeyed to the hallway.
+2 Conn journeyed to the garden.
+3 Doud went back to the kitchen.
+4 Colliani took the apple there.
+5 How many objects is Colliani carrying? 	one	4
+6 Colliani moved to the garden.
+7 Conn went back to the office.
+8 How many objects is Colliani carrying? 	one	4
+9 Colliani travelled to the hallway.
+10 Colliani put down the apple.
+11 How many objects is Colliani carrying? 	none	4 10
+12 Conn took the football there.
+13 Burnhard travelled to the office.
+14 How many objects is Colliani carrying? 	none	4 10
+15 Conn gave the football to Burnhard.
+16 Burnhard gave the football to Conn.
+17 How many objects is Conn carrying? 	one	12 15 16
+1 Doud travelled to the bedroom.
+2 Doud journeyed to the office.
+3 Burnhard grabbed the milk there.
+4 Colliani went back to the garden.
+5 How many objects is Burnhard carrying? 	one	3
+6 Burnhard moved to the garden.
+7 Burnhard handed the milk to Colliani.
+8 How many objects is Burnhard carrying? 	none	3 7
+9 Colliani travelled to the kitchen.
+10 Doud moved to the hallway.
+11 How many objects is Burnhard carrying? 	none	3 7
+12 Burnhard moved to the hallway.
+13 Conn moved to the kitchen.
+14 How many objects is Burnhard carrying? 	none	3 7
+15 Colliani gave the milk to Conn.
+16 Conn discarded the milk.
+17 How many objects is Colliani carrying? 	none	7 15
+1 Colliani journeyed to the bathroom.
+2 Doud travelled to the office.
+3 Burnhard went back to the bathroom.
+4 Colliani went to the bedroom.
+5 Doud went to the hallway.
+6 Doud took the apple there.
+7 How many objects is Doud carrying? 	one	6
+8 Burnhard went to the kitchen.
+9 Burnhard picked up the football there.
+10 How many objects is Doud carrying? 	one	6
+11 Colliani travelled to the office.
+12 Burnhard dropped the football.
+13 How many objects is Burnhard carrying? 	none	9 12
+14 Doud dropped the apple.
+15 Burnhard went to the bathroom.
+16 How many objects is Burnhard carrying? 	none	9 12
+17 Burnhard went back to the kitchen.
+18 Burnhard grabbed the football there.
+19 How many objects is Burnhard carrying? 	one	9 12 18
+1 Burnhard went to the office.
+2 Burnhard grabbed the football there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Doud journeyed to the bedroom.
+5 Doud went to the bathroom.
+6 How many objects is Burnhard carrying? 	one	2
+7 Burnhard went back to the bedroom.
+8 Colliani grabbed the milk there.
+9 How many objects is Burnhard carrying? 	one	2
+10 Burnhard passed the football to Colliani.
+11 Colliani put down the milk there.
+12 How many objects is Burnhard carrying? 	none	2 10
+13 Colliani picked up the milk there.
+14 Colliani passed the football to Burnhard.
+15 How many objects is Colliani carrying? 	one	8 10 11 13 14
+1 Conn travelled to the bedroom.
+2 Burnhard went to the kitchen.
+3 Burnhard went back to the garden.
+4 Doud went back to the kitchen.
+5 Conn went to the kitchen.
+6 Doud picked up the apple there.
+7 How many objects is Doud carrying? 	one	6
+8 Conn journeyed to the bathroom.
+9 Burnhard went to the kitchen.
+10 How many objects is Doud carrying? 	one	6
+11 Burnhard took the football there.
+12 Burnhard travelled to the bathroom.
+13 How many objects is Doud carrying? 	one	6
+14 Burnhard put down the football.
+15 Conn moved to the office.
+16 How many objects is Burnhard carrying? 	none	11 14
+17 Doud journeyed to the bathroom.
+18 Doud handed the apple to Burnhard.
+19 How many objects is Burnhard carrying? 	one	11 14 18
+1 Conn travelled to the garden.
+2 Burnhard went to the hallway.
+3 Burnhard picked up the apple there.
+4 Colliani went to the garden.
+5 How many objects is Burnhard carrying? 	one	3
+6 Colliani journeyed to the bathroom.
+7 Colliani moved to the office.
+8 How many objects is Burnhard carrying? 	one	3
+9 Burnhard moved to the office.
+10 Conn got the milk there.
+11 How many objects is Conn carrying? 	one	10
+12 Burnhard got the football there.
+13 Burnhard handed the apple to Colliani.
+14 How many objects is Conn carrying? 	one	10
+15 Doud went to the bathroom.
+16 Burnhard travelled to the bathroom.
+17 How many objects is Conn carrying? 	one	10
+1 Colliani moved to the bedroom.
+2 Colliani went back to the kitchen.
+3 Doud journeyed to the kitchen.
+4 Conn went to the bathroom.
+5 Colliani went back to the hallway.
+6 Conn took the milk there.
+7 How many objects is Conn carrying? 	one	6
+8 Burnhard moved to the bathroom.
+9 Doud went back to the hallway.
+10 How many objects is Conn carrying? 	one	6
+11 Conn moved to the office.
+12 Doud went to the office.
+13 How many objects is Conn carrying? 	one	6
+14 Doud got the apple there.
+15 Conn discarded the milk.
+16 How many objects is Conn carrying? 	none	6 15
+17 Conn travelled to the garden.
+18 Colliani moved to the garden.
+19 How many objects is Conn carrying? 	none	6 15
+1 Burnhard got the apple there.
+2 Burnhard gave the apple to Conn.
+3 How many objects is Burnhard carrying? 	none	1 2
+4 Doud went back to the bathroom.
+5 Burnhard took the football there.
+6 How many objects is Burnhard carrying? 	one	1 2 5
+7 Doud went to the garden.
+8 Colliani moved to the garden.
+9 How many objects is Burnhard carrying? 	one	1 2 5
+10 Conn gave the apple to Burnhard.
+11 Burnhard left the football.
+12 How many objects is Burnhard carrying? 	one	1 2 5 10 11
+13 Conn went to the office.
+14 Burnhard discarded the apple there.
+15 How many objects is Burnhard carrying? 	none	1 2 5 10 11 14
+1 Burnhard travelled to the office.
+2 Burnhard picked up the apple there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Colliani picked up the football there.
+5 Burnhard gave the apple to Conn.
+6 How many objects is Burnhard carrying? 	none	2 5
+7 Conn dropped the apple.
+8 Conn took the apple there.
+9 How many objects is Conn carrying? 	one	5 7 8
+10 Conn handed the apple to Burnhard.
+11 Burnhard gave the apple to Conn.
+12 How many objects is Conn carrying? 	one	5 7 8 10 11
+13 Colliani went back to the bathroom.
+14 Colliani moved to the hallway.
+15 How many objects is Conn carrying? 	one	5 7 8 10 11
+1 Conn travelled to the bathroom.
+2 Doud went back to the bedroom.
+3 Doud went back to the hallway.
+4 Colliani got the apple there.
+5 How many objects is Colliani carrying? 	one	4
+6 Conn went to the hallway.
+7 Doud moved to the kitchen.
+8 How many objects is Colliani carrying? 	one	4
+9 Colliani put down the apple.
+10 Colliani travelled to the garden.
+11 How many objects is Colliani carrying? 	none	4 9
+12 Doud moved to the office.
+13 Conn moved to the garden.
+14 How many objects is Colliani carrying? 	none	4 9
+15 Colliani went to the bathroom.
+16 Burnhard journeyed to the hallway.
+17 Conn went to the office.
+18 Colliani picked up the apple there.
+19 How many objects is Colliani carrying? 	one	4 9 18
+1 Burnhard went to the hallway.
+2 Colliani went to the garden.
+3 Colliani moved to the hallway.
+4 Colliani went back to the bathroom.
+5 Colliani got the apple there.
+6 Conn went to the bathroom.
+7 How many objects is Colliani carrying? 	one	5
+8 Colliani handed the apple to Conn.
+9 Conn passed the apple to Colliani.
+10 How many objects is Colliani carrying? 	one	5 8 9
+11 Conn went to the garden.
+12 Burnhard moved to the bathroom.
+13 How many objects is Conn carrying? 	none	8 9
+14 Colliani journeyed to the bedroom.
+15 Conn went back to the hallway.
+16 How many objects is Conn carrying? 	none	8 9
+17 Colliani picked up the football there.
+18 Colliani travelled to the office.
+19 How many objects is Colliani carrying? 	two	5 8 9 17
+1 Colliani moved to the garden.
+2 Burnhard grabbed the apple there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Doud travelled to the hallway.
+5 Colliani went back to the bedroom.
+6 How many objects is Burnhard carrying? 	one	2
+7 Burnhard moved to the garden.
+8 Burnhard dropped the apple.
+9 How many objects is Burnhard carrying? 	none	2 8
+10 Burnhard travelled to the bathroom.
+11 Conn moved to the kitchen.
+12 How many objects is Burnhard carrying? 	none	2 8
+13 Burnhard journeyed to the office.
+14 Colliani went back to the garden.
+15 How many objects is Burnhard carrying? 	none	2 8
+1 Burnhard went to the hallway.
+2 Doud travelled to the kitchen.
+3 Conn journeyed to the hallway.
+4 Colliani took the apple there.
+5 How many objects is Colliani carrying? 	one	4
+6 Colliani left the apple.
+7 Doud got the milk there.
+8 How many objects is Doud carrying? 	one	7
+9 Doud put down the milk.
+10 Colliani went to the bedroom.
+11 How many objects is Colliani carrying? 	none	4 6
+12 Burnhard travelled to the bedroom.
+13 Colliani grabbed the football there.
+14 How many objects is Doud carrying? 	none	7 9
+15 Colliani passed the football to Burnhard.
+16 Colliani went back to the hallway.
+17 How many objects is Colliani carrying? 	none	4 6 13 15
+1 Conn moved to the bedroom.
+2 Doud moved to the hallway.
+3 Doud went back to the kitchen.
+4 Doud journeyed to the garden.
+5 Conn went to the garden.
+6 Conn took the apple there.
+7 How many objects is Conn carrying? 	one	6
+8 Burnhard travelled to the kitchen.
+9 Burnhard travelled to the garden.
+10 How many objects is Conn carrying? 	one	6
+11 Conn passed the apple to Doud.
+12 Colliani moved to the bedroom.
+13 How many objects is Conn carrying? 	none	6 11
+14 Doud went back to the kitchen.
+15 Doud discarded the apple.
+16 How many objects is Doud carrying? 	none	11 15
+17 Colliani travelled to the hallway.
+18 Colliani went to the office.
+19 How many objects is Doud carrying? 	none	11 15
+1 Doud journeyed to the kitchen.
+2 Colliani took the apple there.
+3 How many objects is Colliani carrying? 	one	2
+4 Colliani passed the apple to Doud.
+5 Doud handed the apple to Colliani.
+6 How many objects is Doud carrying? 	none	4 5
+7 Colliani passed the apple to Doud.
+8 Doud handed the apple to Colliani.
+9 How many objects is Doud carrying? 	none	4 5 7 8
+10 Colliani handed the apple to Doud.
+11 Doud went back to the bedroom.
+12 How many objects is Doud carrying? 	one	4 5 7 8 10
+13 Doud gave the apple to Burnhard.
+14 Burnhard travelled to the office.
+15 How many objects is Doud carrying? 	none	4 5 7 8 10 13
+1 Conn went back to the hallway.
+2 Doud journeyed to the kitchen.
+3 Doud grabbed the apple there.
+4 Doud moved to the office.
+5 How many objects is Doud carrying? 	one	3
+6 Doud handed the apple to Burnhard.
+7 Burnhard passed the apple to Doud.
+8 How many objects is Burnhard carrying? 	none	6 7
+9 Colliani went back to the garden.
+10 Burnhard took the football there.
+11 How many objects is Burnhard carrying? 	one	6 7 10
+12 Conn moved to the bathroom.
+13 Doud passed the apple to Burnhard.
+14 How many objects is Doud carrying? 	none	3 6 7 13
+15 Doud picked up the milk there.
+16 Colliani moved to the kitchen.
+17 How many objects is Doud carrying? 	one	3 6 7 13 15
+1 Doud travelled to the bedroom.
+2 Colliani travelled to the garden.
+3 Doud journeyed to the bathroom.
+4 Burnhard went back to the bathroom.
+5 Burnhard moved to the hallway.
+6 Colliani moved to the office.
+7 Doud got the milk there.
+8 Burnhard went to the bedroom.
+9 How many objects is Doud carrying? 	one	7
+10 Conn went back to the bedroom.
+11 Conn got the apple there.
+12 How many objects is Conn carrying? 	one	11
+13 Conn passed the apple to Burnhard.
+14 Burnhard moved to the kitchen.
+15 How many objects is Conn carrying? 	none	11 13
+16 Doud went to the bedroom.
+17 Doud handed the milk to Conn.
+18 How many objects is Conn carrying? 	one	11 13 17
+19 Burnhard journeyed to the office.
+20 Burnhard moved to the hallway.
+21 How many objects is Doud carrying? 	none	7 17
+1 Burnhard picked up the football there.
+2 Colliani went back to the bathroom.
+3 How many objects is Burnhard carrying? 	one	1
+4 Conn journeyed to the bedroom.
+5 Conn journeyed to the kitchen.
+6 How many objects is Burnhard carrying? 	one	1
+7 Burnhard passed the football to Conn.
+8 Conn passed the football to Burnhard.
+9 How many objects is Burnhard carrying? 	one	1 7 8
+10 Colliani journeyed to the kitchen.
+11 Colliani went to the bedroom.
+12 How many objects is Burnhard carrying? 	one	1 7 8
+13 Burnhard gave the football to Conn.
+14 Conn passed the football to Burnhard.
+15 How many objects is Conn carrying? 	none	7 8 13 14
+1 Colliani took the milk there.
+2 Conn travelled to the garden.
+3 How many objects is Colliani carrying? 	one	1
+4 Burnhard journeyed to the office.
+5 Doud journeyed to the hallway.
+6 How many objects is Colliani carrying? 	one	1
+7 Colliani gave the milk to Doud.
+8 Doud passed the milk to Colliani.
+9 How many objects is Colliani carrying? 	one	1 7 8
+10 Doud went to the kitchen.
+11 Doud moved to the office.
+12 How many objects is Colliani carrying? 	one	1 7 8
+13 Burnhard went back to the garden.
+14 Doud moved to the hallway.
+15 How many objects is Doud carrying? 	none	7 8
+1 Burnhard went to the bedroom.
+2 Colliani picked up the football there.
+3 How many objects is Colliani carrying? 	one	2
+4 Colliani went back to the bathroom.
+5 Colliani put down the football there.
+6 How many objects is Colliani carrying? 	none	2 5
+7 Colliani picked up the football there.
+8 Colliani dropped the football.
+9 How many objects is Colliani carrying? 	none	2 5 7 8
+10 Doud travelled to the garden.
+11 Conn went to the office.
+12 How many objects is Colliani carrying? 	none	2 5 7 8
+13 Conn picked up the milk there.
+14 Doud went to the kitchen.
+15 How many objects is Colliani carrying? 	none	2 5 7 8
+1 Doud took the apple there.
+2 Burnhard went back to the office.
+3 How many objects is Doud carrying? 	one	1
+4 Doud put down the apple.
+5 Colliani moved to the office.
+6 How many objects is Doud carrying? 	none	1 4
+7 Conn went to the kitchen.
+8 Colliani journeyed to the garden.
+9 How many objects is Doud carrying? 	none	1 4
+10 Conn moved to the bathroom.
+11 Burnhard journeyed to the kitchen.
+12 Colliani journeyed to the hallway.
+13 Doud got the apple there.
+14 How many objects is Doud carrying? 	one	1 4 13
+15 Doud discarded the apple there.
+16 Colliani journeyed to the garden.
+17 How many objects is Doud carrying? 	none	1 4 13 15
+1 Doud went back to the garden.
+2 Burnhard journeyed to the hallway.
+3 Doud went to the office.
+4 Burnhard journeyed to the bedroom.
+5 Burnhard grabbed the football there.
+6 Doud journeyed to the kitchen.
+7 How many objects is Burnhard carrying? 	one	5
+8 Burnhard took the milk there.
+9 Burnhard dropped the milk.
+10 How many objects is Burnhard carrying? 	one	5 8 9
+11 Doud travelled to the office.
+12 Conn went to the garden.
+13 How many objects is Burnhard carrying? 	one	5 8 9
+14 Conn went back to the office.
+15 Burnhard went to the hallway.
+16 How many objects is Burnhard carrying? 	one	5 8 9
+17 Burnhard grabbed the apple there.
+18 Colliani moved to the bedroom.
+19 How many objects is Burnhard carrying? 	two	5 8 9 17
+1 Conn got the milk there.
+2 Burnhard moved to the bathroom.
+3 How many objects is Conn carrying? 	one	1
+4 Burnhard travelled to the office.
+5 Conn gave the milk to Colliani.
+6 How many objects is Conn carrying? 	none	1 5
+7 Colliani discarded the milk there.
+8 Colliani went back to the garden.
+9 How many objects is Colliani carrying? 	none	5 7
+10 Burnhard went to the kitchen.
+11 Burnhard went back to the bathroom.
+12 How many objects is Conn carrying? 	none	1 5
+13 Colliani went to the kitchen.
+14 Conn picked up the milk there.
+15 How many objects is Conn carrying? 	one	1 5 14
+1 Doud journeyed to the bedroom.
+2 Conn went back to the hallway.
+3 Doud moved to the hallway.
+4 Doud went back to the office.
+5 Doud went back to the bathroom.
+6 Burnhard went to the bedroom.
+7 Doud went to the kitchen.
+8 Conn went back to the garden.
+9 Conn journeyed to the bedroom.
+10 Colliani moved to the kitchen.
+11 Conn went back to the kitchen.
+12 Colliani travelled to the garden.
+13 Colliani moved to the kitchen.
+14 Conn went back to the garden.
+15 Colliani moved to the garden.
+16 Burnhard went back to the hallway.
+17 Burnhard travelled to the office.
+18 Burnhard took the football there.
+19 How many objects is Burnhard carrying? 	one	18
+20 Burnhard discarded the football.
+21 Colliani went to the hallway.
+22 How many objects is Burnhard carrying? 	none	18 20
+23 Burnhard picked up the apple there.
+24 Doud journeyed to the hallway.
+25 How many objects is Burnhard carrying? 	one	18 20 23
+26 Burnhard went to the kitchen.
+27 Colliani went to the office.
+28 How many objects is Burnhard carrying? 	one	18 20 23
+29 Colliani went back to the bedroom.
+30 Doud journeyed to the office.
+31 Colliani went back to the garden.
+32 Burnhard travelled to the garden.
+33 Burnhard discarded the apple there.
+34 Conn grabbed the apple there.
+35 How many objects is Conn carrying? 	one	34
+1 Colliani went back to the hallway.
+2 Doud travelled to the hallway.
+3 Burnhard went back to the office.
+4 Burnhard went back to the bedroom.
+5 Doud moved to the kitchen.
+6 Doud went to the bedroom.
+7 Conn journeyed to the kitchen.
+8 Burnhard moved to the bathroom.
+9 Burnhard went back to the bedroom.
+10 Conn travelled to the hallway.
+11 Colliani went to the garden.
+12 Conn travelled to the kitchen.
+13 Doud went back to the bathroom.
+14 Conn went to the bathroom.
+15 Conn picked up the milk there.
+16 Conn gave the milk to Doud.
+17 How many objects is Conn carrying? 	none	15 16
+18 Doud handed the milk to Conn.
+19 Colliani got the apple there.
+20 How many objects is Doud carrying? 	none	16 18
+21 Conn left the milk.
+22 Colliani discarded the apple.
+23 How many objects is Conn carrying? 	none	15 16 18 21
+24 Doud picked up the milk there.
+25 Colliani went to the kitchen.
+26 How many objects is Conn carrying? 	none	15 16 18 21
+27 Conn went back to the garden.
+28 Conn moved to the bedroom.
+29 How many objects is Doud carrying? 	one	16 18 24
+1 Burnhard grabbed the milk there.
+2 Burnhard went to the garden.
+3 How many objects is Burnhard carrying? 	one	1
+4 Burnhard handed the milk to Colliani.
+5 Colliani gave the milk to Burnhard.
+6 How many objects is Burnhard carrying? 	one	1 4 5
+7 Burnhard travelled to the bathroom.
+8 Conn went to the hallway.
+9 How many objects is Burnhard carrying? 	one	1 4 5
+10 Burnhard discarded the milk.
+11 Burnhard took the milk there.
+12 How many objects is Burnhard carrying? 	one	1 4 5 10 11
+13 Burnhard left the milk.
+14 Doud moved to the kitchen.
+15 How many objects is Burnhard carrying? 	none	1 4 5 10 11 13
+1 Doud went to the kitchen.
+2 Colliani journeyed to the garden.
+3 Burnhard went back to the kitchen.
+4 Burnhard moved to the bathroom.
+5 Conn moved to the hallway.
+6 Conn travelled to the garden.
+7 Colliani got the milk there.
+8 Doud journeyed to the garden.
+9 How many objects is Colliani carrying? 	one	7
+10 Colliani put down the milk there.
+11 Conn got the milk there.
+12 How many objects is Colliani carrying? 	none	7 10
+13 Conn gave the milk to Colliani.
+14 Burnhard journeyed to the hallway.
+15 How many objects is Conn carrying? 	none	11 13
+16 Colliani passed the milk to Doud.
+17 Doud passed the milk to Colliani.
+18 How many objects is Colliani carrying? 	one	7 10 13 16 17
+19 Conn travelled to the office.
+20 Colliani moved to the kitchen.
+21 How many objects is Doud carrying? 	none	16 17
+1 Burnhard moved to the bedroom.
+2 Doud got the football there.
+3 How many objects is Doud carrying? 	one	2
+4 Conn went back to the garden.
+5 Doud travelled to the kitchen.
+6 How many objects is Doud carrying? 	one	2
+7 Doud dropped the football.
+8 Colliani travelled to the hallway.
+9 How many objects is Doud carrying? 	none	2 7
+10 Doud went back to the garden.
+11 Doud journeyed to the hallway.
+12 How many objects is Doud carrying? 	none	2 7
+13 Conn journeyed to the bathroom.
+14 Conn grabbed the apple there.
+15 How many objects is Conn carrying? 	one	14
+1 Doud moved to the kitchen.
+2 Burnhard grabbed the apple there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Colliani went back to the hallway.
+5 Conn went back to the kitchen.
+6 How many objects is Burnhard carrying? 	one	2
+7 Burnhard went back to the office.
+8 Colliani travelled to the garden.
+9 How many objects is Burnhard carrying? 	one	2
+10 Conn journeyed to the office.
+11 Conn moved to the kitchen.
+12 Colliani went back to the bathroom.
+13 Colliani picked up the milk there.
+14 How many objects is Colliani carrying? 	one	13
+15 Colliani journeyed to the office.
+16 Burnhard left the apple.
+17 How many objects is Colliani carrying? 	one	13
+1 Colliani went back to the bedroom.
+2 Conn moved to the bedroom.
+3 Doud moved to the office.
+4 Conn moved to the office.
+5 Conn travelled to the hallway.
+6 Doud picked up the apple there.
+7 How many objects is Doud carrying? 	one	6
+8 Colliani picked up the football there.
+9 Conn went to the bedroom.
+10 How many objects is Colliani carrying? 	one	8
+11 Colliani handed the football to Conn.
+12 Conn went to the bathroom.
+13 How many objects is Colliani carrying? 	none	8 11
+14 Doud dropped the apple.
+15 Conn took the milk there.
+16 How many objects is Colliani carrying? 	none	8 11
+17 Colliani moved to the office.
+18 Colliani picked up the apple there.
+19 How many objects is Doud carrying? 	none	6 14
+1 Burnhard journeyed to the garden.
+2 Colliani journeyed to the hallway.
+3 Doud went back to the office.
+4 Conn journeyed to the hallway.
+5 Conn grabbed the milk there.
+6 Conn put down the milk.
+7 How many objects is Conn carrying? 	none	5 6
+8 Conn got the milk there.
+9 Conn travelled to the bedroom.
+10 How many objects is Conn carrying? 	one	5 6 8
+11 Doud picked up the football there.
+12 Conn went to the garden.
+13 How many objects is Conn carrying? 	one	5 6 8
+14 Conn went back to the bathroom.
+15 Colliani moved to the bathroom.
+16 How many objects is Doud carrying? 	one	11
+17 Conn grabbed the apple there.
+18 Conn gave the apple to Colliani.
+19 How many objects is Conn carrying? 	one	5 6 8 17 18
+1 Conn got the football there.
+2 Conn went to the garden.
+3 How many objects is Conn carrying? 	one	1
+4 Conn discarded the football.
+5 Doud travelled to the bathroom.
+6 How many objects is Conn carrying? 	none	1 4
+7 Burnhard journeyed to the office.
+8 Doud went back to the garden.
+9 How many objects is Conn carrying? 	none	1 4
+10 Colliani travelled to the garden.
+11 Conn picked up the football there.
+12 How many objects is Conn carrying? 	one	1 4 11
+13 Conn passed the football to Colliani.
+14 Colliani dropped the football there.
+15 How many objects is Colliani carrying? 	none	13 14
+1 Doud picked up the apple there.
+2 Burnhard went to the kitchen.
+3 How many objects is Doud carrying? 	one	1
+4 Conn grabbed the football there.
+5 Burnhard journeyed to the garden.
+6 How many objects is Doud carrying? 	one	1
+7 Doud left the apple.
+8 Burnhard went to the kitchen.
+9 How many objects is Conn carrying? 	one	4
+10 Conn discarded the football.
+11 Colliani went to the garden.
+12 How many objects is Conn carrying? 	none	4 10
+13 Doud went to the garden.
+14 Conn went to the kitchen.
+15 How many objects is Conn carrying? 	none	4 10
+1 Burnhard journeyed to the bedroom.
+2 Doud travelled to the hallway.
+3 Colliani moved to the garden.
+4 Burnhard travelled to the hallway.
+5 Conn moved to the bathroom.
+6 Doud went back to the garden.
+7 Doud got the apple there.
+8 Burnhard journeyed to the bathroom.
+9 How many objects is Doud carrying? 	one	7
+10 Conn went back to the hallway.
+11 Doud left the apple.
+12 How many objects is Doud carrying? 	none	7 11
+13 Conn moved to the office.
+14 Colliani journeyed to the bedroom.
+15 How many objects is Doud carrying? 	none	7 11
+16 Burnhard picked up the milk there.
+17 Doud got the apple there.
+18 How many objects is Doud carrying? 	one	7 11 17
+19 Doud discarded the apple.
+20 Doud grabbed the apple there.
+21 How many objects is Burnhard carrying? 	one	16
+1 Colliani went to the office.
+2 Burnhard picked up the apple there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Conn journeyed to the bedroom.
+5 Conn got the milk there.
+6 How many objects is Conn carrying? 	one	5
+7 Conn dropped the milk.
+8 Burnhard put down the apple.
+9 How many objects is Burnhard carrying? 	none	2 8
+10 Colliani journeyed to the kitchen.
+11 Burnhard picked up the milk there.
+12 How many objects is Conn carrying? 	none	5 7
+13 Burnhard gave the milk to Conn.
+14 Colliani went back to the bedroom.
+15 How many objects is Burnhard carrying? 	none	2 8 11 13
+1 Colliani picked up the milk there.
+2 Colliani handed the milk to Doud.
+3 How many objects is Colliani carrying? 	none	1 2
+4 Doud put down the milk there.
+5 Doud journeyed to the garden.
+6 How many objects is Colliani carrying? 	none	1 2
+7 Colliani went back to the bedroom.
+8 Colliani journeyed to the garden.
+9 How many objects is Colliani carrying? 	none	1 2
+10 Burnhard moved to the garden.
+11 Conn picked up the milk there.
+12 How many objects is Conn carrying? 	one	11
+13 Conn dropped the milk.
+14 Burnhard went back to the kitchen.
+15 How many objects is Conn carrying? 	none	11 13
+1 Colliani grabbed the apple there.
+2 Conn took the football there.
+3 How many objects is Colliani carrying? 	one	1
+4 Conn moved to the bathroom.
+5 Conn put down the football.
+6 How many objects is Conn carrying? 	none	2 5
+7 Burnhard moved to the hallway.
+8 Colliani handed the apple to Burnhard.
+9 How many objects is Conn carrying? 	none	2 5
+10 Burnhard journeyed to the garden.
+11 Burnhard travelled to the office.
+12 How many objects is Conn carrying? 	none	2 5
+13 Burnhard went back to the bathroom.
+14 Burnhard gave the apple to Doud.
+15 How many objects is Colliani carrying? 	none	1 8
+1 Doud travelled to the bedroom.
+2 Colliani went back to the office.
+3 Colliani picked up the football there.
+4 Conn went back to the garden.
+5 How many objects is Colliani carrying? 	one	3
+6 Burnhard moved to the kitchen.
+7 Doud got the apple there.
+8 How many objects is Colliani carrying? 	one	3
+9 Burnhard went to the bedroom.
+10 Colliani journeyed to the bedroom.
+11 How many objects is Doud carrying? 	one	7
+12 Doud handed the apple to Colliani.
+13 Colliani discarded the football.
+14 How many objects is Doud carrying? 	none	7 12
+15 Colliani moved to the garden.
+16 Colliani gave the apple to Conn.
+17 How many objects is Doud carrying? 	none	7 12
+1 Conn got the milk there.
+2 Colliani moved to the bathroom.
+3 How many objects is Conn carrying? 	one	1
+4 Doud went to the bedroom.
+5 Burnhard moved to the kitchen.
+6 How many objects is Conn carrying? 	one	1
+7 Burnhard got the football there.
+8 Colliani travelled to the bedroom.
+9 How many objects is Burnhard carrying? 	one	7
+10 Colliani went to the bathroom.
+11 Colliani went back to the hallway.
+12 How many objects is Burnhard carrying? 	one	7
+13 Burnhard moved to the bedroom.
+14 Burnhard handed the football to Doud.
+15 How many objects is Burnhard carrying? 	none	7 14
+1 Colliani grabbed the apple there.
+2 Burnhard grabbed the milk there.
+3 How many objects is Colliani carrying? 	one	1
+4 Doud got the football there.
+5 Colliani put down the apple.
+6 How many objects is Colliani carrying? 	none	1 5
+7 Colliani journeyed to the bathroom.
+8 Doud put down the football.
+9 How many objects is Doud carrying? 	none	4 8
+10 Burnhard passed the milk to Colliani.
+11 Colliani left the milk there.
+12 How many objects is Colliani carrying? 	none	1 5 10 11
+13 Burnhard got the milk there.
+14 Burnhard left the milk.
+15 How many objects is Burnhard carrying? 	none	2 10 13 14
+1 Doud moved to the garden.
+2 Conn journeyed to the hallway.
+3 Colliani picked up the football there.
+4 Colliani journeyed to the garden.
+5 How many objects is Colliani carrying? 	one	3
+6 Colliani handed the football to Doud.
+7 Doud handed the football to Colliani.
+8 How many objects is Colliani carrying? 	one	3 6 7
+9 Colliani moved to the hallway.
+10 Colliani gave the football to Conn.
+11 How many objects is Colliani carrying? 	none	3 6 7 10
+12 Burnhard went back to the kitchen.
+13 Conn passed the football to Colliani.
+14 How many objects is Doud carrying? 	none	6 7
+15 Colliani passed the football to Conn.
+16 Doud went back to the hallway.
+17 How many objects is Conn carrying? 	one	10 13 15
+1 Colliani went back to the bedroom.
+2 Colliani went to the bathroom.
+3 Doud went back to the office.
+4 Burnhard moved to the kitchen.
+5 Burnhard grabbed the football there.
+6 Conn moved to the hallway.
+7 How many objects is Burnhard carrying? 	one	5
+8 Conn moved to the garden.
+9 Burnhard dropped the football.
+10 How many objects is Burnhard carrying? 	none	5 9
+11 Conn picked up the apple there.
+12 Burnhard picked up the football there.
+13 How many objects is Burnhard carrying? 	one	5 9 12
+14 Burnhard left the football there.
+15 Doud journeyed to the bedroom.
+16 How many objects is Burnhard carrying? 	none	5 9 12 14
+17 Colliani journeyed to the office.
+18 Burnhard picked up the football there.
+19 How many objects is Burnhard carrying? 	one	5 9 12 14 18
+1 Colliani went back to the hallway.
+2 Conn went to the hallway.
+3 Doud went back to the kitchen.
+4 Colliani went to the bedroom.
+5 Conn moved to the garden.
+6 Doud got the apple there.
+7 How many objects is Doud carrying? 	one	6
+8 Doud handed the apple to Burnhard.
+9 Doud got the football there.
+10 How many objects is Doud carrying? 	one	6 8 9
+11 Burnhard handed the apple to Doud.
+12 Doud gave the apple to Burnhard.
+13 How many objects is Burnhard carrying? 	one	8 11 12
+14 Colliani went to the office.
+15 Burnhard gave the apple to Doud.
+16 How many objects is Burnhard carrying? 	none	8 11 12 15
+17 Doud gave the apple to Burnhard.
+18 Burnhard went back to the office.
+19 How many objects is Doud carrying? 	one	6 8 9 11 12 15 17
+1 Conn travelled to the hallway.
+2 Conn picked up the milk there.
+3 How many objects is Conn carrying? 	one	2
+4 Burnhard took the football there.
+5 Burnhard moved to the kitchen.
+6 How many objects is Conn carrying? 	one	2
+7 Colliani picked up the apple there.
+8 Conn handed the milk to Doud.
+9 How many objects is Conn carrying? 	none	2 8
+10 Doud handed the milk to Conn.
+11 Doud journeyed to the office.
+12 How many objects is Colliani carrying? 	one	7
+13 Colliani gave the apple to Doud.
+14 Conn travelled to the bathroom.
+15 How many objects is Colliani carrying? 	none	7 13
+1 Colliani went to the bedroom.
+2 Burnhard went to the hallway.
+3 Doud went to the hallway.
+4 Burnhard got the milk there.
+5 How many objects is Burnhard carrying? 	one	4
+6 Burnhard gave the milk to Doud.
+7 Colliani moved to the kitchen.
+8 How many objects is Burnhard carrying? 	none	4 6
+9 Burnhard picked up the football there.
+10 Burnhard passed the football to Doud.
+11 How many objects is Burnhard carrying? 	none	4 6 9 10
+12 Doud put down the milk.
+13 Doud handed the football to Burnhard.
+14 How many objects is Burnhard carrying? 	one	4 6 9 10 13
+15 Burnhard handed the football to Doud.
+16 Doud handed the football to Burnhard.
+17 How many objects is Doud carrying? 	none	6 10 12 13 15 16
+1 Doud got the milk there.
+2 Burnhard grabbed the football there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Colliani went to the hallway.
+5 Burnhard left the football there.
+6 How many objects is Burnhard carrying? 	none	2 5
+7 Doud moved to the hallway.
+8 Doud handed the milk to Colliani.
+9 How many objects is Burnhard carrying? 	none	2 5
+10 Doud moved to the bathroom.
+11 Doud moved to the hallway.
+12 How many objects is Burnhard carrying? 	none	2 5
+13 Colliani journeyed to the bedroom.
+14 Colliani handed the milk to Conn.
+15 How many objects is Colliani carrying? 	none	8 14
+1 Burnhard travelled to the bedroom.
+2 Burnhard moved to the hallway.
+3 Colliani journeyed to the bedroom.
+4 Colliani went back to the hallway.
+5 Doud moved to the kitchen.
+6 Conn went to the bathroom.
+7 Burnhard went back to the office.
+8 Conn moved to the bedroom.
+9 Burnhard grabbed the football there.
+10 Doud journeyed to the bathroom.
+11 How many objects is Burnhard carrying? 	one	9
+12 Conn travelled to the office.
+13 Colliani moved to the office.
+14 How many objects is Burnhard carrying? 	one	9
+15 Burnhard handed the football to Colliani.
+16 Conn moved to the hallway.
+17 How many objects is Burnhard carrying? 	none	9 15
+18 Conn went back to the kitchen.
+19 Colliani discarded the football.
+20 How many objects is Burnhard carrying? 	none	9 15
+21 Colliani went to the hallway.
+22 Colliani went to the bathroom.
+23 How many objects is Colliani carrying? 	none	15 19
+1 Doud took the milk there.
+2 Burnhard journeyed to the bedroom.
+3 How many objects is Doud carrying? 	one	1
+4 Doud passed the milk to Conn.
+5 Conn gave the milk to Doud.
+6 How many objects is Doud carrying? 	one	1 4 5
+7 Conn moved to the kitchen.
+8 Doud put down the milk.
+9 How many objects is Conn carrying? 	none	4 5
+10 Conn picked up the football there.
+11 Conn travelled to the office.
+12 How many objects is Conn carrying? 	one	4 5 10
+13 Conn left the football.
+14 Doud took the milk there.
+15 How many objects is Conn carrying? 	none	4 5 10 13
+1 Conn grabbed the milk there.
+2 Burnhard went back to the office.
+3 How many objects is Conn carrying? 	one	1
+4 Conn grabbed the apple there.
+5 Conn handed the apple to Burnhard.
+6 How many objects is Conn carrying? 	one	1 4 5
+7 Burnhard handed the apple to Conn.
+8 Conn passed the apple to Burnhard.
+9 How many objects is Conn carrying? 	one	1 4 5 7 8
+10 Burnhard went back to the kitchen.
+11 Burnhard handed the apple to Colliani.
+12 How many objects is Burnhard carrying? 	none	5 7 8 11
+13 Colliani dropped the apple.
+14 Conn went to the hallway.
+15 How many objects is Colliani carrying? 	none	11 13
+1 Colliani went to the bedroom.
+2 Colliani went back to the bathroom.
+3 Doud travelled to the hallway.
+4 Burnhard went back to the office.
+5 Conn went back to the garden.
+6 Conn journeyed to the office.
+7 Doud went to the bathroom.
+8 Doud travelled to the garden.
+9 Conn went back to the hallway.
+10 Burnhard grabbed the apple there.
+11 How many objects is Burnhard carrying? 	one	10
+12 Burnhard journeyed to the bathroom.
+13 Burnhard handed the apple to Colliani.
+14 How many objects is Burnhard carrying? 	none	10 13
+15 Colliani passed the apple to Burnhard.
+16 Burnhard gave the apple to Colliani.
+17 How many objects is Burnhard carrying? 	none	10 13 15 16
+18 Colliani passed the apple to Burnhard.
+19 Burnhard passed the apple to Colliani.
+20 How many objects is Burnhard carrying? 	none	10 13 15 16 18 19
+21 Colliani passed the apple to Burnhard.
+22 Burnhard gave the apple to Colliani.
+23 How many objects is Burnhard carrying? 	none	10 13 15 16 18 19 21 22
+1 Doud travelled to the kitchen.
+2 Conn went to the garden.
+3 Doud went to the bedroom.
+4 Doud journeyed to the bathroom.
+5 Burnhard went back to the hallway.
+6 Conn travelled to the bedroom.
+7 Doud got the football there.
+8 Conn got the milk there.
+9 How many objects is Doud carrying? 	one	7
+10 Conn left the milk.
+11 Burnhard grabbed the apple there.
+12 How many objects is Conn carrying? 	none	8 10
+13 Burnhard gave the apple to Colliani.
+14 Colliani handed the apple to Burnhard.
+15 How many objects is Conn carrying? 	none	8 10
+16 Doud went back to the kitchen.
+17 Doud went back to the bedroom.
+18 How many objects is Burnhard carrying? 	one	11 13 14
+19 Burnhard left the apple.
+20 Doud gave the football to Conn.
+21 How many objects is Burnhard carrying? 	none	11 13 14 19
+1 Doud got the football there.
+2 Colliani went back to the bathroom.
+3 How many objects is Doud carrying? 	one	1
+4 Burnhard got the milk there.
+5 Burnhard passed the milk to Colliani.
+6 How many objects is Burnhard carrying? 	none	4 5
+7 Colliani passed the milk to Burnhard.
+8 Burnhard passed the milk to Colliani.
+9 How many objects is Burnhard carrying? 	none	4 5 7 8
+10 Colliani passed the milk to Burnhard.
+11 Doud travelled to the hallway.
+12 How many objects is Burnhard carrying? 	one	4 5 7 8 10
+13 Doud travelled to the bathroom.
+14 Conn moved to the bedroom.
+15 How many objects is Colliani carrying? 	none	5 7 8 10
+1 Burnhard travelled to the hallway.
+2 Doud went to the office.
+3 Colliani grabbed the milk there.
+4 Colliani left the milk.
+5 How many objects is Colliani carrying? 	none	3 4
+6 Burnhard journeyed to the garden.
+7 Conn moved to the garden.
+8 How many objects is Colliani carrying? 	none	3 4
+9 Colliani journeyed to the office.
+10 Colliani took the football there.
+11 How many objects is Colliani carrying? 	one	3 4 10
+12 Colliani travelled to the hallway.
+13 Colliani moved to the bathroom.
+14 How many objects is Colliani carrying? 	one	3 4 10
+15 Conn grabbed the apple there.
+16 Conn moved to the bathroom.
+17 How many objects is Conn carrying? 	one	15
+1 Conn went to the office.
+2 Conn grabbed the apple there.
+3 How many objects is Conn carrying? 	one	2
+4 Burnhard moved to the office.
+5 Conn gave the apple to Burnhard.
+6 How many objects is Conn carrying? 	none	2 5
+7 Colliani went to the garden.
+8 Burnhard gave the apple to Conn.
+9 How many objects is Conn carrying? 	one	2 5 8
+10 Conn passed the apple to Burnhard.
+11 Conn went back to the bedroom.
+12 How many objects is Burnhard carrying? 	one	5 8 10
+13 Burnhard went back to the garden.
+14 Burnhard passed the apple to Colliani.
+15 How many objects is Burnhard carrying? 	none	5 8 10 14
+1 Burnhard took the football there.
+2 Conn travelled to the hallway.
+3 How many objects is Burnhard carrying? 	one	1
+4 Colliani grabbed the milk there.
+5 Colliani journeyed to the garden.
+6 How many objects is Burnhard carrying? 	one	1
+7 Conn grabbed the apple there.
+8 Conn passed the apple to Doud.
+9 How many objects is Conn carrying? 	none	7 8
+10 Conn went to the bathroom.
+11 Colliani went to the hallway.
+12 How many objects is Conn carrying? 	none	7 8
+13 Doud passed the apple to Colliani.
+14 Burnhard went to the bedroom.
+15 How many objects is Doud carrying? 	none	8 13
+1 Doud picked up the football there.
+2 Burnhard grabbed the apple there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Doud left the football.
+5 Doud grabbed the football there.
+6 How many objects is Doud carrying? 	one	1 4 5
+7 Burnhard passed the apple to Conn.
+8 Colliani moved to the bedroom.
+9 How many objects is Burnhard carrying? 	none	2 7
+10 Conn gave the apple to Burnhard.
+11 Colliani moved to the garden.
+12 How many objects is Doud carrying? 	one	1 4 5
+13 Burnhard went to the bathroom.
+14 Doud left the football.
+15 How many objects is Doud carrying? 	none	1 4 5 14
+1 Conn went to the bedroom.
+2 Conn got the apple there.
+3 How many objects is Conn carrying? 	one	2
+4 Conn picked up the milk there.
+5 Conn gave the apple to Burnhard.
+6 How many objects is Conn carrying? 	one	2 4 5
+7 Burnhard gave the apple to Conn.
+8 Burnhard journeyed to the bathroom.
+9 How many objects is Conn carrying? 	two	2 4 5 7
+10 Conn went to the office.
+11 Conn discarded the milk.
+12 How many objects is Conn carrying? 	one	2 4 5 7 11
+13 Conn picked up the milk there.
+14 Colliani moved to the hallway.
+15 How many objects is Conn carrying? 	two	2 4 5 7 11 13
+1 Burnhard picked up the apple there.
+2 Burnhard dropped the apple.
+3 How many objects is Burnhard carrying? 	none	1 2
+4 Burnhard got the football there.
+5 Colliani journeyed to the bathroom.
+6 How many objects is Burnhard carrying? 	one	1 2 4
+7 Burnhard handed the football to Colliani.
+8 Burnhard went back to the garden.
+9 How many objects is Burnhard carrying? 	none	1 2 4 7
+10 Conn went back to the kitchen.
+11 Conn got the milk there.
+12 How many objects is Burnhard carrying? 	none	1 2 4 7
+13 Colliani got the apple there.
+14 Colliani dropped the apple.
+15 How many objects is Conn carrying? 	one	11
+1 Doud grabbed the apple there.
+2 Doud gave the apple to Colliani.
+3 How many objects is Doud carrying? 	none	1 2
+4 Colliani got the football there.
+5 Doud went back to the office.
+6 How many objects is Doud carrying? 	none	1 2
+7 Conn moved to the hallway.
+8 Burnhard moved to the garden.
+9 How many objects is Colliani carrying? 	two	2 4
+10 Conn went back to the kitchen.
+11 Conn journeyed to the hallway.
+12 Conn went to the kitchen.
+13 Colliani went to the garden.
+14 Colliani gave the apple to Burnhard.
+15 Burnhard handed the apple to Colliani.
+16 How many objects is Colliani carrying? 	two	2 4 14 15
+17 Burnhard went back to the bathroom.
+18 Colliani went to the bathroom.
+19 How many objects is Burnhard carrying? 	none	14 15
+1 Doud got the football there.
+2 Burnhard went back to the garden.
+3 How many objects is Doud carrying? 	one	1
+4 Doud dropped the football there.
+5 Conn moved to the bedroom.
+6 How many objects is Doud carrying? 	none	1 4
+7 Doud went back to the hallway.
+8 Conn picked up the apple there.
+9 How many objects is Doud carrying? 	none	1 4
+10 Burnhard moved to the office.
+11 Burnhard went to the bedroom.
+12 How many objects is Conn carrying? 	one	8
+13 Conn passed the apple to Burnhard.
+14 Burnhard handed the apple to Conn.
+15 How many objects is Burnhard carrying? 	none	13 14
+1 Doud took the milk there.
+2 Conn picked up the apple there.
+3 How many objects is Doud carrying? 	one	1
+4 Doud travelled to the kitchen.
+5 Conn handed the apple to Doud.
+6 How many objects is Conn carrying? 	none	2 5
+7 Doud gave the apple to Burnhard.
+8 Burnhard dropped the apple.
+9 How many objects is Burnhard carrying? 	none	7 8
+10 Doud put down the milk.
+11 Conn went to the bedroom.
+12 How many objects is Doud carrying? 	none	1 5 7 10
+13 Burnhard got the milk there.
+14 Doud journeyed to the garden.
+15 How many objects is Burnhard carrying? 	one	7 8 13
+1 Burnhard moved to the bathroom.
+2 Burnhard moved to the office.
+3 Conn journeyed to the bathroom.
+4 Conn moved to the hallway.
+5 Conn got the milk there.
+6 Colliani took the apple there.
+7 How many objects is Colliani carrying? 	one	6
+8 Doud went to the office.
+9 Colliani moved to the bathroom.
+10 How many objects is Conn carrying? 	one	5
+11 Doud went back to the hallway.
+12 Doud went back to the office.
+13 How many objects is Colliani carrying? 	one	6
+14 Doud went back to the garden.
+15 Conn discarded the milk.
+16 How many objects is Conn carrying? 	none	5 15
+17 Doud went to the office.
+18 Colliani discarded the apple.
+19 How many objects is Colliani carrying? 	none	6 18
+1 Colliani picked up the apple there.
+2 Colliani journeyed to the bathroom.
+3 How many objects is Colliani carrying? 	one	1
+4 Conn went to the office.
+5 Doud journeyed to the garden.
+6 How many objects is Colliani carrying? 	one	1
+7 Conn went back to the bathroom.
+8 Burnhard moved to the hallway.
+9 Doud took the football there.
+10 Doud went to the office.
+11 How many objects is Doud carrying? 	one	9
+12 Colliani gave the apple to Conn.
+13 Colliani went back to the bedroom.
+14 How many objects is Doud carrying? 	one	9
+15 Doud left the football.
+16 Doud got the milk there.
+17 How many objects is Doud carrying? 	one	9 15 16
+1 Burnhard went back to the office.
+2 Conn travelled to the garden.
+3 Conn journeyed to the hallway.
+4 Doud moved to the garden.
+5 Burnhard went back to the bathroom.
+6 Burnhard grabbed the milk there.
+7 How many objects is Burnhard carrying? 	one	6
+8 Burnhard travelled to the office.
+9 Burnhard handed the milk to Colliani.
+10 How many objects is Burnhard carrying? 	none	6 9
+11 Colliani passed the milk to Burnhard.
+12 Doud went back to the bathroom.
+13 How many objects is Burnhard carrying? 	one	6 9 11
+14 Colliani moved to the kitchen.
+15 Conn went back to the office.
+16 How many objects is Burnhard carrying? 	one	6 9 11
+17 Colliani journeyed to the hallway.
+18 Burnhard handed the milk to Conn.
+19 How many objects is Burnhard carrying? 	none	6 9 11 18
+1 Doud went to the hallway.
+2 Conn picked up the apple there.
+3 How many objects is Conn carrying? 	one	2
+4 Conn travelled to the bathroom.
+5 Conn discarded the apple.
+6 How many objects is Conn carrying? 	none	2 5
+7 Colliani travelled to the hallway.
+8 Conn got the apple there.
+9 How many objects is Conn carrying? 	one	2 5 8
+10 Doud took the milk there.
+11 Doud passed the milk to Colliani.
+12 How many objects is Conn carrying? 	one	2 5 8
+13 Colliani gave the milk to Doud.
+14 Colliani moved to the bathroom.
+15 How many objects is Doud carrying? 	one	10 11 13
+1 Colliani journeyed to the garden.
+2 Burnhard went to the garden.
+3 Doud journeyed to the office.
+4 Burnhard picked up the apple there.
+5 How many objects is Burnhard carrying? 	one	4
+6 Burnhard handed the apple to Colliani.
+7 Colliani left the apple.
+8 How many objects is Burnhard carrying? 	none	4 6
+9 Burnhard took the apple there.
+10 Burnhard gave the apple to Colliani.
+11 How many objects is Burnhard carrying? 	none	4 6 9 10
+12 Colliani journeyed to the bathroom.
+13 Colliani dropped the apple there.
+14 How many objects is Colliani carrying? 	none	6 7 10 13
+15 Colliani got the apple there.
+16 Colliani put down the apple.
+17 How many objects is Colliani carrying? 	none	6 7 10 13 15 16
+1 Burnhard went to the garden.
+2 Burnhard moved to the office.
+3 Doud travelled to the office.
+4 Colliani moved to the kitchen.
+5 Burnhard travelled to the hallway.
+6 Conn journeyed to the bedroom.
+7 Doud went to the kitchen.
+8 Conn travelled to the kitchen.
+9 Burnhard grabbed the apple there.
+10 Burnhard put down the apple.
+11 How many objects is Burnhard carrying? 	none	9 10
+12 Burnhard moved to the bedroom.
+13 Doud went to the office.
+14 How many objects is Burnhard carrying? 	none	9 10
+15 Conn moved to the hallway.
+16 Burnhard picked up the football there.
+17 How many objects is Burnhard carrying? 	one	9 10 16
+18 Doud went back to the bedroom.
+19 Burnhard passed the football to Doud.
+20 How many objects is Burnhard carrying? 	none	9 10 16 19
+21 Doud passed the football to Burnhard.
+22 Burnhard discarded the football.
+23 How many objects is Burnhard carrying? 	none	9 10 16 19 21 22
+1 Conn got the football there.
+2 Conn passed the football to Colliani.
+3 How many objects is Conn carrying? 	none	1 2
+4 Burnhard journeyed to the garden.
+5 Colliani gave the football to Conn.
+6 How many objects is Colliani carrying? 	none	2 5
+7 Doud travelled to the kitchen.
+8 Colliani went back to the bedroom.
+9 How many objects is Colliani carrying? 	none	2 5
+10 Conn discarded the football.
+11 Conn journeyed to the bathroom.
+12 How many objects is Colliani carrying? 	none	2 5
+13 Conn travelled to the garden.
+14 Burnhard went back to the bedroom.
+15 How many objects is Conn carrying? 	none	1 2 5 10
+1 Colliani went back to the garden.
+2 Colliani travelled to the bathroom.
+3 Conn took the milk there.
+4 Burnhard moved to the bathroom.
+5 How many objects is Conn carrying? 	one	3
+6 Conn left the milk.
+7 Conn journeyed to the kitchen.
+8 How many objects is Conn carrying? 	none	3 6
+9 Doud went to the bedroom.
+10 Conn went to the bathroom.
+11 How many objects is Conn carrying? 	none	3 6
+12 Burnhard travelled to the hallway.
+13 Burnhard picked up the milk there.
+14 How many objects is Burnhard carrying? 	one	13
+15 Burnhard took the apple there.
+16 Doud travelled to the garden.
+17 How many objects is Burnhard carrying? 	two	13 15
+1 Burnhard grabbed the milk there.
+2 Colliani picked up the apple there.
+3 How many objects is Burnhard carrying? 	one	1
+4 Colliani discarded the apple there.
+5 Colliani grabbed the apple there.
+6 How many objects is Colliani carrying? 	one	2 4 5
+7 Colliani passed the apple to Conn.
+8 Doud travelled to the hallway.
+9 How many objects is Colliani carrying? 	none	2 4 5 7
+10 Conn discarded the apple.
+11 Burnhard passed the milk to Doud.
+12 How many objects is Colliani carrying? 	none	2 4 5 7
+13 Conn moved to the garden.
+14 Conn went back to the office.
+15 How many objects is Burnhard carrying? 	none	1 11
+1 Burnhard moved to the kitchen.
+2 Conn picked up the apple there.
+3 How many objects is Conn carrying? 	one	2
+4 Conn dropped the apple there.
+5 Conn took the apple there.
+6 How many objects is Conn carrying? 	one	2 4 5
+7 Burnhard took the football there.
+8 Colliani picked up the milk there.
+9 How many objects is Conn carrying? 	one	2 4 5
+10 Conn put down the apple.
+11 Burnhard went to the hallway.
+12 How many objects is Conn carrying? 	none	2 4 5 10
+13 Doud travelled to the garden.
+14 Burnhard passed the football to Colliani.
+15 How many objects is Conn carrying? 	none	2 4 5 10
+1 Colliani went back to the garden.
+2 Conn took the apple there.
+3 How many objects is Conn carrying? 	one	2
+4 Conn discarded the apple.
+5 Burnhard journeyed to the bathroom.
+6 How many objects is Conn carrying? 	none	2 4
+7 Conn went back to the kitchen.
+8 Doud went back to the bathroom.
+9 How many objects is Conn carrying? 	none	2 4
+10 Burnhard picked up the apple there.
+11 Burnhard travelled to the garden.
+12 How many objects is Burnhard carrying? 	one	10
+13 Colliani journeyed to the bedroom.
+14 Burnhard left the apple.
+15 How many objects is Burnhard carrying? 	none	10 14
+1 Doud travelled to the garden.
+2 Doud went back to the bathroom.
+3 Colliani grabbed the football there.
+4 Colliani took the milk there.
+5 How many objects is Colliani carrying? 	two	3 4
+6 Doud journeyed to the hallway.
+7 Doud went back to the bathroom.
+8 How many objects is Colliani carrying? 	two	3 4
+9 Colliani put down the milk.
+10 Conn went to the kitchen.
+11 How many objects is Colliani carrying? 	one	3 4 9
+12 Colliani went back to the office.
+13 Colliani left the football.
+14 How many objects is Colliani carrying? 	none	3 4 9 13
+15 Burnhard travelled to the garden.
+16 Conn got the apple there.
+17 How many objects is Conn carrying? 	one	16
+1 Burnhard journeyed to the garden.
+2 Doud travelled to the bedroom.
+3 Colliani went to the hallway.
+4 Conn journeyed to the hallway.
+5 Conn went back to the office.
+6 Conn went to the garden.
+7 Colliani moved to the bathroom.
+8 Doud journeyed to the hallway.
+9 Conn went to the office.
+10 Conn journeyed to the bedroom.
+11 Doud journeyed to the garden.
+12 Colliani went back to the garden.
+13 Colliani went to the bedroom.
+14 Conn went back to the garden.
+15 Doud went to the kitchen.
+16 Doud went to the hallway.
+17 Doud went back to the garden.
+18 Colliani went to the garden.
+19 Doud moved to the kitchen.
+20 Conn went to the bathroom.
+21 Colliani went back to the office.
+22 Colliani travelled to the garden.
+23 Conn went to the bedroom.
+24 Doud travelled to the bathroom.
+25 Conn journeyed to the bathroom.
+26 Doud took the milk there.
+27 How many objects is Doud carrying? 	one	26
+28 Doud passed the milk to Conn.
+29 Conn passed the milk to Doud.
+30 How many objects is Doud carrying? 	one	26 28 29
+31 Doud handed the milk to Conn.
+32 Conn gave the milk to Doud.
+33 How many objects is Doud carrying? 	one	26 28 29 31 32
+34 Burnhard went to the bedroom.
+35 Conn moved to the kitchen.
+36 How many objects is Conn carrying? 	none	28 29 31 32
+37 Conn moved to the hallway.
+38 Colliani went to the office.
+39 How many objects is Conn carrying? 	none	28 29 31 32
+1 Doud got the apple there.
+2 Colliani went back to the kitchen.
+3 How many objects is Doud carrying? 	one	1
+4 Colliani moved to the garden.
+5 Doud left the apple there.
+6 How many objects is Doud carrying? 	none	1 5
+7 Colliani moved to the bathroom.
+8 Doud grabbed the apple there.
+9 How many objects is Doud carrying? 	one	1 5 8
+10 Colliani went to the garden.
+11 Doud dropped the apple.
+12 How many objects is Doud carrying? 	none	1 5 8 11
+13 Burnhard journeyed to the bedroom.
+14 Doud moved to the kitchen.
+15 How many objects is Doud carrying? 	none	1 5 8 11
+1 Doud journeyed to the hallway.
+2 Colliani took the milk there.
+3 How many objects is Colliani carrying? 	one	2
+4 Colliani passed the milk to Doud.
+5 Doud gave the milk to Colliani.
+6 How many objects is Colliani carrying? 	one	2 4 5
+7 Conn travelled to the bedroom.
+8 Doud journeyed to the bedroom.
+9 How many objects is Colliani carrying? 	one	2 4 5
+10 Colliani journeyed to the garden.
+11 Colliani left the milk.
+12 How many objects is Colliani carrying? 	none	2 4 5 11
+13 Burnhard went back to the office.
+14 Conn moved to the office.
+15 How many objects is Colliani carrying? 	none	2 4 5 11
+1 Burnhard moved to the garden.
+2 Colliani grabbed the milk there.
+3 How many objects is Colliani carrying? 	one	2
+4 Conn grabbed the apple there.
+5 Doud moved to the garden.
+6 How many objects is Colliani carrying? 	one	2
+7 Doud went back to the bathroom.
+8 Conn dropped the apple.
+9 How many objects is Conn carrying? 	none	4 8
+10 Colliani gave the milk to Conn.
+11 Conn grabbed the apple there.
+12 How many objects is Conn carrying? 	two	4 8 10 11
+13 Conn gave the apple to Colliani.
+14 Colliani handed the apple to Conn.
+15 How many objects is Colliani carrying? 	none	2 10 13 14
+1 Conn got the football there.
+2 Conn grabbed the apple there.
+3 How many objects is Conn carrying? 	two	1 2
+4 Conn discarded the apple.
+5 Conn dropped the football.
+6 How many objects is Conn carrying? 	none	1 2 4 5
+7 Conn moved to the bathroom.
+8 Burnhard moved to the garden.
+9 How many objects is Conn carrying? 	none	1 2 4 5
+10 Colliani journeyed to the garden.
+11 Colliani travelled to the kitchen.
+12 How many objects is Conn carrying? 	none	1 2 4 5
+13 Doud journeyed to the bedroom.
+14 Doud went to the bathroom.
+15 Conn went back to the garden.
+16 Burnhard went to the hallway.
+17 Colliani went back to the hallway.
+18 Colliani travelled to the garden.
+19 Colliani journeyed to the office.
+20 Doud moved to the hallway.
+21 Colliani went to the bedroom.
+22 Doud grabbed the milk there.
+23 How many objects is Doud carrying? 	one	22
+1 Doud got the milk there.
+2 Conn moved to the office.
+3 How many objects is Doud carrying? 	one	1
+4 Doud left the milk.
+5 Conn went back to the garden.
+6 How many objects is Doud carrying? 	none	1 4
+7 Doud took the milk there.
+8 Conn picked up the football there.
+9 How many objects is Conn carrying? 	one	8
+10 Conn dropped the football.
+11 Colliani journeyed to the bathroom.
+12 How many objects is Doud carrying? 	one	1 4 7
+13 Doud journeyed to the kitchen.
+14 Conn travelled to the hallway.
+15 How many objects is Conn carrying? 	none	8 10
+1 Colliani went back to the office.
+2 Burnhard got the apple there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Doud went back to the hallway.
+5 Conn got the football there.
+6 How many objects is Burnhard carrying? 	one	2
+7 Colliani journeyed to the bathroom.
+8 Colliani went back to the hallway.
+9 How many objects is Burnhard carrying? 	one	2
+10 Conn went to the bathroom.
+11 Conn discarded the football there.
+12 How many objects is Conn carrying? 	none	5 11
+13 Burnhard grabbed the milk there.
+14 Burnhard passed the apple to Conn.
+15 How many objects is Burnhard carrying? 	one	2 13 14
+1 Doud travelled to the bedroom.
+2 Conn grabbed the apple there.
+3 How many objects is Conn carrying? 	one	2
+4 Conn grabbed the football there.
+5 Conn gave the apple to Colliani.
+6 How many objects is Conn carrying? 	one	2 4 5
+7 Doud went back to the hallway.
+8 Conn put down the football.
+9 How many objects is Conn carrying? 	none	2 4 5 8
+10 Colliani put down the apple there.
+11 Burnhard went to the kitchen.
+12 How many objects is Colliani carrying? 	none	5 10
+13 Doud got the apple there.
+14 Doud handed the apple to Colliani.
+15 How many objects is Doud carrying? 	none	13 14
+1 Conn travelled to the hallway.
+2 Burnhard travelled to the bathroom.
+3 Burnhard travelled to the hallway.
+4 Colliani travelled to the bathroom.
+5 Burnhard went back to the bedroom.
+6 Conn travelled to the bedroom.
+7 Burnhard went back to the bathroom.
+8 Doud moved to the bedroom.
+9 Doud moved to the bathroom.
+10 Colliani went back to the garden.
+11 Burnhard went back to the hallway.
+12 Colliani journeyed to the bathroom.
+13 Colliani journeyed to the garden.
+14 Colliani picked up the football there.
+15 How many objects is Colliani carrying? 	one	14
+16 Burnhard journeyed to the bathroom.
+17 Colliani put down the football there.
+18 How many objects is Colliani carrying? 	none	14 17
+19 Colliani got the football there.
+20 Conn grabbed the apple there.
+21 How many objects is Colliani carrying? 	one	14 17 19
+22 Conn discarded the apple there.
+23 Conn journeyed to the hallway.
+24 How many objects is Colliani carrying? 	one	14 17 19
+25 Doud moved to the office.
+26 Colliani put down the football.
+27 How many objects is Colliani carrying? 	none	14 17 19 26
+1 Burnhard took the apple there.
+2 Burnhard discarded the apple.
+3 How many objects is Burnhard carrying? 	none	1 2
+4 Burnhard picked up the apple there.
+5 Burnhard discarded the apple.
+6 How many objects is Burnhard carrying? 	none	1 2 4 5
+7 Conn moved to the garden.
+8 Colliani went to the hallway.
+9 How many objects is Burnhard carrying? 	none	1 2 4 5
+10 Burnhard took the apple there.
+11 Burnhard left the apple.
+12 How many objects is Burnhard carrying? 	none	1 2 4 5 10 11
+13 Burnhard went back to the garden.
+14 Conn travelled to the bedroom.
+15 How many objects is Burnhard carrying? 	none	1 2 4 5 10 11
+1 Conn journeyed to the hallway.
+2 Doud went to the office.
+3 Conn went back to the garden.
+4 Conn picked up the football there.
+5 How many objects is Conn carrying? 	one	4
+6 Conn journeyed to the bathroom.
+7 Colliani got the milk there.
+8 How many objects is Conn carrying? 	one	4
+9 Conn went to the office.
+10 Colliani moved to the hallway.
+11 How many objects is Conn carrying? 	one	4
+12 Conn gave the football to Doud.
+13 Doud travelled to the bedroom.
+14 How many objects is Colliani carrying? 	one	7
+15 Colliani discarded the milk.
+16 Colliani picked up the apple there.
+17 How many objects is Colliani carrying? 	one	7 15 16
+1 Burnhard went to the hallway.
+2 Colliani grabbed the apple there.
+3 How many objects is Colliani carrying? 	one	2
+4 Colliani gave the apple to Burnhard.
+5 Burnhard handed the apple to Colliani.
+6 How many objects is Colliani carrying? 	one	2 4 5
+7 Colliani passed the apple to Burnhard.
+8 Burnhard journeyed to the bathroom.
+9 How many objects is Colliani carrying? 	none	2 4 5 7
+10 Colliani went to the office.
+11 Conn travelled to the hallway.
+12 How many objects is Colliani carrying? 	none	2 4 5 7
+13 Doud journeyed to the bathroom.
+14 Burnhard went back to the garden.
+15 Colliani journeyed to the kitchen.
+16 Burnhard left the apple.
+17 How many objects is Burnhard carrying? 	none	4 5 7 16
+1 Burnhard journeyed to the bedroom.
+2 Burnhard journeyed to the bathroom.
+3 Conn journeyed to the hallway.
+4 Doud journeyed to the bedroom.
+5 Doud went to the kitchen.
+6 Doud travelled to the bedroom.
+7 Colliani travelled to the bathroom.
+8 Doud took the milk there.
+9 How many objects is Doud carrying? 	one	8
+10 Colliani went back to the office.
+11 Doud travelled to the kitchen.
+12 How many objects is Doud carrying? 	one	8
+13 Doud dropped the milk.
+14 Doud went to the bedroom.
+15 How many objects is Doud carrying? 	none	8 13
+16 Conn journeyed to the office.
+17 Doud journeyed to the bathroom.
+18 How many objects is Doud carrying? 	none	8 13
+19 Doud journeyed to the bedroom.
+20 Burnhard went back to the kitchen.
+21 Colliani journeyed to the bedroom.
+22 Burnhard grabbed the apple there.
+23 How many objects is Burnhard carrying? 	one	22
+1 Conn moved to the bedroom.
+2 Doud took the football there.
+3 How many objects is Doud carrying? 	one	2
+4 Colliani took the milk there.
+5 Doud passed the football to Colliani.
+6 How many objects is Doud carrying? 	none	2 5
+7 Colliani discarded the football.
+8 Conn went back to the kitchen.
+9 How many objects is Doud carrying? 	none	2 5
+10 Conn picked up the football there.
+11 Conn handed the football to Colliani.
+12 How many objects is Colliani carrying? 	two	4 5 7 11
+13 Colliani gave the football to Doud.
+14 Doud handed the football to Colliani.
+15 How many objects is Conn carrying? 	none	10 11
+1 Doud journeyed to the office.
+2 Conn grabbed the milk there.
+3 How many objects is Conn carrying? 	one	2
+4 Colliani went to the hallway.
+5 Conn moved to the bedroom.
+6 How many objects is Conn carrying? 	one	2
+7 Conn gave the milk to Burnhard.
+8 Doud travelled to the garden.
+9 How many objects is Conn carrying? 	none	2 7
+10 Conn travelled to the garden.
+11 Conn travelled to the bathroom.
+12 How many objects is Conn carrying? 	none	2 7
+13 Burnhard put down the milk.
+14 Colliani moved to the bathroom.
+15 How many objects is Burnhard carrying? 	none	7 13
+1 Burnhard grabbed the football there.
+2 Colliani journeyed to the garden.
+3 How many objects is Burnhard carrying? 	one	1
+4 Conn went back to the hallway.
+5 Doud moved to the kitchen.
+6 How many objects is Burnhard carrying? 	one	1
+7 Doud picked up the apple there.
+8 Burnhard discarded the football.
+9 How many objects is Burnhard carrying? 	none	1 8
+10 Doud put down the apple.
+11 Burnhard took the football there.
+12 How many objects is Doud carrying? 	none	7 10
+13 Conn journeyed to the kitchen.
+14 Conn took the apple there.
+15 How many objects is Conn carrying? 	one	14
+1 Colliani journeyed to the office.
+2 Colliani got the football there.
+3 How many objects is Colliani carrying? 	one	2
+4 Colliani discarded the football.
+5 Colliani grabbed the football there.
+6 How many objects is Colliani carrying? 	one	2 4 5
+7 Colliani moved to the kitchen.
+8 Burnhard moved to the office.
+9 How many objects is Colliani carrying? 	one	2 4 5
+10 Conn got the apple there.
+11 Colliani discarded the football.
+12 How many objects is Colliani carrying? 	none	2 4 5 11
+13 Doud journeyed to the garden.
+14 Conn discarded the apple.
+15 How many objects is Conn carrying? 	none	10 14
+1 Burnhard travelled to the office.
+2 Colliani journeyed to the hallway.
+3 Burnhard took the football there.
+4 Conn went to the garden.
+5 How many objects is Burnhard carrying? 	one	3
+6 Colliani picked up the apple there.
+7 Burnhard passed the football to Doud.
+8 How many objects is Burnhard carrying? 	none	3 7
+9 Colliani discarded the apple there.
+10 Doud gave the football to Burnhard.
+11 How many objects is Burnhard carrying? 	one	3 7 10
+12 Colliani picked up the milk there.
+13 Burnhard left the football.
+14 How many objects is Doud carrying? 	none	7 10
+15 Doud journeyed to the kitchen.
+16 Colliani journeyed to the kitchen.
+17 How many objects is Burnhard carrying? 	none	3 7 10 13
+1 Burnhard went to the garden.
+2 Doud went to the kitchen.
+3 Burnhard moved to the hallway.
+4 Conn went to the bedroom.
+5 Colliani went to the bathroom.
+6 Doud went back to the hallway.
+7 Doud went back to the garden.
+8 Colliani moved to the garden.
+9 Colliani went back to the hallway.
+10 Burnhard journeyed to the bedroom.
+11 Doud took the milk there.
+12 Colliani moved to the office.
+13 How many objects is Doud carrying? 	one	11
+14 Burnhard went to the garden.
+15 Doud put down the milk.
+16 How many objects is Doud carrying? 	none	11 15
+17 Doud grabbed the milk there.
+18 Doud gave the milk to Burnhard.
+19 How many objects is Doud carrying? 	none	11 15 17 18
+20 Burnhard left the milk there.
+21 Conn moved to the office.
+22 How many objects is Doud carrying? 	none	11 15 17 18
+23 Conn picked up the football there.
+24 Burnhard grabbed the milk there.
+25 How many objects is Burnhard carrying? 	one	18 20 24
+1 Conn moved to the bathroom.
+2 Colliani journeyed to the hallway.
+3 Doud went to the office.
+4 Colliani grabbed the apple there.
+5 How many objects is Colliani carrying? 	one	4
+6 Colliani took the milk there.
+7 Colliani put down the apple.
+8 How many objects is Colliani carrying? 	one	4 6 7
+9 Doud grabbed the football there.
+10 Conn went to the hallway.
+11 How many objects is Colliani carrying? 	one	4 6 7
+12 Doud moved to the bedroom.
+13 Colliani grabbed the apple there.
+14 How many objects is Colliani carrying? 	two	4 6 7 13
+15 Colliani went to the office.
+16 Burnhard travelled to the garden.
+17 How many objects is Colliani carrying? 	two	4 6 7 13
+1 Doud journeyed to the bathroom.
+2 Conn travelled to the bathroom.
+3 Colliani got the football there.
+4 Colliani discarded the football.
+5 How many objects is Colliani carrying? 	none	3 4
+6 Burnhard went to the hallway.
+7 Colliani got the football there.
+8 How many objects is Colliani carrying? 	one	3 4 7
+9 Colliani grabbed the apple there.
+10 Burnhard moved to the garden.
+11 How many objects is Colliani carrying? 	two	3 4 7 9
+12 Colliani journeyed to the office.
+13 Doud moved to the hallway.
+14 How many objects is Colliani carrying? 	two	3 4 7 9
+15 Conn went back to the bedroom.
+16 Colliani went to the hallway.
+17 Doud travelled to the bathroom.
+18 Conn moved to the hallway.
+19 Burnhard moved to the bedroom.
+20 Colliani gave the apple to Conn.
+21 How many objects is Colliani carrying? 	one	3 4 7 9 20
+1 Burnhard moved to the garden.
+2 Doud moved to the garden.
+3 Doud grabbed the apple there.
+4 Burnhard took the football there.
+5 How many objects is Doud carrying? 	one	3
+6 Doud passed the apple to Burnhard.
+7 Conn travelled to the office.
+8 How many objects is Burnhard carrying? 	two	4 6
+9 Burnhard put down the apple.
+10 Burnhard discarded the football.
+11 How many objects is Burnhard carrying? 	none	4 6 9 10
+12 Burnhard grabbed the apple there.
+13 Burnhard put down the apple.
+14 How many objects is Burnhard carrying? 	none	4 6 9 10 12 13
+15 Burnhard grabbed the football there.
+16 Burnhard took the apple there.
+17 How many objects is Burnhard carrying? 	two	4 6 9 10 12 13 15 16
+1 Conn went back to the hallway.
+2 Burnhard moved to the bedroom.
+3 Colliani took the football there.
+4 Burnhard grabbed the milk there.
+5 How many objects is Colliani carrying? 	one	3
+6 Colliani handed the football to Doud.
+7 Doud left the football.
+8 How many objects is Colliani carrying? 	none	3 6
+9 Doud moved to the bathroom.
+10 Burnhard went to the garden.
+11 How many objects is Colliani carrying? 	none	3 6
+12 Conn went to the bathroom.
+13 Burnhard grabbed the football there.
+14 How many objects is Burnhard carrying? 	two	4 13
+15 Burnhard travelled to the bedroom.
+16 Doud went to the office.
+17 How many objects is Burnhard carrying? 	two	4 13
+1 Burnhard travelled to the garden.
+2 Burnhard journeyed to the hallway.
+3 Conn moved to the garden.
+4 Colliani grabbed the football there.
+5 How many objects is Colliani carrying? 	one	4
+6 Doud went to the garden.
+7 Colliani dropped the football there.
+8 How many objects is Colliani carrying? 	none	4 7
+9 Conn travelled to the kitchen.
+10 Burnhard travelled to the bathroom.
+11 How many objects is Colliani carrying? 	none	4 7
+12 Burnhard got the apple there.
+13 Burnhard dropped the apple.
+14 How many objects is Burnhard carrying? 	none	12 13
+15 Doud took the milk there.
+16 Conn went back to the hallway.
+17 How many objects is Burnhard carrying? 	none	12 13
+1 Doud travelled to the bedroom.
+2 Burnhard took the milk there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Burnhard dropped the milk there.
+5 Doud went to the kitchen.
+6 How many objects is Burnhard carrying? 	none	2 4
+7 Conn journeyed to the bathroom.
+8 Colliani moved to the office.
+9 How many objects is Burnhard carrying? 	none	2 4
+10 Burnhard went to the bathroom.
+11 Doud went back to the bathroom.
+12 Conn travelled to the kitchen.
+13 Doud got the apple there.
+14 How many objects is Doud carrying? 	one	13
+15 Burnhard went back to the hallway.
+16 Burnhard took the football there.
+17 How many objects is Burnhard carrying? 	one	2 4 16
+1 Doud went back to the bedroom.
+2 Burnhard journeyed to the office.
+3 Doud went back to the garden.
+4 Burnhard went back to the bathroom.
+5 Burnhard picked up the apple there.
+6 Conn moved to the hallway.
+7 How many objects is Burnhard carrying? 	one	5
+8 Burnhard dropped the apple.
+9 Conn went back to the kitchen.
+10 How many objects is Burnhard carrying? 	none	5 8
+11 Burnhard took the apple there.
+12 Burnhard went to the hallway.
+13 How many objects is Burnhard carrying? 	one	5 8 11
+14 Conn moved to the bathroom.
+15 Doud moved to the kitchen.
+16 How many objects is Burnhard carrying? 	one	5 8 11
+17 Burnhard put down the apple.
+18 Colliani took the apple there.
+19 How many objects is Burnhard carrying? 	none	5 8 11 17
+1 Conn moved to the bedroom.
+2 Doud went to the bathroom.
+3 Burnhard moved to the hallway.
+4 Conn went back to the kitchen.
+5 Burnhard journeyed to the bathroom.
+6 Doud went back to the hallway.
+7 Doud went back to the bedroom.
+8 Burnhard journeyed to the bedroom.
+9 Burnhard went to the hallway.
+10 Burnhard went to the bathroom.
+11 Conn moved to the bathroom.
+12 Conn travelled to the hallway.
+13 Colliani travelled to the garden.
+14 Colliani travelled to the kitchen.
+15 Conn moved to the bedroom.
+16 Doud moved to the bathroom.
+17 Burnhard journeyed to the bedroom.
+18 Conn travelled to the bathroom.
+19 Conn travelled to the garden.
+20 Burnhard went back to the bathroom.
+21 Burnhard went to the hallway.
+22 Conn got the apple there.
+23 How many objects is Conn carrying? 	one	22
+24 Burnhard went back to the office.
+25 Conn took the football there.
+26 How many objects is Conn carrying? 	two	22 25
+27 Conn took the milk there.
+28 Conn went back to the hallway.
+29 How many objects is Conn carrying? 	three	22 25 27
+30 Colliani went back to the bathroom.
+31 Burnhard went to the bedroom.
+32 How many objects is Conn carrying? 	three	22 25 27
+33 Conn journeyed to the office.
+34 Conn dropped the football.
+35 How many objects is Conn carrying? 	two	22 25 27 34
+1 Colliani grabbed the football there.
+2 Colliani handed the football to Conn.
+3 How many objects is Colliani carrying? 	none	1 2
+4 Conn handed the football to Colliani.
+5 Colliani passed the football to Conn.
+6 How many objects is Colliani carrying? 	none	1 2 4 5
+7 Conn gave the football to Colliani.
+8 Colliani handed the football to Conn.
+9 How many objects is Colliani carrying? 	none	1 2 4 5 7 8
+10 Conn passed the football to Colliani.
+11 Doud travelled to the garden.
+12 How many objects is Colliani carrying? 	one	1 2 4 5 7 8 10
+13 Colliani discarded the football.
+14 Burnhard moved to the hallway.
+15 How many objects is Conn carrying? 	none	2 4 5 7 8 10
+1 Colliani journeyed to the office.
+2 Colliani got the milk there.
+3 How many objects is Colliani carrying? 	one	2
+4 Conn grabbed the apple there.
+5 Colliani dropped the milk.
+6 How many objects is Colliani carrying? 	none	2 5
+7 Burnhard travelled to the bedroom.
+8 Conn journeyed to the bathroom.
+9 How many objects is Colliani carrying? 	none	2 5
+10 Burnhard went to the garden.
+11 Colliani took the milk there.
+12 How many objects is Colliani carrying? 	one	2 5 11
+13 Colliani discarded the milk.
+14 Conn put down the apple.
+15 How many objects is Colliani carrying? 	none	2 5 11 13
+1 Burnhard went to the hallway.
+2 Doud journeyed to the kitchen.
+3 Conn journeyed to the bathroom.
+4 Burnhard went back to the office.
+5 Doud got the football there.
+6 Doud dropped the football.
+7 How many objects is Doud carrying? 	none	5 6
+8 Conn journeyed to the office.
+9 Burnhard grabbed the milk there.
+10 How many objects is Burnhard carrying? 	one	9
+11 Doud got the football there.
+12 Burnhard passed the milk to Conn.
+13 How many objects is Doud carrying? 	one	5 6 11
+14 Conn handed the milk to Burnhard.
+15 Burnhard gave the milk to Conn.
+16 How many objects is Conn carrying? 	one	12 14 15
+17 Conn gave the milk to Burnhard.
+18 Colliani went back to the office.
+19 How many objects is Conn carrying? 	none	12 14 15 17
+1 Burnhard moved to the garden.
+2 Conn grabbed the football there.
+3 How many objects is Conn carrying? 	one	2
+4 Conn journeyed to the garden.
+5 Conn handed the football to Burnhard.
+6 How many objects is Conn carrying? 	none	2 5
+7 Burnhard passed the football to Conn.
+8 Conn gave the football to Burnhard.
+9 How many objects is Burnhard carrying? 	one	5 7 8
+10 Colliani went to the garden.
+11 Burnhard passed the football to Colliani.
+12 How many objects is Burnhard carrying? 	none	5 7 8 11
+13 Burnhard journeyed to the kitchen.
+14 Colliani handed the football to Conn.
+15 How many objects is Conn carrying? 	one	2 5 7 8 14
+1 Doud took the apple there.
+2 Doud passed the apple to Burnhard.
+3 How many objects is Doud carrying? 	none	1 2
+4 Burnhard went to the garden.
+5 Colliani went back to the bathroom.
+6 How many objects is Doud carrying? 	none	1 2
+7 Colliani moved to the hallway.
+8 Colliani moved to the kitchen.
+9 How many objects is Doud carrying? 	none	1 2
+10 Colliani went to the garden.
+11 Doud travelled to the kitchen.
+12 Burnhard handed the apple to Colliani.
+13 Colliani handed the apple to Burnhard.
+14 How many objects is Colliani carrying? 	none	12 13
+15 Doud got the football there.
+16 Burnhard handed the apple to Colliani.
+17 How many objects is Burnhard carrying? 	none	2 12 13 16
+1 Doud went to the bedroom.
+2 Colliani travelled to the office.
+3 Conn went back to the garden.
+4 Colliani picked up the milk there.
+5 How many objects is Colliani carrying? 	one	4
+6 Colliani travelled to the bedroom.
+7 Colliani handed the milk to Doud.
+8 How many objects is Colliani carrying? 	none	4 7
+9 Conn moved to the kitchen.
+10 Burnhard travelled to the garden.
+11 How many objects is Colliani carrying? 	none	4 7
+12 Doud passed the milk to Colliani.
+13 Colliani handed the milk to Doud.
+14 How many objects is Colliani carrying? 	none	4 7 12 13
+15 Doud handed the milk to Colliani.
+16 Burnhard picked up the apple there.
+17 How many objects is Burnhard carrying? 	one	16
+1 Conn travelled to the bathroom.
+2 Doud picked up the milk there.
+3 How many objects is Doud carrying? 	one	2
+4 Colliani went back to the bathroom.
+5 Conn journeyed to the office.
+6 How many objects is Doud carrying? 	one	2
+7 Conn grabbed the apple there.
+8 Conn went to the kitchen.
+9 How many objects is Conn carrying? 	one	7
+10 Doud left the milk.
+11 Colliani went back to the kitchen.
+12 How many objects is Conn carrying? 	one	7
+13 Doud went back to the office.
+14 Conn discarded the apple.
+15 How many objects is Doud carrying? 	none	2 10
+1 Colliani got the milk there.
+2 Colliani passed the milk to Burnhard.
+3 How many objects is Colliani carrying? 	none	1 2
+4 Doud went to the bedroom.
+5 Burnhard handed the milk to Colliani.
+6 How many objects is Colliani carrying? 	one	1 2 5
+7 Colliani handed the milk to Burnhard.
+8 Conn moved to the bathroom.
+9 How many objects is Colliani carrying? 	none	1 2 5 7
+10 Burnhard gave the milk to Colliani.
+11 Colliani left the milk.
+12 How many objects is Colliani carrying? 	none	1 2 5 7 10 11
+13 Doud went to the office.
+14 Burnhard went back to the kitchen.
+15 How many objects is Burnhard carrying? 	none	2 5 7 10
+1 Conn grabbed the milk there.
+2 Colliani moved to the bedroom.
+3 How many objects is Conn carrying? 	one	1
+4 Burnhard travelled to the bedroom.
+5 Doud took the apple there.
+6 How many objects is Doud carrying? 	one	5
+7 Burnhard travelled to the bathroom.
+8 Conn went to the bathroom.
+9 How many objects is Doud carrying? 	one	5
+10 Conn put down the milk there.
+11 Conn journeyed to the bedroom.
+12 How many objects is Conn carrying? 	none	1 10
+13 Burnhard picked up the football there.
+14 Doud travelled to the office.
+15 How many objects is Conn carrying? 	none	1 10
+1 Colliani journeyed to the kitchen.
+2 Doud got the football there.
+3 How many objects is Doud carrying? 	one	2
+4 Colliani travelled to the hallway.
+5 Conn journeyed to the bathroom.
+6 How many objects is Doud carrying? 	one	2
+7 Doud left the football.
+8 Conn travelled to the garden.
+9 How many objects is Doud carrying? 	none	2 7
+10 Burnhard went to the bathroom.
+11 Colliani travelled to the kitchen.
+12 How many objects is Doud carrying? 	none	2 7
+13 Conn journeyed to the office.
+14 Colliani moved to the office.
+15 Burnhard went back to the garden.
+16 Doud got the football there.
+17 How many objects is Doud carrying? 	one	2 7 16
+1 Doud got the football there.
+2 Colliani grabbed the milk there.
+3 How many objects is Colliani carrying? 	one	2
+4 Conn travelled to the hallway.
+5 Colliani dropped the milk there.
+6 How many objects is Doud carrying? 	one	1
+7 Colliani went back to the bathroom.
+8 Burnhard went to the kitchen.
+9 How many objects is Colliani carrying? 	none	2 5
+10 Burnhard took the apple there.
+11 Burnhard moved to the garden.
+12 How many objects is Burnhard carrying? 	one	10
+13 Conn travelled to the bedroom.
+14 Doud gave the football to Conn.
+15 How many objects is Doud carrying? 	none	1 14
+1 Conn went back to the garden.
+2 Colliani travelled to the bedroom.
+3 Burnhard journeyed to the garden.
+4 Burnhard picked up the milk there.
+5 How many objects is Burnhard carrying? 	one	4
+6 Colliani moved to the kitchen.
+7 Burnhard gave the milk to Doud.
+8 How many objects is Burnhard carrying? 	none	4 7
+9 Doud gave the milk to Burnhard.
+10 Conn moved to the bathroom.
+11 How many objects is Burnhard carrying? 	one	4 7 9
+12 Burnhard handed the milk to Doud.
+13 Doud passed the milk to Burnhard.
+14 How many objects is Doud carrying? 	none	7 9 12 13
+15 Burnhard dropped the milk.
+16 Conn moved to the kitchen.
+17 How many objects is Doud carrying? 	none	7 9 12 13
+1 Colliani went to the office.
+2 Colliani got the milk there.
+3 How many objects is Colliani carrying? 	one	2
+4 Doud grabbed the football there.
+5 Doud gave the football to Conn.
+6 How many objects is Colliani carrying? 	one	2
+7 Conn went back to the kitchen.
+8 Burnhard went to the bathroom.
+9 How many objects is Doud carrying? 	none	4 5
+10 Burnhard travelled to the kitchen.
+11 Conn journeyed to the bedroom.
+12 How many objects is Doud carrying? 	none	4 5
+13 Burnhard moved to the hallway.
+14 Conn went back to the bathroom.
+15 Colliani went back to the bathroom.
+16 Colliani dropped the milk.
+17 How many objects is Colliani carrying? 	none	2 16
+1 Burnhard travelled to the bedroom.
+2 Doud travelled to the office.
+3 Colliani picked up the milk there.
+4 Colliani gave the milk to Doud.
+5 How many objects is Colliani carrying? 	none	3 4
+6 Burnhard went back to the kitchen.
+7 Doud discarded the milk.
+8 How many objects is Colliani carrying? 	none	3 4
+9 Doud took the milk there.
+10 Doud gave the milk to Colliani.
+11 How many objects is Doud carrying? 	none	4 7 9 10
+12 Conn went to the kitchen.
+13 Colliani gave the milk to Doud.
+14 How many objects is Doud carrying? 	one	4 7 9 10 13
+15 Doud handed the milk to Colliani.
+16 Colliani went back to the garden.
+17 How many objects is Doud carrying? 	none	4 7 9 10 13 15
+1 Conn went to the kitchen.
+2 Burnhard moved to the garden.
+3 Doud journeyed to the garden.
+4 Colliani went to the office.
+5 Conn went back to the bedroom.
+6 Burnhard picked up the milk there.
+7 How many objects is Burnhard carrying? 	one	6
+8 Burnhard passed the milk to Doud.
+9 Burnhard journeyed to the bathroom.
+10 How many objects is Burnhard carrying? 	none	6 8
+11 Conn travelled to the office.
+12 Burnhard journeyed to the office.
+13 How many objects is Burnhard carrying? 	none	6 8
+14 Burnhard travelled to the kitchen.
+15 Colliani took the football there.
+16 How many objects is Colliani carrying? 	one	15
+17 Colliani handed the football to Conn.
+18 Doud left the milk there.
+19 How many objects is Colliani carrying? 	none	15 17
+1 Conn moved to the hallway.
+2 Conn went back to the bedroom.
+3 Conn journeyed to the garden.
+4 Colliani travelled to the hallway.
+5 Burnhard went back to the garden.
+6 Colliani went to the office.
+7 Colliani got the football there.
+8 Conn went to the hallway.
+9 How many objects is Colliani carrying? 	one	7
+10 Conn took the apple there.
+11 Conn picked up the milk there.
+12 How many objects is Conn carrying? 	two	10 11
+13 Burnhard journeyed to the kitchen.
+14 Conn discarded the milk.
+15 How many objects is Conn carrying? 	one	10 11 14
+16 Burnhard travelled to the hallway.
+17 Burnhard travelled to the garden.
+18 How many objects is Conn carrying? 	one	10 11 14
+19 Burnhard moved to the kitchen.
+20 Burnhard went back to the bathroom.
+21 How many objects is Conn carrying? 	one	10 11 14
+1 Colliani took the football there.
+2 Doud went to the kitchen.
+3 How many objects is Colliani carrying? 	one	1
+4 Conn moved to the bedroom.
+5 Conn moved to the garden.
+6 How many objects is Colliani carrying? 	one	1
+7 Conn grabbed the milk there.
+8 Colliani gave the football to Burnhard.
+9 How many objects is Colliani carrying? 	none	1 8
+10 Conn left the milk.
+11 Burnhard put down the football there.
+12 How many objects is Colliani carrying? 	none	1 8
+13 Colliani journeyed to the bedroom.
+14 Conn picked up the milk there.
+15 How many objects is Colliani carrying? 	none	1 8
+1 Burnhard grabbed the milk there.
+2 Burnhard put down the milk.
+3 How many objects is Burnhard carrying? 	none	1 2
+4 Conn moved to the garden.
+5 Doud grabbed the football there.
+6 How many objects is Burnhard carrying? 	none	1 2
+7 Doud dropped the football.
+8 Doud took the football there.
+9 How many objects is Doud carrying? 	one	5 7 8
+10 Doud journeyed to the bathroom.
+11 Burnhard journeyed to the hallway.
+12 How many objects is Doud carrying? 	one	5 7 8
+13 Doud put down the football.
+14 Doud picked up the football there.
+15 How many objects is Doud carrying? 	one	5 7 8 13 14
+1 Burnhard got the football there.
+2 Colliani picked up the apple there.
+3 How many objects is Colliani carrying? 	one	2
+4 Burnhard dropped the football there.
+5 Burnhard went to the bedroom.
+6 How many objects is Colliani carrying? 	one	2
+7 Colliani gave the apple to Burnhard.
+8 Burnhard put down the apple.
+9 How many objects is Burnhard carrying? 	none	1 4 7 8
+10 Doud went to the kitchen.
+11 Burnhard went back to the office.
+12 How many objects is Colliani carrying? 	none	2 7
+13 Doud grabbed the milk there.
+14 Doud left the milk there.
+15 How many objects is Doud carrying? 	none	13 14
+1 Colliani travelled to the bathroom.
+2 Doud got the milk there.
+3 How many objects is Doud carrying? 	one	2
+4 Burnhard took the football there.
+5 Conn journeyed to the office.
+6 How many objects is Doud carrying? 	one	2
+7 Burnhard moved to the garden.
+8 Burnhard went back to the kitchen.
+9 How many objects is Doud carrying? 	one	2
+10 Doud dropped the milk.
+11 Burnhard handed the football to Doud.
+12 How many objects is Burnhard carrying? 	none	4 11
+13 Doud gave the football to Burnhard.
+14 Doud travelled to the garden.
+15 How many objects is Doud carrying? 	none	2 10 11 13
+1 Colliani moved to the bathroom.
+2 Colliani travelled to the hallway.
+3 Colliani went to the bedroom.
+4 Conn journeyed to the kitchen.
+5 Burnhard took the football there.
+6 Burnhard journeyed to the kitchen.
+7 How many objects is Burnhard carrying? 	one	5
+8 Burnhard went to the bedroom.
+9 Burnhard handed the football to Colliani.
+10 How many objects is Burnhard carrying? 	none	5 9
+11 Colliani handed the football to Doud.
+12 Doud gave the football to Colliani.
+13 How many objects is Colliani carrying? 	one	9 11 12
+14 Conn went back to the office.
+15 Colliani passed the football to Doud.
+16 How many objects is Doud carrying? 	one	11 12 15
+17 Doud handed the football to Colliani.
+18 Colliani passed the football to Doud.
+19 How many objects is Doud carrying? 	one	11 12 15 17 18
+1 Colliani went back to the bathroom.
+2 Colliani went back to the hallway.
+3 Doud moved to the hallway.
+4 Conn went back to the bathroom.
+5 Colliani grabbed the football there.
+6 Doud went to the bathroom.
+7 How many objects is Colliani carrying? 	one	5
+8 Colliani discarded the football there.
+9 Burnhard travelled to the garden.
+10 How many objects is Colliani carrying? 	none	5 8
+11 Colliani took the football there.
+12 Burnhard went back to the bedroom.
+13 How many objects is Colliani carrying? 	one	5 8 11
+14 Doud journeyed to the office.
+15 Conn went back to the bedroom.
+16 How many objects is Colliani carrying? 	one	5 8 11
+17 Colliani left the football.
+18 Burnhard went back to the bathroom.
+19 How many objects is Colliani carrying? 	none	5 8 11 17
+1 Doud grabbed the milk there.
+2 Doud handed the milk to Conn.
+3 How many objects is Doud carrying? 	none	1 2
+4 Doud went back to the bedroom.
+5 Doud journeyed to the kitchen.
+6 How many objects is Doud carrying? 	none	1 2
+7 Doud moved to the bathroom.
+8 Conn dropped the milk.
+9 How many objects is Conn carrying? 	none	2 8
+10 Burnhard moved to the office.
+11 Conn grabbed the milk there.
+12 How many objects is Conn carrying? 	one	2 8 11
+13 Colliani went to the hallway.
+14 Conn passed the milk to Burnhard.
+15 How many objects is Conn carrying? 	none	2 8 11 14
+1 Doud journeyed to the bathroom.
+2 Burnhard grabbed the milk there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Burnhard left the milk.
+5 Doud went to the kitchen.
+6 How many objects is Burnhard carrying? 	none	2 4
+7 Colliani moved to the garden.
+8 Colliani took the football there.
+9 How many objects is Colliani carrying? 	one	8
+10 Colliani left the football there.
+11 Doud journeyed to the hallway.
+12 How many objects is Colliani carrying? 	none	8 10
+13 Conn went to the office.
+14 Conn moved to the bedroom.
+15 How many objects is Colliani carrying? 	none	8 10
+1 Conn moved to the kitchen.
+2 Colliani went to the garden.
+3 Conn journeyed to the hallway.
+4 Conn moved to the kitchen.
+5 Conn went to the hallway.
+6 Doud grabbed the football there.
+7 How many objects is Doud carrying? 	one	6
+8 Doud dropped the football there.
+9 Conn journeyed to the bedroom.
+10 How many objects is Doud carrying? 	none	6 8
+11 Burnhard journeyed to the garden.
+12 Burnhard journeyed to the hallway.
+13 How many objects is Doud carrying? 	none	6 8
+14 Conn got the apple there.
+15 Burnhard went to the bathroom.
+16 How many objects is Conn carrying? 	one	14
+17 Burnhard grabbed the milk there.
+18 Conn dropped the apple.
+19 How many objects is Conn carrying? 	none	14 18
+1 Burnhard went back to the bedroom.
+2 Conn went to the kitchen.
+3 Conn went to the bedroom.
+4 Doud went back to the hallway.
+5 Colliani went to the office.
+6 Doud moved to the bedroom.
+7 Conn moved to the office.
+8 Conn went to the garden.
+9 Burnhard travelled to the bathroom.
+10 Conn took the football there.
+11 How many objects is Conn carrying? 	one	10
+12 Burnhard travelled to the garden.
+13 Conn handed the football to Burnhard.
+14 How many objects is Conn carrying? 	none	10 13
+15 Burnhard passed the football to Conn.
+16 Conn passed the football to Burnhard.
+17 How many objects is Burnhard carrying? 	one	13 15 16
+18 Burnhard passed the football to Conn.
+19 Conn passed the football to Burnhard.
+20 How many objects is Conn carrying? 	none	10 13 15 16 18 19
+21 Burnhard handed the football to Conn.
+22 Conn handed the football to Burnhard.
+23 How many objects is Conn carrying? 	none	10 13 15 16 18 19 21 22
+1 Burnhard moved to the hallway.
+2 Conn went back to the hallway.
+3 Conn moved to the kitchen.
+4 Colliani picked up the apple there.
+5 How many objects is Colliani carrying? 	one	4
+6 Colliani handed the apple to Doud.
+7 Doud put down the apple.
+8 How many objects is Doud carrying? 	none	6 7
+9 Doud grabbed the apple there.
+10 Burnhard got the football there.
+11 How many objects is Doud carrying? 	one	6 7 9
+12 Colliani moved to the bathroom.
+13 Colliani went back to the bedroom.
+14 How many objects is Doud carrying? 	one	6 7 9
+15 Doud left the apple there.
+16 Burnhard left the football there.
+17 How many objects is Burnhard carrying? 	none	10 16
+1 Doud travelled to the garden.
+2 Conn journeyed to the bathroom.
+3 Conn journeyed to the garden.
+4 Colliani journeyed to the garden.
+5 Doud moved to the office.
+6 Burnhard moved to the kitchen.
+7 Doud travelled to the garden.
+8 Burnhard took the football there.
+9 How many objects is Burnhard carrying? 	one	8
+10 Doud went to the bathroom.
+11 Burnhard moved to the bathroom.
+12 How many objects is Burnhard carrying? 	one	8
+13 Burnhard moved to the garden.
+14 Burnhard passed the football to Colliani.
+15 How many objects is Burnhard carrying? 	none	8 14
+16 Colliani passed the football to Burnhard.
+17 Burnhard handed the football to Colliani.
+18 How many objects is Burnhard carrying? 	none	8 14 16 17
+19 Burnhard travelled to the kitchen.
+20 Colliani passed the football to Conn.
+21 How many objects is Burnhard carrying? 	none	8 14 16 17
+1 Conn got the football there.
+2 Burnhard moved to the hallway.
+3 How many objects is Conn carrying? 	one	1
+4 Conn travelled to the bathroom.
+5 Conn grabbed the apple there.
+6 How many objects is Conn carrying? 	two	1 5
+7 Doud moved to the bedroom.
+8 Colliani went to the bedroom.
+9 How many objects is Conn carrying? 	two	1 5
+10 Colliani journeyed to the kitchen.
+11 Conn put down the football there.
+12 How many objects is Conn carrying? 	one	1 5 11
+13 Colliani journeyed to the office.
+14 Burnhard moved to the office.
+15 How many objects is Conn carrying? 	one	1 5 11
+1 Burnhard got the milk there.
+2 Colliani went to the bathroom.
+3 How many objects is Burnhard carrying? 	one	1
+4 Burnhard discarded the milk.
+5 Burnhard got the milk there.
+6 How many objects is Burnhard carrying? 	one	1 4 5
+7 Colliani took the apple there.
+8 Burnhard put down the milk.
+9 How many objects is Burnhard carrying? 	none	1 4 5 8
+10 Burnhard grabbed the football there.
+11 Colliani handed the apple to Conn.
+12 How many objects is Colliani carrying? 	none	7 11
+13 Burnhard went back to the office.
+14 Conn gave the apple to Colliani.
+15 How many objects is Burnhard carrying? 	one	1 4 5 8 10
+1 Burnhard journeyed to the hallway.
+2 Burnhard journeyed to the garden.
+3 Burnhard went back to the kitchen.
+4 Doud went back to the kitchen.
+5 Burnhard took the apple there.
+6 Conn travelled to the hallway.
+7 How many objects is Burnhard carrying? 	one	5
+8 Burnhard passed the apple to Doud.
+9 Doud gave the apple to Burnhard.
+10 How many objects is Burnhard carrying? 	one	5 8 9
+11 Burnhard went back to the hallway.
+12 Conn went back to the kitchen.
+13 How many objects is Burnhard carrying? 	one	5 8 9
+14 Doud went back to the office.
+15 Doud moved to the kitchen.
+16 How many objects is Doud carrying? 	none	8 9
+17 Colliani travelled to the bedroom.
+18 Colliani went to the bathroom.
+19 Burnhard went to the kitchen.
+20 Burnhard gave the apple to Doud.
+21 How many objects is Burnhard carrying? 	none	5 8 9 20
+1 Doud took the milk there.
+2 Conn took the football there.
+3 How many objects is Doud carrying? 	one	1
+4 Doud left the milk.
+5 Doud grabbed the milk there.
+6 How many objects is Conn carrying? 	one	2
+7 Conn discarded the football.
+8 Colliani journeyed to the bathroom.
+9 How many objects is Conn carrying? 	none	2 7
+10 Conn got the football there.
+11 Conn went to the office.
+12 How many objects is Conn carrying? 	one	2 7 10
+13 Conn handed the football to Doud.
+14 Doud passed the football to Conn.
+15 How many objects is Conn carrying? 	one	2 7 10 13 14
+1 Conn picked up the apple there.
+2 Colliani took the milk there.
+3 How many objects is Colliani carrying? 	one	2
+4 Conn passed the apple to Doud.
+5 Doud handed the apple to Conn.
+6 How many objects is Colliani carrying? 	one	2
+7 Conn left the apple.
+8 Colliani gave the milk to Burnhard.
+9 How many objects is Colliani carrying? 	none	2 8
+10 Burnhard passed the milk to Colliani.
+11 Conn went back to the bedroom.
+12 How many objects is Burnhard carrying? 	none	8 10
+13 Burnhard moved to the garden.
+14 Colliani moved to the garden.
+15 How many objects is Burnhard carrying? 	none	8 10
+1 Burnhard picked up the apple there.
+2 Colliani went back to the bedroom.
+3 How many objects is Burnhard carrying? 	one	1
+4 Burnhard moved to the office.
+5 Doud moved to the kitchen.
+6 How many objects is Burnhard carrying? 	one	1
+7 Burnhard took the milk there.
+8 Burnhard discarded the milk.
+9 How many objects is Burnhard carrying? 	one	1 7 8
+10 Conn travelled to the bathroom.
+11 Colliani went to the hallway.
+12 How many objects is Burnhard carrying? 	one	1 7 8
+13 Colliani journeyed to the bedroom.
+14 Burnhard discarded the apple.
+15 How many objects is Burnhard carrying? 	none	1 7 8 14
+1 Colliani got the milk there.
+2 Colliani left the milk.
+3 How many objects is Colliani carrying? 	none	1 2
+4 Conn got the football there.
+5 Burnhard went back to the hallway.
+6 How many objects is Conn carrying? 	one	4
+7 Burnhard moved to the bedroom.
+8 Colliani travelled to the hallway.
+9 How many objects is Colliani carrying? 	none	1 2
+10 Conn passed the football to Burnhard.
+11 Burnhard discarded the football.
+12 How many objects is Burnhard carrying? 	none	10 11
+13 Doud journeyed to the bathroom.
+14 Doud went to the office.
+15 How many objects is Burnhard carrying? 	none	10 11
+1 Colliani took the football there.
+2 Colliani put down the football there.
+3 How many objects is Colliani carrying? 	none	1 2
+4 Conn moved to the garden.
+5 Conn picked up the football there.
+6 How many objects is Colliani carrying? 	none	1 2
+7 Conn dropped the football.
+8 Colliani went to the hallway.
+9 How many objects is Conn carrying? 	none	5 7
+10 Burnhard journeyed to the office.
+11 Colliani went back to the bedroom.
+12 How many objects is Conn carrying? 	none	5 7
+13 Colliani moved to the office.
+14 Colliani travelled to the bathroom.
+15 Burnhard journeyed to the hallway.
+16 Doud travelled to the office.
+17 Burnhard grabbed the apple there.
+18 Conn grabbed the football there.
+19 How many objects is Conn carrying? 	one	5 7 18
+1 Colliani picked up the football there.
+2 Colliani passed the football to Doud.
+3 How many objects is Colliani carrying? 	none	1 2
+4 Burnhard travelled to the hallway.
+5 Doud dropped the football there.
+6 How many objects is Doud carrying? 	none	2 5
+7 Doud took the football there.
+8 Burnhard went back to the office.
+9 How many objects is Colliani carrying? 	none	1 2
+10 Doud handed the football to Colliani.
+11 Colliani passed the football to Doud.
+12 How many objects is Colliani carrying? 	none	1 2 10 11
+13 Doud gave the football to Colliani.
+14 Colliani left the football.
+15 How many objects is Doud carrying? 	none	2 5 7 10 11 13
+1 Conn went back to the kitchen.
+2 Doud travelled to the bathroom.
+3 Colliani moved to the office.
+4 Conn travelled to the bedroom.
+5 Conn moved to the kitchen.
+6 Conn went back to the bathroom.
+7 Colliani journeyed to the hallway.
+8 Doud got the apple there.
+9 How many objects is Doud carrying? 	one	8
+10 Doud handed the apple to Conn.
+11 Burnhard journeyed to the bathroom.
+12 How many objects is Doud carrying? 	none	8 10
+13 Conn passed the apple to Doud.
+14 Doud passed the apple to Burnhard.
+15 How many objects is Conn carrying? 	none	10 13
+16 Conn moved to the kitchen.
+17 Doud went to the hallway.
+18 How many objects is Conn carrying? 	none	10 13
+19 Conn went to the garden.
+20 Colliani journeyed to the office.
+21 How many objects is Doud carrying? 	none	8 10 13 14
+1 Burnhard journeyed to the bedroom.
+2 Burnhard grabbed the football there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Burnhard passed the football to Conn.
+5 Conn handed the football to Burnhard.
+6 How many objects is Burnhard carrying? 	one	2 4 5
+7 Burnhard gave the football to Conn.
+8 Doud travelled to the bathroom.
+9 How many objects is Burnhard carrying? 	none	2 4 5 7
+10 Burnhard went to the hallway.
+11 Doud moved to the bedroom.
+12 How many objects is Burnhard carrying? 	none	2 4 5 7
+13 Conn gave the football to Doud.
+14 Conn journeyed to the office.
+15 How many objects is Conn carrying? 	none	4 5 7 13
+1 Conn travelled to the bedroom.
+2 Colliani went to the bathroom.
+3 Conn got the milk there.
+4 Colliani moved to the hallway.
+5 How many objects is Conn carrying? 	one	3
+6 Conn moved to the kitchen.
+7 Burnhard went back to the office.
+8 How many objects is Conn carrying? 	one	3
+9 Conn put down the milk.
+10 Conn went back to the garden.
+11 How many objects is Conn carrying? 	none	3 9
+12 Conn went back to the kitchen.
+13 Colliani went to the office.
+14 How many objects is Conn carrying? 	none	3 9
+15 Colliani grabbed the apple there.
+16 Colliani left the apple there.
+17 How many objects is Colliani carrying? 	none	15 16
+1 Colliani went to the bedroom.
+2 Burnhard got the milk there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Colliani moved to the kitchen.
+5 Burnhard took the football there.
+6 How many objects is Burnhard carrying? 	two	2 5
+7 Burnhard left the milk.
+8 Colliani journeyed to the garden.
+9 How many objects is Burnhard carrying? 	one	2 5 7
+10 Conn went back to the office.
+11 Conn picked up the apple there.
+12 How many objects is Burnhard carrying? 	one	2 5 7
+13 Burnhard dropped the football.
+14 Doud went back to the office.
+15 How many objects is Burnhard carrying? 	none	2 5 7 13
+1 Colliani moved to the garden.
+2 Doud took the apple there.
+3 How many objects is Doud carrying? 	one	2
+4 Colliani moved to the bedroom.
+5 Doud discarded the apple.
+6 How many objects is Doud carrying? 	none	2 5
+7 Doud took the apple there.
+8 Doud travelled to the bedroom.
+9 How many objects is Doud carrying? 	one	2 5 7
+10 Doud gave the apple to Colliani.
+11 Conn journeyed to the kitchen.
+12 How many objects is Doud carrying? 	none	2 5 7 10
+13 Doud went back to the hallway.
+14 Doud went to the bathroom.
+15 How many objects is Doud carrying? 	none	2 5 7 10
+1 Colliani travelled to the bathroom.
+2 Conn travelled to the hallway.
+3 Doud journeyed to the kitchen.
+4 Conn grabbed the football there.
+5 How many objects is Conn carrying? 	one	4
+6 Burnhard journeyed to the hallway.
+7 Conn handed the football to Burnhard.
+8 How many objects is Conn carrying? 	none	4 7
+9 Burnhard handed the football to Conn.
+10 Conn gave the football to Burnhard.
+11 How many objects is Conn carrying? 	none	4 7 9 10
+12 Burnhard gave the football to Conn.
+13 Doud went to the garden.
+14 How many objects is Conn carrying? 	one	4 7 9 10 12
+15 Conn handed the football to Burnhard.
+16 Colliani picked up the milk there.
+17 How many objects is Conn carrying? 	none	4 7 9 10 12 15
+1 Doud moved to the bathroom.
+2 Burnhard took the apple there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Burnhard discarded the apple there.
+5 Doud went to the hallway.
+6 How many objects is Burnhard carrying? 	none	2 4
+7 Doud picked up the apple there.
+8 Doud handed the apple to Burnhard.
+9 How many objects is Doud carrying? 	none	7 8
+10 Burnhard handed the apple to Doud.
+11 Doud journeyed to the office.
+12 How many objects is Burnhard carrying? 	none	2 4 8 10
+13 Conn went to the bedroom.
+14 Burnhard journeyed to the kitchen.
+15 How many objects is Burnhard carrying? 	none	2 4 8 10
+1 Doud picked up the milk there.
+2 Burnhard went back to the office.
+3 How many objects is Doud carrying? 	one	1
+4 Burnhard got the football there.
+5 Conn took the apple there.
+6 How many objects is Doud carrying? 	one	1
+7 Colliani journeyed to the hallway.
+8 Burnhard journeyed to the hallway.
+9 How many objects is Conn carrying? 	one	5
+10 Doud left the milk.
+11 Burnhard left the football.
+12 How many objects is Burnhard carrying? 	none	4 11
+13 Burnhard picked up the milk there.
+14 Burnhard dropped the milk.
+15 How many objects is Doud carrying? 	none	1 10
+1 Colliani journeyed to the bathroom.
+2 Doud journeyed to the bedroom.
+3 Conn went to the office.
+4 Doud took the apple there.
+5 How many objects is Doud carrying? 	one	4
+6 Burnhard moved to the garden.
+7 Doud left the apple.
+8 How many objects is Doud carrying? 	none	4 7
+9 Doud picked up the apple there.
+10 Colliani took the milk there.
+11 How many objects is Colliani carrying? 	one	10
+12 Colliani put down the milk.
+13 Burnhard went back to the kitchen.
+14 How many objects is Doud carrying? 	one	4 7 9
+15 Colliani travelled to the garden.
+16 Doud put down the apple.
+17 How many objects is Colliani carrying? 	none	10 12
+1 Conn went to the office.
+2 Burnhard moved to the bedroom.
+3 Colliani went back to the bedroom.
+4 Burnhard got the milk there.
+5 How many objects is Burnhard carrying? 	one	4
+6 Burnhard put down the milk.
+7 Conn journeyed to the bathroom.
+8 How many objects is Burnhard carrying? 	none	4 6
+9 Burnhard got the milk there.
+10 Burnhard passed the milk to Colliani.
+11 How many objects is Burnhard carrying? 	none	4 6 9 10
+12 Conn journeyed to the office.
+13 Doud journeyed to the bathroom.
+14 How many objects is Burnhard carrying? 	none	4 6 9 10
+15 Burnhard travelled to the office.
+16 Conn journeyed to the bedroom.
+17 How many objects is Burnhard carrying? 	none	4 6 9 10
+1 Burnhard picked up the apple there.
+2 Burnhard left the apple.
+3 How many objects is Burnhard carrying? 	none	1 2
+4 Colliani grabbed the apple there.
+5 Conn took the milk there.
+6 How many objects is Colliani carrying? 	one	4
+7 Colliani passed the apple to Burnhard.
+8 Burnhard passed the apple to Colliani.
+9 How many objects is Conn carrying? 	one	5
+10 Colliani gave the apple to Burnhard.
+11 Conn put down the milk.
+12 How many objects is Conn carrying? 	none	5 11
+13 Conn journeyed to the bedroom.
+14 Burnhard handed the apple to Colliani.
+15 How many objects is Burnhard carrying? 	none	1 2 7 8 10 14
+1 Colliani grabbed the milk there.
+2 Colliani put down the milk.
+3 How many objects is Colliani carrying? 	none	1 2
+4 Doud travelled to the bedroom.
+5 Conn journeyed to the office.
+6 How many objects is Colliani carrying? 	none	1 2
+7 Colliani went back to the hallway.
+8 Conn journeyed to the bedroom.
+9 How many objects is Colliani carrying? 	none	1 2
+10 Colliani journeyed to the kitchen.
+11 Colliani got the milk there.
+12 How many objects is Colliani carrying? 	one	1 2 11
+13 Colliani put down the milk.
+14 Conn moved to the kitchen.
+15 How many objects is Colliani carrying? 	none	1 2 11 13
+1 Conn went to the bedroom.
+2 Colliani took the football there.
+3 How many objects is Colliani carrying? 	one	2
+4 Colliani passed the football to Burnhard.
+5 Burnhard dropped the football.
+6 How many objects is Colliani carrying? 	none	2 4
+7 Colliani travelled to the hallway.
+8 Doud journeyed to the bedroom.
+9 How many objects is Colliani carrying? 	none	2 4
+10 Burnhard went to the office.
+11 Colliani picked up the milk there.
+12 How many objects is Colliani carrying? 	one	2 4 11
+13 Doud went to the kitchen.
+14 Doud travelled to the bedroom.
+15 How many objects is Colliani carrying? 	one	2 4 11
+1 Colliani travelled to the bedroom.
+2 Burnhard picked up the milk there.
+3 How many objects is Burnhard carrying? 	one	2
+4 Burnhard dropped the milk.
+5 Colliani grabbed the apple there.
+6 How many objects is Colliani carrying? 	one	5
+7 Colliani journeyed to the hallway.
+8 Colliani journeyed to the kitchen.
+9 How many objects is Colliani carrying? 	one	5
+10 Conn went back to the bedroom.
+11 Colliani travelled to the hallway.
+12 How many objects is Colliani carrying? 	one	5
+13 Colliani went to the kitchen.
+14 Colliani journeyed to the hallway.
+15 Burnhard got the milk there.
+16 Burnhard dropped the milk.
+17 How many objects is Burnhard carrying? 	none	2 4 15 16
+1 Conn moved to the office.
+2 Doud moved to the office.
+3 Burnhard picked up the apple there.
+4 Burnhard dropped the apple.
+5 How many objects is Burnhard carrying? 	none	3 4
+6 Burnhard took the apple there.
+7 Colliani went to the bedroom.
+8 How many objects is Burnhard carrying? 	one	3 4 6
+9 Burnhard moved to the hallway.
+10 Colliani got the milk there.
+11 How many objects is Burnhard carrying? 	one	3 4 6
+12 Colliani put down the milk.
+13 Burnhard put down the apple.
+14 How many objects is Colliani carrying? 	none	10 12
+15 Doud journeyed to the bathroom.
+16 Doud travelled to the kitchen.
+17 How many objects is Burnhard carrying? 	none	3 4 6 13
+1 Burnhard journeyed to the bathroom.
+2 Colliani grabbed the apple there.
+3 How many objects is Colliani carrying? 	one	2
+4 Colliani journeyed to the garden.
+5 Conn journeyed to the kitchen.
+6 How many objects is Colliani carrying? 	one	2
+7 Doud journeyed to the office.
+8 Conn travelled to the garden.
+9 How many objects is Colliani carrying? 	one	2
+10 Doud got the milk there.
+11 Colliani passed the apple to Conn.
+12 How many objects is Doud carrying? 	one	10
+13 Doud grabbed the football there.
+14 Conn gave the apple to Colliani.
+15 How many objects is Conn carrying? 	none	11 14
+1 Burnhard journeyed to the bathroom.
+2 Conn journeyed to the kitchen.
+3 Conn journeyed to the hallway.
+4 Conn got the football there.
+5 How many objects is Conn carrying? 	one	4
+6 Conn gave the football to Doud.
+7 Doud handed the football to Conn.
+8 How many objects is Conn carrying? 	one	4 6 7
+9 Conn handed the football to Doud.
+10 Doud put down the football there.
+11 How many objects is Conn carrying? 	none	4 6 7 9
+12 Colliani went back to the bathroom.
+13 Doud picked up the football there.
+14 How many objects is Doud carrying? 	one	6 7 9 10 13
+15 Burnhard got the milk there.
+16 Conn took the apple there.
+17 How many objects is Doud carrying? 	one	6 7 9 10 13
+1 Doud journeyed to the office.
+2 Colliani travelled to the hallway.
+3 Colliani went to the bathroom.
+4 Doud went back to the bathroom.
+5 Colliani grabbed the apple there.
+6 Colliani gave the apple to Doud.
+7 How many objects is Colliani carrying? 	none	5 6
+8 Doud left the apple.
+9 Conn journeyed to the office.
+10 How many objects is Colliani carrying? 	none	5 6
+11 Colliani picked up the apple there.
+12 Colliani handed the apple to Doud.
+13 How many objects is Colliani carrying? 	none	5 6 11 12
+14 Burnhard went back to the kitchen.
+15 Doud travelled to the kitchen.
+16 How many objects is Colliani carrying? 	none	5 6 11 12
+17 Doud passed the apple to Burnhard.
+18 Conn journeyed to the garden.
+19 How many objects is Doud carrying? 	none	6 8 12 17
+1 Conn went back to the bathroom.
+2 Doud journeyed to the bedroom.
+3 Colliani went back to the bedroom.
+4 Conn went to the office.
+5 Doud journeyed to the kitchen.
+6 Doud picked up the football there.
+7 How many objects is Doud carrying? 	one	6
+8 Colliani grabbed the milk there.
+9 Doud went to the bedroom.
+10 How many objects is Colliani carrying? 	one	8
+11 Doud discarded the football.
+12 Doud travelled to the bathroom.
+13 How many objects is Colliani carrying? 	one	8
+14 Doud moved to the bedroom.
+15 Colliani gave the milk to Doud.
+16 How many objects is Colliani carrying? 	none	8 15
+17 Doud passed the milk to Colliani.
+18 Colliani handed the milk to Doud.
+19 How many objects is Colliani carrying? 	none	8 15 17 18
+1 Burnhard went back to the kitchen.
+2 Doud travelled to the bedroom.
+3 Conn moved to the bedroom.
+4 Doud went back to the kitchen.
+5 Colliani travelled to the bedroom.
+6 Conn got the football there.
+7 How many objects is Conn carrying? 	one	6
+8 Conn journeyed to the kitchen.
+9 Conn handed the football to Doud.
+10 How many objects is Conn carrying? 	none	6 9
+11 Doud gave the football to Burnhard.
+12 Burnhard handed the football to Doud.
+13 How many objects is Conn carrying? 	none	6 9
+14 Conn went to the bathroom.
+15 Doud journeyed to the garden.
+16 How many objects is Doud carrying? 	one	9 11 12
+17 Doud took the milk there.
+18 Colliani journeyed to the office.
+19 How many objects is Burnhard carrying? 	none	11 12
+1 Conn went to the kitchen.
+2 Doud travelled to the hallway.
+3 Doud went back to the bedroom.
+4 Colliani journeyed to the garden.
+5 Conn picked up the apple there.
+6 Doud travelled to the garden.
+7 How many objects is Conn carrying? 	one	5
+8 Doud moved to the bedroom.
+9 Colliani journeyed to the kitchen.
+10 How many objects is Conn carrying? 	one	5
+11 Conn went to the bedroom.
+12 Conn travelled to the office.
+13 Conn put down the apple.
+14 Colliani travelled to the garden.
+15 How many objects is Conn carrying? 	none	5 13
+16 Conn journeyed to the bathroom.
+17 Doud grabbed the football there.
+18 How many objects is Doud carrying? 	one	17
+19 Doud discarded the football.
+20 Conn travelled to the hallway.
+21 How many objects is Doud carrying? 	none	17 19

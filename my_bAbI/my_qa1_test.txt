@@ -1,0 +1,96 @@
+1 John Colliani travelled to the hallway.
+2 What is music.recording.artist John Colliani ?	0l6cfl	1
+3 Daniel Conn went back to the bathroom.
+4 Where is John Colliani ?	hallway	1
+5 Sandra Burnhard travelled to the hallway.
+6 What is music.recording.artist Sandra Burnhard ?	0128nb9l or 0rn_xs	6 
+7 John Colliani went to the kitchen.
+8 Where is Daniel Conn ?	bathroom	4
+9 Mary Geneva Doud moved to the bathroom.
+10 What is Mary Geneva Doud people.sibling_relationship.sibling?	0vsr0p6	10
+11 Daniel Conn went back to the bathroom.
+12 Where is Sandra Burnhard ?	hallway	6
+13 Sandra Burnhard went to the garden.
+14 What is Sandra Burnhard music recording artist ?	0128nb9l or 0rn_xs	0
+15 John Colliani went to the garden.
+16 Where is Mary Geneva Doud ?	bathroom	10
+17 Mary Geneva Doud moved to the kitchen.
+18 What 0rn_xs rdf-schema#label ?	Mama's Getting Hot	0
+1 John Colliani travelled to the hallway.
+2 Where is John Colliani ?	hallway	1
+3 Daniel Conn went back to the bathroom.
+4 What Sandra Burnhard music recording artist ?	0rn_xs	0
+5 Sandra Burnhard moved to the kitchen.
+6 Where is Daniel Conn ?	bathroom	3
+7 Mary Geneva Doud went to the kitchen.
+8 What is Sandra Burnhard award ?	0rn_xs	0
+9 Sandra Burnhard went back to the bathroom.
+10 Where is Sandra Burnhard ?	kitchen	9
+11 John Colliani went to the bathroom.
+12 What Sandra Burnhard type instance ?	award	14
+13 Sandra Burnhard went back to the bathroom.
+14 Where is Mary Geneva Doud ?	kitchen	7
+15 Daniel Conn went back to the bathroom.
+16 What 0128nb9l rdf schema label?	Hugh	0
+17 Sandra Burnhard went back to the bathroom.
+18 Where is John Colliani ?	bathroom	11
+1 Hugh Hefner went to the bathroom.
+2 What Hugh Hefner rdf-schema label?	0128nb9l	0
+3 Sandra Burnhard went back to the bathroom.
+4 Where is Hugh Hefner ?	bathroom	1
+5 Daniel Conn went back to the bathroom.
+6 What 0rn_xs rdf-schema label?	Mama	0
+7 John Colliani travelled to the hallway.
+8 Where is Sandra Burnhard ?	batchroom	3
+4 Daniel Conn went back to the bathroom.
+6 What Sandra Burnhard music recording artist?	m 0128nb9l	2
+7 John Colliani went to the hallway.
+9 What 0rn_xs music recording artist?	Sandra Burnhard	8
+10 Sandra Burnhard travelled to the hallway.
+12 What Sandra Burnhard music recording artist?	0rn_xs	10
+14 Sandra Burnhard moved to the kitchen.
+15 What award award_winner type instance?	Sandra	14
+13 Sandra Burnhard went back to the bathroom.
+15 What Sandra Burnhard type instance?	award	14
+13 Sandra Burnhard went back to the bathroom.
+14 What 0128nb9l rdf schema label?	Hugh	0
+13 Sandra Burnhard went back to the bathroom.
+14 What Hugh Hefner rdf-schema label?	0128nb9l	0
+13 Sandra Burnhard went back to the bathroom.
+14 What 0rn_xs rdf-schema label?	Mama	0
+1 John Colliani travelled to the hallway.
+3 What 0128nb9l music recording artist?	Sandra Burnhard	1
+4 Daniel Conn went back to the bathroom.
+6 What Sandra Burnhard music recording artist?	m 0128nb9l	2
+7 John Colliani went to the hallway.
+9 What 0rn_xs music recording artist?	Sandra Burnhard	8
+10 Sandra Burnhard travelled to the hallway.
+12 What Sandra Burnhard music recording artist?	0rn_xs	10
+14 Sandra Burnhard moved to the kitchen.
+15 What award award_winner type instance?	Sandra	14
+13 Sandra Burnhard went back to the bathroom.
+15 What Sandra Burnhard type instance?	award	14
+13 Sandra Burnhard went back to the bathroom.
+14 What 0128nb9l rdf schema label?	Hugh	0
+13 Sandra Burnhard went back to the bathroom.
+14 What Hugh Hefner rdf-schema label?	0128nb9l	0
+13 Sandra Burnhard went back to the bathroom.
+14 What 0rn_xs rdf-schema label?	Mama	0
+1 John Colliani travelled to the hallway.
+3 What 0128nb9l music recording artist?	Sandra Burnhard	1
+4 Daniel Conn went back to the bathroom.
+6 What Sandra Burnhard music recording artist?	m 0128nb9l	2
+7 John Colliani went to the hallway.
+9 What 0rn_xs music recording artist?	Sandra Burnhard	8
+10 Sandra Burnhard travelled to the hallway.
+12 What Sandra Burnhard music recording artist?	0rn_xs	10
+14 Sandra Burnhard moved to the kitchen.
+15 What award award_winner type instance?	Sandra	14
+13 Sandra Burnhard went back to the bathroom.
+15 What Sandra Burnhard type instance?	award	14
+13 Sandra Burnhard went back to the bathroom.
+14 What 0128nb9l rdf schema label?	Hugh	0
+13 Sandra Burnhard went back to the bathroom.
+14 What Hugh Hefner rdf-schema label?	0128nb9l	0
+13 Sandra Burnhard went back to the bathroom.
+14 What 0rn_xs rdf-schema label?	Mama	0

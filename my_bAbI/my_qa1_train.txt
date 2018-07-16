@@ -1,0 +1,3000 @@
+1 Mary Geneva Doud moved to the bathroom.
+2 John Colliani went to the hallway.
+3 Where is Mary Geneva Doud? 	bathroom	1
+4 Daniel Conn went back to the hallway.
+5 Sandra Burnhard moved to the garden.
+6 Where is Daniel Conn? 	hallway	4
+7 John Colliani moved to the office.
+8 Sandra Burnhard journeyed to the bathroom.
+9 Where is Daniel Conn? 	hallway	4
+10 Mary Geneva Doud moved to the hallway.
+11 Daniel Conn travelled to the office.
+12 Where is Daniel Conn? 	office	11
+13 John Colliani went back to the garden.
+14 John Colliani moved to the bedroom.
+15 Where is Sandra Burnhard? 	bathroom	8
+1 Sandra Burnhard travelled to the office.
+2 Sandra Burnhard went to the bathroom.
+3 Where is Sandra Burnhard? 	bathroom	2
+4 Mary Geneva Doud went to the bedroom.
+5 Daniel Conn moved to the hallway.
+6 Where is Sandra Burnhard? 	bathroom	2
+7 John Colliani went to the garden.
+8 John Colliani travelled to the office.
+9 Where is Sandra Burnhard? 	bathroom	2
+10 Daniel Conn journeyed to the bedroom.
+11 Daniel Conn travelled to the hallway.
+12 Where is John Colliani? 	office	8
+13 John Colliani went to the bedroom.
+14 John Colliani travelled to the office.
+15 Where is Daniel Conn? 	hallway	11
+1 Mary Geneva Doud went to the bedroom.
+2 John Colliani journeyed to the bathroom.
+3 Where is John Colliani? 	bathroom	2
+4 Sandra Burnhard journeyed to the hallway.
+5 John Colliani journeyed to the garden.
+6 Where is Mary Geneva Doud? 	bedroom	1
+7 John Colliani journeyed to the bathroom.
+8 Sandra Burnhard journeyed to the garden.
+9 Where is John Colliani? 	bathroom	7
+10 Sandra Burnhard went back to the bedroom.
+11 Daniel Conn travelled to the bathroom.
+12 Where is John Colliani? 	bathroom	7
+13 John Colliani went to the office.
+14 Mary Geneva Doud moved to the office.
+15 Where is Sandra Burnhard? 	bedroom	10
+1 Daniel Conn journeyed to the kitchen.
+2 Daniel Conn journeyed to the bedroom.
+3 Where is Daniel Conn? 	bedroom	2
+4 Sandra Burnhard moved to the garden.
+5 Sandra Burnhard went back to the kitchen.
+6 Where is Sandra Burnhard? 	kitchen	5
+7 Daniel Conn travelled to the office.
+8 Sandra Burnhard went back to the hallway.
+9 Where is Sandra Burnhard? 	hallway	8
+10 Daniel Conn journeyed to the hallway.
+11 Daniel Conn went to the bathroom.
+12 Where is Sandra Burnhard? 	hallway	8
+13 John Colliani travelled to the garden.
+14 Daniel Conn moved to the hallway.
+15 Where is Daniel Conn? 	hallway	14
+1 Mary Geneva Doud moved to the garden.
+2 John Colliani journeyed to the bathroom.
+3 Where is John Colliani? 	bathroom	2
+4 Sandra Burnhard moved to the office.
+5 John Colliani moved to the kitchen.
+6 Where is Mary Geneva Doud? 	garden	1
+7 Sandra Burnhard went to the hallway.
+8 Mary Geneva Doud travelled to the bedroom.
+9 Where is John Colliani? 	kitchen	5
+10 Mary Geneva Doud moved to the office.
+11 John Colliani moved to the garden.
+12 Where is Sandra Burnhard? 	hallway	7
+13 John Colliani journeyed to the office.
+14 Sandra Burnhard went to the office.
+15 Where is John Colliani? 	office	13
+1 Mary Geneva Doud moved to the garden.
+2 Daniel Conn journeyed to the bathroom.
+3 Where is Daniel Conn? 	bathroom	2
+4 John Colliani travelled to the kitchen.
+5 John Colliani went back to the bedroom.
+6 Where is John Colliani? 	bedroom	5
+7 John Colliani moved to the office.
+8 Daniel Conn went back to the garden.
+9 Where is Daniel Conn? 	garden	8
+10 John Colliani went back to the hallway.
+11 Mary Geneva Doud went to the office.
+12 Where is John Colliani? 	hallway	10
+13 Sandra Burnhard travelled to the bedroom.
+14 John Colliani travelled to the garden.
+15 Where is Daniel Conn? 	garden	8
+1 John Colliani moved to the bedroom.
+2 Mary Geneva Doud moved to the hallway.
+3 Where is Mary Geneva Doud? 	hallway	2
+4 Sandra Burnhard moved to the bedroom.
+5 Sandra Burnhard travelled to the kitchen.
+6 Where is Sandra Burnhard? 	kitchen	5
+7 Daniel Conn journeyed to the bathroom.
+8 Sandra Burnhard moved to the bathroom.
+9 Where is Daniel Conn? 	bathroom	7
+10 Daniel Conn went back to the garden.
+11 John Colliani moved to the kitchen.
+12 Where is John Colliani? 	kitchen	11
+13 Daniel Conn journeyed to the kitchen.
+14 Daniel Conn journeyed to the garden.
+15 Where is Daniel Conn? 	garden	14
+1 Mary Geneva Doud went to the kitchen.
+2 John Colliani went back to the bedroom.
+3 Where is Mary Geneva Doud? 	kitchen	1
+4 Mary Geneva Doud went back to the bathroom.
+5 Mary Geneva Doud moved to the hallway.
+6 Where is John Colliani? 	bedroom	2
+7 John Colliani went to the kitchen.
+8 Daniel Conn travelled to the bedroom.
+9 Where is Daniel Conn? 	bedroom	8
+10 Mary Geneva Doud travelled to the office.
+11 Sandra Burnhard moved to the bedroom.
+12 Where is John Colliani? 	kitchen	7
+13 John Colliani moved to the bedroom.
+14 Sandra Burnhard journeyed to the kitchen.
+15 Where is Sandra Burnhard? 	kitchen	14
+1 Daniel Conn moved to the hallway.
+2 Daniel Conn travelled to the office.
+3 Where is Daniel Conn? 	office	2
+4 Daniel Conn went to the bedroom.
+5 Daniel Conn journeyed to the office.
+6 Where is Daniel Conn? 	office	5
+7 Sandra Burnhard went back to the bathroom.
+8 Sandra Burnhard journeyed to the kitchen.
+9 Where is Daniel Conn? 	office	5
+10 Daniel Conn moved to the bedroom.
+11 Daniel Conn journeyed to the hallway.
+12 Where is Sandra Burnhard? 	kitchen	8
+13 Sandra Burnhard travelled to the garden.
+14 Sandra Burnhard went back to the bathroom.
+15 Where is Daniel Conn? 	hallway	11
+1 Sandra Burnhard went to the garden.
+2 Sandra Burnhard journeyed to the bedroom.
+3 Where is Sandra Burnhard? 	bedroom	2
+4 Mary Geneva Doud travelled to the bathroom.
+5 John Colliani journeyed to the bedroom.
+6 Where is Sandra Burnhard? 	bedroom	2
+7 Mary Geneva Doud went back to the kitchen.
+8 John Colliani went to the kitchen.
+9 Where is John Colliani? 	kitchen	8
+10 Daniel Conn travelled to the kitchen.
+11 Sandra Burnhard travelled to the bathroom.
+12 Where is Sandra Burnhard? 	bathroom	11
+13 Sandra Burnhard went back to the garden.
+14 John Colliani went back to the garden.
+15 Where is Daniel Conn? 	kitchen	10
+1 Sandra Burnhard went back to the bathroom.
+2 Mary Geneva Doud moved to the garden.
+3 Where is Mary Geneva Doud? 	garden	2
+4 Mary Geneva Doud went back to the hallway.
+5 Sandra Burnhard went to the office.
+6 Where is Sandra Burnhard? 	office	5
+7 John Colliani went back to the hallway.
+8 John Colliani travelled to the office.
+9 Where is Sandra Burnhard? 	office	5
+10 Sandra Burnhard journeyed to the hallway.
+11 Daniel Conn moved to the office.
+12 Where is John Colliani? 	office	8
+13 Mary Geneva Doud went to the office.
+14 Sandra Burnhard went to the office.
+15 Where is John Colliani? 	office	8
+1 Mary Geneva Doud went back to the office.
+2 John Colliani went back to the bathroom.
+3 Where is Mary Geneva Doud? 	office	1
+4 John Colliani went to the hallway.
+5 Mary Geneva Doud journeyed to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	5
+7 Sandra Burnhard travelled to the hallway.
+8 Mary Geneva Doud travelled to the office.
+9 Where is John Colliani? 	hallway	4
+10 Mary Geneva Doud went back to the hallway.
+11 Sandra Burnhard travelled to the office.
+12 Where is Sandra Burnhard? 	office	11
+13 John Colliani went to the kitchen.
+14 Sandra Burnhard went to the hallway.
+15 Where is Mary Geneva Doud? 	hallway	10
+1 Sandra Burnhard moved to the hallway.
+2 John Colliani moved to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 John Colliani journeyed to the bathroom.
+5 Daniel Conn went back to the bedroom.
+6 Where is John Colliani? 	bathroom	4
+7 Mary Geneva Doud travelled to the bedroom.
+8 Mary Geneva Doud journeyed to the garden.
+9 Where is Daniel Conn? 	bedroom	5
+10 John Colliani travelled to the bedroom.
+11 Sandra Burnhard journeyed to the garden.
+12 Where is Daniel Conn? 	bedroom	5
+13 John Colliani journeyed to the kitchen.
+14 Sandra Burnhard went to the kitchen.
+15 Where is John Colliani? 	kitchen	13
+1 Daniel Conn went to the kitchen.
+2 Mary Geneva Doud travelled to the hallway.
+3 Where is Daniel Conn? 	kitchen	1
+4 Daniel Conn went back to the garden.
+5 Mary Geneva Doud went back to the bathroom.
+6 Where is Mary Geneva Doud? 	bathroom	5
+7 Sandra Burnhard moved to the hallway.
+8 John Colliani moved to the garden.
+9 Where is Daniel Conn? 	garden	4
+10 Daniel Conn moved to the kitchen.
+11 Mary Geneva Doud travelled to the office.
+12 Where is Daniel Conn? 	kitchen	10
+13 Daniel Conn travelled to the hallway.
+14 Sandra Burnhard travelled to the bathroom.
+15 Where is Sandra Burnhard? 	bathroom	14
+1 Sandra Burnhard moved to the kitchen.
+2 Sandra Burnhard went back to the garden.
+3 Where is Sandra Burnhard? 	garden	2
+4 Sandra Burnhard journeyed to the office.
+5 Mary Geneva Doud moved to the office.
+6 Where is Mary Geneva Doud? 	office	5
+7 Sandra Burnhard journeyed to the bathroom.
+8 Daniel Conn moved to the office.
+9 Where is Sandra Burnhard? 	bathroom	7
+10 Daniel Conn went back to the kitchen.
+11 Mary Geneva Doud moved to the hallway.
+12 Where is Mary Geneva Doud? 	hallway	11
+13 John Colliani went to the office.
+14 Sandra Burnhard went to the office.
+15 Where is John Colliani? 	office	13
+1 Sandra Burnhard went to the garden.
+2 Mary Geneva Doud travelled to the bathroom.
+3 Where is Sandra Burnhard? 	garden	1
+4 Sandra Burnhard moved to the bathroom.
+5 Mary Geneva Doud travelled to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	5
+7 Mary Geneva Doud went back to the kitchen.
+8 Daniel Conn travelled to the bedroom.
+9 Where is Mary Geneva Doud? 	kitchen	7
+10 Mary Geneva Doud journeyed to the bedroom.
+11 Mary Geneva Doud journeyed to the office.
+12 Where is Daniel Conn? 	bedroom	8
+13 Mary Geneva Doud went back to the bedroom.
+14 Daniel Conn went to the garden.
+15 Where is Mary Geneva Doud? 	bedroom	13
+1 Mary Geneva Doud journeyed to the garden.
+2 Sandra Burnhard went back to the office.
+3 Where is Sandra Burnhard? 	office	2
+4 Sandra Burnhard went to the bathroom.
+5 John Colliani travelled to the bathroom.
+6 Where is Sandra Burnhard? 	bathroom	4
+7 Sandra Burnhard moved to the bedroom.
+8 Sandra Burnhard travelled to the hallway.
+9 Where is Sandra Burnhard? 	hallway	8
+10 Mary Geneva Doud moved to the bathroom.
+11 John Colliani went to the kitchen.
+12 Where is Mary Geneva Doud? 	bathroom	10
+13 Daniel Conn moved to the bathroom.
+14 Daniel Conn went to the office.
+15 Where is John Colliani? 	kitchen	11
+1 Mary Geneva Doud moved to the office.
+2 Daniel Conn went to the kitchen.
+3 Where is Mary Geneva Doud? 	office	1
+4 Sandra Burnhard went to the bathroom.
+5 Daniel Conn moved to the office.
+6 Where is Daniel Conn? 	office	5
+7 Sandra Burnhard went to the office.
+8 Sandra Burnhard went to the hallway.
+9 Where is Daniel Conn? 	office	5
+10 Mary Geneva Doud went to the garden.
+11 Daniel Conn moved to the kitchen.
+12 Where is Sandra Burnhard? 	hallway	8
+13 Mary Geneva Doud went back to the kitchen.
+14 John Colliani journeyed to the hallway.
+15 Where is Mary Geneva Doud? 	kitchen	13
+1 John Colliani went back to the bathroom.
+2 Mary Geneva Doud travelled to the bathroom.
+3 Where is John Colliani? 	bathroom	1
+4 Mary Geneva Doud went to the garden.
+5 Sandra Burnhard moved to the garden.
+6 Where is John Colliani? 	bathroom	1
+7 John Colliani went to the kitchen.
+8 Daniel Conn moved to the bathroom.
+9 Where is John Colliani? 	kitchen	7
+10 Daniel Conn went back to the hallway.
+11 Mary Geneva Doud went to the kitchen.
+12 Where is Mary Geneva Doud? 	kitchen	11
+13 Daniel Conn went to the garden.
+14 Daniel Conn travelled to the hallway.
+15 Where is Daniel Conn? 	hallway	14
+1 Mary Geneva Doud went back to the bedroom.
+2 Mary Geneva Doud travelled to the bathroom.
+3 Where is Mary Geneva Doud? 	bathroom	2
+4 John Colliani travelled to the office.
+5 Mary Geneva Doud travelled to the bedroom.
+6 Where is Mary Geneva Doud? 	bedroom	5
+7 John Colliani journeyed to the kitchen.
+8 John Colliani moved to the hallway.
+9 Where is Mary Geneva Doud? 	bedroom	5
+10 Daniel Conn moved to the hallway.
+11 Mary Geneva Doud went back to the garden.
+12 Where is Mary Geneva Doud? 	garden	11
+13 Daniel Conn went back to the office.
+14 Daniel Conn travelled to the kitchen.
+15 Where is Daniel Conn? 	kitchen	14
+1 Daniel Conn moved to the garden.
+2 Mary Geneva Doud went back to the bathroom.
+3 Where is Daniel Conn? 	garden	1
+4 Daniel Conn travelled to the kitchen.
+5 Sandra Burnhard went to the kitchen.
+6 Where is Sandra Burnhard? 	kitchen	5
+7 Daniel Conn journeyed to the garden.
+8 Mary Geneva Doud journeyed to the kitchen.
+9 Where is Mary Geneva Doud? 	kitchen	8
+10 Mary Geneva Doud moved to the hallway.
+11 John Colliani went back to the bedroom.
+12 Where is Mary Geneva Doud? 	hallway	10
+13 John Colliani moved to the office.
+14 John Colliani travelled to the bathroom.
+15 Where is Mary Geneva Doud? 	hallway	10
+1 Mary Geneva Doud went back to the hallway.
+2 Sandra Burnhard journeyed to the garden.
+3 Where is Sandra Burnhard? 	garden	2
+4 Sandra Burnhard travelled to the bathroom.
+5 John Colliani travelled to the hallway.
+6 Where is Sandra Burnhard? 	bathroom	4
+7 John Colliani travelled to the garden.
+8 Mary Geneva Doud journeyed to the bedroom.
+9 Where is Mary Geneva Doud? 	bedroom	8
+10 Sandra Burnhard journeyed to the office.
+11 Daniel Conn journeyed to the hallway.
+12 Where is John Colliani? 	garden	7
+13 Mary Geneva Doud journeyed to the hallway.
+14 Mary Geneva Doud moved to the bedroom.
+15 Where is Mary Geneva Doud? 	bedroom	14
+1 Sandra Burnhard journeyed to the kitchen.
+2 Sandra Burnhard journeyed to the garden.
+3 Where is Sandra Burnhard? 	garden	2
+4 Daniel Conn travelled to the kitchen.
+5 Mary Geneva Doud moved to the bedroom.
+6 Where is Sandra Burnhard? 	garden	2
+7 Sandra Burnhard moved to the bedroom.
+8 John Colliani travelled to the garden.
+9 Where is Sandra Burnhard? 	bedroom	7
+10 Sandra Burnhard went back to the kitchen.
+11 John Colliani journeyed to the bedroom.
+12 Where is Sandra Burnhard? 	kitchen	10
+13 Daniel Conn went back to the bathroom.
+14 Sandra Burnhard journeyed to the bedroom.
+15 Where is Daniel Conn? 	bathroom	13
+1 Mary Geneva Doud went back to the hallway.
+2 Daniel Conn went back to the bedroom.
+3 Where is Mary Geneva Doud? 	hallway	1
+4 Sandra Burnhard moved to the bathroom.
+5 Sandra Burnhard journeyed to the hallway.
+6 Where is Sandra Burnhard? 	hallway	5
+7 Mary Geneva Doud went back to the bedroom.
+8 Mary Geneva Doud went back to the garden.
+9 Where is Mary Geneva Doud? 	garden	8
+10 Sandra Burnhard went back to the bathroom.
+11 John Colliani went to the office.
+12 Where is John Colliani? 	office	11
+13 Daniel Conn travelled to the garden.
+14 Sandra Burnhard travelled to the hallway.
+15 Where is John Colliani? 	office	11
+1 John Colliani went back to the hallway.
+2 Sandra Burnhard journeyed to the kitchen.
+3 Where is John Colliani? 	hallway	1
+4 Daniel Conn journeyed to the office.
+5 John Colliani went to the kitchen.
+6 Where is John Colliani? 	kitchen	5
+7 Daniel Conn journeyed to the garden.
+8 John Colliani travelled to the bedroom.
+9 Where is John Colliani? 	bedroom	8
+10 Daniel Conn journeyed to the office.
+11 Daniel Conn went to the bedroom.
+12 Where is Daniel Conn? 	bedroom	11
+13 Sandra Burnhard travelled to the hallway.
+14 Sandra Burnhard journeyed to the bedroom.
+15 Where is Daniel Conn? 	bedroom	11
+1 John Colliani moved to the kitchen.
+2 Daniel Conn travelled to the garden.
+3 Where is John Colliani? 	kitchen	1
+4 Daniel Conn went to the kitchen.
+5 Daniel Conn travelled to the bathroom.
+6 Where is Daniel Conn? 	bathroom	5
+7 John Colliani moved to the bathroom.
+8 Mary Geneva Doud journeyed to the bathroom.
+9 Where is John Colliani? 	bathroom	7
+10 Mary Geneva Doud went to the kitchen.
+11 Daniel Conn journeyed to the garden.
+12 Where is Mary Geneva Doud? 	kitchen	10
+13 Daniel Conn went to the kitchen.
+14 John Colliani went to the hallway.
+15 Where is Daniel Conn? 	kitchen	13
+1 Sandra Burnhard went back to the kitchen.
+2 Sandra Burnhard travelled to the bathroom.
+3 Where is Sandra Burnhard? 	bathroom	2
+4 John Colliani travelled to the garden.
+5 Daniel Conn moved to the hallway.
+6 Where is Daniel Conn? 	hallway	5
+7 John Colliani went to the kitchen.
+8 Daniel Conn journeyed to the garden.
+9 Where is Sandra Burnhard? 	bathroom	2
+10 Daniel Conn journeyed to the hallway.
+11 Sandra Burnhard journeyed to the garden.
+12 Where is Daniel Conn? 	hallway	10
+13 John Colliani went back to the hallway.
+14 Mary Geneva Doud travelled to the office.
+15 Where is John Colliani? 	hallway	13
+1 Daniel Conn moved to the bedroom.
+2 John Colliani went back to the garden.
+3 Where is Daniel Conn? 	bedroom	1
+4 John Colliani travelled to the bathroom.
+5 John Colliani travelled to the garden.
+6 Where is John Colliani? 	garden	5
+7 John Colliani went to the kitchen.
+8 Daniel Conn journeyed to the garden.
+9 Where is Daniel Conn? 	garden	8
+10 John Colliani went back to the garden.
+11 Sandra Burnhard went back to the kitchen.
+12 Where is John Colliani? 	garden	10
+13 Daniel Conn journeyed to the hallway.
+14 Daniel Conn moved to the bathroom.
+15 Where is Daniel Conn? 	bathroom	14
+1 Mary Geneva Doud travelled to the hallway.
+2 Mary Geneva Doud moved to the garden.
+3 Where is Mary Geneva Doud? 	garden	2
+4 Sandra Burnhard went to the kitchen.
+5 Sandra Burnhard moved to the bathroom.
+6 Where is Sandra Burnhard? 	bathroom	5
+7 Daniel Conn went back to the bedroom.
+8 John Colliani went back to the office.
+9 Where is Mary Geneva Doud? 	garden	2
+10 Mary Geneva Doud went back to the office.
+11 Mary Geneva Doud went to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	11
+13 Daniel Conn went back to the kitchen.
+14 Mary Geneva Doud moved to the kitchen.
+15 Where is Daniel Conn? 	kitchen	13
+1 Daniel Conn went to the office.
+2 John Colliani journeyed to the garden.
+3 Where is Daniel Conn? 	office	1
+4 John Colliani travelled to the bathroom.
+5 Daniel Conn moved to the bedroom.
+6 Where is John Colliani? 	bathroom	4
+7 Mary Geneva Doud travelled to the kitchen.
+8 John Colliani journeyed to the kitchen.
+9 Where is John Colliani? 	kitchen	8
+10 John Colliani travelled to the office.
+11 Sandra Burnhard moved to the office.
+12 Where is Sandra Burnhard? 	office	11
+13 John Colliani moved to the garden.
+14 Mary Geneva Doud journeyed to the bedroom.
+15 Where is Sandra Burnhard? 	office	11
+1 Sandra Burnhard journeyed to the hallway.
+2 Daniel Conn travelled to the hallway.
+3 Where is Sandra Burnhard? 	hallway	1
+4 John Colliani travelled to the hallway.
+5 Sandra Burnhard went to the bedroom.
+6 Where is John Colliani? 	hallway	4
+7 John Colliani travelled to the office.
+8 Sandra Burnhard went to the kitchen.
+9 Where is Sandra Burnhard? 	kitchen	8
+10 Mary Geneva Doud moved to the office.
+11 Daniel Conn moved to the office.
+12 Where is Sandra Burnhard? 	kitchen	8
+13 Daniel Conn went back to the bathroom.
+14 Daniel Conn travelled to the office.
+15 Where is Daniel Conn? 	office	14
+1 Mary Geneva Doud went to the bathroom.
+2 John Colliani travelled to the hallway.
+3 Where is Mary Geneva Doud? 	bathroom	1
+4 John Colliani moved to the kitchen.
+5 Mary Geneva Doud went back to the hallway.
+6 Where is John Colliani? 	kitchen	4
+7 Daniel Conn went back to the bedroom.
+8 Mary Geneva Doud journeyed to the garden.
+9 Where is John Colliani? 	kitchen	4
+10 Mary Geneva Doud went back to the office.
+11 Daniel Conn went back to the bathroom.
+12 Where is Daniel Conn? 	bathroom	11
+13 Sandra Burnhard moved to the hallway.
+14 John Colliani went back to the bedroom.
+15 Where is Mary Geneva Doud? 	office	10
+1 Daniel Conn journeyed to the bedroom.
+2 John Colliani went to the kitchen.
+3 Where is Daniel Conn? 	bedroom	1
+4 Mary Geneva Doud moved to the office.
+5 Sandra Burnhard travelled to the bathroom.
+6 Where is Sandra Burnhard? 	bathroom	5
+7 Mary Geneva Doud went to the kitchen.
+8 Sandra Burnhard journeyed to the bedroom.
+9 Where is Mary Geneva Doud? 	kitchen	7
+10 Sandra Burnhard journeyed to the office.
+11 Daniel Conn went back to the bathroom.
+12 Where is Daniel Conn? 	bathroom	11
+13 Mary Geneva Doud went back to the office.
+14 John Colliani went back to the office.
+15 Where is Sandra Burnhard? 	office	10
+1 Mary Geneva Doud moved to the garden.
+2 John Colliani went to the bedroom.
+3 Where is John Colliani? 	bedroom	2
+4 Daniel Conn journeyed to the kitchen.
+5 Sandra Burnhard went to the bathroom.
+6 Where is Mary Geneva Doud? 	garden	1
+7 Daniel Conn journeyed to the bathroom.
+8 Daniel Conn moved to the garden.
+9 Where is Sandra Burnhard? 	bathroom	5
+10 Daniel Conn went to the kitchen.
+11 Mary Geneva Doud journeyed to the bathroom.
+12 Where is Daniel Conn? 	kitchen	10
+13 Sandra Burnhard travelled to the garden.
+14 Sandra Burnhard went to the hallway.
+15 Where is Mary Geneva Doud? 	bathroom	11
+1 Sandra Burnhard travelled to the office.
+2 Sandra Burnhard travelled to the bathroom.
+3 Where is Sandra Burnhard? 	bathroom	2
+4 Mary Geneva Doud went back to the hallway.
+5 Mary Geneva Doud travelled to the bathroom.
+6 Where is Mary Geneva Doud? 	bathroom	5
+7 Daniel Conn went to the bedroom.
+8 Mary Geneva Doud went to the office.
+9 Where is Mary Geneva Doud? 	office	8
+10 Mary Geneva Doud travelled to the hallway.
+11 John Colliani moved to the garden.
+12 Where is Mary Geneva Doud? 	hallway	10
+13 Sandra Burnhard journeyed to the office.
+14 Sandra Burnhard moved to the bathroom.
+15 Where is John Colliani? 	garden	11
+1 Sandra Burnhard journeyed to the garden.
+2 Mary Geneva Doud travelled to the hallway.
+3 Where is Mary Geneva Doud? 	hallway	2
+4 John Colliani travelled to the bathroom.
+5 Sandra Burnhard went back to the kitchen.
+6 Where is Mary Geneva Doud? 	hallway	2
+7 Daniel Conn travelled to the bathroom.
+8 Daniel Conn travelled to the kitchen.
+9 Where is John Colliani? 	bathroom	4
+10 John Colliani went back to the hallway.
+11 John Colliani travelled to the bathroom.
+12 Where is John Colliani? 	bathroom	11
+13 Mary Geneva Doud journeyed to the bathroom.
+14 Mary Geneva Doud travelled to the bedroom.
+15 Where is Mary Geneva Doud? 	bedroom	14
+1 John Colliani went to the office.
+2 Daniel Conn journeyed to the kitchen.
+3 Where is Daniel Conn? 	kitchen	2
+4 John Colliani travelled to the bedroom.
+5 John Colliani moved to the garden.
+6 Where is Daniel Conn? 	kitchen	2
+7 Daniel Conn journeyed to the bathroom.
+8 John Colliani journeyed to the bedroom.
+9 Where is John Colliani? 	bedroom	8
+10 Sandra Burnhard journeyed to the kitchen.
+11 Mary Geneva Doud moved to the garden.
+12 Where is John Colliani? 	bedroom	8
+13 Sandra Burnhard journeyed to the bathroom.
+14 Sandra Burnhard went back to the bedroom.
+15 Where is Sandra Burnhard? 	bedroom	14
+1 Daniel Conn went back to the bedroom.
+2 Sandra Burnhard travelled to the bedroom.
+3 Where is Sandra Burnhard? 	bedroom	2
+4 Sandra Burnhard went to the office.
+5 Mary Geneva Doud went to the office.
+6 Where is Mary Geneva Doud? 	office	5
+7 John Colliani journeyed to the garden.
+8 Mary Geneva Doud journeyed to the garden.
+9 Where is Mary Geneva Doud? 	garden	8
+10 Daniel Conn travelled to the bathroom.
+11 John Colliani moved to the kitchen.
+12 Where is John Colliani? 	kitchen	11
+13 Sandra Burnhard went back to the kitchen.
+14 Daniel Conn journeyed to the hallway.
+15 Where is Mary Geneva Doud? 	garden	8
+1 Daniel Conn moved to the bathroom.
+2 John Colliani moved to the office.
+3 Where is Daniel Conn? 	bathroom	1
+4 Mary Geneva Doud went back to the office.
+5 John Colliani went back to the hallway.
+6 Where is Mary Geneva Doud? 	office	4
+7 Mary Geneva Doud moved to the hallway.
+8 Mary Geneva Doud journeyed to the kitchen.
+9 Where is Mary Geneva Doud? 	kitchen	8
+10 Daniel Conn went to the office.
+11 Daniel Conn moved to the bedroom.
+12 Where is Daniel Conn? 	bedroom	11
+13 Sandra Burnhard journeyed to the hallway.
+14 Daniel Conn travelled to the garden.
+15 Where is Daniel Conn? 	garden	14
+1 Mary Geneva Doud travelled to the hallway.
+2 Sandra Burnhard went to the garden.
+3 Where is Sandra Burnhard? 	garden	2
+4 Daniel Conn travelled to the bedroom.
+5 Mary Geneva Doud went to the bedroom.
+6 Where is Daniel Conn? 	bedroom	4
+7 Daniel Conn moved to the hallway.
+8 John Colliani travelled to the bathroom.
+9 Where is Sandra Burnhard? 	garden	2
+10 Daniel Conn journeyed to the bathroom.
+11 John Colliani journeyed to the office.
+12 Where is Daniel Conn? 	bathroom	10
+13 Mary Geneva Doud went back to the garden.
+14 John Colliani went to the kitchen.
+15 Where is John Colliani? 	kitchen	14
+1 Daniel Conn travelled to the kitchen.
+2 Daniel Conn journeyed to the garden.
+3 Where is Daniel Conn? 	garden	2
+4 John Colliani journeyed to the office.
+5 John Colliani travelled to the garden.
+6 Where is Daniel Conn? 	garden	2
+7 Daniel Conn moved to the office.
+8 John Colliani went to the hallway.
+9 Where is John Colliani? 	hallway	8
+10 John Colliani moved to the office.
+11 Daniel Conn journeyed to the kitchen.
+12 Where is John Colliani? 	office	10
+13 Daniel Conn went to the garden.
+14 John Colliani went back to the bathroom.
+15 Where is Daniel Conn? 	garden	13
+1 Mary Geneva Doud went to the bathroom.
+2 John Colliani went to the kitchen.
+3 Where is John Colliani? 	kitchen	2
+4 Daniel Conn moved to the office.
+5 Daniel Conn moved to the bathroom.
+6 Where is Daniel Conn? 	bathroom	5
+7 Sandra Burnhard travelled to the bathroom.
+8 Mary Geneva Doud travelled to the kitchen.
+9 Where is John Colliani? 	kitchen	2
+10 Mary Geneva Doud went to the garden.
+11 Sandra Burnhard moved to the bedroom.
+12 Where is Mary Geneva Doud? 	garden	10
+13 Sandra Burnhard journeyed to the kitchen.
+14 Daniel Conn travelled to the garden.
+15 Where is Sandra Burnhard? 	kitchen	13
+1 Daniel Conn moved to the garden.
+2 John Colliani went to the kitchen.
+3 Where is Daniel Conn? 	garden	1
+4 Mary Geneva Doud went to the office.
+5 Sandra Burnhard travelled to the bedroom.
+6 Where is Mary Geneva Doud? 	office	4
+7 Mary Geneva Doud went to the bathroom.
+8 John Colliani journeyed to the bathroom.
+9 Where is John Colliani? 	bathroom	8
+10 Mary Geneva Doud went back to the office.
+11 John Colliani went back to the kitchen.
+12 Where is Mary Geneva Doud? 	office	10
+13 John Colliani moved to the office.
+14 Mary Geneva Doud journeyed to the bathroom.
+15 Where is John Colliani? 	office	13
+1 Mary Geneva Doud travelled to the kitchen.
+2 Mary Geneva Doud moved to the bedroom.
+3 Where is Mary Geneva Doud? 	bedroom	2
+4 Mary Geneva Doud went to the hallway.
+5 Sandra Burnhard went back to the bathroom.
+6 Where is Sandra Burnhard? 	bathroom	5
+7 John Colliani went to the bedroom.
+8 Daniel Conn travelled to the garden.
+9 Where is John Colliani? 	bedroom	7
+10 Daniel Conn went to the hallway.
+11 Sandra Burnhard went to the office.
+12 Where is Sandra Burnhard? 	office	11
+13 Sandra Burnhard journeyed to the bedroom.
+14 John Colliani travelled to the bathroom.
+15 Where is Sandra Burnhard? 	bedroom	13
+1 John Colliani journeyed to the kitchen.
+2 John Colliani journeyed to the garden.
+3 Where is John Colliani? 	garden	2
+4 Mary Geneva Doud went back to the bathroom.
+5 Mary Geneva Doud moved to the garden.
+6 Where is Mary Geneva Doud? 	garden	5
+7 Daniel Conn travelled to the bedroom.
+8 John Colliani moved to the kitchen.
+9 Where is Mary Geneva Doud? 	garden	5
+10 John Colliani journeyed to the hallway.
+11 Mary Geneva Doud went back to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	11
+13 John Colliani journeyed to the bathroom.
+14 Sandra Burnhard moved to the kitchen.
+15 Where is Mary Geneva Doud? 	bathroom	11
+1 Mary Geneva Doud journeyed to the office.
+2 Daniel Conn journeyed to the bedroom.
+3 Where is Daniel Conn? 	bedroom	2
+4 Mary Geneva Doud went to the bedroom.
+5 Sandra Burnhard went to the bedroom.
+6 Where is Mary Geneva Doud? 	bedroom	4
+7 John Colliani went back to the hallway.
+8 Daniel Conn went back to the bathroom.
+9 Where is Daniel Conn? 	bathroom	8
+10 Mary Geneva Doud travelled to the garden.
+11 Daniel Conn moved to the hallway.
+12 Where is John Colliani? 	hallway	7
+13 Sandra Burnhard travelled to the office.
+14 Daniel Conn moved to the bathroom.
+15 Where is Sandra Burnhard? 	office	13
+1 Mary Geneva Doud moved to the kitchen.
+2 Sandra Burnhard moved to the kitchen.
+3 Where is Mary Geneva Doud? 	kitchen	1
+4 Mary Geneva Doud went to the garden.
+5 John Colliani moved to the bedroom.
+6 Where is Sandra Burnhard? 	kitchen	2
+7 Mary Geneva Doud journeyed to the office.
+8 Mary Geneva Doud went to the bathroom.
+9 Where is John Colliani? 	bedroom	5
+10 Sandra Burnhard travelled to the garden.
+11 Daniel Conn went back to the hallway.
+12 Where is Sandra Burnhard? 	garden	10
+13 Daniel Conn went to the bedroom.
+14 Sandra Burnhard journeyed to the hallway.
+15 Where is Sandra Burnhard? 	hallway	14
+1 John Colliani went to the kitchen.
+2 John Colliani went to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 John Colliani travelled to the bathroom.
+5 Sandra Burnhard travelled to the kitchen.
+6 Where is John Colliani? 	bathroom	4
+7 John Colliani journeyed to the garden.
+8 Sandra Burnhard went back to the bedroom.
+9 Where is John Colliani? 	garden	7
+10 Mary Geneva Doud moved to the hallway.
+11 Mary Geneva Doud went to the bedroom.
+12 Where is Sandra Burnhard? 	bedroom	8
+13 Mary Geneva Doud went back to the garden.
+14 Sandra Burnhard travelled to the hallway.
+15 Where is Mary Geneva Doud? 	garden	13
+1 Daniel Conn went back to the bathroom.
+2 Mary Geneva Doud journeyed to the office.
+3 Where is Daniel Conn? 	bathroom	1
+4 Sandra Burnhard went back to the garden.
+5 Daniel Conn moved to the garden.
+6 Where is Daniel Conn? 	garden	5
+7 Daniel Conn journeyed to the hallway.
+8 John Colliani moved to the garden.
+9 Where is Mary Geneva Doud? 	office	2
+10 Sandra Burnhard went back to the hallway.
+11 Mary Geneva Doud went back to the bedroom.
+12 Where is Sandra Burnhard? 	hallway	10
+13 John Colliani journeyed to the office.
+14 John Colliani went to the bathroom.
+15 Where is John Colliani? 	bathroom	14
+1 Sandra Burnhard moved to the bathroom.
+2 Daniel Conn journeyed to the garden.
+3 Where is Daniel Conn? 	garden	2
+4 Mary Geneva Doud journeyed to the bathroom.
+5 Sandra Burnhard moved to the hallway.
+6 Where is Sandra Burnhard? 	hallway	5
+7 Daniel Conn moved to the office.
+8 Daniel Conn went to the garden.
+9 Where is Daniel Conn? 	garden	8
+10 John Colliani travelled to the bathroom.
+11 Mary Geneva Doud moved to the bedroom.
+12 Where is Daniel Conn? 	garden	8
+13 Sandra Burnhard went back to the bathroom.
+14 Sandra Burnhard went to the garden.
+15 Where is Mary Geneva Doud? 	bedroom	11
+1 John Colliani journeyed to the hallway.
+2 Daniel Conn journeyed to the hallway.
+3 Where is John Colliani? 	hallway	1
+4 Daniel Conn went to the office.
+5 Sandra Burnhard moved to the bedroom.
+6 Where is Sandra Burnhard? 	bedroom	5
+7 John Colliani went to the bedroom.
+8 Daniel Conn went back to the kitchen.
+9 Where is Sandra Burnhard? 	bedroom	5
+10 John Colliani journeyed to the kitchen.
+11 Mary Geneva Doud went to the hallway.
+12 Where is John Colliani? 	kitchen	10
+13 Sandra Burnhard went back to the bathroom.
+14 Mary Geneva Doud went to the office.
+15 Where is Daniel Conn? 	kitchen	8
+1 Daniel Conn journeyed to the office.
+2 Mary Geneva Doud went back to the garden.
+3 Where is Daniel Conn? 	office	1
+4 Daniel Conn went back to the garden.
+5 John Colliani moved to the hallway.
+6 Where is Daniel Conn? 	garden	4
+7 John Colliani travelled to the bathroom.
+8 Mary Geneva Doud moved to the kitchen.
+9 Where is Daniel Conn? 	garden	4
+10 Daniel Conn travelled to the bathroom.
+11 Sandra Burnhard journeyed to the bedroom.
+12 Where is Sandra Burnhard? 	bedroom	11
+13 Daniel Conn journeyed to the garden.
+14 Sandra Burnhard travelled to the office.
+15 Where is Sandra Burnhard? 	office	14
+1 Daniel Conn went back to the bathroom.
+2 John Colliani moved to the bathroom.
+3 Where is John Colliani? 	bathroom	2
+4 Mary Geneva Doud journeyed to the bathroom.
+5 Sandra Burnhard went to the kitchen.
+6 Where is Daniel Conn? 	bathroom	1
+7 Mary Geneva Doud went back to the kitchen.
+8 Daniel Conn travelled to the office.
+9 Where is John Colliani? 	bathroom	2
+10 Sandra Burnhard went back to the office.
+11 Mary Geneva Doud went back to the garden.
+12 Where is Sandra Burnhard? 	office	10
+13 Mary Geneva Doud moved to the bedroom.
+14 Daniel Conn moved to the hallway.
+15 Where is Daniel Conn? 	hallway	14
+1 Sandra Burnhard went to the hallway.
+2 Sandra Burnhard journeyed to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	2
+4 Sandra Burnhard travelled to the garden.
+5 Mary Geneva Doud journeyed to the garden.
+6 Where is Mary Geneva Doud? 	garden	5
+7 Daniel Conn went back to the bathroom.
+8 Daniel Conn went to the garden.
+9 Where is Sandra Burnhard? 	garden	4
+10 John Colliani went back to the garden.
+11 John Colliani travelled to the bedroom.
+12 Where is Mary Geneva Doud? 	garden	5
+13 Mary Geneva Doud went to the kitchen.
+14 Sandra Burnhard moved to the hallway.
+15 Where is Daniel Conn? 	garden	8
+1 John Colliani went back to the garden.
+2 Sandra Burnhard went back to the bedroom.
+3 Where is John Colliani? 	garden	1
+4 Sandra Burnhard went to the bathroom.
+5 John Colliani went back to the kitchen.
+6 Where is John Colliani? 	kitchen	5
+7 Mary Geneva Doud went back to the hallway.
+8 Daniel Conn travelled to the kitchen.
+9 Where is Daniel Conn? 	kitchen	8
+10 Sandra Burnhard went back to the bedroom.
+11 Sandra Burnhard went to the office.
+12 Where is Sandra Burnhard? 	office	11
+13 Sandra Burnhard went to the kitchen.
+14 Daniel Conn travelled to the hallway.
+15 Where is Sandra Burnhard? 	kitchen	13
+1 Sandra Burnhard journeyed to the office.
+2 John Colliani moved to the bathroom.
+3 Where is John Colliani? 	bathroom	2
+4 Daniel Conn moved to the hallway.
+5 John Colliani moved to the hallway.
+6 Where is John Colliani? 	hallway	5
+7 John Colliani travelled to the kitchen.
+8 John Colliani went to the bedroom.
+9 Where is John Colliani? 	bedroom	8
+10 Daniel Conn journeyed to the kitchen.
+11 John Colliani journeyed to the kitchen.
+12 Where is John Colliani? 	kitchen	11
+13 John Colliani travelled to the bathroom.
+14 John Colliani travelled to the kitchen.
+15 Where is John Colliani? 	kitchen	14
+1 Mary Geneva Doud moved to the hallway.
+2 John Colliani travelled to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 Daniel Conn travelled to the bedroom.
+5 Daniel Conn went to the garden.
+6 Where is Mary Geneva Doud? 	hallway	1
+7 John Colliani went back to the bathroom.
+8 Sandra Burnhard moved to the hallway.
+9 Where is Sandra Burnhard? 	hallway	8
+10 Daniel Conn moved to the hallway.
+11 Mary Geneva Doud went to the office.
+12 Where is Daniel Conn? 	hallway	10
+13 Mary Geneva Doud journeyed to the garden.
+14 John Colliani went to the hallway.
+15 Where is Mary Geneva Doud? 	garden	13
+1 John Colliani journeyed to the bathroom.
+2 Daniel Conn went back to the kitchen.
+3 Where is Daniel Conn? 	kitchen	2
+4 John Colliani journeyed to the office.
+5 Sandra Burnhard travelled to the bedroom.
+6 Where is Daniel Conn? 	kitchen	2
+7 Daniel Conn moved to the bathroom.
+8 Daniel Conn went to the hallway.
+9 Where is John Colliani? 	office	4
+10 Mary Geneva Doud went back to the office.
+11 Mary Geneva Doud went to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	11
+13 Mary Geneva Doud journeyed to the kitchen.
+14 Mary Geneva Doud moved to the bedroom.
+15 Where is Mary Geneva Doud? 	bedroom	14
+1 Mary Geneva Doud journeyed to the bathroom.
+2 Mary Geneva Doud moved to the hallway.
+3 Where is Mary Geneva Doud? 	hallway	2
+4 Daniel Conn moved to the bathroom.
+5 Sandra Burnhard went back to the bathroom.
+6 Where is Mary Geneva Doud? 	hallway	2
+7 Sandra Burnhard went to the kitchen.
+8 Mary Geneva Doud travelled to the kitchen.
+9 Where is Sandra Burnhard? 	kitchen	7
+10 Daniel Conn journeyed to the kitchen.
+11 Sandra Burnhard went to the garden.
+12 Where is Sandra Burnhard? 	garden	11
+13 Daniel Conn went to the bedroom.
+14 Sandra Burnhard went to the bathroom.
+15 Where is Daniel Conn? 	bedroom	13
+1 Mary Geneva Doud travelled to the garden.
+2 John Colliani journeyed to the bathroom.
+3 Where is Mary Geneva Doud? 	garden	1
+4 Mary Geneva Doud journeyed to the kitchen.
+5 John Colliani travelled to the kitchen.
+6 Where is John Colliani? 	kitchen	5
+7 Mary Geneva Doud moved to the bedroom.
+8 Mary Geneva Doud travelled to the garden.
+9 Where is John Colliani? 	kitchen	5
+10 John Colliani went back to the bedroom.
+11 Daniel Conn went back to the bedroom.
+12 Where is Mary Geneva Doud? 	garden	8
+13 John Colliani went back to the kitchen.
+14 Mary Geneva Doud went to the bedroom.
+15 Where is John Colliani? 	kitchen	13
+1 Mary Geneva Doud went back to the bedroom.
+2 Daniel Conn travelled to the office.
+3 Where is Mary Geneva Doud? 	bedroom	1
+4 Mary Geneva Doud journeyed to the hallway.
+5 Sandra Burnhard went back to the garden.
+6 Where is Daniel Conn? 	office	2
+7 Mary Geneva Doud moved to the garden.
+8 Daniel Conn moved to the kitchen.
+9 Where is Daniel Conn? 	kitchen	8
+10 John Colliani went to the office.
+11 Sandra Burnhard journeyed to the office.
+12 Where is Sandra Burnhard? 	office	11
+13 John Colliani travelled to the hallway.
+14 Sandra Burnhard travelled to the bathroom.
+15 Where is Daniel Conn? 	kitchen	8
+1 Sandra Burnhard journeyed to the bathroom.
+2 John Colliani went to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 Mary Geneva Doud travelled to the garden.
+5 Mary Geneva Doud went back to the kitchen.
+6 Where is Mary Geneva Doud? 	kitchen	5
+7 Daniel Conn travelled to the bathroom.
+8 John Colliani moved to the garden.
+9 Where is Mary Geneva Doud? 	kitchen	5
+10 Daniel Conn moved to the kitchen.
+11 Sandra Burnhard journeyed to the hallway.
+12 Where is Daniel Conn? 	kitchen	10
+13 Daniel Conn moved to the bedroom.
+14 John Colliani went back to the office.
+15 Where is Daniel Conn? 	bedroom	13
+1 John Colliani went back to the kitchen.
+2 John Colliani moved to the office.
+3 Where is John Colliani? 	office	2
+4 John Colliani journeyed to the garden.
+5 Sandra Burnhard journeyed to the bedroom.
+6 Where is John Colliani? 	garden	4
+7 Mary Geneva Doud went back to the garden.
+8 John Colliani journeyed to the bedroom.
+9 Where is John Colliani? 	bedroom	8
+10 John Colliani went to the hallway.
+11 Sandra Burnhard went back to the hallway.
+12 Where is Sandra Burnhard? 	hallway	11
+13 John Colliani journeyed to the bathroom.
+14 Mary Geneva Doud went to the hallway.
+15 Where is John Colliani? 	bathroom	13
+1 John Colliani went back to the bedroom.
+2 John Colliani moved to the kitchen.
+3 Where is John Colliani? 	kitchen	2
+4 John Colliani journeyed to the garden.
+5 Mary Geneva Doud went back to the hallway.
+6 Where is John Colliani? 	garden	4
+7 Daniel Conn went back to the bedroom.
+8 John Colliani went to the bedroom.
+9 Where is John Colliani? 	bedroom	8
+10 Sandra Burnhard travelled to the garden.
+11 Daniel Conn went back to the office.
+12 Where is John Colliani? 	bedroom	8
+13 Mary Geneva Doud went back to the bedroom.
+14 Daniel Conn journeyed to the kitchen.
+15 Where is Daniel Conn? 	kitchen	14
+1 Mary Geneva Doud went to the garden.
+2 Daniel Conn journeyed to the bathroom.
+3 Where is Mary Geneva Doud? 	garden	1
+4 John Colliani went to the office.
+5 Mary Geneva Doud moved to the hallway.
+6 Where is Daniel Conn? 	bathroom	2
+7 John Colliani went to the bathroom.
+8 Daniel Conn moved to the kitchen.
+9 Where is John Colliani? 	bathroom	7
+10 John Colliani went to the kitchen.
+11 Daniel Conn went to the bedroom.
+12 Where is Mary Geneva Doud? 	hallway	5
+13 Mary Geneva Doud went to the kitchen.
+14 Sandra Burnhard journeyed to the garden.
+15 Where is Sandra Burnhard? 	garden	14
+1 Daniel Conn went back to the kitchen.
+2 Daniel Conn moved to the garden.
+3 Where is Daniel Conn? 	garden	2
+4 Sandra Burnhard journeyed to the bedroom.
+5 Mary Geneva Doud moved to the bathroom.
+6 Where is Sandra Burnhard? 	bedroom	4
+7 John Colliani went back to the office.
+8 Daniel Conn went back to the bathroom.
+9 Where is Daniel Conn? 	bathroom	8
+10 Daniel Conn travelled to the bedroom.
+11 Sandra Burnhard went to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	5
+13 Daniel Conn went back to the hallway.
+14 Sandra Burnhard travelled to the kitchen.
+15 Where is Sandra Burnhard? 	kitchen	14
+1 Sandra Burnhard moved to the bedroom.
+2 Mary Geneva Doud journeyed to the bedroom.
+3 Where is Mary Geneva Doud? 	bedroom	2
+4 Mary Geneva Doud moved to the bathroom.
+5 Daniel Conn travelled to the bedroom.
+6 Where is Sandra Burnhard? 	bedroom	1
+7 Mary Geneva Doud moved to the bedroom.
+8 Sandra Burnhard went to the kitchen.
+9 Where is Mary Geneva Doud? 	bedroom	7
+10 Sandra Burnhard went to the garden.
+11 Daniel Conn moved to the kitchen.
+12 Where is Sandra Burnhard? 	garden	10
+13 Sandra Burnhard went back to the bedroom.
+14 Sandra Burnhard went to the hallway.
+15 Where is Sandra Burnhard? 	hallway	14
+1 John Colliani journeyed to the bedroom.
+2 Daniel Conn moved to the office.
+3 Where is Daniel Conn? 	office	2
+4 John Colliani went to the hallway.
+5 John Colliani journeyed to the kitchen.
+6 Where is John Colliani? 	kitchen	5
+7 Mary Geneva Doud went to the office.
+8 Daniel Conn went back to the bedroom.
+9 Where is Mary Geneva Doud? 	office	7
+10 Daniel Conn moved to the hallway.
+11 John Colliani went to the bedroom.
+12 Where is Daniel Conn? 	hallway	10
+13 Sandra Burnhard moved to the kitchen.
+14 Daniel Conn moved to the office.
+15 Where is Daniel Conn? 	office	14
+1 Mary Geneva Doud journeyed to the office.
+2 Daniel Conn went to the bedroom.
+3 Where is Mary Geneva Doud? 	office	1
+4 Daniel Conn journeyed to the bathroom.
+5 Sandra Burnhard went to the bedroom.
+6 Where is Daniel Conn? 	bathroom	4
+7 Mary Geneva Doud journeyed to the hallway.
+8 Daniel Conn travelled to the kitchen.
+9 Where is Daniel Conn? 	kitchen	8
+10 Sandra Burnhard journeyed to the bathroom.
+11 Sandra Burnhard moved to the bedroom.
+12 Where is Mary Geneva Doud? 	hallway	7
+13 John Colliani moved to the garden.
+14 Daniel Conn travelled to the bathroom.
+15 Where is Sandra Burnhard? 	bedroom	11
+1 John Colliani journeyed to the garden.
+2 John Colliani travelled to the office.
+3 Where is John Colliani? 	office	2
+4 Mary Geneva Doud travelled to the hallway.
+5 John Colliani journeyed to the bedroom.
+6 Where is John Colliani? 	bedroom	5
+7 Daniel Conn moved to the garden.
+8 Mary Geneva Doud journeyed to the bedroom.
+9 Where is John Colliani? 	bedroom	5
+10 Daniel Conn went to the office.
+11 Daniel Conn journeyed to the kitchen.
+12 Where is Daniel Conn? 	kitchen	11
+13 John Colliani travelled to the hallway.
+14 Daniel Conn went back to the garden.
+15 Where is Mary Geneva Doud? 	bedroom	8
+1 Daniel Conn journeyed to the garden.
+2 John Colliani moved to the garden.
+3 Where is Daniel Conn? 	garden	1
+4 Daniel Conn travelled to the bathroom.
+5 Sandra Burnhard went back to the garden.
+6 Where is Daniel Conn? 	bathroom	4
+7 Daniel Conn went back to the office.
+8 Mary Geneva Doud journeyed to the bedroom.
+9 Where is Sandra Burnhard? 	garden	5
+10 Daniel Conn went to the kitchen.
+11 John Colliani journeyed to the kitchen.
+12 Where is Sandra Burnhard? 	garden	5
+13 Sandra Burnhard journeyed to the kitchen.
+14 Sandra Burnhard went back to the office.
+15 Where is Sandra Burnhard? 	office	14
+1 Sandra Burnhard moved to the bathroom.
+2 John Colliani journeyed to the office.
+3 Where is Sandra Burnhard? 	bathroom	1
+4 Sandra Burnhard went back to the hallway.
+5 John Colliani moved to the bedroom.
+6 Where is John Colliani? 	bedroom	5
+7 Daniel Conn moved to the garden.
+8 Daniel Conn went back to the kitchen.
+9 Where is Daniel Conn? 	kitchen	8
+10 Mary Geneva Doud went back to the bedroom.
+11 John Colliani went back to the office.
+12 Where is John Colliani? 	office	11
+13 Mary Geneva Doud travelled to the office.
+14 Sandra Burnhard went back to the bedroom.
+15 Where is John Colliani? 	office	11
+1 Sandra Burnhard journeyed to the bathroom.
+2 Mary Geneva Doud travelled to the hallway.
+3 Where is Mary Geneva Doud? 	hallway	2
+4 Sandra Burnhard moved to the kitchen.
+5 Mary Geneva Doud journeyed to the garden.
+6 Where is Mary Geneva Doud? 	garden	5
+7 John Colliani travelled to the office.
+8 John Colliani went to the hallway.
+9 Where is John Colliani? 	hallway	8
+10 Daniel Conn travelled to the bedroom.
+11 John Colliani went back to the office.
+12 Where is Mary Geneva Doud? 	garden	5
+13 Sandra Burnhard went back to the bedroom.
+14 John Colliani went to the bedroom.
+15 Where is Sandra Burnhard? 	bedroom	13
+1 Mary Geneva Doud went to the hallway.
+2 Daniel Conn went to the bathroom.
+3 Where is Daniel Conn? 	bathroom	2
+4 Mary Geneva Doud went to the bedroom.
+5 Mary Geneva Doud went to the kitchen.
+6 Where is Mary Geneva Doud? 	kitchen	5
+7 Daniel Conn moved to the garden.
+8 Daniel Conn went to the office.
+9 Where is Daniel Conn? 	office	8
+10 John Colliani went to the kitchen.
+11 Sandra Burnhard travelled to the garden.
+12 Where is John Colliani? 	kitchen	10
+13 Mary Geneva Doud journeyed to the hallway.
+14 Sandra Burnhard went back to the hallway.
+15 Where is Sandra Burnhard? 	hallway	14
+1 Mary Geneva Doud went back to the hallway.
+2 Sandra Burnhard journeyed to the bedroom.
+3 Where is Sandra Burnhard? 	bedroom	2
+4 Sandra Burnhard travelled to the kitchen.
+5 John Colliani went back to the hallway.
+6 Where is Sandra Burnhard? 	kitchen	4
+7 Daniel Conn went back to the office.
+8 Mary Geneva Doud moved to the kitchen.
+9 Where is Sandra Burnhard? 	kitchen	4
+10 Daniel Conn went back to the bathroom.
+11 Daniel Conn travelled to the office.
+12 Where is Daniel Conn? 	office	11
+13 Daniel Conn went to the hallway.
+14 Daniel Conn went to the bathroom.
+15 Where is Daniel Conn? 	bathroom	14
+1 Daniel Conn went to the office.
+2 Mary Geneva Doud went back to the office.
+3 Where is Mary Geneva Doud? 	office	2
+4 Sandra Burnhard travelled to the bedroom.
+5 John Colliani journeyed to the bedroom.
+6 Where is John Colliani? 	bedroom	5
+7 Mary Geneva Doud moved to the bedroom.
+8 Daniel Conn travelled to the kitchen.
+9 Where is Mary Geneva Doud? 	bedroom	7
+10 Sandra Burnhard journeyed to the garden.
+11 Sandra Burnhard journeyed to the office.
+12 Where is Sandra Burnhard? 	office	11
+13 Sandra Burnhard journeyed to the garden.
+14 Sandra Burnhard travelled to the hallway.
+15 Where is Daniel Conn? 	kitchen	8
+1 John Colliani travelled to the bedroom.
+2 Mary Geneva Doud moved to the bedroom.
+3 Where is John Colliani? 	bedroom	1
+4 John Colliani went back to the bathroom.
+5 Sandra Burnhard moved to the bathroom.
+6 Where is Sandra Burnhard? 	bathroom	5
+7 John Colliani journeyed to the office.
+8 Daniel Conn journeyed to the office.
+9 Where is Sandra Burnhard? 	bathroom	5
+10 John Colliani went back to the garden.
+11 John Colliani journeyed to the bedroom.
+12 Where is John Colliani? 	bedroom	11
+13 John Colliani went to the bathroom.
+14 Mary Geneva Doud moved to the office.
+15 Where is John Colliani? 	bathroom	13
+1 John Colliani went to the bathroom.
+2 John Colliani moved to the office.
+3 Where is John Colliani? 	office	2
+4 John Colliani went to the hallway.
+5 Sandra Burnhard journeyed to the hallway.
+6 Where is John Colliani? 	hallway	4
+7 John Colliani journeyed to the bathroom.
+8 Daniel Conn went to the bathroom.
+9 Where is John Colliani? 	bathroom	7
+10 Sandra Burnhard moved to the garden.
+11 John Colliani moved to the office.
+12 Where is John Colliani? 	office	11
+13 Sandra Burnhard moved to the hallway.
+14 Daniel Conn went to the kitchen.
+15 Where is Daniel Conn? 	kitchen	14
+1 Mary Geneva Doud travelled to the garden.
+2 Daniel Conn moved to the bathroom.
+3 Where is Mary Geneva Doud? 	garden	1
+4 John Colliani went to the hallway.
+5 Sandra Burnhard went back to the kitchen.
+6 Where is John Colliani? 	hallway	4
+7 Daniel Conn went back to the garden.
+8 John Colliani travelled to the garden.
+9 Where is John Colliani? 	garden	8
+10 Mary Geneva Doud went to the bathroom.
+11 Sandra Burnhard went back to the hallway.
+12 Where is Mary Geneva Doud? 	bathroom	10
+13 Daniel Conn travelled to the office.
+14 Daniel Conn travelled to the bathroom.
+15 Where is Daniel Conn? 	bathroom	14
+1 John Colliani moved to the hallway.
+2 Mary Geneva Doud travelled to the hallway.
+3 Where is John Colliani? 	hallway	1
+4 Sandra Burnhard went to the bedroom.
+5 Sandra Burnhard went back to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	2
+7 John Colliani went back to the office.
+8 Daniel Conn travelled to the kitchen.
+9 Where is John Colliani? 	office	7
+10 John Colliani travelled to the hallway.
+11 Mary Geneva Doud journeyed to the kitchen.
+12 Where is John Colliani? 	hallway	10
+13 John Colliani travelled to the office.
+14 John Colliani travelled to the kitchen.
+15 Where is John Colliani? 	kitchen	14
+1 Mary Geneva Doud moved to the bedroom.
+2 Sandra Burnhard went back to the garden.
+3 Where is Sandra Burnhard? 	garden	2
+4 Daniel Conn went to the bedroom.
+5 Mary Geneva Doud journeyed to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	5
+7 Mary Geneva Doud went back to the bathroom.
+8 Daniel Conn journeyed to the office.
+9 Where is Sandra Burnhard? 	garden	2
+10 Daniel Conn went back to the bedroom.
+11 Mary Geneva Doud went back to the office.
+12 Where is Mary Geneva Doud? 	office	11
+13 John Colliani journeyed to the garden.
+14 John Colliani moved to the office.
+15 Where is John Colliani? 	office	14
+1 John Colliani travelled to the bathroom.
+2 Sandra Burnhard moved to the hallway.
+3 Where is Sandra Burnhard? 	hallway	2
+4 Daniel Conn travelled to the kitchen.
+5 Daniel Conn travelled to the hallway.
+6 Where is Daniel Conn? 	hallway	5
+7 John Colliani moved to the hallway.
+8 Mary Geneva Doud went to the hallway.
+9 Where is Daniel Conn? 	hallway	5
+10 Daniel Conn journeyed to the office.
+11 Daniel Conn journeyed to the kitchen.
+12 Where is Daniel Conn? 	kitchen	11
+13 Mary Geneva Doud moved to the office.
+14 Mary Geneva Doud went to the bedroom.
+15 Where is Daniel Conn? 	kitchen	11
+1 Daniel Conn journeyed to the hallway.
+2 Sandra Burnhard travelled to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	2
+4 John Colliani journeyed to the hallway.
+5 Sandra Burnhard travelled to the office.
+6 Where is Sandra Burnhard? 	office	5
+7 Sandra Burnhard went to the hallway.
+8 Daniel Conn journeyed to the office.
+9 Where is Sandra Burnhard? 	hallway	7
+10 Daniel Conn went back to the bedroom.
+11 Sandra Burnhard moved to the bedroom.
+12 Where is Sandra Burnhard? 	bedroom	11
+13 John Colliani moved to the office.
+14 Daniel Conn travelled to the kitchen.
+15 Where is Daniel Conn? 	kitchen	14
+1 Sandra Burnhard travelled to the bedroom.
+2 Mary Geneva Doud went to the hallway.
+3 Where is Mary Geneva Doud? 	hallway	2
+4 Sandra Burnhard went to the office.
+5 Sandra Burnhard journeyed to the kitchen.
+6 Where is Mary Geneva Doud? 	hallway	2
+7 Sandra Burnhard travelled to the bathroom.
+8 Daniel Conn journeyed to the office.
+9 Where is Daniel Conn? 	office	8
+10 John Colliani went back to the hallway.
+11 Daniel Conn journeyed to the bedroom.
+12 Where is Daniel Conn? 	bedroom	11
+13 Sandra Burnhard moved to the garden.
+14 Mary Geneva Doud went back to the bathroom.
+15 Where is Mary Geneva Doud? 	bathroom	14
+1 Daniel Conn journeyed to the bathroom.
+2 Daniel Conn travelled to the hallway.
+3 Where is Daniel Conn? 	hallway	2
+4 Sandra Burnhard went back to the bedroom.
+5 Sandra Burnhard travelled to the bathroom.
+6 Where is Sandra Burnhard? 	bathroom	5
+7 John Colliani went to the bathroom.
+8 Sandra Burnhard went to the garden.
+9 Where is John Colliani? 	bathroom	7
+10 Mary Geneva Doud journeyed to the hallway.
+11 Mary Geneva Doud travelled to the garden.
+12 Where is Mary Geneva Doud? 	garden	11
+13 Mary Geneva Doud went back to the bedroom.
+14 John Colliani went back to the bedroom.
+15 Where is Mary Geneva Doud? 	bedroom	13
+1 John Colliani moved to the bedroom.
+2 Mary Geneva Doud went back to the bedroom.
+3 Where is Mary Geneva Doud? 	bedroom	2
+4 Daniel Conn moved to the bathroom.
+5 Daniel Conn moved to the office.
+6 Where is John Colliani? 	bedroom	1
+7 Sandra Burnhard journeyed to the bedroom.
+8 Mary Geneva Doud moved to the garden.
+9 Where is Daniel Conn? 	office	5
+10 John Colliani went back to the garden.
+11 Sandra Burnhard went to the bathroom.
+12 Where is Sandra Burnhard? 	bathroom	11
+13 John Colliani travelled to the bedroom.
+14 Sandra Burnhard travelled to the kitchen.
+15 Where is Mary Geneva Doud? 	garden	8
+1 Daniel Conn moved to the garden.
+2 Sandra Burnhard moved to the bedroom.
+3 Where is Daniel Conn? 	garden	1
+4 Daniel Conn journeyed to the hallway.
+5 Sandra Burnhard went to the office.
+6 Where is Sandra Burnhard? 	office	5
+7 Daniel Conn moved to the bedroom.
+8 John Colliani went back to the bathroom.
+9 Where is Daniel Conn? 	bedroom	7
+10 Sandra Burnhard travelled to the kitchen.
+11 Sandra Burnhard went back to the bedroom.
+12 Where is Sandra Burnhard? 	bedroom	11
+13 John Colliani journeyed to the garden.
+14 Daniel Conn went back to the garden.
+15 Where is Sandra Burnhard? 	bedroom	11
+1 Daniel Conn went back to the office.
+2 Mary Geneva Doud went back to the hallway.
+3 Where is Mary Geneva Doud? 	hallway	2
+4 Sandra Burnhard journeyed to the bathroom.
+5 Sandra Burnhard travelled to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	2
+7 Mary Geneva Doud went back to the office.
+8 Daniel Conn went to the bathroom.
+9 Where is Daniel Conn? 	bathroom	8
+10 Mary Geneva Doud moved to the bathroom.
+11 John Colliani went to the bedroom.
+12 Where is Mary Geneva Doud? 	bathroom	10
+13 Daniel Conn went back to the bedroom.
+14 Sandra Burnhard travelled to the office.
+15 Where is Mary Geneva Doud? 	bathroom	10
+1 John Colliani went to the office.
+2 Mary Geneva Doud journeyed to the garden.
+3 Where is Mary Geneva Doud? 	garden	2
+4 John Colliani went to the garden.
+5 John Colliani journeyed to the hallway.
+6 Where is John Colliani? 	hallway	5
+7 Sandra Burnhard went to the hallway.
+8 John Colliani went to the bedroom.
+9 Where is Mary Geneva Doud? 	garden	2
+10 Sandra Burnhard moved to the bedroom.
+11 Mary Geneva Doud travelled to the hallway.
+12 Where is John Colliani? 	bedroom	8
+13 John Colliani travelled to the garden.
+14 Daniel Conn went back to the bedroom.
+15 Where is Sandra Burnhard? 	bedroom	10
+1 Sandra Burnhard travelled to the bathroom.
+2 Mary Geneva Doud travelled to the office.
+3 Where is Mary Geneva Doud? 	office	2
+4 Sandra Burnhard travelled to the hallway.
+5 Mary Geneva Doud moved to the bathroom.
+6 Where is Sandra Burnhard? 	hallway	4
+7 John Colliani went to the office.
+8 Sandra Burnhard journeyed to the office.
+9 Where is Sandra Burnhard? 	office	8
+10 John Colliani went back to the bathroom.
+11 John Colliani travelled to the kitchen.
+12 Where is John Colliani? 	kitchen	11
+13 John Colliani moved to the office.
+14 Daniel Conn went back to the kitchen.
+15 Where is Sandra Burnhard? 	office	8
+1 Mary Geneva Doud went back to the bedroom.
+2 Mary Geneva Doud moved to the bathroom.
+3 Where is Mary Geneva Doud? 	bathroom	2
+4 Sandra Burnhard travelled to the bedroom.
+5 Sandra Burnhard went to the office.
+6 Where is Sandra Burnhard? 	office	5
+7 Daniel Conn went to the garden.
+8 Daniel Conn journeyed to the bathroom.
+9 Where is Daniel Conn? 	bathroom	8
+10 Sandra Burnhard moved to the hallway.
+11 John Colliani journeyed to the kitchen.
+12 Where is Daniel Conn? 	bathroom	8
+13 Sandra Burnhard went to the office.
+14 John Colliani moved to the bathroom.
+15 Where is Daniel Conn? 	bathroom	8
+1 Daniel Conn went to the kitchen.
+2 Sandra Burnhard went to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	2
+4 John Colliani moved to the bedroom.
+5 Mary Geneva Doud went to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	5
+7 Mary Geneva Doud travelled to the kitchen.
+8 Sandra Burnhard journeyed to the hallway.
+9 Where is Sandra Burnhard? 	hallway	8
+10 Sandra Burnhard travelled to the bedroom.
+11 Daniel Conn journeyed to the garden.
+12 Where is Mary Geneva Doud? 	kitchen	7
+13 Sandra Burnhard journeyed to the office.
+14 Sandra Burnhard journeyed to the kitchen.
+15 Where is Daniel Conn? 	garden	11
+1 Daniel Conn travelled to the kitchen.
+2 Daniel Conn went to the hallway.
+3 Where is Daniel Conn? 	hallway	2
+4 Mary Geneva Doud travelled to the hallway.
+5 John Colliani went to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	4
+7 Sandra Burnhard moved to the garden.
+8 Mary Geneva Doud went to the kitchen.
+9 Where is John Colliani? 	hallway	5
+10 John Colliani moved to the garden.
+11 John Colliani went back to the bathroom.
+12 Where is John Colliani? 	bathroom	11
+13 Mary Geneva Doud went to the hallway.
+14 Daniel Conn moved to the kitchen.
+15 Where is Mary Geneva Doud? 	hallway	13
+1 John Colliani went back to the hallway.
+2 Daniel Conn journeyed to the bedroom.
+3 Where is John Colliani? 	hallway	1
+4 Sandra Burnhard went back to the bedroom.
+5 Sandra Burnhard moved to the bathroom.
+6 Where is Daniel Conn? 	bedroom	2
+7 John Colliani went to the office.
+8 John Colliani travelled to the garden.
+9 Where is John Colliani? 	garden	8
+10 John Colliani went to the bedroom.
+11 Mary Geneva Doud went back to the kitchen.
+12 Where is Sandra Burnhard? 	bathroom	5
+13 Mary Geneva Doud went back to the garden.
+14 Mary Geneva Doud journeyed to the bedroom.
+15 Where is Mary Geneva Doud? 	bedroom	14
+1 Daniel Conn journeyed to the kitchen.
+2 Daniel Conn went back to the bedroom.
+3 Where is Daniel Conn? 	bedroom	2
+4 Sandra Burnhard travelled to the bathroom.
+5 Sandra Burnhard moved to the kitchen.
+6 Where is Sandra Burnhard? 	kitchen	5
+7 Sandra Burnhard journeyed to the bedroom.
+8 Mary Geneva Doud went to the kitchen.
+9 Where is Sandra Burnhard? 	bedroom	7
+10 Daniel Conn moved to the bathroom.
+11 Sandra Burnhard moved to the office.
+12 Where is Daniel Conn? 	bathroom	10
+13 Sandra Burnhard travelled to the hallway.
+14 John Colliani went to the kitchen.
+15 Where is Mary Geneva Doud? 	kitchen	8
+1 John Colliani went to the hallway.
+2 Daniel Conn moved to the garden.
+3 Where is Daniel Conn? 	garden	2
+4 John Colliani went back to the bedroom.
+5 Mary Geneva Doud journeyed to the garden.
+6 Where is John Colliani? 	bedroom	4
+7 Sandra Burnhard went back to the kitchen.
+8 Daniel Conn went to the hallway.
+9 Where is Sandra Burnhard? 	kitchen	7
+10 John Colliani went back to the bathroom.
+11 Daniel Conn went back to the kitchen.
+12 Where is John Colliani? 	bathroom	10
+13 Daniel Conn went to the bedroom.
+14 John Colliani travelled to the hallway.
+15 Where is Daniel Conn? 	bedroom	13
+1 Daniel Conn travelled to the bathroom.
+2 Sandra Burnhard moved to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	2
+4 Mary Geneva Doud moved to the bedroom.
+5 Mary Geneva Doud journeyed to the garden.
+6 Where is Daniel Conn? 	bathroom	1
+7 Mary Geneva Doud moved to the hallway.
+8 Sandra Burnhard went back to the hallway.
+9 Where is Sandra Burnhard? 	hallway	8
+10 Mary Geneva Doud went to the kitchen.
+11 John Colliani went to the garden.
+12 Where is Mary Geneva Doud? 	kitchen	10
+13 John Colliani moved to the office.
+14 Daniel Conn went back to the bedroom.
+15 Where is John Colliani? 	office	13
+1 Sandra Burnhard moved to the office.
+2 John Colliani went back to the garden.
+3 Where is John Colliani? 	garden	2
+4 Daniel Conn travelled to the office.
+5 Sandra Burnhard journeyed to the bathroom.
+6 Where is Sandra Burnhard? 	bathroom	5
+7 John Colliani moved to the kitchen.
+8 John Colliani moved to the bathroom.
+9 Where is Sandra Burnhard? 	bathroom	5
+10 Sandra Burnhard journeyed to the hallway.
+11 Daniel Conn went to the bathroom.
+12 Where is Daniel Conn? 	bathroom	11
+13 Sandra Burnhard went to the bathroom.
+14 Sandra Burnhard journeyed to the hallway.
+15 Where is Sandra Burnhard? 	hallway	14
+1 John Colliani travelled to the kitchen.
+2 John Colliani went to the bathroom.
+3 Where is John Colliani? 	bathroom	2
+4 Sandra Burnhard travelled to the bedroom.
+5 Sandra Burnhard journeyed to the garden.
+6 Where is John Colliani? 	bathroom	2
+7 John Colliani journeyed to the bedroom.
+8 John Colliani journeyed to the bathroom.
+9 Where is John Colliani? 	bathroom	8
+10 Mary Geneva Doud travelled to the kitchen.
+11 Mary Geneva Doud journeyed to the garden.
+12 Where is John Colliani? 	bathroom	8
+13 John Colliani journeyed to the office.
+14 Daniel Conn journeyed to the bathroom.
+15 Where is Daniel Conn? 	bathroom	14
+1 Mary Geneva Doud moved to the bedroom.
+2 Sandra Burnhard travelled to the garden.
+3 Where is Mary Geneva Doud? 	bedroom	1
+4 Sandra Burnhard journeyed to the kitchen.
+5 Sandra Burnhard moved to the garden.
+6 Where is Sandra Burnhard? 	garden	5
+7 Sandra Burnhard travelled to the kitchen.
+8 Daniel Conn went to the garden.
+9 Where is Daniel Conn? 	garden	8
+10 John Colliani went to the hallway.
+11 Mary Geneva Doud travelled to the hallway.
+12 Where is John Colliani? 	hallway	10
+13 Daniel Conn went back to the hallway.
+14 Daniel Conn moved to the bathroom.
+15 Where is Mary Geneva Doud? 	hallway	11
+1 Daniel Conn went to the bedroom.
+2 Mary Geneva Doud went to the kitchen.
+3 Where is Mary Geneva Doud? 	kitchen	2
+4 Mary Geneva Doud travelled to the bedroom.
+5 John Colliani journeyed to the bathroom.
+6 Where is Mary Geneva Doud? 	bedroom	4
+7 Sandra Burnhard moved to the garden.
+8 Sandra Burnhard went to the office.
+9 Where is Mary Geneva Doud? 	bedroom	4
+10 Daniel Conn went back to the hallway.
+11 Sandra Burnhard moved to the kitchen.
+12 Where is Sandra Burnhard? 	kitchen	11
+13 Mary Geneva Doud travelled to the bathroom.
+14 Sandra Burnhard journeyed to the bedroom.
+15 Where is Sandra Burnhard? 	bedroom	14
+1 Daniel Conn went to the kitchen.
+2 Daniel Conn went back to the garden.
+3 Where is Daniel Conn? 	garden	2
+4 Daniel Conn went back to the office.
+5 John Colliani travelled to the kitchen.
+6 Where is Daniel Conn? 	office	4
+7 Sandra Burnhard moved to the bedroom.
+8 John Colliani went to the office.
+9 Where is Daniel Conn? 	office	4
+10 Mary Geneva Doud journeyed to the office.
+11 Sandra Burnhard moved to the kitchen.
+12 Where is Mary Geneva Doud? 	office	10
+13 Sandra Burnhard moved to the office.
+14 John Colliani travelled to the garden.
+15 Where is John Colliani? 	garden	14
+1 Sandra Burnhard journeyed to the hallway.
+2 Mary Geneva Doud travelled to the bathroom.
+3 Where is Mary Geneva Doud? 	bathroom	2
+4 John Colliani moved to the office.
+5 Mary Geneva Doud moved to the bedroom.
+6 Where is Mary Geneva Doud? 	bedroom	5
+7 Mary Geneva Doud journeyed to the kitchen.
+8 Mary Geneva Doud went back to the bathroom.
+9 Where is John Colliani? 	office	4
+10 John Colliani moved to the bathroom.
+11 Mary Geneva Doud went back to the kitchen.
+12 Where is Mary Geneva Doud? 	kitchen	11
+13 Sandra Burnhard journeyed to the bedroom.
+14 Daniel Conn went back to the kitchen.
+15 Where is John Colliani? 	bathroom	10
+1 Sandra Burnhard moved to the hallway.
+2 John Colliani went back to the hallway.
+3 Where is Sandra Burnhard? 	hallway	1
+4 Daniel Conn moved to the garden.
+5 Daniel Conn went to the bathroom.
+6 Where is Sandra Burnhard? 	hallway	1
+7 Daniel Conn moved to the hallway.
+8 Sandra Burnhard went to the kitchen.
+9 Where is Sandra Burnhard? 	kitchen	8
+10 Daniel Conn journeyed to the kitchen.
+11 Daniel Conn went to the garden.
+12 Where is Daniel Conn? 	garden	11
+13 Daniel Conn moved to the bathroom.
+14 Mary Geneva Doud went to the office.
+15 Where is Daniel Conn? 	bathroom	13
+1 Sandra Burnhard travelled to the office.
+2 Sandra Burnhard went to the garden.
+3 Where is Sandra Burnhard? 	garden	2
+4 Mary Geneva Doud went back to the garden.
+5 Daniel Conn went to the kitchen.
+6 Where is Mary Geneva Doud? 	garden	4
+7 Sandra Burnhard moved to the bathroom.
+8 Sandra Burnhard travelled to the garden.
+9 Where is Daniel Conn? 	kitchen	5
+10 Mary Geneva Doud went to the bedroom.
+11 Mary Geneva Doud went to the garden.
+12 Where is Sandra Burnhard? 	garden	8
+13 Sandra Burnhard moved to the hallway.
+14 Mary Geneva Doud moved to the bathroom.
+15 Where is Mary Geneva Doud? 	bathroom	14
+1 Daniel Conn journeyed to the kitchen.
+2 John Colliani went back to the kitchen.
+3 Where is John Colliani? 	kitchen	2
+4 Mary Geneva Doud went to the hallway.
+5 John Colliani moved to the office.
+6 Where is John Colliani? 	office	5
+7 Daniel Conn travelled to the hallway.
+8 Mary Geneva Doud went to the garden.
+9 Where is John Colliani? 	office	5
+10 Mary Geneva Doud went back to the office.
+11 Mary Geneva Doud went to the garden.
+12 Where is Mary Geneva Doud? 	garden	11
+13 Sandra Burnhard moved to the bathroom.
+14 Daniel Conn moved to the office.
+15 Where is Mary Geneva Doud? 	garden	11
+1 John Colliani went to the kitchen.
+2 John Colliani moved to the garden.
+3 Where is John Colliani? 	garden	2
+4 Daniel Conn went back to the bedroom.
+5 Sandra Burnhard moved to the office.
+6 Where is Sandra Burnhard? 	office	5
+7 Sandra Burnhard journeyed to the garden.
+8 John Colliani moved to the bathroom.
+9 Where is Sandra Burnhard? 	garden	7
+10 Daniel Conn travelled to the bathroom.
+11 John Colliani travelled to the garden.
+12 Where is John Colliani? 	garden	11
+13 Mary Geneva Doud went back to the bathroom.
+14 Sandra Burnhard travelled to the hallway.
+15 Where is John Colliani? 	garden	11
+1 Sandra Burnhard went to the garden.
+2 Mary Geneva Doud travelled to the garden.
+3 Where is Sandra Burnhard? 	garden	1
+4 Sandra Burnhard travelled to the kitchen.
+5 Daniel Conn went back to the bedroom.
+6 Where is Mary Geneva Doud? 	garden	2
+7 Daniel Conn went to the kitchen.
+8 Sandra Burnhard travelled to the garden.
+9 Where is Sandra Burnhard? 	garden	8
+10 Mary Geneva Doud went back to the bedroom.
+11 Mary Geneva Doud travelled to the kitchen.
+12 Where is Daniel Conn? 	kitchen	7
+13 John Colliani travelled to the bathroom.
+14 Mary Geneva Doud travelled to the hallway.
+15 Where is Sandra Burnhard? 	garden	8
+1 Daniel Conn travelled to the bathroom.
+2 Sandra Burnhard moved to the hallway.
+3 Where is Sandra Burnhard? 	hallway	2
+4 Sandra Burnhard went to the office.
+5 Mary Geneva Doud journeyed to the kitchen.
+6 Where is Mary Geneva Doud? 	kitchen	5
+7 Daniel Conn went to the kitchen.
+8 Mary Geneva Doud went back to the garden.
+9 Where is Mary Geneva Doud? 	garden	8
+10 Daniel Conn moved to the bedroom.
+11 Sandra Burnhard travelled to the garden.
+12 Where is Daniel Conn? 	bedroom	10
+13 Daniel Conn went back to the hallway.
+14 John Colliani moved to the bedroom.
+15 Where is Sandra Burnhard? 	garden	11
+1 Mary Geneva Doud travelled to the bedroom.
+2 Daniel Conn travelled to the office.
+3 Where is Mary Geneva Doud? 	bedroom	1
+4 Daniel Conn journeyed to the hallway.
+5 Mary Geneva Doud travelled to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	5
+7 Sandra Burnhard travelled to the kitchen.
+8 Mary Geneva Doud travelled to the kitchen.
+9 Where is Daniel Conn? 	hallway	4
+10 John Colliani journeyed to the garden.
+11 Daniel Conn went to the bathroom.
+12 Where is Sandra Burnhard? 	kitchen	7
+13 Daniel Conn moved to the garden.
+14 John Colliani went to the kitchen.
+15 Where is Daniel Conn? 	garden	13
+1 Sandra Burnhard went back to the office.
+2 Sandra Burnhard moved to the bathroom.
+3 Where is Sandra Burnhard? 	bathroom	2
+4 Mary Geneva Doud travelled to the office.
+5 Mary Geneva Doud moved to the hallway.
+6 Where is Sandra Burnhard? 	bathroom	2
+7 Mary Geneva Doud went to the bedroom.
+8 Mary Geneva Doud journeyed to the office.
+9 Where is Mary Geneva Doud? 	office	8
+10 Mary Geneva Doud journeyed to the bathroom.
+11 Sandra Burnhard travelled to the garden.
+12 Where is Sandra Burnhard? 	garden	11
+13 Mary Geneva Doud went to the kitchen.
+14 John Colliani travelled to the hallway.
+15 Where is Mary Geneva Doud? 	kitchen	13
+1 Sandra Burnhard went to the kitchen.
+2 Daniel Conn went back to the bathroom.
+3 Where is Sandra Burnhard? 	kitchen	1
+4 Daniel Conn journeyed to the hallway.
+5 Mary Geneva Doud journeyed to the kitchen.
+6 Where is Mary Geneva Doud? 	kitchen	5
+7 Sandra Burnhard travelled to the bedroom.
+8 Sandra Burnhard went to the office.
+9 Where is Sandra Burnhard? 	office	8
+10 Mary Geneva Doud moved to the office.
+11 Sandra Burnhard went back to the hallway.
+12 Where is Mary Geneva Doud? 	office	10
+13 John Colliani travelled to the bedroom.
+14 Daniel Conn journeyed to the office.
+15 Where is Mary Geneva Doud? 	office	10
+1 John Colliani travelled to the hallway.
+2 Mary Geneva Doud travelled to the bathroom.
+3 Where is John Colliani? 	hallway	1
+4 Sandra Burnhard went to the bedroom.
+5 Daniel Conn moved to the office.
+6 Where is Daniel Conn? 	office	5
+7 Daniel Conn travelled to the hallway.
+8 Daniel Conn journeyed to the bathroom.
+9 Where is Sandra Burnhard? 	bedroom	4
+10 Daniel Conn went to the hallway.
+11 Mary Geneva Doud journeyed to the office.
+12 Where is Daniel Conn? 	hallway	10
+13 Mary Geneva Doud travelled to the bathroom.
+14 Sandra Burnhard journeyed to the garden.
+15 Where is Mary Geneva Doud? 	bathroom	13
+1 Daniel Conn journeyed to the bedroom.
+2 Daniel Conn moved to the kitchen.
+3 Where is Daniel Conn? 	kitchen	2
+4 Mary Geneva Doud travelled to the kitchen.
+5 Mary Geneva Doud moved to the bathroom.
+6 Where is Daniel Conn? 	kitchen	2
+7 John Colliani travelled to the office.
+8 Daniel Conn went to the hallway.
+9 Where is John Colliani? 	office	7
+10 John Colliani went back to the garden.
+11 Sandra Burnhard travelled to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	5
+13 Sandra Burnhard journeyed to the office.
+14 John Colliani went to the bathroom.
+15 Where is John Colliani? 	bathroom	14
+1 Sandra Burnhard travelled to the bathroom.
+2 Sandra Burnhard moved to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	2
+4 Sandra Burnhard journeyed to the bathroom.
+5 Sandra Burnhard journeyed to the bedroom.
+6 Where is Sandra Burnhard? 	bedroom	5
+7 Sandra Burnhard journeyed to the hallway.
+8 Mary Geneva Doud went to the kitchen.
+9 Where is Sandra Burnhard? 	hallway	7
+10 John Colliani went back to the garden.
+11 Mary Geneva Doud went to the office.
+12 Where is Mary Geneva Doud? 	office	11
+13 Daniel Conn journeyed to the office.
+14 Mary Geneva Doud went back to the bedroom.
+15 Where is John Colliani? 	garden	10
+1 John Colliani travelled to the office.
+2 Daniel Conn went back to the bedroom.
+3 Where is John Colliani? 	office	1
+4 Sandra Burnhard travelled to the hallway.
+5 Daniel Conn journeyed to the office.
+6 Where is Daniel Conn? 	office	5
+7 Daniel Conn travelled to the bathroom.
+8 Mary Geneva Doud travelled to the garden.
+9 Where is Daniel Conn? 	bathroom	7
+10 Mary Geneva Doud went to the bedroom.
+11 Sandra Burnhard moved to the office.
+12 Where is Daniel Conn? 	bathroom	7
+13 Mary Geneva Doud went to the kitchen.
+14 Sandra Burnhard went to the kitchen.
+15 Where is Mary Geneva Doud? 	kitchen	13
+1 John Colliani went back to the hallway.
+2 Sandra Burnhard moved to the bedroom.
+3 Where is Sandra Burnhard? 	bedroom	2
+4 Sandra Burnhard went to the bathroom.
+5 Daniel Conn went back to the office.
+6 Where is Daniel Conn? 	office	5
+7 Sandra Burnhard went to the kitchen.
+8 Sandra Burnhard moved to the bedroom.
+9 Where is Daniel Conn? 	office	5
+10 John Colliani journeyed to the garden.
+11 Mary Geneva Doud travelled to the hallway.
+12 Where is Mary Geneva Doud? 	hallway	11
+13 Mary Geneva Doud went to the office.
+14 Daniel Conn travelled to the bedroom.
+15 Where is Sandra Burnhard? 	bedroom	8
+1 Mary Geneva Doud travelled to the kitchen.
+2 Mary Geneva Doud moved to the hallway.
+3 Where is Mary Geneva Doud? 	hallway	2
+4 John Colliani went to the office.
+5 John Colliani went back to the garden.
+6 Where is John Colliani? 	garden	5
+7 John Colliani moved to the hallway.
+8 Sandra Burnhard travelled to the hallway.
+9 Where is John Colliani? 	hallway	7
+10 Mary Geneva Doud moved to the garden.
+11 Daniel Conn journeyed to the hallway.
+12 Where is Mary Geneva Doud? 	garden	10
+13 Daniel Conn went to the bedroom.
+14 Mary Geneva Doud travelled to the bedroom.
+15 Where is Sandra Burnhard? 	hallway	8
+1 Mary Geneva Doud journeyed to the office.
+2 Sandra Burnhard travelled to the bathroom.
+3 Where is Mary Geneva Doud? 	office	1
+4 Sandra Burnhard travelled to the office.
+5 Mary Geneva Doud went back to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	5
+7 Daniel Conn went back to the office.
+8 Sandra Burnhard went to the bathroom.
+9 Where is Sandra Burnhard? 	bathroom	8
+10 John Colliani journeyed to the bedroom.
+11 Sandra Burnhard went back to the office.
+12 Where is John Colliani? 	bedroom	10
+13 Daniel Conn went to the bedroom.
+14 Sandra Burnhard travelled to the garden.
+15 Where is Sandra Burnhard? 	garden	14
+1 Mary Geneva Doud journeyed to the hallway.
+2 Sandra Burnhard went to the garden.
+3 Where is Mary Geneva Doud? 	hallway	1
+4 Sandra Burnhard journeyed to the hallway.
+5 Mary Geneva Doud journeyed to the bathroom.
+6 Where is Mary Geneva Doud? 	bathroom	5
+7 John Colliani went to the bathroom.
+8 Mary Geneva Doud went back to the kitchen.
+9 Where is Mary Geneva Doud? 	kitchen	8
+10 Daniel Conn went back to the bedroom.
+11 Sandra Burnhard travelled to the bathroom.
+12 Where is Sandra Burnhard? 	bathroom	11
+13 Sandra Burnhard journeyed to the bedroom.
+14 Sandra Burnhard went to the office.
+15 Where is Sandra Burnhard? 	office	14
+1 Mary Geneva Doud went back to the bedroom.
+2 Mary Geneva Doud travelled to the garden.
+3 Where is Mary Geneva Doud? 	garden	2
+4 John Colliani journeyed to the kitchen.
+5 Sandra Burnhard went back to the office.
+6 Where is Mary Geneva Doud? 	garden	2
+7 Mary Geneva Doud journeyed to the bedroom.
+8 Sandra Burnhard travelled to the bathroom.
+9 Where is John Colliani? 	kitchen	4
+10 Daniel Conn journeyed to the garden.
+11 Mary Geneva Doud went back to the hallway.
+12 Where is Mary Geneva Doud? 	hallway	11
+13 John Colliani moved to the bedroom.
+14 Mary Geneva Doud travelled to the kitchen.
+15 Where is Daniel Conn? 	garden	10
+1 Sandra Burnhard went back to the garden.
+2 Sandra Burnhard went to the hallway.
+3 Where is Sandra Burnhard? 	hallway	2
+4 Mary Geneva Doud went back to the garden.
+5 Sandra Burnhard journeyed to the office.
+6 Where is Sandra Burnhard? 	office	5
+7 Sandra Burnhard travelled to the hallway.
+8 Sandra Burnhard moved to the bedroom.
+9 Where is Mary Geneva Doud? 	garden	4
+10 Daniel Conn moved to the office.
+11 Mary Geneva Doud journeyed to the hallway.
+12 Where is Daniel Conn? 	office	10
+13 Mary Geneva Doud journeyed to the bedroom.
+14 Daniel Conn went back to the kitchen.
+15 Where is Mary Geneva Doud? 	bedroom	13
+1 Sandra Burnhard journeyed to the garden.
+2 Sandra Burnhard journeyed to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	2
+4 Daniel Conn journeyed to the bedroom.
+5 Sandra Burnhard moved to the garden.
+6 Where is Sandra Burnhard? 	garden	5
+7 Mary Geneva Doud journeyed to the office.
+8 Mary Geneva Doud journeyed to the bathroom.
+9 Where is Mary Geneva Doud? 	bathroom	8
+10 Daniel Conn journeyed to the garden.
+11 Mary Geneva Doud went back to the bedroom.
+12 Where is Daniel Conn? 	garden	10
+13 Sandra Burnhard went back to the kitchen.
+14 Sandra Burnhard travelled to the bedroom.
+15 Where is Sandra Burnhard? 	bedroom	14
+1 Daniel Conn went to the hallway.
+2 Daniel Conn moved to the bedroom.
+3 Where is Daniel Conn? 	bedroom	2
+4 Sandra Burnhard moved to the office.
+5 Daniel Conn journeyed to the hallway.
+6 Where is Daniel Conn? 	hallway	5
+7 John Colliani journeyed to the bathroom.
+8 Sandra Burnhard went to the garden.
+9 Where is Daniel Conn? 	hallway	5
+10 John Colliani moved to the garden.
+11 Mary Geneva Doud journeyed to the garden.
+12 Where is John Colliani? 	garden	10
+13 Mary Geneva Doud went to the office.
+14 Sandra Burnhard journeyed to the hallway.
+15 Where is John Colliani? 	garden	10
+1 John Colliani travelled to the garden.
+2 Daniel Conn journeyed to the bedroom.
+3 Where is John Colliani? 	garden	1
+4 Sandra Burnhard went back to the garden.
+5 Mary Geneva Doud went to the kitchen.
+6 Where is John Colliani? 	garden	1
+7 John Colliani travelled to the kitchen.
+8 Sandra Burnhard moved to the bedroom.
+9 Where is Sandra Burnhard? 	bedroom	8
+10 Daniel Conn moved to the garden.
+11 Daniel Conn travelled to the bedroom.
+12 Where is Daniel Conn? 	bedroom	11
+13 Mary Geneva Doud journeyed to the office.
+14 Sandra Burnhard moved to the bathroom.
+15 Where is Daniel Conn? 	bedroom	11
+1 John Colliani travelled to the bathroom.
+2 Sandra Burnhard went to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	2
+4 Daniel Conn went to the garden.
+5 Mary Geneva Doud moved to the bedroom.
+6 Where is Mary Geneva Doud? 	bedroom	5
+7 Sandra Burnhard moved to the bathroom.
+8 John Colliani moved to the hallway.
+9 Where is Sandra Burnhard? 	bathroom	7
+10 John Colliani went back to the kitchen.
+11 Daniel Conn journeyed to the hallway.
+12 Where is John Colliani? 	kitchen	10
+13 Daniel Conn went back to the office.
+14 Sandra Burnhard went back to the hallway.
+15 Where is John Colliani? 	kitchen	10
+1 Sandra Burnhard moved to the office.
+2 Mary Geneva Doud went back to the bathroom.
+3 Where is Sandra Burnhard? 	office	1
+4 Mary Geneva Doud travelled to the office.
+5 Sandra Burnhard moved to the kitchen.
+6 Where is Mary Geneva Doud? 	office	4
+7 Sandra Burnhard moved to the bedroom.
+8 Mary Geneva Doud went back to the garden.
+9 Where is Mary Geneva Doud? 	garden	8
+10 John Colliani went to the hallway.
+11 Daniel Conn went back to the bathroom.
+12 Where is Daniel Conn? 	bathroom	11
+13 John Colliani travelled to the garden.
+14 John Colliani went back to the bathroom.
+15 Where is John Colliani? 	bathroom	14
+1 Mary Geneva Doud travelled to the garden.
+2 Daniel Conn went to the garden.
+3 Where is Daniel Conn? 	garden	2
+4 Mary Geneva Doud journeyed to the kitchen.
+5 Mary Geneva Doud went back to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	5
+7 Daniel Conn travelled to the office.
+8 Daniel Conn moved to the garden.
+9 Where is Mary Geneva Doud? 	hallway	5
+10 Sandra Burnhard went back to the kitchen.
+11 John Colliani travelled to the bathroom.
+12 Where is Mary Geneva Doud? 	hallway	5
+13 Daniel Conn went to the kitchen.
+14 Mary Geneva Doud moved to the office.
+15 Where is Sandra Burnhard? 	kitchen	10
+1 Mary Geneva Doud went to the office.
+2 Sandra Burnhard travelled to the bathroom.
+3 Where is Mary Geneva Doud? 	office	1
+4 Sandra Burnhard went to the hallway.
+5 Daniel Conn journeyed to the kitchen.
+6 Where is Sandra Burnhard? 	hallway	4
+7 Sandra Burnhard travelled to the office.
+8 John Colliani journeyed to the bedroom.
+9 Where is Sandra Burnhard? 	office	7
+10 Daniel Conn moved to the hallway.
+11 Sandra Burnhard went to the hallway.
+12 Where is Daniel Conn? 	hallway	10
+13 John Colliani journeyed to the garden.
+14 Sandra Burnhard went back to the garden.
+15 Where is Daniel Conn? 	hallway	10
+1 Sandra Burnhard journeyed to the garden.
+2 Daniel Conn travelled to the bathroom.
+3 Where is Sandra Burnhard? 	garden	1
+4 Sandra Burnhard went to the bedroom.
+5 Sandra Burnhard travelled to the hallway.
+6 Where is Sandra Burnhard? 	hallway	5
+7 Sandra Burnhard travelled to the office.
+8 Sandra Burnhard went back to the garden.
+9 Where is Sandra Burnhard? 	garden	8
+10 John Colliani journeyed to the hallway.
+11 John Colliani moved to the bedroom.
+12 Where is John Colliani? 	bedroom	11
+13 Sandra Burnhard moved to the kitchen.
+14 John Colliani journeyed to the kitchen.
+15 Where is John Colliani? 	kitchen	14
+1 Sandra Burnhard went to the bedroom.
+2 Mary Geneva Doud moved to the bedroom.
+3 Where is Mary Geneva Doud? 	bedroom	2
+4 John Colliani went to the office.
+5 Daniel Conn journeyed to the garden.
+6 Where is John Colliani? 	office	4
+7 Mary Geneva Doud travelled to the bathroom.
+8 Daniel Conn moved to the hallway.
+9 Where is Mary Geneva Doud? 	bathroom	7
+10 Daniel Conn travelled to the garden.
+11 John Colliani moved to the garden.
+12 Where is Mary Geneva Doud? 	bathroom	7
+13 Mary Geneva Doud went to the garden.
+14 Mary Geneva Doud went to the bedroom.
+15 Where is Mary Geneva Doud? 	bedroom	14
+1 Mary Geneva Doud moved to the kitchen.
+2 John Colliani travelled to the office.
+3 Where is John Colliani? 	office	2
+4 Daniel Conn went to the hallway.
+5 Daniel Conn went back to the kitchen.
+6 Where is Daniel Conn? 	kitchen	5
+7 Sandra Burnhard went back to the hallway.
+8 John Colliani travelled to the bedroom.
+9 Where is John Colliani? 	bedroom	8
+10 Daniel Conn travelled to the garden.
+11 Mary Geneva Doud moved to the office.
+12 Where is Daniel Conn? 	garden	10
+13 Mary Geneva Doud journeyed to the garden.
+14 John Colliani went to the office.
+15 Where is Daniel Conn? 	garden	10
+1 Daniel Conn went to the bedroom.
+2 Mary Geneva Doud travelled to the bathroom.
+3 Where is Daniel Conn? 	bedroom	1
+4 John Colliani went back to the kitchen.
+5 John Colliani travelled to the hallway.
+6 Where is Daniel Conn? 	bedroom	1
+7 Mary Geneva Doud travelled to the hallway.
+8 John Colliani travelled to the garden.
+9 Where is John Colliani? 	garden	8
+10 Sandra Burnhard went to the office.
+11 Mary Geneva Doud moved to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	11
+13 Mary Geneva Doud journeyed to the garden.
+14 John Colliani went to the hallway.
+15 Where is John Colliani? 	hallway	14
+1 John Colliani moved to the hallway.
+2 Mary Geneva Doud moved to the garden.
+3 Where is John Colliani? 	hallway	1
+4 Daniel Conn travelled to the garden.
+5 Mary Geneva Doud went to the bathroom.
+6 Where is John Colliani? 	hallway	1
+7 Mary Geneva Doud went back to the bedroom.
+8 John Colliani went to the kitchen.
+9 Where is Mary Geneva Doud? 	bedroom	7
+10 Sandra Burnhard went back to the hallway.
+11 John Colliani went to the bathroom.
+12 Where is Mary Geneva Doud? 	bedroom	7
+13 Mary Geneva Doud went back to the office.
+14 John Colliani travelled to the bedroom.
+15 Where is Sandra Burnhard? 	hallway	10
+1 John Colliani went to the bedroom.
+2 Daniel Conn journeyed to the bedroom.
+3 Where is John Colliani? 	bedroom	1
+4 Daniel Conn journeyed to the kitchen.
+5 Sandra Burnhard went back to the bedroom.
+6 Where is John Colliani? 	bedroom	1
+7 Mary Geneva Doud journeyed to the hallway.
+8 Daniel Conn journeyed to the hallway.
+9 Where is Daniel Conn? 	hallway	8
+10 Daniel Conn went to the bedroom.
+11 Mary Geneva Doud journeyed to the garden.
+12 Where is Mary Geneva Doud? 	garden	11
+13 John Colliani went to the office.
+14 John Colliani moved to the hallway.
+15 Where is John Colliani? 	hallway	14
+1 John Colliani went back to the hallway.
+2 Daniel Conn moved to the garden.
+3 Where is John Colliani? 	hallway	1
+4 Sandra Burnhard travelled to the bathroom.
+5 Mary Geneva Doud went back to the office.
+6 Where is Daniel Conn? 	garden	2
+7 Sandra Burnhard travelled to the hallway.
+8 Sandra Burnhard went back to the bedroom.
+9 Where is Daniel Conn? 	garden	2
+10 Daniel Conn moved to the bedroom.
+11 Daniel Conn travelled to the hallway.
+12 Where is Daniel Conn? 	hallway	11
+13 Daniel Conn travelled to the garden.
+14 Daniel Conn moved to the hallway.
+15 Where is Daniel Conn? 	hallway	14
+1 Mary Geneva Doud went back to the kitchen.
+2 Sandra Burnhard travelled to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	2
+4 John Colliani moved to the bathroom.
+5 Sandra Burnhard travelled to the bedroom.
+6 Where is Sandra Burnhard? 	bedroom	5
+7 John Colliani went to the hallway.
+8 Daniel Conn went to the hallway.
+9 Where is John Colliani? 	hallway	7
+10 John Colliani went to the kitchen.
+11 Sandra Burnhard moved to the kitchen.
+12 Where is John Colliani? 	kitchen	10
+13 Daniel Conn travelled to the kitchen.
+14 Daniel Conn moved to the office.
+15 Where is Sandra Burnhard? 	kitchen	11
+1 Sandra Burnhard went to the kitchen.
+2 Mary Geneva Doud moved to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	1
+4 Sandra Burnhard moved to the hallway.
+5 Mary Geneva Doud went to the office.
+6 Where is Mary Geneva Doud? 	office	5
+7 Daniel Conn journeyed to the garden.
+8 Sandra Burnhard journeyed to the garden.
+9 Where is Mary Geneva Doud? 	office	5
+10 Daniel Conn went back to the kitchen.
+11 Sandra Burnhard moved to the office.
+12 Where is Daniel Conn? 	kitchen	10
+13 Daniel Conn moved to the bedroom.
+14 John Colliani travelled to the bathroom.
+15 Where is John Colliani? 	bathroom	14
+1 Daniel Conn went back to the hallway.
+2 Mary Geneva Doud travelled to the kitchen.
+3 Where is Daniel Conn? 	hallway	1
+4 John Colliani went back to the office.
+5 John Colliani journeyed to the bathroom.
+6 Where is Mary Geneva Doud? 	kitchen	2
+7 John Colliani travelled to the kitchen.
+8 John Colliani went to the bedroom.
+9 Where is John Colliani? 	bedroom	8
+10 Mary Geneva Doud moved to the bathroom.
+11 John Colliani journeyed to the garden.
+12 Where is John Colliani? 	garden	11
+13 Daniel Conn journeyed to the kitchen.
+14 Daniel Conn travelled to the bathroom.
+15 Where is Daniel Conn? 	bathroom	14
+1 Daniel Conn travelled to the hallway.
+2 John Colliani journeyed to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 John Colliani journeyed to the office.
+5 Daniel Conn went to the kitchen.
+6 Where is John Colliani? 	office	4
+7 Daniel Conn travelled to the hallway.
+8 John Colliani journeyed to the hallway.
+9 Where is John Colliani? 	hallway	8
+10 Daniel Conn travelled to the kitchen.
+11 Daniel Conn went back to the hallway.
+12 Where is Daniel Conn? 	hallway	11
+13 John Colliani went to the office.
+14 John Colliani went to the bathroom.
+15 Where is John Colliani? 	bathroom	14
+1 John Colliani went to the bedroom.
+2 John Colliani went back to the office.
+3 Where is John Colliani? 	office	2
+4 Daniel Conn moved to the bathroom.
+5 Mary Geneva Doud journeyed to the garden.
+6 Where is Daniel Conn? 	bathroom	4
+7 Sandra Burnhard moved to the kitchen.
+8 Sandra Burnhard went to the bathroom.
+9 Where is John Colliani? 	office	2
+10 Daniel Conn went to the bedroom.
+11 Sandra Burnhard went to the hallway.
+12 Where is Sandra Burnhard? 	hallway	11
+13 John Colliani went back to the bedroom.
+14 Mary Geneva Doud moved to the kitchen.
+15 Where is John Colliani? 	bedroom	13
+1 Mary Geneva Doud went back to the kitchen.
+2 John Colliani went back to the office.
+3 Where is John Colliani? 	office	2
+4 Daniel Conn journeyed to the bedroom.
+5 Mary Geneva Doud travelled to the bathroom.
+6 Where is Daniel Conn? 	bedroom	4
+7 John Colliani journeyed to the kitchen.
+8 Sandra Burnhard journeyed to the kitchen.
+9 Where is Mary Geneva Doud? 	bathroom	5
+10 Daniel Conn travelled to the office.
+11 Daniel Conn journeyed to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	5
+13 John Colliani travelled to the office.
+14 Daniel Conn went back to the kitchen.
+15 Where is Daniel Conn? 	kitchen	14
+1 Mary Geneva Doud moved to the bedroom.
+2 Sandra Burnhard moved to the garden.
+3 Where is Sandra Burnhard? 	garden	2
+4 John Colliani travelled to the office.
+5 Sandra Burnhard journeyed to the office.
+6 Where is John Colliani? 	office	4
+7 Mary Geneva Doud journeyed to the garden.
+8 Sandra Burnhard journeyed to the hallway.
+9 Where is Sandra Burnhard? 	hallway	8
+10 Daniel Conn went back to the kitchen.
+11 Sandra Burnhard went back to the garden.
+12 Where is Mary Geneva Doud? 	garden	7
+13 Sandra Burnhard moved to the kitchen.
+14 John Colliani went back to the bathroom.
+15 Where is Daniel Conn? 	kitchen	10
+1 Sandra Burnhard went to the garden.
+2 Mary Geneva Doud journeyed to the office.
+3 Where is Sandra Burnhard? 	garden	1
+4 John Colliani went to the hallway.
+5 Sandra Burnhard journeyed to the bathroom.
+6 Where is Mary Geneva Doud? 	office	2
+7 Daniel Conn went to the hallway.
+8 Daniel Conn went to the office.
+9 Where is Daniel Conn? 	office	8
+10 Mary Geneva Doud moved to the garden.
+11 Mary Geneva Doud moved to the office.
+12 Where is Daniel Conn? 	office	8
+13 Sandra Burnhard moved to the hallway.
+14 John Colliani travelled to the office.
+15 Where is Mary Geneva Doud? 	office	11
+1 Sandra Burnhard travelled to the hallway.
+2 Mary Geneva Doud moved to the office.
+3 Where is Sandra Burnhard? 	hallway	1
+4 John Colliani went back to the kitchen.
+5 John Colliani went to the office.
+6 Where is Mary Geneva Doud? 	office	2
+7 Mary Geneva Doud went back to the kitchen.
+8 John Colliani journeyed to the hallway.
+9 Where is Mary Geneva Doud? 	kitchen	7
+10 Daniel Conn moved to the office.
+11 John Colliani journeyed to the bathroom.
+12 Where is Daniel Conn? 	office	10
+13 Daniel Conn journeyed to the bedroom.
+14 Sandra Burnhard travelled to the garden.
+15 Where is Daniel Conn? 	bedroom	13
+1 Daniel Conn went to the bedroom.
+2 John Colliani went back to the kitchen.
+3 Where is Daniel Conn? 	bedroom	1
+4 John Colliani moved to the bedroom.
+5 Mary Geneva Doud travelled to the office.
+6 Where is Daniel Conn? 	bedroom	1
+7 Sandra Burnhard went to the office.
+8 Sandra Burnhard went back to the hallway.
+9 Where is Mary Geneva Doud? 	office	5
+10 John Colliani went back to the kitchen.
+11 Mary Geneva Doud went back to the garden.
+12 Where is Mary Geneva Doud? 	garden	11
+13 Mary Geneva Doud journeyed to the bathroom.
+14 Daniel Conn travelled to the hallway.
+15 Where is Mary Geneva Doud? 	bathroom	13
+1 John Colliani went to the bathroom.
+2 John Colliani went back to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 Sandra Burnhard went back to the kitchen.
+5 Daniel Conn went back to the office.
+6 Where is John Colliani? 	hallway	2
+7 Daniel Conn went back to the bathroom.
+8 Daniel Conn moved to the bedroom.
+9 Where is John Colliani? 	hallway	2
+10 Mary Geneva Doud went to the office.
+11 Sandra Burnhard travelled to the office.
+12 Where is Sandra Burnhard? 	office	11
+13 John Colliani moved to the bedroom.
+14 Mary Geneva Doud went back to the kitchen.
+15 Where is Mary Geneva Doud? 	kitchen	14
+1 Sandra Burnhard went to the garden.
+2 John Colliani journeyed to the kitchen.
+3 Where is John Colliani? 	kitchen	2
+4 John Colliani went back to the office.
+5 Daniel Conn moved to the garden.
+6 Where is John Colliani? 	office	4
+7 Mary Geneva Doud went back to the hallway.
+8 Sandra Burnhard moved to the bedroom.
+9 Where is John Colliani? 	office	4
+10 Daniel Conn journeyed to the hallway.
+11 Sandra Burnhard travelled to the bathroom.
+12 Where is Daniel Conn? 	hallway	10
+13 Daniel Conn moved to the kitchen.
+14 Sandra Burnhard went to the garden.
+15 Where is Sandra Burnhard? 	garden	14
+1 Daniel Conn travelled to the hallway.
+2 John Colliani travelled to the office.
+3 Where is John Colliani? 	office	2
+4 Daniel Conn went to the bedroom.
+5 Daniel Conn went back to the office.
+6 Where is Daniel Conn? 	office	5
+7 Mary Geneva Doud went to the bedroom.
+8 Mary Geneva Doud went to the hallway.
+9 Where is Daniel Conn? 	office	5
+10 Mary Geneva Doud travelled to the office.
+11 Sandra Burnhard went to the garden.
+12 Where is Sandra Burnhard? 	garden	11
+13 Daniel Conn journeyed to the bedroom.
+14 John Colliani journeyed to the bedroom.
+15 Where is Mary Geneva Doud? 	office	10
+1 Daniel Conn journeyed to the hallway.
+2 Sandra Burnhard went back to the bathroom.
+3 Where is Sandra Burnhard? 	bathroom	2
+4 John Colliani went to the bedroom.
+5 Sandra Burnhard moved to the office.
+6 Where is John Colliani? 	bedroom	4
+7 Daniel Conn went to the bathroom.
+8 Mary Geneva Doud travelled to the bathroom.
+9 Where is Mary Geneva Doud? 	bathroom	8
+10 Sandra Burnhard went back to the hallway.
+11 John Colliani went to the office.
+12 Where is Sandra Burnhard? 	hallway	10
+13 John Colliani moved to the kitchen.
+14 John Colliani went back to the hallway.
+15 Where is John Colliani? 	hallway	14
+1 Daniel Conn went to the bathroom.
+2 Sandra Burnhard went to the hallway.
+3 Where is Sandra Burnhard? 	hallway	2
+4 John Colliani went to the office.
+5 Sandra Burnhard journeyed to the garden.
+6 Where is John Colliani? 	office	4
+7 Mary Geneva Doud went back to the garden.
+8 Mary Geneva Doud went to the bedroom.
+9 Where is Sandra Burnhard? 	garden	5
+10 Daniel Conn went to the bedroom.
+11 Sandra Burnhard journeyed to the hallway.
+12 Where is Sandra Burnhard? 	hallway	11
+13 Sandra Burnhard went back to the kitchen.
+14 Daniel Conn journeyed to the hallway.
+15 Where is Mary Geneva Doud? 	bedroom	8
+1 Mary Geneva Doud moved to the bathroom.
+2 Sandra Burnhard went to the hallway.
+3 Where is Mary Geneva Doud? 	bathroom	1
+4 Mary Geneva Doud went back to the kitchen.
+5 Daniel Conn went back to the kitchen.
+6 Where is Daniel Conn? 	kitchen	5
+7 John Colliani went back to the bathroom.
+8 Daniel Conn journeyed to the office.
+9 Where is Daniel Conn? 	office	8
+10 Daniel Conn journeyed to the bathroom.
+11 Daniel Conn went back to the garden.
+12 Where is Daniel Conn? 	garden	11
+13 Sandra Burnhard moved to the bathroom.
+14 Mary Geneva Doud went to the office.
+15 Where is Sandra Burnhard? 	bathroom	13
+1 Daniel Conn went to the office.
+2 Mary Geneva Doud went back to the bedroom.
+3 Where is Mary Geneva Doud? 	bedroom	2
+4 Mary Geneva Doud journeyed to the garden.
+5 John Colliani moved to the kitchen.
+6 Where is John Colliani? 	kitchen	5
+7 Sandra Burnhard moved to the garden.
+8 Sandra Burnhard journeyed to the hallway.
+9 Where is Sandra Burnhard? 	hallway	8
+10 Sandra Burnhard went back to the bathroom.
+11 Mary Geneva Doud went to the bathroom.
+12 Where is Sandra Burnhard? 	bathroom	10
+13 Daniel Conn went to the garden.
+14 John Colliani moved to the bedroom.
+15 Where is Daniel Conn? 	garden	13
+1 Mary Geneva Doud went back to the office.
+2 Mary Geneva Doud went to the bathroom.
+3 Where is Mary Geneva Doud? 	bathroom	2
+4 Mary Geneva Doud went back to the hallway.
+5 John Colliani journeyed to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	4
+7 John Colliani travelled to the garden.
+8 Sandra Burnhard went back to the office.
+9 Where is Mary Geneva Doud? 	hallway	4
+10 Daniel Conn went back to the garden.
+11 Mary Geneva Doud journeyed to the garden.
+12 Where is John Colliani? 	garden	7
+13 Daniel Conn journeyed to the bedroom.
+14 Mary Geneva Doud went back to the office.
+15 Where is Daniel Conn? 	bedroom	13
+1 Mary Geneva Doud moved to the hallway.
+2 Mary Geneva Doud travelled to the kitchen.
+3 Where is Mary Geneva Doud? 	kitchen	2
+4 John Colliani went to the kitchen.
+5 Sandra Burnhard moved to the bedroom.
+6 Where is John Colliani? 	kitchen	4
+7 Mary Geneva Doud travelled to the garden.
+8 Mary Geneva Doud went back to the office.
+9 Where is Sandra Burnhard? 	bedroom	5
+10 Sandra Burnhard moved to the hallway.
+11 Mary Geneva Doud went to the garden.
+12 Where is Mary Geneva Doud? 	garden	11
+13 Sandra Burnhard journeyed to the office.
+14 Mary Geneva Doud moved to the bedroom.
+15 Where is Mary Geneva Doud? 	bedroom	14
+1 Sandra Burnhard went to the garden.
+2 Daniel Conn journeyed to the office.
+3 Where is Daniel Conn? 	office	2
+4 Sandra Burnhard travelled to the bathroom.
+5 Sandra Burnhard travelled to the kitchen.
+6 Where is Sandra Burnhard? 	kitchen	5
+7 John Colliani travelled to the bedroom.
+8 Sandra Burnhard went to the hallway.
+9 Where is Sandra Burnhard? 	hallway	8
+10 John Colliani went back to the office.
+11 Mary Geneva Doud travelled to the hallway.
+12 Where is Mary Geneva Doud? 	hallway	11
+13 John Colliani went to the bedroom.
+14 Sandra Burnhard journeyed to the bathroom.
+15 Where is Sandra Burnhard? 	bathroom	14
+1 John Colliani journeyed to the hallway.
+2 Daniel Conn travelled to the office.
+3 Where is Daniel Conn? 	office	2
+4 Mary Geneva Doud moved to the garden.
+5 Mary Geneva Doud moved to the bedroom.
+6 Where is Daniel Conn? 	office	2
+7 Mary Geneva Doud went back to the hallway.
+8 John Colliani journeyed to the bathroom.
+9 Where is John Colliani? 	bathroom	8
+10 John Colliani moved to the kitchen.
+11 John Colliani went to the office.
+12 Where is John Colliani? 	office	11
+13 Daniel Conn moved to the garden.
+14 Sandra Burnhard went back to the office.
+15 Where is John Colliani? 	office	11
+1 Sandra Burnhard journeyed to the bathroom.
+2 Daniel Conn moved to the garden.
+3 Where is Daniel Conn? 	garden	2
+4 John Colliani travelled to the garden.
+5 Daniel Conn went to the office.
+6 Where is John Colliani? 	garden	4
+7 Daniel Conn went back to the hallway.
+8 Mary Geneva Doud went back to the hallway.
+9 Where is Daniel Conn? 	hallway	7
+10 Mary Geneva Doud went back to the kitchen.
+11 John Colliani went to the bedroom.
+12 Where is John Colliani? 	bedroom	11
+13 Mary Geneva Doud journeyed to the garden.
+14 John Colliani travelled to the hallway.
+15 Where is Mary Geneva Doud? 	garden	13
+1 Sandra Burnhard travelled to the kitchen.
+2 John Colliani journeyed to the bedroom.
+3 Where is Sandra Burnhard? 	kitchen	1
+4 Sandra Burnhard journeyed to the office.
+5 John Colliani journeyed to the hallway.
+6 Where is Sandra Burnhard? 	office	4
+7 Daniel Conn journeyed to the office.
+8 Mary Geneva Doud moved to the office.
+9 Where is Sandra Burnhard? 	office	4
+10 Sandra Burnhard went to the kitchen.
+11 John Colliani went back to the kitchen.
+12 Where is Mary Geneva Doud? 	office	8
+13 Sandra Burnhard went back to the hallway.
+14 Mary Geneva Doud travelled to the bathroom.
+15 Where is Sandra Burnhard? 	hallway	13
+1 Sandra Burnhard travelled to the hallway.
+2 John Colliani journeyed to the bathroom.
+3 Where is Sandra Burnhard? 	hallway	1
+4 John Colliani went to the garden.
+5 John Colliani went to the kitchen.
+6 Where is John Colliani? 	kitchen	5
+7 Mary Geneva Doud journeyed to the garden.
+8 John Colliani journeyed to the hallway.
+9 Where is John Colliani? 	hallway	8
+10 Daniel Conn travelled to the kitchen.
+11 Sandra Burnhard moved to the kitchen.
+12 Where is John Colliani? 	hallway	8
+13 Daniel Conn travelled to the office.
+14 Daniel Conn journeyed to the garden.
+15 Where is Daniel Conn? 	garden	14
+1 Sandra Burnhard went to the bedroom.
+2 John Colliani went to the hallway.
+3 Where is Sandra Burnhard? 	bedroom	1
+4 John Colliani moved to the garden.
+5 Sandra Burnhard journeyed to the office.
+6 Where is Sandra Burnhard? 	office	5
+7 Mary Geneva Doud went to the garden.
+8 John Colliani journeyed to the bathroom.
+9 Where is Sandra Burnhard? 	office	5
+10 Mary Geneva Doud travelled to the bathroom.
+11 Mary Geneva Doud moved to the office.
+12 Where is Mary Geneva Doud? 	office	11
+13 John Colliani went to the kitchen.
+14 Sandra Burnhard went to the garden.
+15 Where is Sandra Burnhard? 	garden	14
+1 Mary Geneva Doud moved to the bedroom.
+2 John Colliani journeyed to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 Sandra Burnhard went to the garden.
+5 John Colliani went back to the bathroom.
+6 Where is Sandra Burnhard? 	garden	4
+7 Sandra Burnhard travelled to the office.
+8 Daniel Conn journeyed to the bathroom.
+9 Where is Sandra Burnhard? 	office	7
+10 Daniel Conn went back to the office.
+11 Mary Geneva Doud travelled to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	11
+13 Sandra Burnhard went to the bathroom.
+14 Mary Geneva Doud went to the hallway.
+15 Where is Mary Geneva Doud? 	hallway	14
+1 Daniel Conn went to the kitchen.
+2 Mary Geneva Doud went back to the bedroom.
+3 Where is Mary Geneva Doud? 	bedroom	2
+4 Sandra Burnhard travelled to the kitchen.
+5 Daniel Conn moved to the garden.
+6 Where is Sandra Burnhard? 	kitchen	4
+7 Sandra Burnhard moved to the hallway.
+8 Mary Geneva Doud moved to the kitchen.
+9 Where is Daniel Conn? 	garden	5
+10 Mary Geneva Doud went back to the hallway.
+11 Mary Geneva Doud moved to the office.
+12 Where is Mary Geneva Doud? 	office	11
+13 Daniel Conn went to the bedroom.
+14 Daniel Conn moved to the kitchen.
+15 Where is Daniel Conn? 	kitchen	14
+1 Mary Geneva Doud went back to the kitchen.
+2 Sandra Burnhard travelled to the bathroom.
+3 Where is Mary Geneva Doud? 	kitchen	1
+4 Mary Geneva Doud moved to the garden.
+5 John Colliani journeyed to the office.
+6 Where is Mary Geneva Doud? 	garden	4
+7 Sandra Burnhard travelled to the bedroom.
+8 Sandra Burnhard journeyed to the bathroom.
+9 Where is Sandra Burnhard? 	bathroom	8
+10 John Colliani moved to the garden.
+11 Daniel Conn went back to the hallway.
+12 Where is John Colliani? 	garden	10
+13 Mary Geneva Doud went to the office.
+14 Daniel Conn went back to the bedroom.
+15 Where is Mary Geneva Doud? 	office	13
+1 John Colliani went back to the garden.
+2 Daniel Conn moved to the office.
+3 Where is John Colliani? 	garden	1
+4 Sandra Burnhard went to the hallway.
+5 John Colliani went back to the bathroom.
+6 Where is John Colliani? 	bathroom	5
+7 Mary Geneva Doud moved to the kitchen.
+8 Mary Geneva Doud travelled to the garden.
+9 Where is Mary Geneva Doud? 	garden	8
+10 Sandra Burnhard went back to the bathroom.
+11 John Colliani went back to the office.
+12 Where is Mary Geneva Doud? 	garden	8
+13 Daniel Conn went to the bathroom.
+14 Sandra Burnhard went to the office.
+15 Where is John Colliani? 	office	11
+1 Daniel Conn travelled to the garden.
+2 Mary Geneva Doud went back to the kitchen.
+3 Where is Mary Geneva Doud? 	kitchen	2
+4 Mary Geneva Doud went to the office.
+5 Mary Geneva Doud travelled to the garden.
+6 Where is Daniel Conn? 	garden	1
+7 Daniel Conn journeyed to the hallway.
+8 John Colliani went back to the bedroom.
+9 Where is Mary Geneva Doud? 	garden	5
+10 Daniel Conn moved to the bedroom.
+11 Sandra Burnhard travelled to the kitchen.
+12 Where is John Colliani? 	bedroom	8
+13 John Colliani went to the garden.
+14 John Colliani moved to the hallway.
+15 Where is Daniel Conn? 	bedroom	10
+1 John Colliani journeyed to the bedroom.
+2 Mary Geneva Doud went to the office.
+3 Where is Mary Geneva Doud? 	office	2
+4 John Colliani moved to the office.
+5 Mary Geneva Doud went to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	5
+7 Sandra Burnhard travelled to the office.
+8 John Colliani travelled to the bedroom.
+9 Where is Sandra Burnhard? 	office	7
+10 Daniel Conn travelled to the kitchen.
+11 Mary Geneva Doud went to the kitchen.
+12 Where is Daniel Conn? 	kitchen	10
+13 John Colliani travelled to the kitchen.
+14 Sandra Burnhard journeyed to the bedroom.
+15 Where is John Colliani? 	kitchen	13
+1 Daniel Conn moved to the kitchen.
+2 Sandra Burnhard went to the kitchen.
+3 Where is Daniel Conn? 	kitchen	1
+4 John Colliani went back to the bedroom.
+5 Daniel Conn went to the bathroom.
+6 Where is John Colliani? 	bedroom	4
+7 Sandra Burnhard moved to the garden.
+8 Daniel Conn went back to the office.
+9 Where is Sandra Burnhard? 	garden	7
+10 Mary Geneva Doud went to the kitchen.
+11 Daniel Conn went to the hallway.
+12 Where is Daniel Conn? 	hallway	11
+13 Daniel Conn went back to the bathroom.
+14 Sandra Burnhard moved to the office.
+15 Where is Sandra Burnhard? 	office	14
+1 Mary Geneva Doud journeyed to the hallway.
+2 John Colliani went back to the bathroom.
+3 Where is Mary Geneva Doud? 	hallway	1
+4 John Colliani went back to the bedroom.
+5 Daniel Conn travelled to the bedroom.
+6 Where is John Colliani? 	bedroom	4
+7 Mary Geneva Doud went to the garden.
+8 Daniel Conn moved to the kitchen.
+9 Where is Daniel Conn? 	kitchen	8
+10 Daniel Conn went to the hallway.
+11 Mary Geneva Doud journeyed to the kitchen.
+12 Where is Mary Geneva Doud? 	kitchen	11
+13 Daniel Conn travelled to the kitchen.
+14 Mary Geneva Doud went back to the hallway.
+15 Where is Mary Geneva Doud? 	hallway	14
+1 John Colliani went back to the garden.
+2 John Colliani travelled to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 John Colliani journeyed to the office.
+5 John Colliani journeyed to the kitchen.
+6 Where is John Colliani? 	kitchen	5
+7 Sandra Burnhard journeyed to the hallway.
+8 Sandra Burnhard went to the bedroom.
+9 Where is John Colliani? 	kitchen	5
+10 Sandra Burnhard journeyed to the hallway.
+11 Daniel Conn went back to the kitchen.
+12 Where is John Colliani? 	kitchen	5
+13 Daniel Conn moved to the bathroom.
+14 Mary Geneva Doud went back to the bathroom.
+15 Where is Sandra Burnhard? 	hallway	10
+1 John Colliani travelled to the bathroom.
+2 Daniel Conn went to the hallway.
+3 Where is John Colliani? 	bathroom	1
+4 John Colliani moved to the kitchen.
+5 Mary Geneva Doud journeyed to the kitchen.
+6 Where is John Colliani? 	kitchen	4
+7 Daniel Conn travelled to the bathroom.
+8 John Colliani travelled to the bathroom.
+9 Where is John Colliani? 	bathroom	8
+10 Daniel Conn went to the garden.
+11 Sandra Burnhard travelled to the hallway.
+12 Where is Sandra Burnhard? 	hallway	11
+13 Mary Geneva Doud travelled to the hallway.
+14 John Colliani journeyed to the bedroom.
+15 Where is Mary Geneva Doud? 	hallway	13
+1 John Colliani went to the bedroom.
+2 Daniel Conn went to the bedroom.
+3 Where is Daniel Conn? 	bedroom	2
+4 John Colliani travelled to the office.
+5 John Colliani went back to the bedroom.
+6 Where is John Colliani? 	bedroom	5
+7 Mary Geneva Doud went to the bedroom.
+8 John Colliani went to the garden.
+9 Where is Daniel Conn? 	bedroom	2
+10 Daniel Conn went back to the garden.
+11 Daniel Conn went to the office.
+12 Where is Daniel Conn? 	office	11
+13 John Colliani moved to the hallway.
+14 John Colliani moved to the office.
+15 Where is John Colliani? 	office	14
+1 Daniel Conn moved to the garden.
+2 Sandra Burnhard moved to the hallway.
+3 Where is Sandra Burnhard? 	hallway	2
+4 John Colliani went to the hallway.
+5 John Colliani went to the office.
+6 Where is Daniel Conn? 	garden	1
+7 John Colliani went to the kitchen.
+8 John Colliani went back to the hallway.
+9 Where is John Colliani? 	hallway	8
+10 Sandra Burnhard journeyed to the office.
+11 Mary Geneva Doud journeyed to the bedroom.
+12 Where is Mary Geneva Doud? 	bedroom	11
+13 Sandra Burnhard travelled to the hallway.
+14 Mary Geneva Doud went back to the bathroom.
+15 Where is Mary Geneva Doud? 	bathroom	14
+1 Mary Geneva Doud journeyed to the bedroom.
+2 Sandra Burnhard moved to the kitchen.
+3 Where is Mary Geneva Doud? 	bedroom	1
+4 Mary Geneva Doud journeyed to the garden.
+5 Sandra Burnhard moved to the garden.
+6 Where is Sandra Burnhard? 	garden	5
+7 John Colliani moved to the office.
+8 Sandra Burnhard moved to the bedroom.
+9 Where is John Colliani? 	office	7
+10 Daniel Conn moved to the bedroom.
+11 Sandra Burnhard moved to the bathroom.
+12 Where is Sandra Burnhard? 	bathroom	11
+13 Daniel Conn travelled to the office.
+14 John Colliani went to the garden.
+15 Where is Sandra Burnhard? 	bathroom	11
+1 John Colliani moved to the hallway.
+2 Sandra Burnhard went to the hallway.
+3 Where is Sandra Burnhard? 	hallway	2
+4 John Colliani went back to the garden.
+5 Daniel Conn journeyed to the office.
+6 Where is John Colliani? 	garden	4
+7 Daniel Conn moved to the bedroom.
+8 Mary Geneva Doud journeyed to the bathroom.
+9 Where is Mary Geneva Doud? 	bathroom	8
+10 John Colliani went back to the kitchen.
+11 Daniel Conn went back to the office.
+12 Where is Daniel Conn? 	office	11
+13 Sandra Burnhard moved to the kitchen.
+14 Daniel Conn went to the kitchen.
+15 Where is Daniel Conn? 	kitchen	14
+1 Mary Geneva Doud travelled to the bedroom.
+2 Daniel Conn moved to the hallway.
+3 Where is Mary Geneva Doud? 	bedroom	1
+4 Daniel Conn journeyed to the garden.
+5 Daniel Conn journeyed to the hallway.
+6 Where is Daniel Conn? 	hallway	5
+7 Sandra Burnhard journeyed to the hallway.
+8 John Colliani went to the garden.
+9 Where is Daniel Conn? 	hallway	5
+10 John Colliani moved to the hallway.
+11 Daniel Conn journeyed to the bathroom.
+12 Where is Daniel Conn? 	bathroom	11
+13 Daniel Conn moved to the hallway.
+14 John Colliani travelled to the kitchen.
+15 Where is John Colliani? 	kitchen	14
+1 Sandra Burnhard went to the bathroom.
+2 Daniel Conn went to the bedroom.
+3 Where is Sandra Burnhard? 	bathroom	1
+4 Mary Geneva Doud went to the garden.
+5 Sandra Burnhard moved to the hallway.
+6 Where is Sandra Burnhard? 	hallway	5
+7 Daniel Conn journeyed to the bathroom.
+8 Mary Geneva Doud journeyed to the kitchen.
+9 Where is Sandra Burnhard? 	hallway	5
+10 Sandra Burnhard went to the bathroom.
+11 John Colliani went to the kitchen.
+12 Where is Sandra Burnhard? 	bathroom	10
+13 Sandra Burnhard went back to the kitchen.
+14 Sandra Burnhard went to the office.
+15 Where is Sandra Burnhard? 	office	14
+1 Mary Geneva Doud went to the hallway.
+2 Daniel Conn travelled to the bathroom.
+3 Where is Mary Geneva Doud? 	hallway	1
+4 Mary Geneva Doud journeyed to the bathroom.
+5 Daniel Conn journeyed to the hallway.
+6 Where is Daniel Conn? 	hallway	5
+7 Daniel Conn went back to the garden.
+8 Daniel Conn travelled to the office.
+9 Where is Daniel Conn? 	office	8
+10 Mary Geneva Doud went to the office.
+11 Mary Geneva Doud went back to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	11
+13 Mary Geneva Doud went to the hallway.
+14 Daniel Conn went to the bedroom.
+15 Where is Mary Geneva Doud? 	hallway	13
+1 John Colliani travelled to the kitchen.
+2 Daniel Conn went to the kitchen.
+3 Where is Daniel Conn? 	kitchen	2
+4 John Colliani went back to the hallway.
+5 John Colliani moved to the office.
+6 Where is John Colliani? 	office	5
+7 Mary Geneva Doud moved to the bedroom.
+8 John Colliani travelled to the bedroom.
+9 Where is Mary Geneva Doud? 	bedroom	7
+10 John Colliani went back to the bathroom.
+11 Sandra Burnhard moved to the kitchen.
+12 Where is Mary Geneva Doud? 	bedroom	7
+13 John Colliani journeyed to the garden.
+14 Sandra Burnhard went to the office.
+15 Where is John Colliani? 	garden	13
+1 Mary Geneva Doud travelled to the garden.
+2 Daniel Conn went to the office.
+3 Where is Daniel Conn? 	office	2
+4 Daniel Conn travelled to the kitchen.
+5 Sandra Burnhard journeyed to the kitchen.
+6 Where is Daniel Conn? 	kitchen	4
+7 Mary Geneva Doud went back to the hallway.
+8 Daniel Conn went to the bedroom.
+9 Where is Daniel Conn? 	bedroom	8
+10 Mary Geneva Doud moved to the bathroom.
+11 Sandra Burnhard journeyed to the bathroom.
+12 Where is Mary Geneva Doud? 	bathroom	10
+13 John Colliani journeyed to the garden.
+14 Sandra Burnhard went to the garden.
+15 Where is Sandra Burnhard? 	garden	14
+1 Mary Geneva Doud went back to the hallway.
+2 John Colliani went to the garden.
+3 Where is Mary Geneva Doud? 	hallway	1
+4 Sandra Burnhard travelled to the bedroom.
+5 Mary Geneva Doud travelled to the bedroom.
+6 Where is Mary Geneva Doud? 	bedroom	5
+7 Sandra Burnhard moved to the kitchen.
+8 Daniel Conn went back to the bedroom.
+9 Where is Daniel Conn? 	bedroom	8
+10 Mary Geneva Doud went back to the garden.
+11 Daniel Conn went to the office.
+12 Where is Mary Geneva Doud? 	garden	10
+13 Daniel Conn moved to the garden.
+14 Sandra Burnhard travelled to the hallway.
+15 Where is Daniel Conn? 	garden	13
+1 Sandra Burnhard went back to the office.
+2 Daniel Conn moved to the hallway.
+3 Where is Sandra Burnhard? 	office	1
+4 Daniel Conn travelled to the garden.
+5 Mary Geneva Doud moved to the bathroom.
+6 Where is Daniel Conn? 	garden	4
+7 Sandra Burnhard went back to the kitchen.
+8 Sandra Burnhard moved to the garden.
+9 Where is Sandra Burnhard? 	garden	8
+10 Sandra Burnhard went to the kitchen.
+11 Daniel Conn went to the bathroom.
+12 Where is Sandra Burnhard? 	kitchen	10
+13 John Colliani journeyed to the bathroom.
+14 John Colliani went back to the garden.
+15 Where is John Colliani? 	garden	14
+1 Sandra Burnhard went back to the bedroom.
+2 Mary Geneva Doud went back to the hallway.
+3 Where is Mary Geneva Doud? 	hallway	2
+4 Mary Geneva Doud moved to the bathroom.
+5 Mary Geneva Doud went to the hallway.
+6 Where is Mary Geneva Doud? 	hallway	5
+7 Daniel Conn travelled to the bathroom.
+8 Sandra Burnhard went back to the office.
+9 Where is Daniel Conn? 	bathroom	7
+10 Mary Geneva Doud moved to the kitchen.
+11 John Colliani journeyed to the bathroom.
+12 Where is Sandra Burnhard? 	office	8
+13 Mary Geneva Doud moved to the bathroom.
+14 Sandra Burnhard went back to the kitchen.
+15 Where is Mary Geneva Doud? 	bathroom	13
+1 John Colliani went to the kitchen.
+2 John Colliani went to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 Sandra Burnhard moved to the garden.
+5 Sandra Burnhard went back to the kitchen.
+6 Where is Sandra Burnhard? 	kitchen	5
+7 John Colliani moved to the bedroom.
+8 Sandra Burnhard went back to the bathroom.
+9 Where is Sandra Burnhard? 	bathroom	8
+10 Sandra Burnhard went to the hallway.
+11 Daniel Conn journeyed to the office.
+12 Where is Sandra Burnhard? 	hallway	10
+13 Daniel Conn travelled to the bedroom.
+14 Daniel Conn travelled to the garden.
+15 Where is Daniel Conn? 	garden	14
+1 Sandra Burnhard journeyed to the bathroom.
+2 Daniel Conn moved to the garden.
+3 Where is Daniel Conn? 	garden	2
+4 Mary Geneva Doud went back to the garden.
+5 Daniel Conn went back to the kitchen.
+6 Where is Daniel Conn? 	kitchen	5
+7 Mary Geneva Doud went back to the bedroom.
+8 Mary Geneva Doud went back to the bathroom.
+9 Where is Daniel Conn? 	kitchen	5
+10 John Colliani journeyed to the hallway.
+11 John Colliani went back to the bedroom.
+12 Where is John Colliani? 	bedroom	11
+13 Daniel Conn journeyed to the bathroom.
+14 John Colliani went back to the office.
+15 Where is John Colliani? 	office	14
+1 John Colliani went to the kitchen.
+2 John Colliani journeyed to the office.
+3 Where is John Colliani? 	office	2
+4 Daniel Conn travelled to the bedroom.
+5 John Colliani journeyed to the kitchen.
+6 Where is John Colliani? 	kitchen	5
+7 John Colliani journeyed to the office.
+8 Mary Geneva Doud went back to the bathroom.
+9 Where is Mary Geneva Doud? 	bathroom	8
+10 John Colliani journeyed to the garden.
+11 Sandra Burnhard went to the bathroom.
+12 Where is John Colliani? 	garden	10
+13 Sandra Burnhard journeyed to the office.
+14 John Colliani went back to the bathroom.
+15 Where is Sandra Burnhard? 	office	13
+1 Mary Geneva Doud journeyed to the bedroom.
+2 Mary Geneva Doud journeyed to the garden.
+3 Where is Mary Geneva Doud? 	garden	2
+4 Daniel Conn went back to the garden.
+5 Mary Geneva Doud went back to the hallway.
+6 Where is Daniel Conn? 	garden	4
+7 Daniel Conn went to the hallway.
+8 John Colliani travelled to the bedroom.
+9 Where is Mary Geneva Doud? 	hallway	5
+10 Mary Geneva Doud went to the garden.
+11 Mary Geneva Doud went to the kitchen.
+12 Where is Mary Geneva Doud? 	kitchen	11
+13 John Colliani moved to the kitchen.
+14 John Colliani went back to the garden.
+15 Where is John Colliani? 	garden	14
+1 John Colliani journeyed to the bedroom.
+2 Mary Geneva Doud moved to the garden.
+3 Where is John Colliani? 	bedroom	1
+4 Mary Geneva Doud journeyed to the bathroom.
+5 Mary Geneva Doud travelled to the garden.
+6 Where is John Colliani? 	bedroom	1
+7 Mary Geneva Doud went back to the bedroom.
+8 Sandra Burnhard went back to the office.
+9 Where is Mary Geneva Doud? 	bedroom	7
+10 Sandra Burnhard travelled to the bathroom.
+11 Sandra Burnhard travelled to the kitchen.
+12 Where is Sandra Burnhard? 	kitchen	11
+13 Sandra Burnhard moved to the hallway.
+14 Mary Geneva Doud went to the bathroom.
+15 Where is Sandra Burnhard? 	hallway	13
+1 Mary Geneva Doud travelled to the kitchen.
+2 Sandra Burnhard moved to the office.
+3 Where is Sandra Burnhard? 	office	2
+4 Mary Geneva Doud went back to the bedroom.
+5 Mary Geneva Doud journeyed to the kitchen.
+6 Where is Mary Geneva Doud? 	kitchen	5
+7 John Colliani travelled to the bedroom.
+8 Daniel Conn went to the bedroom.
+9 Where is Mary Geneva Doud? 	kitchen	5
+10 Sandra Burnhard journeyed to the garden.
+11 Sandra Burnhard travelled to the office.
+12 Where is Sandra Burnhard? 	office	11
+13 Mary Geneva Doud travelled to the office.
+14 Mary Geneva Doud journeyed to the kitchen.
+15 Where is Sandra Burnhard? 	office	11
+1 Daniel Conn journeyed to the kitchen.
+2 John Colliani journeyed to the office.
+3 Where is John Colliani? 	office	2
+4 Daniel Conn travelled to the bedroom.
+5 Sandra Burnhard journeyed to the bathroom.
+6 Where is Daniel Conn? 	bedroom	4
+7 Mary Geneva Doud travelled to the bedroom.
+8 John Colliani travelled to the kitchen.
+9 Where is John Colliani? 	kitchen	8
+10 Mary Geneva Doud went back to the garden.
+11 Sandra Burnhard went back to the bedroom.
+12 Where is Sandra Burnhard? 	bedroom	11
+13 Sandra Burnhard journeyed to the bathroom.
+14 Daniel Conn moved to the bathroom.
+15 Where is Sandra Burnhard? 	bathroom	13
+1 Sandra Burnhard journeyed to the hallway.
+2 Mary Geneva Doud moved to the bedroom.
+3 Where is Mary Geneva Doud? 	bedroom	2
+4 Mary Geneva Doud went back to the office.
+5 Sandra Burnhard moved to the bedroom.
+6 Where is Mary Geneva Doud? 	office	4
+7 Sandra Burnhard moved to the kitchen.
+8 Daniel Conn moved to the bedroom.
+9 Where is Daniel Conn? 	bedroom	8
+10 Sandra Burnhard went to the hallway.
+11 Mary Geneva Doud journeyed to the bathroom.
+12 Where is Sandra Burnhard? 	hallway	10
+13 John Colliani went back to the bathroom.
+14 John Colliani travelled to the hallway.
+15 Where is Daniel Conn? 	bedroom	8
+1 Sandra Burnhard moved to the office.
+2 John Colliani went to the kitchen.
+3 Where is John Colliani? 	kitchen	2
+4 John Colliani travelled to the garden.
+5 Mary Geneva Doud moved to the office.
+6 Where is Mary Geneva Doud? 	office	5
+7 John Colliani went to the bedroom.
+8 John Colliani went back to the kitchen.
+9 Where is John Colliani? 	kitchen	8
+10 Daniel Conn went to the garden.
+11 John Colliani went to the office.
+12 Where is Daniel Conn? 	garden	10
+13 Mary Geneva Doud went back to the bathroom.
+14 Sandra Burnhard journeyed to the garden.
+15 Where is Daniel Conn? 	garden	10
+1 Mary Geneva Doud went back to the bedroom.
+2 Daniel Conn travelled to the office.
+3 Where is Mary Geneva Doud? 	bedroom	1
+4 Daniel Conn went back to the garden.
+5 John Colliani journeyed to the office.
+6 Where is John Colliani? 	office	5
+7 Daniel Conn moved to the kitchen.
+8 Mary Geneva Doud journeyed to the garden.
+9 Where is Daniel Conn? 	kitchen	7
+10 Sandra Burnhard went back to the bedroom.
+11 John Colliani went to the garden.
+12 Where is John Colliani? 	garden	11
+13 John Colliani journeyed to the bathroom.
+14 Sandra Burnhard journeyed to the office.
+15 Where is Mary Geneva Doud? 	garden	8
+1 John Colliani moved to the garden.
+2 Daniel Conn went back to the office.
+3 Where is John Colliani? 	garden	1
+4 Sandra Burnhard travelled to the office.
+5 Mary Geneva Doud went back to the garden.
+6 Where is John Colliani? 	garden	1
+7 Daniel Conn went back to the hallway.
+8 Sandra Burnhard travelled to the kitchen.
+9 Where is Mary Geneva Doud? 	garden	5
+10 Sandra Burnhard journeyed to the bathroom.
+11 Sandra Burnhard went to the kitchen.
+12 Where is Sandra Burnhard? 	kitchen	11
+13 Sandra Burnhard went to the bathroom.
+14 Mary Geneva Doud moved to the bathroom.
+15 Where is Sandra Burnhard? 	bathroom	13
+1 Sandra Burnhard went to the bathroom.
+2 John Colliani journeyed to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 Daniel Conn went to the office.
+5 John Colliani went to the kitchen.
+6 Where is John Colliani? 	kitchen	5
+7 Daniel Conn travelled to the kitchen.
+8 Mary Geneva Doud journeyed to the bedroom.
+9 Where is Daniel Conn? 	kitchen	7
+10 Daniel Conn went back to the office.
+11 Mary Geneva Doud travelled to the garden.
+12 Where is John Colliani? 	kitchen	5
+13 John Colliani journeyed to the hallway.
+14 John Colliani travelled to the office.
+15 Where is Mary Geneva Doud? 	garden	11
+1 Sandra Burnhard went to the kitchen.
+2 John Colliani journeyed to the kitchen.
+3 Where is Sandra Burnhard? 	kitchen	1
+4 Sandra Burnhard went back to the garden.
+5 Mary Geneva Doud travelled to the hallway.
+6 Where is John Colliani? 	kitchen	2
+7 Sandra Burnhard went back to the bathroom.
+8 Daniel Conn journeyed to the garden.
+9 Where is Daniel Conn? 	garden	8
+10 John Colliani moved to the hallway.
+11 Mary Geneva Doud moved to the bathroom.
+12 Where is Sandra Burnhard? 	bathroom	7
+13 John Colliani went back to the office.
+14 Mary Geneva Doud went to the kitchen.
+15 Where is Mary Geneva Doud? 	kitchen	14
+1 Sandra Burnhard moved to the bedroom.
+2 John Colliani travelled to the office.
+3 Where is John Colliani? 	office	2
+4 Daniel Conn travelled to the hallway.
+5 Mary Geneva Doud went to the hallway.
+6 Where is Daniel Conn? 	hallway	4
+7 Mary Geneva Doud travelled to the office.
+8 Sandra Burnhard moved to the kitchen.
+9 Where is Mary Geneva Doud? 	office	7
+10 John Colliani went back to the hallway.
+11 Daniel Conn moved to the garden.
+12 Where is Sandra Burnhard? 	kitchen	8
+13 Daniel Conn moved to the office.
+14 Daniel Conn travelled to the bedroom.
+15 Where is Daniel Conn? 	bedroom	14
+1 Mary Geneva Doud went to the kitchen.
+2 John Colliani travelled to the hallway.
+3 Where is John Colliani? 	hallway	2
+4 Sandra Burnhard went back to the bedroom.
+5 John Colliani travelled to the kitchen.
+6 Where is Mary Geneva Doud? 	kitchen	1
+7 Mary Geneva Doud went back to the garden.
+8 Mary Geneva Doud travelled to the office.
+9 Where is John Colliani? 	kitchen	5
+10 John Colliani journeyed to the office.
+11 Sandra Burnhard went to the office.
+12 Where is Mary Geneva Doud? 	office	8
+13 Sandra Burnhard journeyed to the kitchen.
+14 John Colliani travelled to the hallway.
+15 Where is Mary Geneva Doud? 	office	8
+1 Daniel Conn went back to the office.
+2 Sandra Burnhard went to the garden.
+3 Where is Daniel Conn? 	office	1
+4 John Colliani journeyed to the bedroom.
+5 Mary Geneva Doud went back to the bathroom.
+6 Where is Daniel Conn? 	office	1
+7 Daniel Conn went back to the kitchen.
+8 Mary Geneva Doud travelled to the bedroom.
+9 Where is Mary Geneva Doud? 	bedroom	8
+10 John Colliani went back to the office.
+11 Sandra Burnhard went to the bedroom.
+12 Where is Daniel Conn? 	kitchen	7
+13 Daniel Conn went to the bedroom.
+14 John Colliani went back to the garden.
+15 Where is John Colliani? 	garden	14
+1 Sandra Burnhard travelled to the hallway.
+2 Sandra Burnhard went to the bedroom.
+3 Where is Sandra Burnhard? 	bedroom	2
+4 Daniel Conn moved to the office.
+5 Mary Geneva Doud went to the hallway.
+6 Where is Sandra Burnhard? 	bedroom	2
+7 Mary Geneva Doud journeyed to the kitchen.
+8 John Colliani went back to the bedroom.
+9 Where is Daniel Conn? 	office	4
+10 Daniel Conn travelled to the kitchen.
+11 Sandra Burnhard travelled to the kitchen.
+12 Where is John Colliani? 	bedroom	8
+13 Sandra Burnhard travelled to the hallway.
+14 Daniel Conn went to the garden.
+15 Where is Daniel Conn? 	garden	14

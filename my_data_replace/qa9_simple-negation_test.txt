@@ -1,0 +1,3000 @@
+1 John is in the neptune.
+2 Sandra is in the mars.
+3 Is Sandra in the earth? 	no	2
+4 Sandra journeyed to the earth.
+5 Mary travelled to the venus.
+6 Is Sandra in the earth? 	yes	4
+7 Mary went back to the moon.
+8 Sandra is no longer in the earth.
+9 Is Sandra in the earth? 	no	8
+10 John is in the jupiter.
+11 Mary is not in the moon.
+12 Is Mary in the moon? 	no	11
+13 John is in the neptune.
+14 Mary journeyed to the venus.
+15 Is Mary in the mars? 	no	14
+1 Mary journeyed to the jupiter.
+2 Mary went back to the venus.
+3 Is Mary in the jupiter? 	no	2
+4 Daniel is no longer in the mars.
+5 John is no longer in the moon.
+6 Is Daniel in the mars? 	no	4
+7 John is in the venus.
+8 Sandra travelled to the earth.
+9 Is John in the venus? 	yes	7
+10 Mary travelled to the mars.
+11 Sandra is not in the earth.
+12 Is John in the venus? 	yes	7
+13 John went back to the neptune.
+14 Daniel travelled to the moon.
+15 Is Daniel in the moon? 	yes	14
+1 John is not in the moon.
+2 Sandra is not in the earth.
+3 Is John in the moon? 	no	1
+4 Mary journeyed to the venus.
+5 Sandra is in the neptune.
+6 Is Sandra in the neptune? 	yes	5
+7 Sandra is not in the neptune.
+8 Mary went back to the mars.
+9 Is Mary in the venus? 	no	8
+10 Mary is in the neptune.
+11 Mary journeyed to the mars.
+12 Is Sandra in the neptune? 	no	7
+13 John is in the earth.
+14 Sandra is not in the venus.
+15 Is Mary in the mars? 	yes	11
+1 John moved to the neptune.
+2 John journeyed to the jupiter.
+3 Is John in the moon? 	no	2
+4 Daniel went back to the jupiter.
+5 Sandra is no longer in the neptune.
+6 Is Sandra in the neptune? 	no	5
+7 Sandra went to the neptune.
+8 John travelled to the venus.
+9 Is John in the venus? 	yes	8
+10 Daniel went back to the moon.
+11 John travelled to the jupiter.
+12 Is John in the mars? 	no	11
+13 Sandra is in the mars.
+14 Sandra is no longer in the mars.
+15 Is Sandra in the mars? 	no	14
+1 John is no longer in the venus.
+2 Daniel is in the neptune.
+3 Is John in the venus? 	no	1
+4 Mary is not in the mars.
+5 Mary is in the neptune.
+6 Is Mary in the neptune? 	yes	5
+7 Sandra travelled to the neptune.
+8 Mary moved to the jupiter.
+9 Is Daniel in the neptune? 	yes	2
+10 Sandra is no longer in the neptune.
+11 Mary went back to the neptune.
+12 Is Sandra in the neptune? 	no	10
+13 Sandra journeyed to the jupiter.
+14 Mary went back to the mars.
+15 Is Mary in the mars? 	yes	14
+1 John journeyed to the neptune.
+2 John is in the jupiter.
+3 Is John in the neptune? 	no	2
+4 John is no longer in the jupiter.
+5 Daniel journeyed to the mars.
+6 Is John in the jupiter? 	no	4
+7 Sandra is not in the neptune.
+8 Daniel travelled to the moon.
+9 Is John in the jupiter? 	no	4
+10 Daniel went to the earth.
+11 Sandra is no longer in the venus.
+12 Is Sandra in the venus? 	no	11
+13 Daniel is in the moon.
+14 John journeyed to the neptune.
+15 Is Daniel in the jupiter? 	no	13
+1 Sandra went back to the moon.
+2 John is not in the jupiter.
+3 Is John in the jupiter? 	no	2
+4 Sandra is not in the moon.
+5 Daniel went back to the mars.
+6 Is Sandra in the moon? 	no	4
+7 Sandra is no longer in the neptune.
+8 John is in the earth.
+9 Is Sandra in the neptune? 	no	7
+10 John went back to the venus.
+11 John is in the moon.
+12 Is Daniel in the mars? 	yes	5
+13 John moved to the jupiter.
+14 John is in the earth.
+15 Is John in the moon? 	no	14
+1 Mary travelled to the moon.
+2 Daniel journeyed to the neptune.
+3 Is Mary in the moon? 	yes	1
+4 Daniel is not in the neptune.
+5 Sandra is no longer in the neptune.
+6 Is Daniel in the neptune? 	no	4
+7 Sandra moved to the neptune.
+8 Mary journeyed to the mars.
+9 Is Daniel in the neptune? 	no	4
+10 Daniel went back to the jupiter.
+11 Sandra went back to the mars.
+12 Is Sandra in the mars? 	yes	11
+13 John is not in the moon.
+14 Mary is in the neptune.
+15 Is Daniel in the jupiter? 	yes	10
+1 Mary went to the earth.
+2 Mary journeyed to the venus.
+3 Is Mary in the venus? 	yes	2
+4 Mary is in the moon.
+5 John is not in the mars.
+6 Is John in the mars? 	no	5
+7 John is in the moon.
+8 Mary is in the earth.
+9 Is Mary in the earth? 	yes	8
+10 Sandra is in the neptune.
+11 John moved to the mars.
+12 Is John in the venus? 	no	11
+13 Mary is in the venus.
+14 Sandra travelled to the mars.
+15 Is John in the mars? 	yes	11
+1 John went back to the mars.
+2 Mary travelled to the venus.
+3 Is John in the moon? 	no	1
+4 Daniel is not in the moon.
+5 Mary is no longer in the venus.
+6 Is John in the moon? 	no	1
+7 Daniel travelled to the jupiter.
+8 John moved to the jupiter.
+9 Is Daniel in the moon? 	no	7
+10 Daniel is no longer in the jupiter.
+11 Mary is no longer in the earth.
+12 Is John in the jupiter? 	yes	8
+13 Mary went back to the earth.
+14 John went to the venus.
+15 Is John in the moon? 	no	14
+1 John went back to the jupiter.
+2 Sandra moved to the moon.
+3 Is Sandra in the moon? 	yes	2
+4 Mary travelled to the neptune.
+5 Sandra is no longer in the moon.
+6 Is Sandra in the moon? 	no	5
+7 Daniel is in the moon.
+8 Daniel went back to the venus.
+9 Is Mary in the neptune? 	yes	4
+10 Sandra went to the mars.
+11 Mary is in the earth.
+12 Is Sandra in the mars? 	yes	10
+13 John is in the venus.
+14 Mary is no longer in the earth.
+15 Is Sandra in the mars? 	yes	10
+1 Mary journeyed to the mars.
+2 John is not in the venus.
+3 Is Mary in the earth? 	no	1
+4 Sandra is not in the moon.
+5 John is no longer in the neptune.
+6 Is John in the neptune? 	no	5
+7 Mary is in the venus.
+8 Mary journeyed to the jupiter.
+9 Is John in the neptune? 	no	5
+10 Daniel moved to the jupiter.
+11 Mary moved to the neptune.
+12 Is Mary in the moon? 	no	11
+13 Mary went back to the moon.
+14 John journeyed to the moon.
+15 Is Mary in the venus? 	no	13
+1 Mary travelled to the venus.
+2 Sandra is no longer in the jupiter.
+3 Is Sandra in the jupiter? 	no	2
+4 John is no longer in the earth.
+5 Mary is in the moon.
+6 Is Mary in the moon? 	yes	5
+7 John travelled to the moon.
+8 Daniel travelled to the neptune.
+9 Is Sandra in the jupiter? 	no	2
+10 John went to the earth.
+11 Mary is no longer in the moon.
+12 Is Mary in the moon? 	no	11
+13 John travelled to the mars.
+14 Mary is no longer in the venus.
+15 Is John in the jupiter? 	no	13
+1 John went to the mars.
+2 Mary is no longer in the mars.
+3 Is John in the venus? 	no	1
+4 Daniel is in the earth.
+5 Mary journeyed to the mars.
+6 Is Mary in the earth? 	no	5
+7 Daniel is not in the earth.
+8 Mary went back to the moon.
+9 Is Mary in the moon? 	yes	8
+10 Mary moved to the mars.
+11 Mary is in the earth.
+12 Is Mary in the jupiter? 	no	11
+13 John is in the moon.
+14 Sandra went back to the moon.
+15 Is Sandra in the moon? 	yes	14
+1 Sandra is not in the mars.
+2 Sandra is in the mars.
+3 Is Sandra in the neptune? 	no	2
+4 Daniel is in the mars.
+5 Sandra is not in the mars.
+6 Is Sandra in the mars? 	no	5
+7 Daniel is no longer in the mars.
+8 John is not in the jupiter.
+9 Is Sandra in the mars? 	no	5
+10 Mary went to the earth.
+11 John is in the mars.
+12 Is John in the mars? 	yes	11
+13 Sandra journeyed to the mars.
+14 John travelled to the venus.
+15 Is John in the venus? 	yes	14
+1 Sandra travelled to the mars.
+2 Daniel went to the neptune.
+3 Is Sandra in the mars? 	yes	1
+4 Daniel is not in the neptune.
+5 Mary is not in the earth.
+6 Is Daniel in the neptune? 	no	4
+7 Daniel journeyed to the jupiter.
+8 Sandra is no longer in the mars.
+9 Is Daniel in the jupiter? 	yes	7
+10 Sandra is not in the jupiter.
+11 Mary is in the neptune.
+12 Is Mary in the earth? 	no	11
+13 Sandra is no longer in the mars.
+14 John journeyed to the moon.
+15 Is Sandra in the mars? 	no	13
+1 Sandra is in the neptune.
+2 John went back to the mars.
+3 Is Sandra in the neptune? 	yes	1
+4 Daniel went back to the venus.
+5 Daniel is not in the venus.
+6 Is John in the venus? 	no	2
+7 John is in the venus.
+8 John is in the mars.
+9 Is Daniel in the venus? 	no	5
+10 Mary went back to the earth.
+11 John journeyed to the moon.
+12 Is Daniel in the venus? 	no	5
+13 Sandra journeyed to the moon.
+14 Daniel journeyed to the mars.
+15 Is Sandra in the moon? 	yes	13
+1 Daniel is no longer in the moon.
+2 Sandra is not in the venus.
+3 Is Sandra in the venus? 	no	2
+4 Sandra travelled to the jupiter.
+5 Mary is not in the jupiter.
+6 Is Sandra in the jupiter? 	yes	4
+7 Sandra is in the moon.
+8 Daniel is no longer in the mars.
+9 Is Sandra in the earth? 	no	7
+10 Daniel is in the mars.
+11 John travelled to the moon.
+12 Is Daniel in the neptune? 	no	10
+13 John is not in the moon.
+14 Daniel is not in the mars.
+15 Is Daniel in the mars? 	no	14
+1 John moved to the moon.
+2 Mary is in the earth.
+3 Is Mary in the earth? 	yes	2
+4 John moved to the neptune.
+5 Sandra is in the neptune.
+6 Is Sandra in the jupiter? 	no	5
+7 Sandra is no longer in the neptune.
+8 Sandra went back to the jupiter.
+9 Is John in the mars? 	no	4
+10 Sandra is not in the jupiter.
+11 John is in the jupiter.
+12 Is Sandra in the jupiter? 	no	10
+13 John went back to the moon.
+14 Daniel is in the mars.
+15 Is John in the moon? 	yes	13
+1 Mary is no longer in the neptune.
+2 Sandra moved to the mars.
+3 Is Mary in the neptune? 	no	1
+4 Daniel went to the moon.
+5 Mary travelled to the neptune.
+6 Is Sandra in the neptune? 	no	2
+7 John travelled to the earth.
+8 Daniel went back to the mars.
+9 Is John in the earth? 	yes	7
+10 Sandra is not in the mars.
+11 Sandra moved to the earth.
+12 Is Sandra in the earth? 	yes	11
+13 Sandra went to the moon.
+14 John is not in the earth.
+15 Is Sandra in the moon? 	yes	13
+1 John moved to the jupiter.
+2 Sandra moved to the mars.
+3 Is John in the jupiter? 	yes	1
+4 John travelled to the neptune.
+5 Daniel went back to the moon.
+6 Is Daniel in the mars? 	no	5
+7 John moved to the venus.
+8 Sandra is in the jupiter.
+9 Is Daniel in the jupiter? 	no	5
+10 Daniel went back to the earth.
+11 John is not in the venus.
+12 Is Daniel in the neptune? 	no	10
+13 Daniel is in the mars.
+14 Mary journeyed to the earth.
+15 Is Daniel in the mars? 	yes	13
+1 Mary travelled to the mars.
+2 Mary is no longer in the mars.
+3 Is Mary in the mars? 	no	2
+4 John went back to the moon.
+5 Daniel went back to the jupiter.
+6 Is Mary in the mars? 	no	2
+7 Mary is in the neptune.
+8 Sandra is in the jupiter.
+9 Is Mary in the neptune? 	yes	7
+10 Daniel is not in the jupiter.
+11 Daniel is in the earth.
+12 Is Mary in the venus? 	no	7
+13 Mary is no longer in the neptune.
+14 Sandra went to the mars.
+15 Is Sandra in the mars? 	yes	14
+1 Sandra is not in the moon.
+2 Daniel is no longer in the moon.
+3 Is Sandra in the moon? 	no	1
+4 Mary moved to the neptune.
+5 Daniel is no longer in the jupiter.
+6 Is Sandra in the moon? 	no	1
+7 Daniel went to the moon.
+8 John journeyed to the venus.
+9 Is Mary in the earth? 	no	4
+10 Sandra went to the earth.
+11 Daniel is no longer in the moon.
+12 Is Daniel in the moon? 	no	11
+13 Mary moved to the moon.
+14 John is no longer in the venus.
+15 Is John in the venus? 	no	14
+1 John is in the mars.
+2 John journeyed to the neptune.
+3 Is John in the mars? 	no	2
+4 John moved to the jupiter.
+5 Sandra is not in the mars.
+6 Is Sandra in the mars? 	no	5
+7 Daniel is no longer in the neptune.
+8 John is in the moon.
+9 Is John in the moon? 	yes	8
+10 John went back to the venus.
+11 Mary is in the mars.
+12 Is John in the venus? 	yes	10
+13 Daniel went to the earth.
+14 Sandra is in the venus.
+15 Is John in the venus? 	yes	10
+1 Sandra travelled to the jupiter.
+2 Daniel is in the mars.
+3 Is Daniel in the neptune? 	no	2
+4 Daniel is in the neptune.
+5 John moved to the jupiter.
+6 Is Sandra in the moon? 	no	1
+7 Sandra is in the earth.
+8 Sandra is no longer in the earth.
+9 Is Sandra in the earth? 	no	8
+10 Daniel is in the mars.
+11 Sandra went to the earth.
+12 Is John in the jupiter? 	yes	5
+13 John travelled to the earth.
+14 Daniel is in the moon.
+15 Is Daniel in the earth? 	no	14
+1 Mary moved to the jupiter.
+2 Mary is in the moon.
+3 Is Mary in the neptune? 	no	2
+4 Mary travelled to the venus.
+5 Sandra is no longer in the jupiter.
+6 Is Mary in the venus? 	yes	4
+7 Mary is not in the venus.
+8 John moved to the neptune.
+9 Is John in the neptune? 	yes	8
+10 Mary moved to the neptune.
+11 John travelled to the venus.
+12 Is John in the venus? 	yes	11
+13 Mary is not in the neptune.
+14 Mary travelled to the neptune.
+15 Is Mary in the mars? 	no	14
+1 Daniel is in the earth.
+2 Sandra went to the jupiter.
+3 Is Daniel in the neptune? 	no	1
+4 Daniel is in the mars.
+5 Mary travelled to the earth.
+6 Is Daniel in the moon? 	no	4
+7 Mary travelled to the jupiter.
+8 Sandra went back to the mars.
+9 Is Mary in the venus? 	no	7
+10 Mary travelled to the earth.
+11 John travelled to the neptune.
+12 Is Sandra in the earth? 	no	8
+13 Mary is no longer in the earth.
+14 John went to the earth.
+15 Is John in the neptune? 	no	14
+1 John travelled to the earth.
+2 Mary is no longer in the jupiter.
+3 Is Mary in the jupiter? 	no	2
+4 John went to the venus.
+5 Daniel went to the mars.
+6 Is John in the mars? 	no	4
+7 Sandra is not in the mars.
+8 Daniel is not in the mars.
+9 Is Sandra in the mars? 	no	7
+10 Sandra is not in the neptune.
+11 Mary went back to the jupiter.
+12 Is Mary in the jupiter? 	yes	11
+13 Sandra travelled to the venus.
+14 Mary is in the neptune.
+15 Is Daniel in the mars? 	no	8
+1 John is not in the moon.
+2 John went back to the venus.
+3 Is John in the venus? 	yes	2
+4 John went to the jupiter.
+5 Daniel is in the jupiter.
+6 Is John in the jupiter? 	yes	4
+7 John went to the neptune.
+8 Daniel went to the earth.
+9 Is John in the neptune? 	yes	7
+10 Sandra went to the jupiter.
+11 Mary went to the neptune.
+12 Is Daniel in the moon? 	no	8
+13 John is not in the neptune.
+14 Mary moved to the earth.
+15 Is Sandra in the jupiter? 	yes	10
+1 Daniel is in the moon.
+2 Mary is no longer in the venus.
+3 Is Mary in the venus? 	no	2
+4 Daniel travelled to the jupiter.
+5 Mary is in the mars.
+6 Is Mary in the earth? 	no	5
+7 Daniel travelled to the moon.
+8 Sandra is in the mars.
+9 Is Daniel in the earth? 	no	7
+10 Mary journeyed to the earth.
+11 John went to the venus.
+12 Is Mary in the jupiter? 	no	10
+13 Sandra went back to the earth.
+14 Daniel is in the earth.
+15 Is Mary in the venus? 	no	10
+1 John went back to the neptune.
+2 Sandra journeyed to the venus.
+3 Is Sandra in the earth? 	no	2
+4 Sandra went back to the moon.
+5 John is in the earth.
+6 Is Sandra in the moon? 	yes	4
+7 Mary went back to the venus.
+8 Mary is no longer in the venus.
+9 Is John in the moon? 	no	5
+10 Mary went back to the venus.
+11 Mary went back to the moon.
+12 Is Mary in the venus? 	no	11
+13 John is in the moon.
+14 Daniel journeyed to the neptune.
+15 Is Mary in the neptune? 	no	11
+1 John went to the neptune.
+2 Daniel is no longer in the earth.
+3 Is Daniel in the earth? 	no	2
+4 Daniel is no longer in the moon.
+5 John is in the jupiter.
+6 Is Daniel in the moon? 	no	4
+7 Sandra is in the earth.
+8 Mary went back to the mars.
+9 Is Daniel in the moon? 	no	4
+10 Sandra is no longer in the earth.
+11 Sandra journeyed to the venus.
+12 Is Sandra in the venus? 	yes	11
+13 Sandra is in the earth.
+14 Sandra journeyed to the mars.
+15 Is Mary in the mars? 	yes	8
+1 Mary is in the venus.
+2 Sandra travelled to the venus.
+3 Is Sandra in the jupiter? 	no	2
+4 Mary moved to the moon.
+5 Daniel is in the moon.
+6 Is Mary in the moon? 	yes	4
+7 John went to the moon.
+8 John went to the venus.
+9 Is Mary in the neptune? 	no	4
+10 Mary journeyed to the venus.
+11 Mary went to the neptune.
+12 Is Daniel in the jupiter? 	no	5
+13 John went back to the jupiter.
+14 Daniel moved to the neptune.
+15 Is John in the earth? 	no	13
+1 Mary went back to the earth.
+2 Daniel is no longer in the neptune.
+3 Is Mary in the venus? 	no	1
+4 John went to the jupiter.
+5 John went to the mars.
+6 Is John in the neptune? 	no	5
+7 John journeyed to the neptune.
+8 Daniel journeyed to the jupiter.
+9 Is Daniel in the jupiter? 	yes	8
+10 Sandra moved to the mars.
+11 Mary is not in the earth.
+12 Is Sandra in the mars? 	yes	10
+13 Sandra is in the jupiter.
+14 Mary is in the venus.
+15 Is Sandra in the jupiter? 	yes	13
+1 Mary is no longer in the moon.
+2 Daniel moved to the earth.
+3 Is Mary in the moon? 	no	1
+4 Daniel is not in the earth.
+5 John is not in the moon.
+6 Is Mary in the moon? 	no	1
+7 John went to the mars.
+8 John is no longer in the mars.
+9 Is Daniel in the earth? 	no	4
+10 John is not in the earth.
+11 Mary went back to the moon.
+12 Is John in the earth? 	no	10
+13 John is no longer in the jupiter.
+14 Mary is no longer in the moon.
+15 Is Mary in the moon? 	no	14
+1 John journeyed to the jupiter.
+2 Sandra went to the earth.
+3 Is John in the jupiter? 	yes	1
+4 Sandra is in the moon.
+5 Sandra went back to the neptune.
+6 Is Sandra in the moon? 	no	5
+7 Mary journeyed to the mars.
+8 Sandra is no longer in the neptune.
+9 Is Sandra in the neptune? 	no	8
+10 John is in the moon.
+11 Daniel is in the neptune.
+12 Is Sandra in the neptune? 	no	8
+13 Sandra is in the jupiter.
+14 Mary is in the venus.
+15 Is Sandra in the mars? 	no	13
+1 Daniel is in the venus.
+2 Daniel went to the mars.
+3 Is Daniel in the earth? 	no	2
+4 John went to the earth.
+5 Daniel is in the venus.
+6 Is Daniel in the venus? 	yes	5
+7 Daniel went back to the moon.
+8 John went back to the neptune.
+9 Is Daniel in the neptune? 	no	7
+10 John is in the venus.
+11 Mary travelled to the earth.
+12 Is John in the venus? 	yes	10
+13 Mary went to the jupiter.
+14 Mary is in the venus.
+15 Is Mary in the neptune? 	no	14
+1 Daniel went back to the jupiter.
+2 Sandra is in the neptune.
+3 Is Sandra in the neptune? 	yes	2
+4 Mary travelled to the neptune.
+5 Daniel travelled to the moon.
+6 Is Daniel in the earth? 	no	5
+7 Sandra is in the mars.
+8 Sandra is in the venus.
+9 Is Sandra in the venus? 	yes	8
+10 Sandra is in the neptune.
+11 Daniel journeyed to the venus.
+12 Is Daniel in the neptune? 	no	11
+13 Mary is in the earth.
+14 John went back to the earth.
+15 Is John in the mars? 	no	14
+1 Mary moved to the mars.
+2 Sandra is in the moon.
+3 Is Sandra in the moon? 	yes	2
+4 Mary is in the jupiter.
+5 Daniel is in the neptune.
+6 Is Mary in the neptune? 	no	4
+7 John journeyed to the moon.
+8 John is no longer in the moon.
+9 Is Sandra in the earth? 	no	2
+10 John went to the neptune.
+11 Mary went to the moon.
+12 Is John in the neptune? 	yes	10
+13 Sandra went back to the jupiter.
+14 Mary travelled to the earth.
+15 Is Mary in the earth? 	yes	14
+1 Daniel went back to the venus.
+2 Sandra journeyed to the jupiter.
+3 Is Sandra in the jupiter? 	yes	2
+4 John is in the moon.
+5 Daniel moved to the earth.
+6 Is Daniel in the venus? 	no	5
+7 Daniel is not in the earth.
+8 Daniel is in the moon.
+9 Is Daniel in the mars? 	no	8
+10 Mary travelled to the mars.
+11 John is no longer in the moon.
+12 Is Daniel in the neptune? 	no	8
+13 Sandra went to the moon.
+14 Daniel travelled to the venus.
+15 Is John in the moon? 	no	11
+1 John is in the neptune.
+2 Mary is no longer in the venus.
+3 Is John in the neptune? 	yes	1
+4 John is no longer in the neptune.
+5 Daniel is in the venus.
+6 Is John in the neptune? 	no	4
+7 John is in the mars.
+8 Mary is not in the neptune.
+9 Is Daniel in the venus? 	yes	5
+10 Sandra journeyed to the moon.
+11 Daniel is no longer in the venus.
+12 Is Sandra in the mars? 	no	10
+13 Mary is in the moon.
+14 Daniel journeyed to the venus.
+15 Is Daniel in the earth? 	no	14
+1 Daniel is no longer in the jupiter.
+2 Sandra journeyed to the neptune.
+3 Is Sandra in the neptune? 	yes	2
+4 Sandra is not in the neptune.
+5 Daniel is in the venus.
+6 Is Sandra in the neptune? 	no	4
+7 Sandra went to the venus.
+8 John went back to the venus.
+9 Is Sandra in the venus? 	yes	7
+10 Daniel went back to the earth.
+11 John journeyed to the jupiter.
+12 Is Daniel in the moon? 	no	10
+13 Sandra is not in the venus.
+14 John travelled to the venus.
+15 Is John in the venus? 	yes	14
+1 Daniel is no longer in the jupiter.
+2 Sandra is in the mars.
+3 Is Sandra in the mars? 	yes	2
+4 Mary is no longer in the moon.
+5 Mary travelled to the earth.
+6 Is Mary in the earth? 	yes	5
+7 John is in the mars.
+8 Mary is no longer in the earth.
+9 Is Mary in the earth? 	no	8
+10 John is in the venus.
+11 Mary is in the earth.
+12 Is Mary in the earth? 	yes	11
+13 John is in the jupiter.
+14 Mary went to the mars.
+15 Is John in the jupiter? 	yes	13
+1 Mary moved to the venus.
+2 Mary is in the moon.
+3 Is Mary in the venus? 	no	2
+4 Mary is in the jupiter.
+5 Mary journeyed to the moon.
+6 Is Mary in the moon? 	yes	5
+7 Sandra moved to the venus.
+8 John is no longer in the venus.
+9 Is Mary in the venus? 	no	5
+10 Sandra moved to the jupiter.
+11 Sandra journeyed to the venus.
+12 Is Mary in the moon? 	yes	5
+13 John is no longer in the neptune.
+14 Sandra went to the neptune.
+15 Is Sandra in the venus? 	no	14
+1 Mary is not in the mars.
+2 Daniel is no longer in the neptune.
+3 Is Daniel in the neptune? 	no	2
+4 John is no longer in the neptune.
+5 Daniel is no longer in the mars.
+6 Is Mary in the mars? 	no	1
+7 Sandra journeyed to the venus.
+8 Mary went to the moon.
+9 Is Daniel in the mars? 	no	5
+10 Daniel moved to the neptune.
+11 Daniel went back to the venus.
+12 Is Daniel in the mars? 	no	11
+13 Sandra journeyed to the moon.
+14 John is not in the venus.
+15 Is John in the venus? 	no	14
+1 Sandra moved to the earth.
+2 Sandra journeyed to the jupiter.
+3 Is Sandra in the jupiter? 	yes	2
+4 Sandra journeyed to the neptune.
+5 Sandra journeyed to the venus.
+6 Is Sandra in the jupiter? 	no	5
+7 John journeyed to the earth.
+8 Daniel is in the earth.
+9 Is Sandra in the earth? 	no	5
+10 John travelled to the venus.
+11 John is in the jupiter.
+12 Is Daniel in the earth? 	yes	8
+13 Mary journeyed to the venus.
+14 Sandra is not in the venus.
+15 Is Daniel in the earth? 	yes	8
+1 John journeyed to the venus.
+2 Daniel is no longer in the venus.
+3 Is John in the neptune? 	no	1
+4 John is in the moon.
+5 Daniel is no longer in the earth.
+6 Is Daniel in the earth? 	no	5
+7 John travelled to the mars.
+8 Daniel is not in the mars.
+9 Is John in the mars? 	yes	7
+10 John went to the moon.
+11 Mary journeyed to the earth.
+12 Is Mary in the venus? 	no	11
+13 Sandra is not in the neptune.
+14 John is in the mars.
+15 Is Sandra in the neptune? 	no	13
+1 Daniel is in the venus.
+2 John is in the earth.
+3 Is John in the venus? 	no	2
+4 Mary went back to the neptune.
+5 Daniel moved to the jupiter.
+6 Is Mary in the neptune? 	yes	4
+7 Mary moved to the earth.
+8 Sandra is not in the venus.
+9 Is Sandra in the venus? 	no	8
+10 John moved to the moon.
+11 Sandra is not in the moon.
+12 Is Sandra in the moon? 	no	11
+13 John went to the earth.
+14 Sandra journeyed to the mars.
+15 Is John in the jupiter? 	no	13
+1 John journeyed to the earth.
+2 Mary went to the moon.
+3 Is John in the earth? 	yes	1
+4 Mary is not in the moon.
+5 John is no longer in the earth.
+6 Is John in the earth? 	no	5
+7 Daniel is not in the moon.
+8 Daniel moved to the venus.
+9 Is Daniel in the mars? 	no	8
+10 Daniel journeyed to the earth.
+11 Daniel is in the venus.
+12 Is Daniel in the moon? 	no	11
+13 Daniel journeyed to the mars.
+14 Sandra is no longer in the jupiter.
+15 Is Daniel in the neptune? 	no	13
+1 Sandra went back to the moon.
+2 Sandra moved to the jupiter.
+3 Is Sandra in the earth? 	no	2
+4 Daniel moved to the mars.
+5 Daniel moved to the venus.
+6 Is Daniel in the venus? 	yes	5
+7 John is in the moon.
+8 Mary travelled to the venus.
+9 Is Daniel in the jupiter? 	no	5
+10 John is in the venus.
+11 John is no longer in the venus.
+12 Is Daniel in the venus? 	yes	5
+13 Mary moved to the jupiter.
+14 Daniel journeyed to the neptune.
+15 Is Daniel in the venus? 	no	14
+1 Mary is not in the earth.
+2 Daniel is in the jupiter.
+3 Is Mary in the earth? 	no	1
+4 John is not in the venus.
+5 Mary went back to the jupiter.
+6 Is Mary in the venus? 	no	5
+7 Mary is in the moon.
+8 John travelled to the venus.
+9 Is Daniel in the jupiter? 	yes	2
+10 Mary went back to the earth.
+11 Mary journeyed to the jupiter.
+12 Is Mary in the neptune? 	no	11
+13 Daniel is in the earth.
+14 Mary journeyed to the mars.
+15 Is Daniel in the earth? 	yes	13
+1 John went to the mars.
+2 John is in the earth.
+3 Is John in the earth? 	yes	2
+4 Daniel is not in the neptune.
+5 Sandra went to the mars.
+6 Is John in the earth? 	yes	2
+7 Mary journeyed to the neptune.
+8 John is in the mars.
+9 Is John in the mars? 	yes	8
+10 Sandra journeyed to the earth.
+11 John moved to the venus.
+12 Is Mary in the venus? 	no	7
+13 Daniel is not in the mars.
+14 Mary travelled to the mars.
+15 Is Mary in the mars? 	yes	14
+1 Mary is not in the earth.
+2 Daniel went to the venus.
+3 Is Mary in the earth? 	no	1
+4 Sandra is in the moon.
+5 John is no longer in the venus.
+6 Is Daniel in the venus? 	yes	2
+7 Daniel is in the jupiter.
+8 Sandra is not in the moon.
+9 Is Sandra in the moon? 	no	8
+10 Sandra went to the neptune.
+11 Sandra travelled to the mars.
+12 Is Sandra in the mars? 	yes	11
+13 Mary went back to the earth.
+14 John went back to the venus.
+15 Is John in the jupiter? 	no	14
+1 Sandra is no longer in the venus.
+2 Daniel is no longer in the jupiter.
+3 Is Daniel in the jupiter? 	no	2
+4 Mary is in the earth.
+5 Daniel travelled to the jupiter.
+6 Is Daniel in the jupiter? 	yes	5
+7 Mary went back to the mars.
+8 Sandra went to the neptune.
+9 Is Daniel in the earth? 	no	5
+10 John is in the jupiter.
+11 Daniel went to the neptune.
+12 Is Daniel in the neptune? 	yes	11
+13 John travelled to the neptune.
+14 Sandra is in the mars.
+15 Is John in the neptune? 	yes	13
+1 Daniel went to the moon.
+2 Sandra travelled to the moon.
+3 Is Sandra in the neptune? 	no	2
+4 Sandra moved to the earth.
+5 Sandra journeyed to the neptune.
+6 Is Sandra in the moon? 	no	5
+7 Daniel is in the neptune.
+8 Sandra journeyed to the moon.
+9 Is Sandra in the jupiter? 	no	8
+10 Daniel went to the earth.
+11 John moved to the neptune.
+12 Is Daniel in the earth? 	yes	10
+13 Mary journeyed to the neptune.
+14 Daniel is not in the earth.
+15 Is John in the neptune? 	yes	11
+1 Daniel is in the jupiter.
+2 Daniel travelled to the venus.
+3 Is Daniel in the venus? 	yes	2
+4 Sandra went back to the mars.
+5 Sandra journeyed to the moon.
+6 Is Sandra in the neptune? 	no	5
+7 Daniel is in the mars.
+8 Mary went to the neptune.
+9 Is Mary in the neptune? 	yes	8
+10 Mary moved to the venus.
+11 Sandra is no longer in the moon.
+12 Is Daniel in the mars? 	yes	7
+13 Mary travelled to the moon.
+14 Daniel went to the earth.
+15 Is Sandra in the moon? 	no	11
+1 Sandra is in the mars.
+2 Daniel went back to the mars.
+3 Is Daniel in the mars? 	yes	2
+4 Sandra went to the venus.
+5 Sandra went to the moon.
+6 Is Sandra in the moon? 	yes	5
+7 Daniel is in the jupiter.
+8 Sandra journeyed to the venus.
+9 Is Sandra in the neptune? 	no	8
+10 John travelled to the jupiter.
+11 Sandra is in the earth.
+12 Is Daniel in the moon? 	no	7
+13 Daniel is not in the jupiter.
+14 Mary is not in the jupiter.
+15 Is Mary in the jupiter? 	no	14
+1 Sandra travelled to the mars.
+2 Mary journeyed to the neptune.
+3 Is Sandra in the earth? 	no	1
+4 Daniel travelled to the moon.
+5 Mary journeyed to the earth.
+6 Is Mary in the earth? 	yes	5
+7 Daniel is in the mars.
+8 Sandra travelled to the venus.
+9 Is Daniel in the neptune? 	no	7
+10 John journeyed to the moon.
+11 Sandra moved to the moon.
+12 Is Sandra in the moon? 	yes	11
+13 John went to the jupiter.
+14 Daniel went back to the venus.
+15 Is John in the jupiter? 	yes	13
+1 Sandra moved to the jupiter.
+2 Sandra journeyed to the mars.
+3 Is Sandra in the venus? 	no	2
+4 Sandra is no longer in the mars.
+5 Sandra moved to the jupiter.
+6 Is Sandra in the mars? 	no	5
+7 Mary is no longer in the jupiter.
+8 John moved to the moon.
+9 Is Sandra in the venus? 	no	5
+10 Daniel travelled to the moon.
+11 Mary travelled to the moon.
+12 Is Mary in the mars? 	no	11
+13 Sandra is not in the jupiter.
+14 Daniel went to the mars.
+15 Is John in the earth? 	no	8
+1 Daniel is not in the venus.
+2 Sandra moved to the neptune.
+3 Is Sandra in the earth? 	no	2
+4 John travelled to the moon.
+5 Daniel went to the mars.
+6 Is Sandra in the neptune? 	yes	2
+7 Mary is in the moon.
+8 Sandra is no longer in the neptune.
+9 Is Daniel in the mars? 	yes	5
+10 Sandra is not in the jupiter.
+11 John went to the neptune.
+12 Is Mary in the moon? 	yes	7
+13 John is no longer in the neptune.
+14 Mary went to the earth.
+15 Is John in the neptune? 	no	13
+1 John is in the moon.
+2 John went to the jupiter.
+3 Is John in the neptune? 	no	2
+4 Daniel journeyed to the moon.
+5 Sandra is no longer in the moon.
+6 Is John in the jupiter? 	yes	2
+7 Sandra is no longer in the venus.
+8 Sandra moved to the earth.
+9 Is Sandra in the neptune? 	no	8
+10 John travelled to the mars.
+11 Daniel went back to the jupiter.
+12 Is Sandra in the earth? 	yes	8
+13 Sandra journeyed to the mars.
+14 Mary journeyed to the neptune.
+15 Is Sandra in the mars? 	yes	13
+1 John travelled to the neptune.
+2 Daniel is in the neptune.
+3 Is John in the neptune? 	yes	1
+4 Sandra is in the neptune.
+5 Daniel moved to the earth.
+6 Is John in the jupiter? 	no	1
+7 Sandra moved to the venus.
+8 Mary journeyed to the neptune.
+9 Is Sandra in the venus? 	yes	7
+10 Daniel is no longer in the earth.
+11 Mary is not in the neptune.
+12 Is Daniel in the earth? 	no	10
+13 John went to the earth.
+14 Daniel journeyed to the earth.
+15 Is John in the neptune? 	no	13
+1 Daniel is not in the moon.
+2 Mary travelled to the moon.
+3 Is Daniel in the moon? 	no	1
+4 Mary is not in the moon.
+5 Sandra journeyed to the moon.
+6 Is Daniel in the moon? 	no	1
+7 John moved to the neptune.
+8 Mary is no longer in the venus.
+9 Is Sandra in the earth? 	no	5
+10 Sandra went to the earth.
+11 Daniel is no longer in the jupiter.
+12 Is Sandra in the moon? 	no	10
+13 John is in the mars.
+14 John moved to the venus.
+15 Is Sandra in the earth? 	yes	10
+1 John is not in the earth.
+2 John is in the moon.
+3 Is John in the venus? 	no	2
+4 John travelled to the neptune.
+5 Sandra went back to the earth.
+6 Is John in the earth? 	no	4
+7 John is no longer in the neptune.
+8 Daniel travelled to the jupiter.
+9 Is Daniel in the mars? 	no	8
+10 John is no longer in the moon.
+11 John travelled to the moon.
+12 Is John in the moon? 	yes	11
+13 John is in the venus.
+14 John is in the neptune.
+15 Is John in the mars? 	no	14
+1 Mary travelled to the venus.
+2 Daniel is in the venus.
+3 Is Mary in the moon? 	no	1
+4 Sandra went to the moon.
+5 John journeyed to the jupiter.
+6 Is Sandra in the moon? 	yes	4
+7 John is in the venus.
+8 Daniel is in the earth.
+9 Is Sandra in the moon? 	yes	4
+10 Mary is no longer in the venus.
+11 Mary journeyed to the moon.
+12 Is Mary in the moon? 	yes	11
+13 John is no longer in the venus.
+14 Sandra is no longer in the moon.
+15 Is John in the venus? 	no	13
+1 John is no longer in the moon.
+2 Mary is in the neptune.
+3 Is John in the moon? 	no	1
+4 Daniel moved to the jupiter.
+5 Daniel went back to the mars.
+6 Is John in the moon? 	no	1
+7 Mary travelled to the venus.
+8 John is in the moon.
+9 Is John in the neptune? 	no	8
+10 Sandra is not in the neptune.
+11 Mary is in the moon.
+12 Is Sandra in the neptune? 	no	10
+13 Sandra is not in the venus.
+14 Daniel is no longer in the mars.
+15 Is Mary in the moon? 	yes	11
+1 Daniel is not in the venus.
+2 Mary went to the neptune.
+3 Is Mary in the neptune? 	yes	2
+4 Daniel is not in the mars.
+5 John is in the moon.
+6 Is Daniel in the mars? 	no	4
+7 Daniel is no longer in the earth.
+8 Sandra journeyed to the earth.
+9 Is Daniel in the earth? 	no	7
+10 John is no longer in the moon.
+11 John journeyed to the neptune.
+12 Is Daniel in the earth? 	no	7
+13 Mary moved to the earth.
+14 Daniel journeyed to the mars.
+15 Is Sandra in the moon? 	no	8
+1 Daniel journeyed to the earth.
+2 Mary went to the earth.
+3 Is Mary in the earth? 	yes	2
+4 John is no longer in the jupiter.
+5 John journeyed to the neptune.
+6 Is John in the neptune? 	yes	5
+7 Daniel is not in the earth.
+8 Mary went back to the moon.
+9 Is Mary in the moon? 	yes	8
+10 Sandra is not in the jupiter.
+11 Daniel travelled to the mars.
+12 Is Daniel in the jupiter? 	no	11
+13 Sandra is no longer in the venus.
+14 John is not in the neptune.
+15 Is Mary in the earth? 	no	8
+1 Sandra travelled to the moon.
+2 Daniel is in the jupiter.
+3 Is Daniel in the jupiter? 	yes	2
+4 Sandra travelled to the mars.
+5 Daniel went to the neptune.
+6 Is Sandra in the mars? 	yes	4
+7 John is in the jupiter.
+8 Mary travelled to the venus.
+9 Is Daniel in the neptune? 	yes	5
+10 Sandra went to the moon.
+11 Sandra travelled to the earth.
+12 Is John in the jupiter? 	yes	7
+13 Sandra went back to the neptune.
+14 Daniel is not in the neptune.
+15 Is Daniel in the neptune? 	no	14
+1 John is in the venus.
+2 Sandra travelled to the mars.
+3 Is Sandra in the earth? 	no	2
+4 Daniel moved to the earth.
+5 Mary went back to the earth.
+6 Is Sandra in the mars? 	yes	2
+7 Mary moved to the neptune.
+8 Daniel is not in the earth.
+9 Is Sandra in the earth? 	no	2
+10 Daniel went back to the earth.
+11 John journeyed to the mars.
+12 Is Daniel in the venus? 	no	10
+13 John is in the venus.
+14 Sandra is in the jupiter.
+15 Is John in the jupiter? 	no	13
+1 John travelled to the moon.
+2 Daniel is in the moon.
+3 Is Daniel in the moon? 	yes	2
+4 Daniel is no longer in the moon.
+5 Sandra went to the venus.
+6 Is Sandra in the earth? 	no	5
+7 Daniel is no longer in the jupiter.
+8 Daniel is in the jupiter.
+9 Is Daniel in the moon? 	no	8
+10 John journeyed to the neptune.
+11 Mary went back to the moon.
+12 Is John in the neptune? 	yes	10
+13 Mary is in the neptune.
+14 Daniel is in the moon.
+15 Is Mary in the neptune? 	yes	13
+1 Daniel went to the neptune.
+2 Mary moved to the moon.
+3 Is Daniel in the moon? 	no	1
+4 Sandra travelled to the earth.
+5 John is in the moon.
+6 Is John in the venus? 	no	5
+7 Sandra is no longer in the earth.
+8 Daniel journeyed to the moon.
+9 Is Daniel in the moon? 	yes	8
+10 Mary is no longer in the moon.
+11 Sandra moved to the jupiter.
+12 Is Sandra in the jupiter? 	yes	11
+13 Mary is in the moon.
+14 Mary went back to the neptune.
+15 Is Mary in the moon? 	no	14
+1 John journeyed to the venus.
+2 John moved to the moon.
+3 Is John in the mars? 	no	2
+4 Daniel moved to the mars.
+5 John travelled to the neptune.
+6 Is John in the earth? 	no	5
+7 Sandra is no longer in the moon.
+8 Sandra went back to the neptune.
+9 Is John in the neptune? 	yes	5
+10 John is in the earth.
+11 John is not in the earth.
+12 Is John in the earth? 	no	11
+13 Sandra is not in the neptune.
+14 Daniel moved to the jupiter.
+15 Is John in the earth? 	no	11
+1 Sandra is not in the mars.
+2 John is in the earth.
+3 Is John in the jupiter? 	no	2
+4 Sandra travelled to the earth.
+5 Mary is in the venus.
+6 Is Sandra in the venus? 	no	4
+7 Daniel went back to the jupiter.
+8 John is no longer in the earth.
+9 Is John in the earth? 	no	8
+10 Daniel is in the neptune.
+11 Daniel is not in the neptune.
+12 Is Daniel in the neptune? 	no	11
+13 Sandra is not in the earth.
+14 Mary is no longer in the venus.
+15 Is Sandra in the earth? 	no	13
+1 Mary is in the neptune.
+2 John went back to the mars.
+3 Is Mary in the moon? 	no	1
+4 Daniel is in the moon.
+5 Daniel went back to the earth.
+6 Is Daniel in the mars? 	no	5
+7 Daniel moved to the jupiter.
+8 Mary journeyed to the jupiter.
+9 Is Daniel in the neptune? 	no	7
+10 Sandra is in the jupiter.
+11 Daniel is no longer in the jupiter.
+12 Is Daniel in the jupiter? 	no	11
+13 Mary went back to the venus.
+14 Mary moved to the mars.
+15 Is Mary in the mars? 	yes	14
+1 Mary is not in the moon.
+2 John is in the mars.
+3 Is Mary in the moon? 	no	1
+4 John went back to the venus.
+5 Daniel went back to the jupiter.
+6 Is Daniel in the jupiter? 	yes	5
+7 Sandra travelled to the neptune.
+8 Sandra is in the mars.
+9 Is John in the moon? 	no	4
+10 John journeyed to the neptune.
+11 Daniel went back to the venus.
+12 Is Daniel in the mars? 	no	11
+13 Daniel is in the moon.
+14 Sandra is in the jupiter.
+15 Is John in the earth? 	no	10
+1 Mary is in the venus.
+2 Sandra is no longer in the mars.
+3 Is Sandra in the mars? 	no	2
+4 Mary journeyed to the moon.
+5 Sandra is not in the earth.
+6 Is Mary in the moon? 	yes	4
+7 Mary travelled to the mars.
+8 Sandra moved to the moon.
+9 Is Sandra in the neptune? 	no	8
+10 Mary travelled to the neptune.
+11 Sandra journeyed to the neptune.
+12 Is Mary in the neptune? 	yes	10
+13 John went to the neptune.
+14 Mary is no longer in the neptune.
+15 Is John in the neptune? 	yes	13
+1 Daniel is in the moon.
+2 Sandra is no longer in the earth.
+3 Is Daniel in the mars? 	no	1
+4 Mary is no longer in the earth.
+5 Sandra is no longer in the mars.
+6 Is Sandra in the mars? 	no	5
+7 Sandra is in the neptune.
+8 Daniel is in the venus.
+9 Is Sandra in the neptune? 	yes	7
+10 Sandra is in the earth.
+11 Sandra is in the moon.
+12 Is Sandra in the earth? 	no	11
+13 Sandra travelled to the neptune.
+14 John is in the mars.
+15 Is Sandra in the mars? 	no	13
+1 Mary is in the jupiter.
+2 John went back to the mars.
+3 Is Mary in the moon? 	no	1
+4 Sandra travelled to the moon.
+5 John is in the venus.
+6 Is John in the venus? 	yes	5
+7 Daniel travelled to the neptune.
+8 Daniel went back to the moon.
+9 Is Daniel in the moon? 	yes	8
+10 John is in the neptune.
+11 John went to the mars.
+12 Is John in the mars? 	yes	11
+13 Sandra is not in the moon.
+14 Mary moved to the moon.
+15 Is John in the neptune? 	no	11
+1 Sandra went to the moon.
+2 Sandra is in the jupiter.
+3 Is Sandra in the jupiter? 	yes	2
+4 Mary is in the neptune.
+5 Mary went to the venus.
+6 Is Mary in the venus? 	yes	5
+7 Daniel travelled to the moon.
+8 Mary is in the earth.
+9 Is Mary in the venus? 	no	8
+10 John travelled to the jupiter.
+11 John moved to the earth.
+12 Is John in the venus? 	no	11
+13 John is no longer in the earth.
+14 John went to the earth.
+15 Is John in the moon? 	no	14
+1 Mary is not in the mars.
+2 John moved to the mars.
+3 Is John in the mars? 	yes	2
+4 John went back to the jupiter.
+5 John went to the moon.
+6 Is Mary in the mars? 	no	1
+7 John is in the jupiter.
+8 John travelled to the earth.
+9 Is John in the earth? 	yes	8
+10 Mary journeyed to the jupiter.
+11 Daniel travelled to the neptune.
+12 Is Mary in the jupiter? 	yes	10
+13 Sandra went back to the moon.
+14 Sandra journeyed to the neptune.
+15 Is Sandra in the neptune? 	yes	14
+1 John is not in the mars.
+2 Daniel went back to the neptune.
+3 Is John in the mars? 	no	1
+4 John moved to the mars.
+5 Daniel went to the earth.
+6 Is Daniel in the neptune? 	no	5
+7 John went back to the moon.
+8 John is in the earth.
+9 Is John in the earth? 	yes	8
+10 Daniel went back to the mars.
+11 Mary is no longer in the neptune.
+12 Is Daniel in the mars? 	yes	10
+13 John travelled to the jupiter.
+14 Mary is in the jupiter.
+15 Is Mary in the earth? 	no	14
+1 John moved to the neptune.
+2 Daniel journeyed to the neptune.
+3 Is John in the neptune? 	yes	1
+4 Mary went back to the moon.
+5 John is no longer in the neptune.
+6 Is Daniel in the earth? 	no	2
+7 John is no longer in the venus.
+8 Sandra is no longer in the venus.
+9 Is Daniel in the neptune? 	yes	2
+10 Daniel is in the jupiter.
+11 John travelled to the jupiter.
+12 Is Daniel in the neptune? 	no	10
+13 Daniel went to the earth.
+14 Daniel journeyed to the neptune.
+15 Is Daniel in the neptune? 	yes	14
+1 John is not in the venus.
+2 John journeyed to the venus.
+3 Is John in the venus? 	yes	2
+4 John journeyed to the moon.
+5 Sandra is in the jupiter.
+6 Is John in the venus? 	no	4
+7 Daniel is in the venus.
+8 John went to the earth.
+9 Is John in the moon? 	no	8
+10 Daniel journeyed to the neptune.
+11 John is in the neptune.
+12 Is John in the earth? 	no	11
+13 John is no longer in the neptune.
+14 Daniel went to the moon.
+15 Is Daniel in the moon? 	yes	14
+1 Mary is in the earth.
+2 Sandra moved to the jupiter.
+3 Is Mary in the moon? 	no	1
+4 John journeyed to the venus.
+5 Daniel is not in the neptune.
+6 Is Mary in the venus? 	no	1
+7 John went to the moon.
+8 Daniel journeyed to the jupiter.
+9 Is John in the neptune? 	no	7
+10 Daniel is no longer in the jupiter.
+11 Daniel travelled to the jupiter.
+12 Is Daniel in the jupiter? 	yes	11
+13 John went to the venus.
+14 Sandra is in the mars.
+15 Is Daniel in the earth? 	no	11
+1 Mary moved to the jupiter.
+2 John is in the moon.
+3 Is Mary in the moon? 	no	1
+4 John moved to the earth.
+5 Mary journeyed to the moon.
+6 Is Mary in the moon? 	yes	5
+7 Mary journeyed to the neptune.
+8 Sandra is in the jupiter.
+9 Is John in the earth? 	yes	4
+10 Mary travelled to the venus.
+11 Daniel went to the mars.
+12 Is Daniel in the earth? 	no	11
+13 Mary went to the mars.
+14 Sandra went to the moon.
+15 Is Daniel in the mars? 	yes	11
+1 John is not in the jupiter.
+2 John is in the mars.
+3 Is John in the mars? 	yes	2
+4 Sandra is in the venus.
+5 John travelled to the earth.
+6 Is John in the jupiter? 	no	5
+7 Mary is no longer in the mars.
+8 Sandra went back to the moon.
+9 Is Sandra in the moon? 	yes	8
+10 Daniel went back to the mars.
+11 Sandra is in the jupiter.
+12 Is Sandra in the venus? 	no	11
+13 Sandra is in the neptune.
+14 Daniel travelled to the venus.
+15 Is Sandra in the neptune? 	yes	13
+1 John is in the moon.
+2 John is in the venus.
+3 Is John in the earth? 	no	2
+4 John is in the moon.
+5 John is in the earth.
+6 Is John in the earth? 	yes	5
+7 Daniel is in the moon.
+8 Mary is not in the venus.
+9 Is John in the venus? 	no	5
+10 Daniel moved to the mars.
+11 John moved to the neptune.
+12 Is Mary in the venus? 	no	8
+13 Sandra journeyed to the mars.
+14 Sandra went to the neptune.
+15 Is Sandra in the neptune? 	yes	14
+1 Daniel is in the mars.
+2 Sandra is not in the jupiter.
+3 Is Sandra in the jupiter? 	no	2
+4 John moved to the neptune.
+5 Mary is in the mars.
+6 Is Daniel in the moon? 	no	1
+7 Mary is not in the mars.
+8 Mary is no longer in the earth.
+9 Is Sandra in the jupiter? 	no	2
+10 Sandra went to the jupiter.
+11 Mary travelled to the venus.
+12 Is Mary in the mars? 	no	11
+13 Mary went to the jupiter.
+14 Mary is not in the jupiter.
+15 Is Mary in the jupiter? 	no	14
+1 John is no longer in the mars.
+2 John went back to the venus.
+3 Is John in the mars? 	no	2
+4 Daniel is not in the earth.
+5 Mary travelled to the jupiter.
+6 Is Daniel in the earth? 	no	4
+7 Daniel is no longer in the venus.
+8 Daniel is not in the jupiter.
+9 Is Daniel in the jupiter? 	no	8
+10 Mary is no longer in the jupiter.
+11 Daniel went back to the jupiter.
+12 Is Mary in the jupiter? 	no	10
+13 Mary is not in the earth.
+14 John is no longer in the venus.
+15 Is Mary in the earth? 	no	13
+1 Daniel is not in the mars.
+2 Mary is not in the venus.
+3 Is Daniel in the mars? 	no	1
+4 Daniel is in the neptune.
+5 Sandra journeyed to the moon.
+6 Is Daniel in the neptune? 	yes	4
+7 Mary went to the jupiter.
+8 Daniel is not in the neptune.
+9 Is Mary in the neptune? 	no	7
+10 Mary is not in the jupiter.
+11 Mary is in the mars.
+12 Is Sandra in the neptune? 	no	5
+13 Daniel is not in the jupiter.
+14 Mary journeyed to the moon.
+15 Is Mary in the moon? 	yes	14
+1 John is no longer in the venus.
+2 John journeyed to the earth.
+3 Is John in the earth? 	yes	2
+4 John moved to the neptune.
+5 Mary is not in the venus.
+6 Is Mary in the venus? 	no	5
+7 Mary is not in the neptune.
+8 Sandra is no longer in the moon.
+9 Is John in the neptune? 	yes	4
+10 John is no longer in the neptune.
+11 John is in the moon.
+12 Is Mary in the neptune? 	no	7
+13 John is no longer in the moon.
+14 Mary is in the venus.
+15 Is Mary in the venus? 	yes	14
+1 Mary is not in the venus.
+2 Sandra moved to the venus.
+3 Is Mary in the venus? 	no	1
+4 John journeyed to the earth.
+5 John is not in the earth.
+6 Is Sandra in the venus? 	yes	2
+7 John went to the venus.
+8 Sandra went to the neptune.
+9 Is John in the jupiter? 	no	7
+10 John is no longer in the venus.
+11 Sandra is in the earth.
+12 Is Sandra in the venus? 	no	11
+13 Sandra went to the moon.
+14 John is not in the neptune.
+15 Is John in the neptune? 	no	14
+1 Daniel went to the mars.
+2 Daniel went back to the venus.
+3 Is Daniel in the venus? 	yes	2
+4 Daniel is in the neptune.
+5 Sandra went back to the venus.
+6 Is Sandra in the venus? 	yes	5
+7 John is in the venus.
+8 Daniel is in the jupiter.
+9 Is Daniel in the venus? 	no	8
+10 Mary went to the jupiter.
+11 Daniel is in the moon.
+12 Is Sandra in the mars? 	no	5
+13 Daniel went back to the neptune.
+14 Mary is not in the jupiter.
+15 Is Daniel in the jupiter? 	no	13
+1 John went to the earth.
+2 Daniel is not in the mars.
+3 Is Daniel in the mars? 	no	2
+4 Daniel went back to the mars.
+5 Mary moved to the mars.
+6 Is Daniel in the neptune? 	no	4
+7 John is no longer in the earth.
+8 Daniel is in the jupiter.
+9 Is Mary in the mars? 	yes	5
+10 Mary moved to the neptune.
+11 Daniel is no longer in the jupiter.
+12 Is Daniel in the jupiter? 	no	11
+13 Daniel went back to the earth.
+14 John is in the venus.
+15 Is Daniel in the earth? 	yes	13
+1 Daniel is in the moon.
+2 Daniel is not in the moon.
+3 Is Daniel in the moon? 	no	2
+4 Sandra is no longer in the mars.
+5 John is not in the earth.
+6 Is Sandra in the mars? 	no	4
+7 Sandra journeyed to the jupiter.
+8 Daniel journeyed to the venus.
+9 Is John in the earth? 	no	5
+10 Mary is in the moon.
+11 Mary is not in the moon.
+12 Is John in the earth? 	no	5
+13 Sandra is not in the jupiter.
+14 John went back to the venus.
+15 Is Mary in the moon? 	no	11
+1 John is in the mars.
+2 Mary is not in the venus.
+3 Is Mary in the venus? 	no	2
+4 Daniel moved to the moon.
+5 John went to the neptune.
+6 Is Mary in the venus? 	no	2
+7 Daniel is in the neptune.
+8 Sandra is not in the venus.
+9 Is John in the neptune? 	yes	5
+10 Daniel is not in the neptune.
+11 Daniel went back to the mars.
+12 Is Daniel in the jupiter? 	no	11
+13 John went back to the mars.
+14 Daniel went to the neptune.
+15 Is Daniel in the moon? 	no	14
+1 Mary is no longer in the neptune.
+2 Daniel went to the venus.
+3 Is Daniel in the earth? 	no	2
+4 Sandra is in the venus.
+5 Sandra is not in the venus.
+6 Is Daniel in the moon? 	no	2
+7 Daniel journeyed to the jupiter.
+8 John is in the jupiter.
+9 Is John in the jupiter? 	yes	8
+10 John is no longer in the jupiter.
+11 John moved to the jupiter.
+12 Is Daniel in the jupiter? 	yes	7
+13 Daniel travelled to the mars.
+14 Mary went to the jupiter.
+15 Is Daniel in the earth? 	no	13
+1 John is not in the mars.
+2 Sandra journeyed to the moon.
+3 Is Sandra in the venus? 	no	2
+4 Daniel is in the earth.
+5 John went to the neptune.
+6 Is Sandra in the mars? 	no	2
+7 Daniel is not in the earth.
+8 Daniel is not in the moon.
+9 Is Daniel in the moon? 	no	8
+10 Sandra is in the venus.
+11 John went to the earth.
+12 Is Daniel in the moon? 	no	8
+13 Mary went back to the neptune.
+14 John went to the jupiter.
+15 Is John in the neptune? 	no	14
+1 John went to the moon.
+2 Sandra journeyed to the venus.
+3 Is John in the moon? 	yes	1
+4 Daniel journeyed to the venus.
+5 Sandra went back to the jupiter.
+6 Is Daniel in the venus? 	yes	4
+7 Daniel journeyed to the mars.
+8 Mary is in the moon.
+9 Is Sandra in the moon? 	no	5
+10 Sandra went back to the neptune.
+11 Daniel is in the jupiter.
+12 Is Sandra in the neptune? 	yes	10
+13 Daniel went to the mars.
+14 Sandra is not in the neptune.
+15 Is Daniel in the neptune? 	no	13
+1 John went back to the mars.
+2 Mary journeyed to the neptune.
+3 Is John in the venus? 	no	1
+4 John is in the neptune.
+5 John is no longer in the neptune.
+6 Is John in the neptune? 	no	5
+7 Mary is no longer in the neptune.
+8 John is in the jupiter.
+9 Is John in the moon? 	no	8
+10 Sandra is in the venus.
+11 Sandra went to the neptune.
+12 Is John in the neptune? 	no	8
+13 Sandra is in the mars.
+14 Sandra is not in the mars.
+15 Is John in the venus? 	no	8
+1 Sandra is in the jupiter.
+2 Daniel travelled to the earth.
+3 Is Daniel in the earth? 	yes	2
+4 John is in the venus.
+5 Sandra moved to the mars.
+6 Is Sandra in the mars? 	yes	5
+7 John is in the earth.
+8 Mary went to the venus.
+9 Is John in the earth? 	yes	7
+10 Mary journeyed to the mars.
+11 Sandra is no longer in the mars.
+12 Is John in the earth? 	yes	7
+13 John journeyed to the neptune.
+14 Mary went back to the jupiter.
+15 Is John in the jupiter? 	no	13
+1 Daniel travelled to the venus.
+2 Sandra is in the moon.
+3 Is Sandra in the mars? 	no	2
+4 John journeyed to the earth.
+5 Sandra is not in the moon.
+6 Is Sandra in the moon? 	no	5
+7 John went to the moon.
+8 Mary travelled to the mars.
+9 Is Sandra in the moon? 	no	5
+10 Mary travelled to the moon.
+11 Sandra journeyed to the earth.
+12 Is Mary in the moon? 	yes	10
+13 Daniel journeyed to the earth.
+14 Sandra went back to the neptune.
+15 Is Daniel in the earth? 	yes	13
+1 Daniel is in the moon.
+2 Sandra journeyed to the venus.
+3 Is Sandra in the jupiter? 	no	2
+4 John moved to the mars.
+5 Sandra moved to the neptune.
+6 Is John in the mars? 	yes	4
+7 Daniel is no longer in the moon.
+8 Daniel is no longer in the venus.
+9 Is Sandra in the neptune? 	yes	5
+10 John is in the neptune.
+11 Sandra is in the moon.
+12 Is Sandra in the jupiter? 	no	11
+13 Sandra went to the neptune.
+14 Daniel is no longer in the earth.
+15 Is John in the neptune? 	yes	10
+1 Mary travelled to the venus.
+2 Daniel is no longer in the neptune.
+3 Is Daniel in the neptune? 	no	2
+4 John went to the jupiter.
+5 John is in the neptune.
+6 Is Daniel in the neptune? 	no	2
+7 Sandra is in the earth.
+8 Sandra is in the moon.
+9 Is Sandra in the moon? 	yes	8
+10 John is not in the neptune.
+11 John went back to the earth.
+12 Is Sandra in the jupiter? 	no	8
+13 Sandra went back to the earth.
+14 Mary journeyed to the mars.
+15 Is Sandra in the moon? 	no	13
+1 John travelled to the moon.
+2 Sandra is no longer in the mars.
+3 Is Sandra in the mars? 	no	2
+4 John is not in the moon.
+5 Mary moved to the jupiter.
+6 Is John in the moon? 	no	4
+7 Mary is not in the jupiter.
+8 John journeyed to the mars.
+9 Is Mary in the jupiter? 	no	7
+10 Mary is in the neptune.
+11 John went back to the neptune.
+12 Is Mary in the jupiter? 	no	10
+13 Sandra is in the jupiter.
+14 Mary is no longer in the neptune.
+15 Is John in the neptune? 	yes	11
+1 Daniel is in the mars.
+2 Sandra is in the jupiter.
+3 Is Daniel in the jupiter? 	no	1
+4 Daniel is no longer in the mars.
+5 Mary moved to the neptune.
+6 Is Daniel in the mars? 	no	4
+7 Mary moved to the mars.
+8 John went to the jupiter.
+9 Is Mary in the mars? 	yes	7
+10 Daniel went back to the jupiter.
+11 Mary went back to the venus.
+12 Is John in the earth? 	no	8
+13 Mary went back to the earth.
+14 Mary is in the venus.
+15 Is Mary in the venus? 	yes	14
+1 Sandra travelled to the jupiter.
+2 Daniel is not in the mars.
+3 Is Daniel in the mars? 	no	2
+4 Daniel is not in the earth.
+5 Mary went back to the mars.
+6 Is Daniel in the earth? 	no	4
+7 John moved to the mars.
+8 Daniel moved to the venus.
+9 Is Daniel in the earth? 	no	8
+10 Sandra is in the moon.
+11 Daniel journeyed to the jupiter.
+12 Is John in the mars? 	yes	7
+13 John is not in the mars.
+14 Daniel is in the earth.
+15 Is Daniel in the jupiter? 	no	14
+1 Mary went to the earth.
+2 Daniel is no longer in the mars.
+3 Is Daniel in the mars? 	no	2
+4 Sandra is not in the jupiter.
+5 Sandra went to the jupiter.
+6 Is Sandra in the neptune? 	no	5
+7 Mary is in the venus.
+8 John is not in the neptune.
+9 Is John in the neptune? 	no	8
+10 John went back to the moon.
+11 John is not in the moon.
+12 Is John in the moon? 	no	11
+13 Daniel journeyed to the venus.
+14 Sandra is not in the jupiter.
+15 Is John in the moon? 	no	11
+1 John travelled to the moon.
+2 Daniel moved to the venus.
+3 Is Daniel in the moon? 	no	2
+4 John went back to the jupiter.
+5 John is not in the jupiter.
+6 Is John in the jupiter? 	no	5
+7 Sandra moved to the jupiter.
+8 Daniel is in the earth.
+9 Is Daniel in the earth? 	yes	8
+10 John is no longer in the earth.
+11 Mary travelled to the mars.
+12 Is John in the earth? 	no	10
+13 Mary is in the moon.
+14 Daniel is in the mars.
+15 Is Daniel in the mars? 	yes	14
+1 Daniel journeyed to the neptune.
+2 Mary went to the earth.
+3 Is Mary in the mars? 	no	2
+4 Mary is no longer in the earth.
+5 Daniel journeyed to the moon.
+6 Is Daniel in the venus? 	no	5
+7 Sandra journeyed to the venus.
+8 Sandra went to the moon.
+9 Is Daniel in the moon? 	yes	5
+10 Daniel travelled to the jupiter.
+11 Mary is no longer in the venus.
+12 Is Sandra in the moon? 	yes	8
+13 John is not in the earth.
+14 Daniel is in the venus.
+15 Is Sandra in the moon? 	yes	8
+1 John went back to the mars.
+2 Daniel is in the neptune.
+3 Is John in the mars? 	yes	1
+4 John travelled to the moon.
+5 Mary journeyed to the venus.
+6 Is Daniel in the neptune? 	yes	2
+7 Daniel is in the venus.
+8 Sandra went back to the venus.
+9 Is Sandra in the neptune? 	no	8
+10 Daniel went to the neptune.
+11 Daniel journeyed to the jupiter.
+12 Is Sandra in the venus? 	yes	8
+13 Sandra went back to the mars.
+14 Daniel is no longer in the jupiter.
+15 Is Sandra in the mars? 	yes	13
+1 Mary travelled to the jupiter.
+2 Daniel went to the jupiter.
+3 Is Mary in the jupiter? 	yes	1
+4 Daniel is no longer in the jupiter.
+5 Sandra travelled to the neptune.
+6 Is Sandra in the neptune? 	yes	5
+7 John is no longer in the venus.
+8 Sandra is not in the neptune.
+9 Is John in the venus? 	no	7
+10 John is in the venus.
+11 John is no longer in the venus.
+12 Is John in the venus? 	no	11
+13 John journeyed to the jupiter.
+14 Daniel is in the venus.
+15 Is Sandra in the neptune? 	no	8
+1 Mary is not in the mars.
+2 Daniel is in the venus.
+3 Is Daniel in the venus? 	yes	2
+4 Mary journeyed to the venus.
+5 Daniel is not in the venus.
+6 Is Daniel in the venus? 	no	5
+7 John moved to the mars.
+8 Mary journeyed to the neptune.
+9 Is Mary in the earth? 	no	8
+10 John is no longer in the mars.
+11 Daniel went to the jupiter.
+12 Is John in the mars? 	no	10
+13 John went back to the venus.
+14 Daniel travelled to the earth.
+15 Is Daniel in the earth? 	yes	14
+1 Daniel is no longer in the moon.
+2 John is in the mars.
+3 Is John in the earth? 	no	2
+4 Mary travelled to the neptune.
+5 Daniel is in the earth.
+6 Is Mary in the neptune? 	yes	4
+7 Sandra is in the moon.
+8 Mary is not in the neptune.
+9 Is Daniel in the earth? 	yes	5
+10 Daniel is in the neptune.
+11 Sandra went back to the mars.
+12 Is Sandra in the mars? 	yes	11
+13 Sandra is not in the mars.
+14 Sandra is in the venus.
+15 Is Daniel in the moon? 	no	10
+1 Mary is not in the jupiter.
+2 John went to the earth.
+3 Is Mary in the jupiter? 	no	1
+4 Mary is no longer in the earth.
+5 Sandra is not in the mars.
+6 Is Mary in the earth? 	no	4
+7 Daniel is not in the moon.
+8 Daniel is not in the earth.
+9 Is Daniel in the earth? 	no	8
+10 Mary journeyed to the mars.
+11 Sandra travelled to the mars.
+12 Is Sandra in the neptune? 	no	11
+13 John is in the jupiter.
+14 Mary is not in the mars.
+15 Is Mary in the mars? 	no	14
+1 Daniel went to the jupiter.
+2 Daniel is no longer in the jupiter.
+3 Is Daniel in the jupiter? 	no	2
+4 Sandra is in the neptune.
+5 Sandra is in the earth.
+6 Is Sandra in the jupiter? 	no	5
+7 John journeyed to the venus.
+8 John is no longer in the venus.
+9 Is Sandra in the mars? 	no	5
+10 Mary is no longer in the moon.
+11 John is in the moon.
+12 Is John in the moon? 	yes	11
+13 John went to the venus.
+14 John is no longer in the venus.
+15 Is John in the venus? 	no	14
+1 Daniel is no longer in the neptune.
+2 Sandra is in the venus.
+3 Is Sandra in the earth? 	no	2
+4 Mary is in the mars.
+5 Mary journeyed to the jupiter.
+6 Is Mary in the jupiter? 	yes	5
+7 John is no longer in the neptune.
+8 Sandra went to the jupiter.
+9 Is Mary in the jupiter? 	yes	5
+10 Daniel is in the jupiter.
+11 Daniel is in the mars.
+12 Is Daniel in the mars? 	yes	11
+13 Sandra went back to the venus.
+14 John is not in the mars.
+15 Is Daniel in the mars? 	yes	11
+1 Daniel journeyed to the moon.
+2 Daniel is in the mars.
+3 Is Daniel in the mars? 	yes	2
+4 Sandra journeyed to the venus.
+5 Daniel is in the jupiter.
+6 Is Daniel in the jupiter? 	yes	5
+7 John is in the earth.
+8 Mary went to the venus.
+9 Is Mary in the moon? 	no	8
+10 Daniel is in the neptune.
+11 Mary is in the jupiter.
+12 Is Mary in the neptune? 	no	11
+13 Sandra is in the moon.
+14 Mary travelled to the neptune.
+15 Is Sandra in the mars? 	no	13
+1 John is not in the moon.
+2 Sandra is no longer in the earth.
+3 Is Sandra in the earth? 	no	2
+4 Sandra travelled to the earth.
+5 Mary is in the moon.
+6 Is Mary in the moon? 	yes	5
+7 Mary moved to the venus.
+8 John is not in the jupiter.
+9 Is Sandra in the earth? 	yes	4
+10 John travelled to the moon.
+11 Mary is in the moon.
+12 Is Mary in the moon? 	yes	11
+13 Mary moved to the earth.
+14 Daniel moved to the earth.
+15 Is John in the earth? 	no	10
+1 John is no longer in the mars.
+2 John went to the venus.
+3 Is John in the neptune? 	no	2
+4 Mary went back to the moon.
+5 Sandra is not in the jupiter.
+6 Is Sandra in the jupiter? 	no	5
+7 Daniel journeyed to the jupiter.
+8 Sandra journeyed to the jupiter.
+9 Is Sandra in the mars? 	no	8
+10 John moved to the moon.
+11 Daniel travelled to the mars.
+12 Is Sandra in the earth? 	no	8
+13 Daniel is not in the mars.
+14 Mary is in the venus.
+15 Is Daniel in the mars? 	no	13
+1 Daniel is no longer in the earth.
+2 John is no longer in the mars.
+3 Is John in the mars? 	no	2
+4 Daniel is in the venus.
+5 Sandra went back to the earth.
+6 Is Sandra in the neptune? 	no	5
+7 Sandra moved to the neptune.
+8 Mary journeyed to the mars.
+9 Is Daniel in the venus? 	yes	4
+10 Daniel travelled to the neptune.
+11 Mary is not in the mars.
+12 Is Mary in the mars? 	no	11
+13 John journeyed to the mars.
+14 John went to the jupiter.
+15 Is Daniel in the jupiter? 	no	10
+1 Mary is in the mars.
+2 John went to the earth.
+3 Is John in the moon? 	no	2
+4 John went back to the moon.
+5 Sandra travelled to the venus.
+6 Is Mary in the mars? 	yes	1
+7 Mary is in the jupiter.
+8 Sandra is in the earth.
+9 Is Sandra in the moon? 	no	8
+10 John is not in the moon.
+11 Sandra went to the moon.
+12 Is Sandra in the moon? 	yes	11
+13 Mary went to the mars.
+14 Sandra is not in the moon.
+15 Is Mary in the venus? 	no	13
+1 John is in the moon.
+2 John is no longer in the moon.
+3 Is John in the moon? 	no	2
+4 Mary is not in the earth.
+5 Mary moved to the jupiter.
+6 Is John in the moon? 	no	2
+7 John is in the venus.
+8 Sandra journeyed to the moon.
+9 Is Mary in the neptune? 	no	5
+10 Sandra went back to the earth.
+11 Daniel journeyed to the mars.
+12 Is Sandra in the earth? 	yes	10
+13 Mary is in the venus.
+14 John is in the jupiter.
+15 Is Daniel in the mars? 	yes	11
+1 John is in the venus.
+2 Daniel went to the neptune.
+3 Is John in the venus? 	yes	1
+4 Mary journeyed to the moon.
+5 Mary journeyed to the neptune.
+6 Is John in the moon? 	no	1
+7 Sandra travelled to the neptune.
+8 Mary went to the moon.
+9 Is Mary in the moon? 	yes	8
+10 John is not in the venus.
+11 Mary is not in the moon.
+12 Is Mary in the moon? 	no	11
+13 Mary is no longer in the earth.
+14 Mary went back to the jupiter.
+15 Is Mary in the jupiter? 	yes	14
+1 Mary is in the moon.
+2 John is in the earth.
+3 Is Mary in the jupiter? 	no	1
+4 Daniel is in the earth.
+5 Mary is no longer in the moon.
+6 Is Mary in the moon? 	no	5
+7 Sandra journeyed to the venus.
+8 Mary is in the mars.
+9 Is Daniel in the earth? 	yes	4
+10 Mary is not in the mars.
+11 Daniel is in the venus.
+12 Is Mary in the mars? 	no	10
+13 Sandra travelled to the earth.
+14 Mary is in the moon.
+15 Is Sandra in the venus? 	no	13
+1 Daniel is no longer in the jupiter.
+2 John moved to the venus.
+3 Is John in the earth? 	no	2
+4 Mary moved to the earth.
+5 John is in the neptune.
+6 Is John in the neptune? 	yes	5
+7 John is in the earth.
+8 Daniel journeyed to the jupiter.
+9 Is Daniel in the neptune? 	no	8
+10 Mary is not in the earth.
+11 Sandra went back to the jupiter.
+12 Is John in the earth? 	yes	7
+13 Mary is in the venus.
+14 Sandra moved to the earth.
+15 Is Mary in the moon? 	no	13
+1 John is in the venus.
+2 Mary moved to the earth.
+3 Is Mary in the earth? 	yes	2
+4 Sandra is not in the moon.
+5 John is in the mars.
+6 Is Sandra in the moon? 	no	4
+7 Daniel went back to the moon.
+8 John journeyed to the jupiter.
+9 Is Sandra in the moon? 	no	4
+10 Mary moved to the venus.
+11 Mary journeyed to the moon.
+12 Is John in the jupiter? 	yes	8
+13 Sandra went back to the earth.
+14 Mary is no longer in the moon.
+15 Is Mary in the moon? 	no	14
+1 Mary is in the jupiter.
+2 John is in the moon.
+3 Is John in the earth? 	no	2
+4 Mary went back to the earth.
+5 John is no longer in the moon.
+6 Is Mary in the mars? 	no	4
+7 Mary went back to the neptune.
+8 Mary is not in the neptune.
+9 Is Mary in the neptune? 	no	8
+10 Daniel went to the moon.
+11 Sandra moved to the mars.
+12 Is John in the moon? 	no	5
+13 Mary is no longer in the earth.
+14 Sandra is in the jupiter.
+15 Is Sandra in the neptune? 	no	14
+1 Sandra is in the mars.
+2 Sandra moved to the earth.
+3 Is Sandra in the neptune? 	no	2
+4 John is in the moon.
+5 John is not in the moon.
+6 Is John in the moon? 	no	5
+7 Mary is in the jupiter.
+8 Daniel moved to the moon.
+9 Is John in the moon? 	no	5
+10 Sandra went back to the moon.
+11 Daniel travelled to the neptune.
+12 Is John in the moon? 	no	5
+13 Mary journeyed to the venus.
+14 Mary is in the moon.
+15 Is Daniel in the earth? 	no	11
+1 Daniel is no longer in the moon.
+2 Daniel is in the moon.
+3 Is Daniel in the mars? 	no	2
+4 Sandra moved to the jupiter.
+5 Daniel is in the venus.
+6 Is Daniel in the neptune? 	no	5
+7 Mary travelled to the earth.
+8 Daniel is not in the venus.
+9 Is Sandra in the jupiter? 	yes	4
+10 Sandra travelled to the neptune.
+11 Sandra is in the venus.
+12 Is Sandra in the venus? 	yes	11
+13 John is in the earth.
+14 Daniel moved to the earth.
+15 Is Daniel in the earth? 	yes	14
+1 Daniel moved to the jupiter.
+2 Mary is no longer in the earth.
+3 Is Daniel in the neptune? 	no	1
+4 John is not in the jupiter.
+5 Mary is no longer in the neptune.
+6 Is John in the jupiter? 	no	4
+7 Mary went to the mars.
+8 Mary journeyed to the neptune.
+9 Is Mary in the neptune? 	yes	8
+10 Mary is not in the neptune.
+11 Daniel journeyed to the neptune.
+12 Is Mary in the neptune? 	no	10
+13 John journeyed to the jupiter.
+14 John went back to the neptune.
+15 Is John in the neptune? 	yes	14
+1 John went to the venus.
+2 John is in the neptune.
+3 Is John in the neptune? 	yes	2
+4 John is in the mars.
+5 Daniel is in the jupiter.
+6 Is John in the mars? 	yes	4
+7 Daniel journeyed to the moon.
+8 John is not in the mars.
+9 Is Daniel in the moon? 	yes	7
+10 John is not in the venus.
+11 Daniel journeyed to the venus.
+12 Is Daniel in the neptune? 	no	11
+13 Daniel moved to the neptune.
+14 Sandra travelled to the venus.
+15 Is Daniel in the neptune? 	yes	13
+1 Mary is in the mars.
+2 John is no longer in the jupiter.
+3 Is Mary in the mars? 	yes	1
+4 Daniel journeyed to the earth.
+5 Mary travelled to the venus.
+6 Is Mary in the venus? 	yes	5
+7 Mary journeyed to the neptune.
+8 Mary is not in the neptune.
+9 Is Mary in the neptune? 	no	8
+10 Mary went to the neptune.
+11 Mary travelled to the venus.
+12 Is Mary in the mars? 	no	11
+13 Daniel is in the jupiter.
+14 Daniel is in the earth.
+15 Is Daniel in the mars? 	no	14
+1 John moved to the mars.
+2 John travelled to the neptune.
+3 Is John in the earth? 	no	2
+4 Sandra is in the neptune.
+5 Mary went back to the mars.
+6 Is Mary in the mars? 	yes	5
+7 Mary is no longer in the mars.
+8 Daniel journeyed to the moon.
+9 Is Mary in the mars? 	no	7
+10 Sandra is not in the neptune.
+11 Mary went to the mars.
+12 Is Mary in the jupiter? 	no	11
+13 Daniel journeyed to the neptune.
+14 Daniel moved to the moon.
+15 Is Daniel in the venus? 	no	14
+1 Mary is in the neptune.
+2 Daniel is in the moon.
+3 Is Mary in the neptune? 	yes	1
+4 John went to the moon.
+5 Daniel is not in the moon.
+6 Is Mary in the neptune? 	yes	1
+7 Daniel is in the neptune.
+8 Sandra is in the neptune.
+9 Is Daniel in the neptune? 	yes	7
+10 John is not in the moon.
+11 Daniel journeyed to the mars.
+12 Is Daniel in the mars? 	yes	11
+13 Daniel moved to the neptune.
+14 Mary is in the venus.
+15 Is John in the moon? 	no	10
+1 Sandra is in the venus.
+2 Sandra is not in the venus.
+3 Is Sandra in the venus? 	no	2
+4 John went to the earth.
+5 John is in the moon.
+6 Is Sandra in the venus? 	no	2
+7 Mary is in the jupiter.
+8 Sandra is in the mars.
+9 Is Sandra in the moon? 	no	8
+10 Mary is in the mars.
+11 John went to the earth.
+12 Is Sandra in the mars? 	yes	8
+13 Daniel is in the moon.
+14 Daniel moved to the jupiter.
+15 Is Daniel in the jupiter? 	yes	14
+1 Mary went back to the mars.
+2 Mary is in the jupiter.
+3 Is Mary in the mars? 	no	2
+4 Daniel is in the moon.
+5 Sandra is not in the venus.
+6 Is Mary in the earth? 	no	2
+7 Sandra went back to the neptune.
+8 Daniel is not in the moon.
+9 Is Sandra in the neptune? 	yes	7
+10 John moved to the neptune.
+11 Mary is in the mars.
+12 Is Mary in the neptune? 	no	11
+13 Daniel is no longer in the earth.
+14 John is not in the neptune.
+15 Is Daniel in the earth? 	no	13
+1 John is in the mars.
+2 Sandra is in the neptune.
+3 Is Sandra in the neptune? 	yes	2
+4 Mary went back to the jupiter.
+5 Mary is in the earth.
+6 Is Sandra in the neptune? 	yes	2
+7 Sandra is in the moon.
+8 John is not in the mars.
+9 Is Mary in the earth? 	yes	5
+10 Sandra is in the mars.
+11 Mary travelled to the venus.
+12 Is Mary in the mars? 	no	11
+13 Sandra is in the venus.
+14 Mary is not in the venus.
+15 Is John in the mars? 	no	8
+1 Sandra moved to the venus.
+2 John moved to the neptune.
+3 Is Sandra in the neptune? 	no	1
+4 Daniel moved to the venus.
+5 John is not in the neptune.
+6 Is John in the neptune? 	no	5
+7 Mary travelled to the moon.
+8 Daniel went back to the neptune.
+9 Is Mary in the neptune? 	no	7
+10 Mary moved to the jupiter.
+11 Mary moved to the earth.
+12 Is Daniel in the jupiter? 	no	8
+13 Daniel is in the moon.
+14 Sandra is not in the venus.
+15 Is Daniel in the moon? 	yes	13
+1 John went back to the earth.
+2 Mary journeyed to the jupiter.
+3 Is John in the moon? 	no	1
+4 John travelled to the mars.
+5 Daniel is in the earth.
+6 Is John in the mars? 	yes	4
+7 Mary went back to the moon.
+8 Mary travelled to the venus.
+9 Is John in the mars? 	yes	4
+10 John is no longer in the mars.
+11 John journeyed to the mars.
+12 Is John in the neptune? 	no	11
+13 Sandra is not in the jupiter.
+14 Sandra travelled to the moon.
+15 Is Mary in the venus? 	yes	8
+1 Daniel travelled to the moon.
+2 Sandra travelled to the moon.
+3 Is Daniel in the moon? 	yes	1
+4 Daniel is not in the moon.
+5 John is not in the neptune.
+6 Is John in the neptune? 	no	5
+7 John journeyed to the moon.
+8 Sandra is in the mars.
+9 Is Daniel in the moon? 	no	4
+10 John went to the venus.
+11 Sandra went to the venus.
+12 Is John in the earth? 	no	10
+13 Daniel travelled to the neptune.
+14 John is in the neptune.
+15 Is Sandra in the mars? 	no	11
+1 Sandra is in the neptune.
+2 John moved to the mars.
+3 Is John in the mars? 	yes	2
+4 Mary moved to the venus.
+5 Sandra is no longer in the neptune.
+6 Is Mary in the jupiter? 	no	4
+7 Sandra is no longer in the earth.
+8 Sandra is no longer in the neptune.
+9 Is Sandra in the neptune? 	no	8
+10 Daniel journeyed to the neptune.
+11 Mary went back to the neptune.
+12 Is Sandra in the neptune? 	no	8
+13 Mary is not in the neptune.
+14 Daniel is no longer in the neptune.
+15 Is Mary in the neptune? 	no	13
+1 Mary is in the venus.
+2 Mary is not in the venus.
+3 Is Mary in the venus? 	no	2
+4 Sandra journeyed to the mars.
+5 Mary travelled to the neptune.
+6 Is Mary in the moon? 	no	5
+7 Sandra is in the moon.
+8 Mary is no longer in the neptune.
+9 Is Mary in the neptune? 	no	8
+10 Mary is in the neptune.
+11 Mary is no longer in the neptune.
+12 Is Mary in the neptune? 	no	11
+13 John is not in the jupiter.
+14 John journeyed to the moon.
+15 Is Mary in the neptune? 	no	11
+1 Sandra travelled to the venus.
+2 Sandra went to the moon.
+3 Is Sandra in the neptune? 	no	2
+4 John is in the mars.
+5 Daniel is in the venus.
+6 Is John in the mars? 	yes	4
+7 Sandra moved to the venus.
+8 Mary went to the earth.
+9 Is Sandra in the venus? 	yes	7
+10 John moved to the neptune.
+11 John travelled to the earth.
+12 Is John in the earth? 	yes	11
+13 Daniel is not in the venus.
+14 Sandra is no longer in the venus.
+15 Is John in the jupiter? 	no	11
+1 John travelled to the neptune.
+2 John went to the earth.
+3 Is John in the earth? 	yes	2
+4 Sandra went back to the venus.
+5 Sandra is no longer in the venus.
+6 Is Sandra in the venus? 	no	5
+7 Daniel went back to the neptune.
+8 Mary is no longer in the venus.
+9 Is Sandra in the venus? 	no	5
+10 Daniel is not in the neptune.
+11 Sandra went to the venus.
+12 Is Daniel in the neptune? 	no	10
+13 John is no longer in the earth.
+14 John journeyed to the neptune.
+15 Is John in the venus? 	no	14
+1 Mary is no longer in the mars.
+2 Daniel went to the earth.
+3 Is Daniel in the moon? 	no	2
+4 Daniel went back to the moon.
+5 Sandra journeyed to the neptune.
+6 Is Daniel in the moon? 	yes	4
+7 Daniel journeyed to the neptune.
+8 John is no longer in the earth.
+9 Is Sandra in the earth? 	no	5
+10 John is in the mars.
+11 Sandra travelled to the jupiter.
+12 Is Sandra in the earth? 	no	11
+13 Daniel is not in the neptune.
+14 Daniel is no longer in the mars.
+15 Is John in the earth? 	no	10
+1 John moved to the moon.
+2 Daniel moved to the moon.
+3 Is Daniel in the moon? 	yes	2
+4 Sandra went to the mars.
+5 Daniel journeyed to the earth.
+6 Is Daniel in the earth? 	yes	5
+7 Sandra went to the venus.
+8 Sandra is no longer in the venus.
+9 Is Sandra in the venus? 	no	8
+10 Daniel is not in the earth.
+11 Mary is not in the jupiter.
+12 Is Daniel in the earth? 	no	10
+13 Sandra is no longer in the earth.
+14 Mary moved to the moon.
+15 Is Mary in the moon? 	yes	14
+1 Daniel travelled to the jupiter.
+2 Mary journeyed to the earth.
+3 Is Daniel in the neptune? 	no	1
+4 Mary is no longer in the earth.
+5 John is in the mars.
+6 Is John in the moon? 	no	5
+7 Mary is in the mars.
+8 Sandra is in the earth.
+9 Is Mary in the earth? 	no	7
+10 Sandra is no longer in the earth.
+11 Daniel is in the moon.
+12 Is John in the mars? 	yes	5
+13 Sandra is no longer in the neptune.
+14 John journeyed to the venus.
+15 Is John in the venus? 	yes	14
+1 Daniel is no longer in the venus.
+2 John went to the neptune.
+3 Is Daniel in the venus? 	no	1
+4 John is not in the neptune.
+5 Mary is in the moon.
+6 Is John in the neptune? 	no	4
+7 Daniel is in the jupiter.
+8 Sandra is in the mars.
+9 Is John in the neptune? 	no	4
+10 Daniel went back to the neptune.
+11 Daniel is in the jupiter.
+12 Is Mary in the earth? 	no	5
+13 Daniel is no longer in the jupiter.
+14 Daniel is in the mars.
+15 Is Sandra in the mars? 	yes	8
+1 Sandra is in the moon.
+2 Mary journeyed to the jupiter.
+3 Is Mary in the jupiter? 	yes	2
+4 Mary went back to the mars.
+5 Sandra is no longer in the moon.
+6 Is Sandra in the moon? 	no	5
+7 Mary is in the jupiter.
+8 Daniel is not in the mars.
+9 Is Mary in the earth? 	no	7
+10 Mary is in the venus.
+11 John went to the neptune.
+12 Is Sandra in the moon? 	no	5
+13 Daniel is not in the jupiter.
+14 John went to the jupiter.
+15 Is Daniel in the jupiter? 	no	13
+1 Daniel is not in the mars.
+2 John is in the venus.
+3 Is Daniel in the mars? 	no	1
+4 Mary is not in the mars.
+5 John moved to the earth.
+6 Is John in the moon? 	no	5
+7 Daniel moved to the earth.
+8 Daniel is not in the earth.
+9 Is Daniel in the earth? 	no	8
+10 Mary is no longer in the earth.
+11 Sandra went back to the moon.
+12 Is Daniel in the earth? 	no	8
+13 Daniel journeyed to the mars.
+14 Sandra is in the mars.
+15 Is Daniel in the neptune? 	no	13
+1 John is not in the earth.
+2 Daniel travelled to the jupiter.
+3 Is Daniel in the venus? 	no	2
+4 Mary moved to the earth.
+5 John travelled to the earth.
+6 Is Daniel in the jupiter? 	yes	2
+7 Mary journeyed to the moon.
+8 John is in the moon.
+9 Is John in the mars? 	no	8
+10 Daniel travelled to the venus.
+11 Daniel is in the jupiter.
+12 Is John in the jupiter? 	no	8
+13 Daniel is no longer in the jupiter.
+14 Sandra went to the neptune.
+15 Is Daniel in the jupiter? 	no	13
+1 Mary is in the jupiter.
+2 Mary is in the venus.
+3 Is Mary in the earth? 	no	2
+4 Daniel went to the earth.
+5 Sandra is in the mars.
+6 Is Mary in the venus? 	yes	2
+7 Sandra travelled to the moon.
+8 John is in the earth.
+9 Is Sandra in the jupiter? 	no	7
+10 Mary is no longer in the venus.
+11 Mary went to the neptune.
+12 Is Sandra in the earth? 	no	7
+13 Sandra journeyed to the earth.
+14 Mary is in the earth.
+15 Is John in the neptune? 	no	8
+1 Daniel is not in the neptune.
+2 Daniel journeyed to the mars.
+3 Is Daniel in the mars? 	yes	2
+4 Sandra is in the moon.
+5 John went to the venus.
+6 Is John in the venus? 	yes	5
+7 Sandra moved to the neptune.
+8 John is in the mars.
+9 Is John in the venus? 	no	8
+10 John is not in the mars.
+11 Mary went to the jupiter.
+12 Is John in the mars? 	no	10
+13 Mary journeyed to the earth.
+14 Daniel is in the earth.
+15 Is Mary in the venus? 	no	13
+1 Mary is in the neptune.
+2 Mary is not in the neptune.
+3 Is Mary in the neptune? 	no	2
+4 John travelled to the jupiter.
+5 Sandra journeyed to the neptune.
+6 Is Mary in the neptune? 	no	2
+7 Daniel journeyed to the mars.
+8 Mary is in the neptune.
+9 Is John in the venus? 	no	4
+10 Daniel went to the neptune.
+11 Daniel travelled to the jupiter.
+12 Is Daniel in the earth? 	no	11
+13 Daniel is in the moon.
+14 John is in the moon.
+15 Is John in the venus? 	no	14
+1 John went to the neptune.
+2 Daniel is in the neptune.
+3 Is Daniel in the neptune? 	yes	2
+4 John is in the earth.
+5 Daniel moved to the jupiter.
+6 Is John in the earth? 	yes	4
+7 John went to the mars.
+8 Mary travelled to the mars.
+9 Is Daniel in the jupiter? 	yes	5
+10 Daniel journeyed to the venus.
+11 Mary is not in the mars.
+12 Is Mary in the mars? 	no	11
+13 Mary is in the jupiter.
+14 Mary moved to the neptune.
+15 Is Mary in the mars? 	no	14
+1 Mary went back to the mars.
+2 Sandra journeyed to the earth.
+3 Is Mary in the mars? 	yes	1
+4 Sandra is in the neptune.
+5 Mary is no longer in the mars.
+6 Is Sandra in the mars? 	no	4
+7 John is not in the venus.
+8 Daniel is in the earth.
+9 Is Sandra in the neptune? 	yes	4
+10 Mary is in the jupiter.
+11 Mary is in the neptune.
+12 Is Mary in the neptune? 	yes	11
+13 Daniel journeyed to the venus.
+14 John travelled to the venus.
+15 Is Mary in the neptune? 	yes	11
+1 Sandra is in the earth.
+2 Mary went back to the neptune.
+3 Is Sandra in the neptune? 	no	1
+4 Mary is not in the neptune.
+5 Mary went back to the mars.
+6 Is Mary in the moon? 	no	5
+7 Sandra is in the venus.
+8 John moved to the venus.
+9 Is John in the jupiter? 	no	8
+10 Sandra is no longer in the venus.
+11 John is not in the venus.
+12 Is John in the venus? 	no	11
+13 Sandra went back to the mars.
+14 Mary is no longer in the mars.
+15 Is John in the venus? 	no	11
+1 Sandra is in the earth.
+2 Sandra travelled to the mars.
+3 Is Sandra in the neptune? 	no	2
+4 John is in the moon.
+5 Sandra journeyed to the neptune.
+6 Is Sandra in the neptune? 	yes	5
+7 Mary moved to the moon.
+8 Sandra went back to the moon.
+9 Is Sandra in the moon? 	yes	8
+10 Daniel moved to the mars.
+11 Sandra is in the neptune.
+12 Is Mary in the moon? 	yes	7
+13 Daniel is in the neptune.
+14 Mary is in the jupiter.
+15 Is Mary in the jupiter? 	yes	14
+1 John is no longer in the jupiter.
+2 Mary went back to the jupiter.
+3 Is Mary in the jupiter? 	yes	2
+4 Sandra is no longer in the moon.
+5 Mary moved to the mars.
+6 Is John in the jupiter? 	no	1
+7 Sandra is in the earth.
+8 John went back to the venus.
+9 Is Mary in the moon? 	no	5
+10 Sandra is not in the earth.
+11 Sandra is in the earth.
+12 Is Sandra in the earth? 	yes	11
+13 Sandra is in the jupiter.
+14 Daniel moved to the jupiter.
+15 Is Sandra in the jupiter? 	yes	13
+1 Daniel journeyed to the jupiter.
+2 Sandra journeyed to the earth.
+3 Is Daniel in the jupiter? 	yes	1
+4 John is in the moon.
+5 Daniel is no longer in the jupiter.
+6 Is Daniel in the jupiter? 	no	5
+7 John moved to the neptune.
+8 Sandra moved to the moon.
+9 Is Daniel in the jupiter? 	no	5
+10 Sandra went back to the venus.
+11 Mary went back to the jupiter.
+12 Is Sandra in the earth? 	no	10
+13 John moved to the jupiter.
+14 Daniel is in the venus.
+15 Is John in the jupiter? 	yes	13
+1 John went back to the moon.
+2 John moved to the venus.
+3 Is John in the jupiter? 	no	2
+4 Mary moved to the venus.
+5 Sandra went to the venus.
+6 Is Sandra in the neptune? 	no	5
+7 John moved to the moon.
+8 John is not in the moon.
+9 Is John in the moon? 	no	8
+10 Mary went to the mars.
+11 Daniel is not in the venus.
+12 Is John in the moon? 	no	8
+13 Mary is not in the mars.
+14 Daniel is in the moon.
+15 Is John in the moon? 	no	8
+1 Mary went to the earth.
+2 Daniel travelled to the mars.
+3 Is Daniel in the mars? 	yes	2
+4 Sandra moved to the earth.
+5 Mary went back to the mars.
+6 Is Sandra in the neptune? 	no	4
+7 John is in the venus.
+8 Mary journeyed to the jupiter.
+9 Is Daniel in the moon? 	no	2
+10 Mary went back to the neptune.
+11 John went to the mars.
+12 Is Mary in the earth? 	no	10
+13 Mary is in the mars.
+14 Sandra moved to the mars.
+15 Is Mary in the neptune? 	no	13
+1 Sandra moved to the jupiter.
+2 John is in the venus.
+3 Is John in the venus? 	yes	2
+4 John is in the mars.
+5 Mary is in the moon.
+6 Is Mary in the neptune? 	no	5
+7 Mary journeyed to the mars.
+8 Daniel is no longer in the earth.
+9 Is John in the mars? 	yes	4
+10 Sandra journeyed to the venus.
+11 Sandra is not in the venus.
+12 Is Sandra in the venus? 	no	11
+13 Mary journeyed to the neptune.
+14 Mary travelled to the jupiter.
+15 Is Mary in the jupiter? 	yes	14
+1 Mary is not in the mars.
+2 Mary is not in the venus.
+3 Is Mary in the venus? 	no	2
+4 John is in the mars.
+5 John is not in the mars.
+6 Is John in the mars? 	no	5
+7 John is not in the earth.
+8 Daniel is in the jupiter.
+9 Is John in the earth? 	no	7
+10 Daniel is not in the jupiter.
+11 Sandra is in the mars.
+12 Is Daniel in the jupiter? 	no	10
+13 Daniel went back to the earth.
+14 Mary went back to the earth.
+15 Is Sandra in the mars? 	yes	11
+1 Daniel went to the jupiter.
+2 Mary went back to the venus.
+3 Is Mary in the earth? 	no	2
+4 Daniel is no longer in the jupiter.
+5 Daniel moved to the earth.
+6 Is Daniel in the venus? 	no	5
+7 Sandra is in the neptune.
+8 Mary is no longer in the venus.
+9 Is Daniel in the earth? 	yes	5
+10 Sandra travelled to the venus.
+11 John is in the mars.
+12 Is Sandra in the moon? 	no	10
+13 John is in the earth.
+14 Daniel is in the venus.
+15 Is Daniel in the venus? 	yes	14
+1 Daniel is in the venus.
+2 Sandra journeyed to the jupiter.
+3 Is Daniel in the jupiter? 	no	1
+4 Sandra went to the mars.
+5 Mary travelled to the neptune.
+6 Is Sandra in the jupiter? 	no	4
+7 John is in the mars.
+8 Sandra travelled to the venus.
+9 Is Sandra in the earth? 	no	8
+10 Mary is in the jupiter.
+11 John went back to the moon.
+12 Is Sandra in the moon? 	no	8
+13 Mary is no longer in the jupiter.
+14 Daniel is in the neptune.
+15 Is Sandra in the mars? 	no	8
+1 Mary travelled to the jupiter.
+2 John is in the neptune.
+3 Is Mary in the jupiter? 	yes	1
+4 Mary went back to the earth.
+5 Daniel is no longer in the neptune.
+6 Is Daniel in the neptune? 	no	5
+7 John went back to the mars.
+8 Sandra journeyed to the moon.
+9 Is John in the jupiter? 	no	7
+10 Mary is not in the earth.
+11 Mary is in the mars.
+12 Is John in the mars? 	yes	7
+13 John is in the venus.
+14 Mary went back to the neptune.
+15 Is John in the jupiter? 	no	13
+1 Sandra is in the jupiter.
+2 John is not in the venus.
+3 Is Sandra in the mars? 	no	1
+4 Daniel is not in the mars.
+5 Mary is in the venus.
+6 Is Daniel in the mars? 	no	4
+7 Daniel went back to the jupiter.
+8 Daniel journeyed to the moon.
+9 Is Daniel in the neptune? 	no	8
+10 Mary travelled to the moon.
+11 John travelled to the jupiter.
+12 Is Daniel in the jupiter? 	no	8
+13 Daniel went back to the earth.
+14 Mary is in the neptune.
+15 Is John in the jupiter? 	yes	11
+1 John moved to the venus.
+2 Sandra is in the earth.
+3 Is Sandra in the earth? 	yes	2
+4 Daniel travelled to the moon.
+5 Mary is not in the mars.
+6 Is Sandra in the neptune? 	no	2
+7 Sandra is no longer in the earth.
+8 Mary is not in the venus.
+9 Is Daniel in the mars? 	no	4
+10 Mary journeyed to the earth.
+11 Sandra went to the mars.
+12 Is Sandra in the neptune? 	no	11
+13 Sandra moved to the venus.
+14 John is in the neptune.
+15 Is Sandra in the venus? 	yes	13
+1 Daniel is no longer in the earth.
+2 John travelled to the moon.
+3 Is Daniel in the earth? 	no	1
+4 Daniel journeyed to the moon.
+5 Mary moved to the earth.
+6 Is John in the earth? 	no	2
+7 Daniel is in the venus.
+8 Mary is not in the earth.
+9 Is John in the moon? 	yes	2
+10 Mary moved to the neptune.
+11 John is not in the moon.
+12 Is Daniel in the venus? 	yes	7
+13 Sandra is no longer in the venus.
+14 John moved to the neptune.
+15 Is John in the moon? 	no	14
+1 John went to the jupiter.
+2 Sandra journeyed to the jupiter.
+3 Is John in the jupiter? 	yes	1
+4 Mary moved to the mars.
+5 Daniel went back to the moon.
+6 Is Mary in the neptune? 	no	4
+7 Sandra is not in the jupiter.
+8 Mary travelled to the jupiter.
+9 Is Sandra in the jupiter? 	no	7
+10 John is no longer in the jupiter.
+11 John went back to the moon.
+12 Is Sandra in the jupiter? 	no	7
+13 Sandra went to the venus.
+14 Sandra went back to the earth.
+15 Is Mary in the jupiter? 	yes	8
+1 Sandra is no longer in the mars.
+2 John is in the moon.
+3 Is John in the moon? 	yes	2
+4 Sandra journeyed to the jupiter.
+5 Daniel went back to the jupiter.
+6 Is Sandra in the moon? 	no	4
+7 Daniel travelled to the moon.
+8 Sandra went to the earth.
+9 Is Daniel in the earth? 	no	7
+10 Daniel travelled to the earth.
+11 Sandra journeyed to the mars.
+12 Is Daniel in the earth? 	yes	10
+13 Sandra went back to the moon.
+14 Sandra moved to the jupiter.
+15 Is Sandra in the neptune? 	no	14
+1 Mary travelled to the mars.
+2 Daniel is in the venus.
+3 Is Daniel in the venus? 	yes	2
+4 Daniel moved to the moon.
+5 Sandra is not in the venus.
+6 Is Mary in the earth? 	no	1
+7 Daniel is in the venus.
+8 John went to the jupiter.
+9 Is John in the neptune? 	no	8
+10 Daniel is not in the venus.
+11 John went back to the earth.
+12 Is Sandra in the venus? 	no	5
+13 Daniel went to the jupiter.
+14 Mary travelled to the jupiter.
+15 Is Mary in the jupiter? 	yes	14
+1 Daniel is in the venus.
+2 Mary is no longer in the moon.
+3 Is Mary in the moon? 	no	2
+4 Mary is no longer in the venus.
+5 John is no longer in the earth.
+6 Is John in the earth? 	no	5
+7 Sandra is no longer in the moon.
+8 Sandra is in the moon.
+9 Is John in the earth? 	no	5
+10 Daniel is not in the venus.
+11 John is no longer in the mars.
+12 Is John in the mars? 	no	11
+13 John went back to the moon.
+14 Mary is not in the mars.
+15 Is Mary in the mars? 	no	14
+1 Mary is not in the mars.
+2 Mary journeyed to the moon.
+3 Is Mary in the mars? 	no	2
+4 Daniel is in the earth.
+5 Mary travelled to the jupiter.
+6 Is Mary in the jupiter? 	yes	5
+7 Sandra is no longer in the jupiter.
+8 John is in the earth.
+9 Is Daniel in the venus? 	no	4
+10 Daniel journeyed to the neptune.
+11 Daniel is not in the neptune.
+12 Is Mary in the mars? 	no	5
+13 Daniel is not in the jupiter.
+14 Mary went to the mars.
+15 Is Daniel in the jupiter? 	no	13
+1 Sandra is in the neptune.
+2 Daniel moved to the jupiter.
+3 Is Daniel in the mars? 	no	2
+4 Daniel is not in the jupiter.
+5 Mary is in the venus.
+6 Is Daniel in the jupiter? 	no	4
+7 Daniel went to the venus.
+8 Mary is in the neptune.
+9 Is Mary in the jupiter? 	no	8
+10 John is no longer in the jupiter.
+11 Sandra travelled to the venus.
+12 Is Sandra in the venus? 	yes	11
+13 Sandra is in the earth.
+14 Mary travelled to the venus.
+15 Is Sandra in the earth? 	yes	13
+1 Daniel is not in the moon.
+2 Daniel is in the jupiter.
+3 Is Daniel in the jupiter? 	yes	2
+4 Daniel went to the neptune.
+5 Sandra went to the venus.
+6 Is Daniel in the neptune? 	yes	4
+7 Mary is in the jupiter.
+8 Sandra is not in the venus.
+9 Is Mary in the earth? 	no	7
+10 Sandra went to the mars.
+11 John is in the neptune.
+12 Is Mary in the jupiter? 	yes	7
+13 Daniel went to the jupiter.
+14 John is not in the neptune.
+15 Is Sandra in the neptune? 	no	10
+1 John is no longer in the jupiter.
+2 John is no longer in the neptune.
+3 Is John in the neptune? 	no	2
+4 John is in the neptune.
+5 Mary is in the neptune.
+6 Is John in the neptune? 	yes	4
+7 John is no longer in the neptune.
+8 Sandra is in the earth.
+9 Is John in the neptune? 	no	7
+10 John travelled to the moon.
+11 Sandra is not in the earth.
+12 Is John in the moon? 	yes	10
+13 Mary is not in the neptune.
+14 Mary is not in the mars.
+15 Is Mary in the mars? 	no	14
+1 John travelled to the venus.
+2 Mary is in the mars.
+3 Is John in the earth? 	no	1
+4 Sandra travelled to the neptune.
+5 Daniel moved to the moon.
+6 Is Daniel in the jupiter? 	no	5
+7 Daniel is no longer in the moon.
+8 Sandra is not in the neptune.
+9 Is Daniel in the moon? 	no	7
+10 John went to the mars.
+11 Mary is in the jupiter.
+12 Is Mary in the moon? 	no	11
+13 Sandra moved to the jupiter.
+14 Daniel is in the venus.
+15 Is Sandra in the earth? 	no	13
+1 Sandra is no longer in the mars.
+2 John is not in the jupiter.
+3 Is Sandra in the mars? 	no	1
+4 Sandra journeyed to the mars.
+5 Sandra travelled to the venus.
+6 Is Sandra in the venus? 	yes	5
+7 Mary journeyed to the jupiter.
+8 Daniel is in the neptune.
+9 Is Sandra in the jupiter? 	no	5
+10 Mary is not in the jupiter.
+11 Mary is no longer in the earth.
+12 Is Mary in the earth? 	no	11
+13 Mary went to the earth.
+14 Mary is no longer in the earth.
+15 Is Mary in the earth? 	no	14
+1 John is no longer in the moon.
+2 Daniel is no longer in the earth.
+3 Is John in the moon? 	no	1
+4 Daniel is no longer in the venus.
+5 Daniel is no longer in the jupiter.
+6 Is John in the moon? 	no	1
+7 Daniel is no longer in the moon.
+8 Sandra is in the venus.
+9 Is Daniel in the moon? 	no	7
+10 Daniel journeyed to the moon.
+11 Sandra went back to the moon.
+12 Is Sandra in the neptune? 	no	11
+13 Daniel journeyed to the earth.
+14 Mary is no longer in the jupiter.
+15 Is Daniel in the earth? 	yes	13
+1 Mary went to the jupiter.
+2 Mary travelled to the neptune.
+3 Is Mary in the neptune? 	yes	2
+4 Daniel is no longer in the venus.
+5 Mary journeyed to the moon.
+6 Is Mary in the venus? 	no	5
+7 Mary journeyed to the venus.
+8 Sandra is in the neptune.
+9 Is Mary in the jupiter? 	no	7
+10 Sandra is in the mars.
+11 Daniel went to the neptune.
+12 Is Sandra in the mars? 	yes	10
+13 John is in the jupiter.
+14 Sandra went back to the jupiter.
+15 Is John in the moon? 	no	13
+1 Mary is in the moon.
+2 Daniel is in the moon.
+3 Is Daniel in the moon? 	yes	2
+4 John is in the earth.
+5 John is not in the earth.
+6 Is Daniel in the moon? 	yes	2
+7 Mary went to the neptune.
+8 Mary is in the venus.
+9 Is John in the earth? 	no	5
+10 John travelled to the neptune.
+11 Daniel is not in the moon.
+12 Is Mary in the venus? 	yes	8
+13 Sandra journeyed to the venus.
+14 Sandra moved to the neptune.
+15 Is Sandra in the venus? 	no	14
+1 John is in the venus.
+2 John moved to the neptune.
+3 Is John in the earth? 	no	2
+4 John travelled to the mars.
+5 Sandra travelled to the venus.
+6 Is John in the jupiter? 	no	4
+7 Daniel went to the jupiter.
+8 Sandra journeyed to the earth.
+9 Is John in the mars? 	yes	4
+10 Mary travelled to the moon.
+11 Mary is in the earth.
+12 Is Sandra in the neptune? 	no	8
+13 John moved to the neptune.
+14 Mary went to the neptune.
+15 Is John in the moon? 	no	13
+1 Sandra is no longer in the neptune.
+2 Mary went back to the neptune.
+3 Is Mary in the neptune? 	yes	2
+4 Sandra journeyed to the earth.
+5 Daniel is in the moon.
+6 Is Sandra in the earth? 	yes	4
+7 Daniel is in the jupiter.
+8 Daniel went to the neptune.
+9 Is Daniel in the venus? 	no	8
+10 Daniel is in the moon.
+11 Sandra is not in the earth.
+12 Is Daniel in the neptune? 	no	10
+13 Daniel is in the venus.
+14 Mary travelled to the venus.
+15 Is Sandra in the earth? 	no	11
+1 Mary moved to the jupiter.
+2 John went to the moon.
+3 Is Mary in the jupiter? 	yes	1
+4 Daniel journeyed to the neptune.
+5 Daniel went to the jupiter.
+6 Is John in the mars? 	no	2
+7 Sandra moved to the neptune.
+8 Sandra is in the venus.
+9 Is John in the moon? 	yes	2
+10 Daniel is in the neptune.
+11 Sandra went back to the neptune.
+12 Is Sandra in the neptune? 	yes	11
+13 Mary is not in the jupiter.
+14 Daniel is not in the neptune.
+15 Is Sandra in the jupiter? 	no	11
+1 Daniel moved to the venus.
+2 Mary is not in the venus.
+3 Is Mary in the venus? 	no	2
+4 Daniel travelled to the neptune.
+5 Mary is in the venus.
+6 Is Mary in the moon? 	no	5
+7 Daniel went back to the jupiter.
+8 Mary journeyed to the mars.
+9 Is Mary in the mars? 	yes	8
+10 Mary is no longer in the mars.
+11 Sandra is no longer in the moon.
+12 Is Daniel in the jupiter? 	yes	7
+13 Daniel went back to the moon.
+14 Sandra is in the neptune.
+15 Is Daniel in the moon? 	yes	13
+1 Daniel is in the earth.
+2 Daniel is in the neptune.
+3 Is Daniel in the neptune? 	yes	2
+4 Daniel moved to the earth.
+5 Daniel is not in the earth.
+6 Is Daniel in the earth? 	no	5
+7 Daniel is not in the venus.
+8 Daniel journeyed to the jupiter.
+9 Is Daniel in the moon? 	no	8
+10 John went to the jupiter.
+11 Mary is not in the jupiter.
+12 Is John in the neptune? 	no	10
+13 Daniel is not in the jupiter.
+14 Mary journeyed to the neptune.
+15 Is Mary in the earth? 	no	14
+1 John is in the neptune.
+2 John travelled to the moon.
+3 Is John in the moon? 	yes	2
+4 John is in the jupiter.
+5 Sandra is in the jupiter.
+6 Is John in the moon? 	no	4
+7 Daniel travelled to the moon.
+8 Sandra is not in the jupiter.
+9 Is Daniel in the earth? 	no	7
+10 Sandra is no longer in the venus.
+11 Daniel journeyed to the earth.
+12 Is Sandra in the venus? 	no	10
+13 Daniel journeyed to the neptune.
+14 John is in the mars.
+15 Is Sandra in the venus? 	no	10
+1 John journeyed to the mars.
+2 John journeyed to the moon.
+3 Is John in the moon? 	yes	2
+4 Daniel is in the mars.
+5 Mary is not in the earth.
+6 Is John in the earth? 	no	2
+7 Mary went to the neptune.
+8 Daniel is in the earth.
+9 Is Mary in the neptune? 	yes	7
+10 Mary is not in the neptune.
+11 Sandra moved to the neptune.
+12 Is Mary in the neptune? 	no	10
+13 Sandra travelled to the venus.
+14 Sandra moved to the mars.
+15 Is Sandra in the mars? 	yes	14
+1 Sandra is in the venus.
+2 Sandra is not in the venus.
+3 Is Sandra in the venus? 	no	2
+4 John went to the jupiter.
+5 John is in the earth.
+6 Is John in the earth? 	yes	5
+7 Daniel moved to the venus.
+8 Mary went to the earth.
+9 Is Sandra in the venus? 	no	2
+10 Daniel is not in the venus.
+11 John is in the venus.
+12 Is John in the venus? 	yes	11
+13 Sandra moved to the neptune.
+14 Mary went back to the venus.
+15 Is Sandra in the venus? 	no	13
+1 Sandra is no longer in the mars.
+2 John is in the neptune.
+3 Is John in the neptune? 	yes	2
+4 Daniel travelled to the mars.
+5 Mary is in the jupiter.
+6 Is John in the mars? 	no	2
+7 Daniel travelled to the venus.
+8 John is in the mars.
+9 Is Daniel in the venus? 	yes	7
+10 John is in the venus.
+11 Daniel is no longer in the venus.
+12 Is Daniel in the venus? 	no	11
+13 John went to the moon.
+14 Sandra is in the jupiter.
+15 Is Daniel in the venus? 	no	11
+1 Sandra went back to the neptune.
+2 Sandra is not in the neptune.
+3 Is Sandra in the neptune? 	no	2
+4 Mary is in the neptune.
+5 John went back to the earth.
+6 Is Sandra in the neptune? 	no	2
+7 Mary journeyed to the earth.
+8 John moved to the moon.
+9 Is John in the moon? 	yes	8
+10 Sandra journeyed to the mars.
+11 Mary went to the mars.
+12 Is Sandra in the jupiter? 	no	10
+13 Sandra moved to the moon.
+14 Mary is in the earth.
+15 Is Sandra in the moon? 	yes	13
+1 John moved to the moon.
+2 Mary is no longer in the jupiter.
+3 Is Mary in the jupiter? 	no	2
+4 Sandra is in the moon.
+5 Sandra travelled to the venus.
+6 Is Sandra in the earth? 	no	5
+7 Daniel is in the moon.
+8 Mary journeyed to the venus.
+9 Is Mary in the venus? 	yes	8
+10 Daniel moved to the venus.
+11 Daniel is no longer in the venus.
+12 Is Sandra in the mars? 	no	5
+13 Sandra is in the earth.
+14 Daniel journeyed to the venus.
+15 Is Daniel in the venus? 	yes	14
+1 Daniel travelled to the earth.
+2 John is in the moon.
+3 Is John in the moon? 	yes	2
+4 Mary travelled to the venus.
+5 Mary is in the mars.
+6 Is Daniel in the venus? 	no	1
+7 Daniel is no longer in the earth.
+8 Mary is not in the mars.
+9 Is Daniel in the earth? 	no	7
+10 Mary is in the jupiter.
+11 Daniel is in the mars.
+12 Is Mary in the jupiter? 	yes	10
+13 Mary moved to the mars.
+14 John moved to the earth.
+15 Is Daniel in the earth? 	no	11
+1 Sandra is in the moon.
+2 Daniel went back to the jupiter.
+3 Is Daniel in the earth? 	no	2
+4 Sandra is no longer in the moon.
+5 Mary moved to the mars.
+6 Is Daniel in the jupiter? 	yes	2
+7 John journeyed to the moon.
+8 Mary moved to the venus.
+9 Is Sandra in the moon? 	no	4
+10 Sandra is not in the venus.
+11 Sandra is in the jupiter.
+12 Is Sandra in the jupiter? 	yes	11
+13 Sandra moved to the mars.
+14 Mary went back to the neptune.
+15 Is Sandra in the neptune? 	no	13
+1 John is not in the earth.
+2 Daniel is in the earth.
+3 Is Daniel in the earth? 	yes	2
+4 Sandra is no longer in the moon.
+5 Sandra is in the venus.
+6 Is Daniel in the mars? 	no	2
+7 Daniel went back to the mars.
+8 Daniel is in the earth.
+9 Is Sandra in the jupiter? 	no	5
+10 Mary went back to the earth.
+11 John is no longer in the mars.
+12 Is Daniel in the venus? 	no	8
+13 John is no longer in the jupiter.
+14 Daniel went to the jupiter.
+15 Is Daniel in the earth? 	no	14
+1 Sandra is no longer in the earth.
+2 John went back to the mars.
+3 Is John in the mars? 	yes	2
+4 John is in the neptune.
+5 Daniel is in the neptune.
+6 Is Daniel in the neptune? 	yes	5
+7 Daniel is no longer in the neptune.
+8 John moved to the jupiter.
+9 Is Daniel in the neptune? 	no	7
+10 John travelled to the moon.
+11 Mary is in the earth.
+12 Is Daniel in the neptune? 	no	7
+13 Sandra is in the jupiter.
+14 Daniel journeyed to the venus.
+15 Is Daniel in the neptune? 	no	14

@@ -1,0 +1,3000 @@
+1 Colliani is in the hallway.
+2 Burnhard is in the kitchen.
+3 Is Burnhard in the bedroom? 	no	2
+4 Burnhard journeyed to the bedroom.
+5 Doud travelled to the garden.
+6 Is Burnhard in the bedroom? 	yes	4
+7 Doud went back to the bathroom.
+8 Burnhard is no longer in the bedroom.
+9 Is Burnhard in the bedroom? 	no	8
+10 Colliani is in the office.
+11 Doud is not in the bathroom.
+12 Is Doud in the bathroom? 	no	11
+13 Colliani is in the hallway.
+14 Doud journeyed to the garden.
+15 Is Doud in the kitchen? 	no	14
+1 Doud journeyed to the office.
+2 Doud went back to the garden.
+3 Is Doud in the office? 	no	2
+4 Conn is no longer in the kitchen.
+5 Colliani is no longer in the bathroom.
+6 Is Conn in the kitchen? 	no	4
+7 Colliani is in the garden.
+8 Burnhard travelled to the bedroom.
+9 Is Colliani in the garden? 	yes	7
+10 Doud travelled to the kitchen.
+11 Burnhard is not in the bedroom.
+12 Is Colliani in the garden? 	yes	7
+13 Colliani went back to the hallway.
+14 Conn travelled to the bathroom.
+15 Is Conn in the bathroom? 	yes	14
+1 Colliani is not in the bathroom.
+2 Burnhard is not in the bedroom.
+3 Is Colliani in the bathroom? 	no	1
+4 Doud journeyed to the garden.
+5 Burnhard is in the hallway.
+6 Is Burnhard in the hallway? 	yes	5
+7 Burnhard is not in the hallway.
+8 Doud went back to the kitchen.
+9 Is Doud in the garden? 	no	8
+10 Doud is in the hallway.
+11 Doud journeyed to the kitchen.
+12 Is Burnhard in the hallway? 	no	7
+13 Colliani is in the bedroom.
+14 Burnhard is not in the garden.
+15 Is Doud in the kitchen? 	yes	11
+1 Colliani moved to the hallway.
+2 Colliani journeyed to the office.
+3 Is Colliani in the bathroom? 	no	2
+4 Conn went back to the office.
+5 Burnhard is no longer in the hallway.
+6 Is Burnhard in the hallway? 	no	5
+7 Burnhard went to the hallway.
+8 Colliani travelled to the garden.
+9 Is Colliani in the garden? 	yes	8
+10 Conn went back to the bathroom.
+11 Colliani travelled to the office.
+12 Is Colliani in the kitchen? 	no	11
+13 Burnhard is in the kitchen.
+14 Burnhard is no longer in the kitchen.
+15 Is Burnhard in the kitchen? 	no	14
+1 Colliani is no longer in the garden.
+2 Conn is in the hallway.
+3 Is Colliani in the garden? 	no	1
+4 Doud is not in the kitchen.
+5 Doud is in the hallway.
+6 Is Doud in the hallway? 	yes	5
+7 Burnhard travelled to the hallway.
+8 Doud moved to the office.
+9 Is Conn in the hallway? 	yes	2
+10 Burnhard is no longer in the hallway.
+11 Doud went back to the hallway.
+12 Is Burnhard in the hallway? 	no	10
+13 Burnhard journeyed to the office.
+14 Doud went back to the kitchen.
+15 Is Doud in the kitchen? 	yes	14
+1 Colliani journeyed to the hallway.
+2 Colliani is in the office.
+3 Is Colliani in the hallway? 	no	2
+4 Colliani is no longer in the office.
+5 Conn journeyed to the kitchen.
+6 Is Colliani in the office? 	no	4
+7 Burnhard is not in the hallway.
+8 Conn travelled to the bathroom.
+9 Is Colliani in the office? 	no	4
+10 Conn went to the bedroom.
+11 Burnhard is no longer in the garden.
+12 Is Burnhard in the garden? 	no	11
+13 Conn is in the bathroom.
+14 Colliani journeyed to the hallway.
+15 Is Conn in the office? 	no	13
+1 Burnhard went back to the bathroom.
+2 Colliani is not in the office.
+3 Is Colliani in the office? 	no	2
+4 Burnhard is not in the bathroom.
+5 Conn went back to the kitchen.
+6 Is Burnhard in the bathroom? 	no	4
+7 Burnhard is no longer in the hallway.
+8 Colliani is in the bedroom.
+9 Is Burnhard in the hallway? 	no	7
+10 Colliani went back to the garden.
+11 Colliani is in the bathroom.
+12 Is Conn in the kitchen? 	yes	5
+13 Colliani moved to the office.
+14 Colliani is in the bedroom.
+15 Is Colliani in the bathroom? 	no	14
+1 Doud travelled to the bathroom.
+2 Conn journeyed to the hallway.
+3 Is Doud in the bathroom? 	yes	1
+4 Conn is not in the hallway.
+5 Burnhard is no longer in the hallway.
+6 Is Conn in the hallway? 	no	4
+7 Burnhard moved to the hallway.
+8 Doud journeyed to the kitchen.
+9 Is Conn in the hallway? 	no	4
+10 Conn went back to the office.
+11 Burnhard went back to the kitchen.
+12 Is Burnhard in the kitchen? 	yes	11
+13 Colliani is not in the bathroom.
+14 Doud is in the hallway.
+15 Is Conn in the office? 	yes	10
+1 Doud went to the bedroom.
+2 Doud journeyed to the garden.
+3 Is Doud in the garden? 	yes	2
+4 Doud is in the bathroom.
+5 Colliani is not in the kitchen.
+6 Is Colliani in the kitchen? 	no	5
+7 Colliani is in the bathroom.
+8 Doud is in the bedroom.
+9 Is Doud in the bedroom? 	yes	8
+10 Burnhard is in the hallway.
+11 Colliani moved to the kitchen.
+12 Is Colliani in the garden? 	no	11
+13 Doud is in the garden.
+14 Burnhard travelled to the kitchen.
+15 Is Colliani in the kitchen? 	yes	11
+1 Colliani went back to the kitchen.
+2 Doud travelled to the garden.
+3 Is Colliani in the bathroom? 	no	1
+4 Conn is not in the bathroom.
+5 Doud is no longer in the garden.
+6 Is Colliani in the bathroom? 	no	1
+7 Conn travelled to the office.
+8 Colliani moved to the office.
+9 Is Conn in the bathroom? 	no	7
+10 Conn is no longer in the office.
+11 Doud is no longer in the bedroom.
+12 Is Colliani in the office? 	yes	8
+13 Doud went back to the bedroom.
+14 Colliani went to the garden.
+15 Is Colliani in the bathroom? 	no	14
+1 Colliani went back to the office.
+2 Burnhard moved to the bathroom.
+3 Is Burnhard in the bathroom? 	yes	2
+4 Doud travelled to the hallway.
+5 Burnhard is no longer in the bathroom.
+6 Is Burnhard in the bathroom? 	no	5
+7 Conn is in the bathroom.
+8 Conn went back to the garden.
+9 Is Doud in the hallway? 	yes	4
+10 Burnhard went to the kitchen.
+11 Doud is in the bedroom.
+12 Is Burnhard in the kitchen? 	yes	10
+13 Colliani is in the garden.
+14 Doud is no longer in the bedroom.
+15 Is Burnhard in the kitchen? 	yes	10
+1 Doud journeyed to the kitchen.
+2 Colliani is not in the garden.
+3 Is Doud in the bedroom? 	no	1
+4 Burnhard is not in the bathroom.
+5 Colliani is no longer in the hallway.
+6 Is Colliani in the hallway? 	no	5
+7 Doud is in the garden.
+8 Doud journeyed to the office.
+9 Is Colliani in the hallway? 	no	5
+10 Conn moved to the office.
+11 Doud moved to the hallway.
+12 Is Doud in the bathroom? 	no	11
+13 Doud went back to the bathroom.
+14 Colliani journeyed to the bathroom.
+15 Is Doud in the garden? 	no	13
+1 Doud travelled to the garden.
+2 Burnhard is no longer in the office.
+3 Is Burnhard in the office? 	no	2
+4 Colliani is no longer in the bedroom.
+5 Doud is in the bathroom.
+6 Is Doud in the bathroom? 	yes	5
+7 Colliani travelled to the bathroom.
+8 Conn travelled to the hallway.
+9 Is Burnhard in the office? 	no	2
+10 Colliani went to the bedroom.
+11 Doud is no longer in the bathroom.
+12 Is Doud in the bathroom? 	no	11
+13 Colliani travelled to the kitchen.
+14 Doud is no longer in the garden.
+15 Is Colliani in the office? 	no	13
+1 Colliani went to the kitchen.
+2 Doud is no longer in the kitchen.
+3 Is Colliani in the garden? 	no	1
+4 Conn is in the bedroom.
+5 Doud journeyed to the kitchen.
+6 Is Doud in the bedroom? 	no	5
+7 Conn is not in the bedroom.
+8 Doud went back to the bathroom.
+9 Is Doud in the bathroom? 	yes	8
+10 Doud moved to the kitchen.
+11 Doud is in the bedroom.
+12 Is Doud in the office? 	no	11
+13 Colliani is in the bathroom.
+14 Burnhard went back to the bathroom.
+15 Is Burnhard in the bathroom? 	yes	14
+1 Burnhard is not in the kitchen.
+2 Burnhard is in the kitchen.
+3 Is Burnhard in the hallway? 	no	2
+4 Conn is in the kitchen.
+5 Burnhard is not in the kitchen.
+6 Is Burnhard in the kitchen? 	no	5
+7 Conn is no longer in the kitchen.
+8 Colliani is not in the office.
+9 Is Burnhard in the kitchen? 	no	5
+10 Doud went to the bedroom.
+11 Colliani is in the kitchen.
+12 Is Colliani in the kitchen? 	yes	11
+13 Burnhard journeyed to the kitchen.
+14 Colliani travelled to the garden.
+15 Is Colliani in the garden? 	yes	14
+1 Burnhard travelled to the kitchen.
+2 Conn went to the hallway.
+3 Is Burnhard in the kitchen? 	yes	1
+4 Conn is not in the hallway.
+5 Doud is not in the bedroom.
+6 Is Conn in the hallway? 	no	4
+7 Conn journeyed to the office.
+8 Burnhard is no longer in the kitchen.
+9 Is Conn in the office? 	yes	7
+10 Burnhard is not in the office.
+11 Doud is in the hallway.
+12 Is Doud in the bedroom? 	no	11
+13 Burnhard is no longer in the kitchen.
+14 Colliani journeyed to the bathroom.
+15 Is Burnhard in the kitchen? 	no	13
+1 Burnhard is in the hallway.
+2 Colliani went back to the kitchen.
+3 Is Burnhard in the hallway? 	yes	1
+4 Conn went back to the garden.
+5 Conn is not in the garden.
+6 Is Colliani in the garden? 	no	2
+7 Colliani is in the garden.
+8 Colliani is in the kitchen.
+9 Is Conn in the garden? 	no	5
+10 Doud went back to the bedroom.
+11 Colliani journeyed to the bathroom.
+12 Is Conn in the garden? 	no	5
+13 Burnhard journeyed to the bathroom.
+14 Conn journeyed to the kitchen.
+15 Is Burnhard in the bathroom? 	yes	13
+1 Conn is no longer in the bathroom.
+2 Burnhard is not in the garden.
+3 Is Burnhard in the garden? 	no	2
+4 Burnhard travelled to the office.
+5 Doud is not in the office.
+6 Is Burnhard in the office? 	yes	4
+7 Burnhard is in the bathroom.
+8 Conn is no longer in the kitchen.
+9 Is Burnhard in the bedroom? 	no	7
+10 Conn is in the kitchen.
+11 Colliani travelled to the bathroom.
+12 Is Conn in the hallway? 	no	10
+13 Colliani is not in the bathroom.
+14 Conn is not in the kitchen.
+15 Is Conn in the kitchen? 	no	14
+1 Colliani moved to the bathroom.
+2 Doud is in the bedroom.
+3 Is Doud in the bedroom? 	yes	2
+4 Colliani moved to the hallway.
+5 Burnhard is in the hallway.
+6 Is Burnhard in the office? 	no	5
+7 Burnhard is no longer in the hallway.
+8 Burnhard went back to the office.
+9 Is Colliani in the kitchen? 	no	4
+10 Burnhard is not in the office.
+11 Colliani is in the office.
+12 Is Burnhard in the office? 	no	10
+13 Colliani went back to the bathroom.
+14 Conn is in the kitchen.
+15 Is Colliani in the bathroom? 	yes	13
+1 Doud is no longer in the hallway.
+2 Burnhard moved to the kitchen.
+3 Is Doud in the hallway? 	no	1
+4 Conn went to the bathroom.
+5 Doud travelled to the hallway.
+6 Is Burnhard in the hallway? 	no	2
+7 Colliani travelled to the bedroom.
+8 Conn went back to the kitchen.
+9 Is Colliani in the bedroom? 	yes	7
+10 Burnhard is not in the kitchen.
+11 Burnhard moved to the bedroom.
+12 Is Burnhard in the bedroom? 	yes	11
+13 Burnhard went to the bathroom.
+14 Colliani is not in the bedroom.
+15 Is Burnhard in the bathroom? 	yes	13
+1 Colliani moved to the office.
+2 Burnhard moved to the kitchen.
+3 Is Colliani in the office? 	yes	1
+4 Colliani travelled to the hallway.
+5 Conn went back to the bathroom.
+6 Is Conn in the kitchen? 	no	5
+7 Colliani moved to the garden.
+8 Burnhard is in the office.
+9 Is Conn in the office? 	no	5
+10 Conn went back to the bedroom.
+11 Colliani is not in the garden.
+12 Is Conn in the hallway? 	no	10
+13 Conn is in the kitchen.
+14 Doud journeyed to the bedroom.
+15 Is Conn in the kitchen? 	yes	13
+1 Doud travelled to the kitchen.
+2 Doud is no longer in the kitchen.
+3 Is Doud in the kitchen? 	no	2
+4 Colliani went back to the bathroom.
+5 Conn went back to the office.
+6 Is Doud in the kitchen? 	no	2
+7 Doud is in the hallway.
+8 Burnhard is in the office.
+9 Is Doud in the hallway? 	yes	7
+10 Conn is not in the office.
+11 Conn is in the bedroom.
+12 Is Doud in the garden? 	no	7
+13 Doud is no longer in the hallway.
+14 Burnhard went to the kitchen.
+15 Is Burnhard in the kitchen? 	yes	14
+1 Burnhard is not in the bathroom.
+2 Conn is no longer in the bathroom.
+3 Is Burnhard in the bathroom? 	no	1
+4 Doud moved to the hallway.
+5 Conn is no longer in the office.
+6 Is Burnhard in the bathroom? 	no	1
+7 Conn went to the bathroom.
+8 Colliani journeyed to the garden.
+9 Is Doud in the bedroom? 	no	4
+10 Burnhard went to the bedroom.
+11 Conn is no longer in the bathroom.
+12 Is Conn in the bathroom? 	no	11
+13 Doud moved to the bathroom.
+14 Colliani is no longer in the garden.
+15 Is Colliani in the garden? 	no	14
+1 Colliani is in the kitchen.
+2 Colliani journeyed to the hallway.
+3 Is Colliani in the kitchen? 	no	2
+4 Colliani moved to the office.
+5 Burnhard is not in the kitchen.
+6 Is Burnhard in the kitchen? 	no	5
+7 Conn is no longer in the hallway.
+8 Colliani is in the bathroom.
+9 Is Colliani in the bathroom? 	yes	8
+10 Colliani went back to the garden.
+11 Doud is in the kitchen.
+12 Is Colliani in the garden? 	yes	10
+13 Conn went to the bedroom.
+14 Burnhard is in the garden.
+15 Is Colliani in the garden? 	yes	10
+1 Burnhard travelled to the office.
+2 Conn is in the kitchen.
+3 Is Conn in the hallway? 	no	2
+4 Conn is in the hallway.
+5 Colliani moved to the office.
+6 Is Burnhard in the bathroom? 	no	1
+7 Burnhard is in the bedroom.
+8 Burnhard is no longer in the bedroom.
+9 Is Burnhard in the bedroom? 	no	8
+10 Conn is in the kitchen.
+11 Burnhard went to the bedroom.
+12 Is Colliani in the office? 	yes	5
+13 Colliani travelled to the bedroom.
+14 Conn is in the bathroom.
+15 Is Conn in the bedroom? 	no	14
+1 Doud moved to the office.
+2 Doud is in the bathroom.
+3 Is Doud in the hallway? 	no	2
+4 Doud travelled to the garden.
+5 Burnhard is no longer in the office.
+6 Is Doud in the garden? 	yes	4
+7 Doud is not in the garden.
+8 Colliani moved to the hallway.
+9 Is Colliani in the hallway? 	yes	8
+10 Doud moved to the hallway.
+11 Colliani travelled to the garden.
+12 Is Colliani in the garden? 	yes	11
+13 Doud is not in the hallway.
+14 Doud travelled to the hallway.
+15 Is Doud in the kitchen? 	no	14
+1 Conn is in the bedroom.
+2 Burnhard went to the office.
+3 Is Conn in the hallway? 	no	1
+4 Conn is in the kitchen.
+5 Doud travelled to the bedroom.
+6 Is Conn in the bathroom? 	no	4
+7 Doud travelled to the office.
+8 Burnhard went back to the kitchen.
+9 Is Doud in the garden? 	no	7
+10 Doud travelled to the bedroom.
+11 Colliani travelled to the hallway.
+12 Is Burnhard in the bedroom? 	no	8
+13 Doud is no longer in the bedroom.
+14 Colliani went to the bedroom.
+15 Is Colliani in the hallway? 	no	14
+1 Colliani travelled to the bedroom.
+2 Doud is no longer in the office.
+3 Is Doud in the office? 	no	2
+4 Colliani went to the garden.
+5 Conn went to the kitchen.
+6 Is Colliani in the kitchen? 	no	4
+7 Burnhard is not in the kitchen.
+8 Conn is not in the kitchen.
+9 Is Burnhard in the kitchen? 	no	7
+10 Burnhard is not in the hallway.
+11 Doud went back to the office.
+12 Is Doud in the office? 	yes	11
+13 Burnhard travelled to the garden.
+14 Doud is in the hallway.
+15 Is Conn in the kitchen? 	no	8
+1 Colliani is not in the bathroom.
+2 Colliani went back to the garden.
+3 Is Colliani in the garden? 	yes	2
+4 Colliani went to the office.
+5 Conn is in the office.
+6 Is Colliani in the office? 	yes	4
+7 Colliani went to the hallway.
+8 Conn went to the bedroom.
+9 Is Colliani in the hallway? 	yes	7
+10 Burnhard went to the office.
+11 Doud went to the hallway.
+12 Is Conn in the bathroom? 	no	8
+13 Colliani is not in the hallway.
+14 Doud moved to the bedroom.
+15 Is Burnhard in the office? 	yes	10
+1 Conn is in the bathroom.
+2 Doud is no longer in the garden.
+3 Is Doud in the garden? 	no	2
+4 Conn travelled to the office.
+5 Doud is in the kitchen.
+6 Is Doud in the bedroom? 	no	5
+7 Conn travelled to the bathroom.
+8 Burnhard is in the kitchen.
+9 Is Conn in the bedroom? 	no	7
+10 Doud journeyed to the bedroom.
+11 Colliani went to the garden.
+12 Is Doud in the office? 	no	10
+13 Burnhard went back to the bedroom.
+14 Conn is in the bedroom.
+15 Is Doud in the garden? 	no	10
+1 Colliani went back to the hallway.
+2 Burnhard journeyed to the garden.
+3 Is Burnhard in the bedroom? 	no	2
+4 Burnhard went back to the bathroom.
+5 Colliani is in the bedroom.
+6 Is Burnhard in the bathroom? 	yes	4
+7 Doud went back to the garden.
+8 Doud is no longer in the garden.
+9 Is Colliani in the bathroom? 	no	5
+10 Doud went back to the garden.
+11 Doud went back to the bathroom.
+12 Is Doud in the garden? 	no	11
+13 Colliani is in the bathroom.
+14 Conn journeyed to the hallway.
+15 Is Doud in the hallway? 	no	11
+1 Colliani went to the hallway.
+2 Conn is no longer in the bedroom.
+3 Is Conn in the bedroom? 	no	2
+4 Conn is no longer in the bathroom.
+5 Colliani is in the office.
+6 Is Conn in the bathroom? 	no	4
+7 Burnhard is in the bedroom.
+8 Doud went back to the kitchen.
+9 Is Conn in the bathroom? 	no	4
+10 Burnhard is no longer in the bedroom.
+11 Burnhard journeyed to the garden.
+12 Is Burnhard in the garden? 	yes	11
+13 Burnhard is in the bedroom.
+14 Burnhard journeyed to the kitchen.
+15 Is Doud in the kitchen? 	yes	8
+1 Doud is in the garden.
+2 Burnhard travelled to the garden.
+3 Is Burnhard in the office? 	no	2
+4 Doud moved to the bathroom.
+5 Conn is in the bathroom.
+6 Is Doud in the bathroom? 	yes	4
+7 Colliani went to the bathroom.
+8 Colliani went to the garden.
+9 Is Doud in the hallway? 	no	4
+10 Doud journeyed to the garden.
+11 Doud went to the hallway.
+12 Is Conn in the office? 	no	5
+13 Colliani went back to the office.
+14 Conn moved to the hallway.
+15 Is Colliani in the bedroom? 	no	13
+1 Doud went back to the bedroom.
+2 Conn is no longer in the hallway.
+3 Is Doud in the garden? 	no	1
+4 Colliani went to the office.
+5 Colliani went to the kitchen.
+6 Is Colliani in the hallway? 	no	5
+7 Colliani journeyed to the hallway.
+8 Conn journeyed to the office.
+9 Is Conn in the office? 	yes	8
+10 Burnhard moved to the kitchen.
+11 Doud is not in the bedroom.
+12 Is Burnhard in the kitchen? 	yes	10
+13 Burnhard is in the office.
+14 Doud is in the garden.
+15 Is Burnhard in the office? 	yes	13
+1 Doud is no longer in the bathroom.
+2 Conn moved to the bedroom.
+3 Is Doud in the bathroom? 	no	1
+4 Conn is not in the bedroom.
+5 Colliani is not in the bathroom.
+6 Is Doud in the bathroom? 	no	1
+7 Colliani went to the kitchen.
+8 Colliani is no longer in the kitchen.
+9 Is Conn in the bedroom? 	no	4
+10 Colliani is not in the bedroom.
+11 Doud went back to the bathroom.
+12 Is Colliani in the bedroom? 	no	10
+13 Colliani is no longer in the office.
+14 Doud is no longer in the bathroom.
+15 Is Doud in the bathroom? 	no	14
+1 Colliani journeyed to the office.
+2 Burnhard went to the bedroom.
+3 Is Colliani in the office? 	yes	1
+4 Burnhard is in the bathroom.
+5 Burnhard went back to the hallway.
+6 Is Burnhard in the bathroom? 	no	5
+7 Doud journeyed to the kitchen.
+8 Burnhard is no longer in the hallway.
+9 Is Burnhard in the hallway? 	no	8
+10 Colliani is in the bathroom.
+11 Conn is in the hallway.
+12 Is Burnhard in the hallway? 	no	8
+13 Burnhard is in the office.
+14 Doud is in the garden.
+15 Is Burnhard in the kitchen? 	no	13
+1 Conn is in the garden.
+2 Conn went to the kitchen.
+3 Is Conn in the bedroom? 	no	2
+4 Colliani went to the bedroom.
+5 Conn is in the garden.
+6 Is Conn in the garden? 	yes	5
+7 Conn went back to the bathroom.
+8 Colliani went back to the hallway.
+9 Is Conn in the hallway? 	no	7
+10 Colliani is in the garden.
+11 Doud travelled to the bedroom.
+12 Is Colliani in the garden? 	yes	10
+13 Doud went to the office.
+14 Doud is in the garden.
+15 Is Doud in the hallway? 	no	14
+1 Conn went back to the office.
+2 Burnhard is in the hallway.
+3 Is Burnhard in the hallway? 	yes	2
+4 Doud travelled to the hallway.
+5 Conn travelled to the bathroom.
+6 Is Conn in the bedroom? 	no	5
+7 Burnhard is in the kitchen.
+8 Burnhard is in the garden.
+9 Is Burnhard in the garden? 	yes	8
+10 Burnhard is in the hallway.
+11 Conn journeyed to the garden.
+12 Is Conn in the hallway? 	no	11
+13 Doud is in the bedroom.
+14 Colliani went back to the bedroom.
+15 Is Colliani in the kitchen? 	no	14
+1 Doud moved to the kitchen.
+2 Burnhard is in the bathroom.
+3 Is Burnhard in the bathroom? 	yes	2
+4 Doud is in the office.
+5 Conn is in the hallway.
+6 Is Doud in the hallway? 	no	4
+7 Colliani journeyed to the bathroom.
+8 Colliani is no longer in the bathroom.
+9 Is Burnhard in the bedroom? 	no	2
+10 Colliani went to the hallway.
+11 Doud went to the bathroom.
+12 Is Colliani in the hallway? 	yes	10
+13 Burnhard went back to the office.
+14 Doud travelled to the bedroom.
+15 Is Doud in the bedroom? 	yes	14
+1 Conn went back to the garden.
+2 Burnhard journeyed to the office.
+3 Is Burnhard in the office? 	yes	2
+4 Colliani is in the bathroom.
+5 Conn moved to the bedroom.
+6 Is Conn in the garden? 	no	5
+7 Conn is not in the bedroom.
+8 Conn is in the bathroom.
+9 Is Conn in the kitchen? 	no	8
+10 Doud travelled to the kitchen.
+11 Colliani is no longer in the bathroom.
+12 Is Conn in the hallway? 	no	8
+13 Burnhard went to the bathroom.
+14 Conn travelled to the garden.
+15 Is Colliani in the bathroom? 	no	11
+1 Colliani is in the hallway.
+2 Doud is no longer in the garden.
+3 Is Colliani in the hallway? 	yes	1
+4 Colliani is no longer in the hallway.
+5 Conn is in the garden.
+6 Is Colliani in the hallway? 	no	4
+7 Colliani is in the kitchen.
+8 Doud is not in the hallway.
+9 Is Conn in the garden? 	yes	5
+10 Burnhard journeyed to the bathroom.
+11 Conn is no longer in the garden.
+12 Is Burnhard in the kitchen? 	no	10
+13 Doud is in the bathroom.
+14 Conn journeyed to the garden.
+15 Is Conn in the bedroom? 	no	14
+1 Conn is no longer in the office.
+2 Burnhard journeyed to the hallway.
+3 Is Burnhard in the hallway? 	yes	2
+4 Burnhard is not in the hallway.
+5 Conn is in the garden.
+6 Is Burnhard in the hallway? 	no	4
+7 Burnhard went to the garden.
+8 Colliani went back to the garden.
+9 Is Burnhard in the garden? 	yes	7
+10 Conn went back to the bedroom.
+11 Colliani journeyed to the office.
+12 Is Conn in the bathroom? 	no	10
+13 Burnhard is not in the garden.
+14 Colliani travelled to the garden.
+15 Is Colliani in the garden? 	yes	14
+1 Conn is no longer in the office.
+2 Burnhard is in the kitchen.
+3 Is Burnhard in the kitchen? 	yes	2
+4 Doud is no longer in the bathroom.
+5 Doud travelled to the bedroom.
+6 Is Doud in the bedroom? 	yes	5
+7 Colliani is in the kitchen.
+8 Doud is no longer in the bedroom.
+9 Is Doud in the bedroom? 	no	8
+10 Colliani is in the garden.
+11 Doud is in the bedroom.
+12 Is Doud in the bedroom? 	yes	11
+13 Colliani is in the office.
+14 Doud went to the kitchen.
+15 Is Colliani in the office? 	yes	13
+1 Doud moved to the garden.
+2 Doud is in the bathroom.
+3 Is Doud in the garden? 	no	2
+4 Doud is in the office.
+5 Doud journeyed to the bathroom.
+6 Is Doud in the bathroom? 	yes	5
+7 Burnhard moved to the garden.
+8 Colliani is no longer in the garden.
+9 Is Doud in the garden? 	no	5
+10 Burnhard moved to the office.
+11 Burnhard journeyed to the garden.
+12 Is Doud in the bathroom? 	yes	5
+13 Colliani is no longer in the hallway.
+14 Burnhard went to the hallway.
+15 Is Burnhard in the garden? 	no	14
+1 Doud is not in the kitchen.
+2 Conn is no longer in the hallway.
+3 Is Conn in the hallway? 	no	2
+4 Colliani is no longer in the hallway.
+5 Conn is no longer in the kitchen.
+6 Is Doud in the kitchen? 	no	1
+7 Burnhard journeyed to the garden.
+8 Doud went to the bathroom.
+9 Is Conn in the kitchen? 	no	5
+10 Conn moved to the hallway.
+11 Conn went back to the garden.
+12 Is Conn in the kitchen? 	no	11
+13 Burnhard journeyed to the bathroom.
+14 Colliani is not in the garden.
+15 Is Colliani in the garden? 	no	14
+1 Burnhard moved to the bedroom.
+2 Burnhard journeyed to the office.
+3 Is Burnhard in the office? 	yes	2
+4 Burnhard journeyed to the hallway.
+5 Burnhard journeyed to the garden.
+6 Is Burnhard in the office? 	no	5
+7 Colliani journeyed to the bedroom.
+8 Conn is in the bedroom.
+9 Is Burnhard in the bedroom? 	no	5
+10 Colliani travelled to the garden.
+11 Colliani is in the office.
+12 Is Conn in the bedroom? 	yes	8
+13 Doud journeyed to the garden.
+14 Burnhard is not in the garden.
+15 Is Conn in the bedroom? 	yes	8
+1 Colliani journeyed to the garden.
+2 Conn is no longer in the garden.
+3 Is Colliani in the hallway? 	no	1
+4 Colliani is in the bathroom.
+5 Conn is no longer in the bedroom.
+6 Is Conn in the bedroom? 	no	5
+7 Colliani travelled to the kitchen.
+8 Conn is not in the kitchen.
+9 Is Colliani in the kitchen? 	yes	7
+10 Colliani went to the bathroom.
+11 Doud journeyed to the bedroom.
+12 Is Doud in the garden? 	no	11
+13 Burnhard is not in the hallway.
+14 Colliani is in the kitchen.
+15 Is Burnhard in the hallway? 	no	13
+1 Conn is in the garden.
+2 Colliani is in the bedroom.
+3 Is Colliani in the garden? 	no	2
+4 Doud went back to the hallway.
+5 Conn moved to the office.
+6 Is Doud in the hallway? 	yes	4
+7 Doud moved to the bedroom.
+8 Burnhard is not in the garden.
+9 Is Burnhard in the garden? 	no	8
+10 Colliani moved to the bathroom.
+11 Burnhard is not in the bathroom.
+12 Is Burnhard in the bathroom? 	no	11
+13 Colliani went to the bedroom.
+14 Burnhard journeyed to the kitchen.
+15 Is Colliani in the office? 	no	13
+1 Colliani journeyed to the bedroom.
+2 Doud went to the bathroom.
+3 Is Colliani in the bedroom? 	yes	1
+4 Doud is not in the bathroom.
+5 Colliani is no longer in the bedroom.
+6 Is Colliani in the bedroom? 	no	5
+7 Conn is not in the bathroom.
+8 Conn moved to the garden.
+9 Is Conn in the kitchen? 	no	8
+10 Conn journeyed to the bedroom.
+11 Conn is in the garden.
+12 Is Conn in the bathroom? 	no	11
+13 Conn journeyed to the kitchen.
+14 Burnhard is no longer in the office.
+15 Is Conn in the hallway? 	no	13
+1 Burnhard went back to the bathroom.
+2 Burnhard moved to the office.
+3 Is Burnhard in the bedroom? 	no	2
+4 Conn moved to the kitchen.
+5 Conn moved to the garden.
+6 Is Conn in the garden? 	yes	5
+7 Colliani is in the bathroom.
+8 Doud travelled to the garden.
+9 Is Conn in the office? 	no	5
+10 Colliani is in the garden.
+11 Colliani is no longer in the garden.
+12 Is Conn in the garden? 	yes	5
+13 Doud moved to the office.
+14 Conn journeyed to the hallway.
+15 Is Conn in the garden? 	no	14
+1 Doud is not in the bedroom.
+2 Conn is in the office.
+3 Is Doud in the bedroom? 	no	1
+4 Colliani is not in the garden.
+5 Doud went back to the office.
+6 Is Doud in the garden? 	no	5
+7 Doud is in the bathroom.
+8 Colliani travelled to the garden.
+9 Is Conn in the office? 	yes	2
+10 Doud went back to the bedroom.
+11 Doud journeyed to the office.
+12 Is Doud in the hallway? 	no	11
+13 Conn is in the bedroom.
+14 Doud journeyed to the kitchen.
+15 Is Conn in the bedroom? 	yes	13
+1 Colliani went to the kitchen.
+2 Colliani is in the bedroom.
+3 Is Colliani in the bedroom? 	yes	2
+4 Conn is not in the hallway.
+5 Burnhard went to the kitchen.
+6 Is Colliani in the bedroom? 	yes	2
+7 Doud journeyed to the hallway.
+8 Colliani is in the kitchen.
+9 Is Colliani in the kitchen? 	yes	8
+10 Burnhard journeyed to the bedroom.
+11 Colliani moved to the garden.
+12 Is Doud in the garden? 	no	7
+13 Conn is not in the kitchen.
+14 Doud travelled to the kitchen.
+15 Is Doud in the kitchen? 	yes	14
+1 Doud is not in the bedroom.
+2 Conn went to the garden.
+3 Is Doud in the bedroom? 	no	1
+4 Burnhard is in the bathroom.
+5 Colliani is no longer in the garden.
+6 Is Conn in the garden? 	yes	2
+7 Conn is in the office.
+8 Burnhard is not in the bathroom.
+9 Is Burnhard in the bathroom? 	no	8
+10 Burnhard went to the hallway.
+11 Burnhard travelled to the kitchen.
+12 Is Burnhard in the kitchen? 	yes	11
+13 Doud went back to the bedroom.
+14 Colliani went back to the garden.
+15 Is Colliani in the office? 	no	14
+1 Burnhard is no longer in the garden.
+2 Conn is no longer in the office.
+3 Is Conn in the office? 	no	2
+4 Doud is in the bedroom.
+5 Conn travelled to the office.
+6 Is Conn in the office? 	yes	5
+7 Doud went back to the kitchen.
+8 Burnhard went to the hallway.
+9 Is Conn in the bedroom? 	no	5
+10 Colliani is in the office.
+11 Conn went to the hallway.
+12 Is Conn in the hallway? 	yes	11
+13 Colliani travelled to the hallway.
+14 Burnhard is in the kitchen.
+15 Is Colliani in the hallway? 	yes	13
+1 Conn went to the bathroom.
+2 Burnhard travelled to the bathroom.
+3 Is Burnhard in the hallway? 	no	2
+4 Burnhard moved to the bedroom.
+5 Burnhard journeyed to the hallway.
+6 Is Burnhard in the bathroom? 	no	5
+7 Conn is in the hallway.
+8 Burnhard journeyed to the bathroom.
+9 Is Burnhard in the office? 	no	8
+10 Conn went to the bedroom.
+11 Colliani moved to the hallway.
+12 Is Conn in the bedroom? 	yes	10
+13 Doud journeyed to the hallway.
+14 Conn is not in the bedroom.
+15 Is Colliani in the hallway? 	yes	11
+1 Conn is in the office.
+2 Conn travelled to the garden.
+3 Is Conn in the garden? 	yes	2
+4 Burnhard went back to the kitchen.
+5 Burnhard journeyed to the bathroom.
+6 Is Burnhard in the hallway? 	no	5
+7 Conn is in the kitchen.
+8 Doud went to the hallway.
+9 Is Doud in the hallway? 	yes	8
+10 Doud moved to the garden.
+11 Burnhard is no longer in the bathroom.
+12 Is Conn in the kitchen? 	yes	7
+13 Doud travelled to the bathroom.
+14 Conn went to the bedroom.
+15 Is Burnhard in the bathroom? 	no	11
+1 Burnhard is in the kitchen.
+2 Conn went back to the kitchen.
+3 Is Conn in the kitchen? 	yes	2
+4 Burnhard went to the garden.
+5 Burnhard went to the bathroom.
+6 Is Burnhard in the bathroom? 	yes	5
+7 Conn is in the office.
+8 Burnhard journeyed to the garden.
+9 Is Burnhard in the hallway? 	no	8
+10 Colliani travelled to the office.
+11 Burnhard is in the bedroom.
+12 Is Conn in the bathroom? 	no	7
+13 Conn is not in the office.
+14 Doud is not in the office.
+15 Is Doud in the office? 	no	14
+1 Burnhard travelled to the kitchen.
+2 Doud journeyed to the hallway.
+3 Is Burnhard in the bedroom? 	no	1
+4 Conn travelled to the bathroom.
+5 Doud journeyed to the bedroom.
+6 Is Doud in the bedroom? 	yes	5
+7 Conn is in the kitchen.
+8 Burnhard travelled to the garden.
+9 Is Conn in the hallway? 	no	7
+10 Colliani journeyed to the bathroom.
+11 Burnhard moved to the bathroom.
+12 Is Burnhard in the bathroom? 	yes	11
+13 Colliani went to the office.
+14 Conn went back to the garden.
+15 Is Colliani in the office? 	yes	13
+1 Burnhard moved to the office.
+2 Burnhard journeyed to the kitchen.
+3 Is Burnhard in the garden? 	no	2
+4 Burnhard is no longer in the kitchen.
+5 Burnhard moved to the office.
+6 Is Burnhard in the kitchen? 	no	5
+7 Doud is no longer in the office.
+8 Colliani moved to the bathroom.
+9 Is Burnhard in the garden? 	no	5
+10 Conn travelled to the bathroom.
+11 Doud travelled to the bathroom.
+12 Is Doud in the kitchen? 	no	11
+13 Burnhard is not in the office.
+14 Conn went to the kitchen.
+15 Is Colliani in the bedroom? 	no	8
+1 Conn is not in the garden.
+2 Burnhard moved to the hallway.
+3 Is Burnhard in the bedroom? 	no	2
+4 Colliani travelled to the bathroom.
+5 Conn went to the kitchen.
+6 Is Burnhard in the hallway? 	yes	2
+7 Doud is in the bathroom.
+8 Burnhard is no longer in the hallway.
+9 Is Conn in the kitchen? 	yes	5
+10 Burnhard is not in the office.
+11 Colliani went to the hallway.
+12 Is Doud in the bathroom? 	yes	7
+13 Colliani is no longer in the hallway.
+14 Doud went to the bedroom.
+15 Is Colliani in the hallway? 	no	13
+1 Colliani is in the bathroom.
+2 Colliani went to the office.
+3 Is Colliani in the hallway? 	no	2
+4 Conn journeyed to the bathroom.
+5 Burnhard is no longer in the bathroom.
+6 Is Colliani in the office? 	yes	2
+7 Burnhard is no longer in the garden.
+8 Burnhard moved to the bedroom.
+9 Is Burnhard in the hallway? 	no	8
+10 Colliani travelled to the kitchen.
+11 Conn went back to the office.
+12 Is Burnhard in the bedroom? 	yes	8
+13 Burnhard journeyed to the kitchen.
+14 Doud journeyed to the hallway.
+15 Is Burnhard in the kitchen? 	yes	13
+1 Colliani travelled to the hallway.
+2 Conn is in the hallway.
+3 Is Colliani in the hallway? 	yes	1
+4 Burnhard is in the hallway.
+5 Conn moved to the bedroom.
+6 Is Colliani in the office? 	no	1
+7 Burnhard moved to the garden.
+8 Doud journeyed to the hallway.
+9 Is Burnhard in the garden? 	yes	7
+10 Conn is no longer in the bedroom.
+11 Doud is not in the hallway.
+12 Is Conn in the bedroom? 	no	10
+13 Colliani went to the bedroom.
+14 Conn journeyed to the bedroom.
+15 Is Colliani in the hallway? 	no	13
+1 Conn is not in the bathroom.
+2 Doud travelled to the bathroom.
+3 Is Conn in the bathroom? 	no	1
+4 Doud is not in the bathroom.
+5 Burnhard journeyed to the bathroom.
+6 Is Conn in the bathroom? 	no	1
+7 Colliani moved to the hallway.
+8 Doud is no longer in the garden.
+9 Is Burnhard in the bedroom? 	no	5
+10 Burnhard went to the bedroom.
+11 Conn is no longer in the office.
+12 Is Burnhard in the bathroom? 	no	10
+13 Colliani is in the kitchen.
+14 Colliani moved to the garden.
+15 Is Burnhard in the bedroom? 	yes	10
+1 Colliani is not in the bedroom.
+2 Colliani is in the bathroom.
+3 Is Colliani in the garden? 	no	2
+4 Colliani travelled to the hallway.
+5 Burnhard went back to the bedroom.
+6 Is Colliani in the bedroom? 	no	4
+7 Colliani is no longer in the hallway.
+8 Conn travelled to the office.
+9 Is Conn in the kitchen? 	no	8
+10 Colliani is no longer in the bathroom.
+11 Colliani travelled to the bathroom.
+12 Is Colliani in the bathroom? 	yes	11
+13 Colliani is in the garden.
+14 Colliani is in the hallway.
+15 Is Colliani in the kitchen? 	no	14
+1 Doud travelled to the garden.
+2 Conn is in the garden.
+3 Is Doud in the bathroom? 	no	1
+4 Burnhard went to the bathroom.
+5 Colliani journeyed to the office.
+6 Is Burnhard in the bathroom? 	yes	4
+7 Colliani is in the garden.
+8 Conn is in the bedroom.
+9 Is Burnhard in the bathroom? 	yes	4
+10 Doud is no longer in the garden.
+11 Doud journeyed to the bathroom.
+12 Is Doud in the bathroom? 	yes	11
+13 Colliani is no longer in the garden.
+14 Burnhard is no longer in the bathroom.
+15 Is Colliani in the garden? 	no	13
+1 Colliani is no longer in the bathroom.
+2 Doud is in the hallway.
+3 Is Colliani in the bathroom? 	no	1
+4 Conn moved to the office.
+5 Conn went back to the kitchen.
+6 Is Colliani in the bathroom? 	no	1
+7 Doud travelled to the garden.
+8 Colliani is in the bathroom.
+9 Is Colliani in the hallway? 	no	8
+10 Burnhard is not in the hallway.
+11 Doud is in the bathroom.
+12 Is Burnhard in the hallway? 	no	10
+13 Burnhard is not in the garden.
+14 Conn is no longer in the kitchen.
+15 Is Doud in the bathroom? 	yes	11
+1 Conn is not in the garden.
+2 Doud went to the hallway.
+3 Is Doud in the hallway? 	yes	2
+4 Conn is not in the kitchen.
+5 Colliani is in the bathroom.
+6 Is Conn in the kitchen? 	no	4
+7 Conn is no longer in the bedroom.
+8 Burnhard journeyed to the bedroom.
+9 Is Conn in the bedroom? 	no	7
+10 Colliani is no longer in the bathroom.
+11 Colliani journeyed to the hallway.
+12 Is Conn in the bedroom? 	no	7
+13 Doud moved to the bedroom.
+14 Conn journeyed to the kitchen.
+15 Is Burnhard in the bathroom? 	no	8
+1 Conn journeyed to the bedroom.
+2 Doud went to the bedroom.
+3 Is Doud in the bedroom? 	yes	2
+4 Colliani is no longer in the office.
+5 Colliani journeyed to the hallway.
+6 Is Colliani in the hallway? 	yes	5
+7 Conn is not in the bedroom.
+8 Doud went back to the bathroom.
+9 Is Doud in the bathroom? 	yes	8
+10 Burnhard is not in the office.
+11 Conn travelled to the kitchen.
+12 Is Conn in the office? 	no	11
+13 Burnhard is no longer in the garden.
+14 Colliani is not in the hallway.
+15 Is Doud in the bedroom? 	no	8
+1 Burnhard travelled to the bathroom.
+2 Conn is in the office.
+3 Is Conn in the office? 	yes	2
+4 Burnhard travelled to the kitchen.
+5 Conn went to the hallway.
+6 Is Burnhard in the kitchen? 	yes	4
+7 Colliani is in the office.
+8 Doud travelled to the garden.
+9 Is Conn in the hallway? 	yes	5
+10 Burnhard went to the bathroom.
+11 Burnhard travelled to the bedroom.
+12 Is Colliani in the office? 	yes	7
+13 Burnhard went back to the hallway.
+14 Conn is not in the hallway.
+15 Is Conn in the hallway? 	no	14
+1 Colliani is in the garden.
+2 Burnhard travelled to the kitchen.
+3 Is Burnhard in the bedroom? 	no	2
+4 Conn moved to the bedroom.
+5 Doud went back to the bedroom.
+6 Is Burnhard in the kitchen? 	yes	2
+7 Doud moved to the hallway.
+8 Conn is not in the bedroom.
+9 Is Burnhard in the bedroom? 	no	2
+10 Conn went back to the bedroom.
+11 Colliani journeyed to the kitchen.
+12 Is Conn in the garden? 	no	10
+13 Colliani is in the garden.
+14 Burnhard is in the office.
+15 Is Colliani in the office? 	no	13
+1 Colliani travelled to the bathroom.
+2 Conn is in the bathroom.
+3 Is Conn in the bathroom? 	yes	2
+4 Conn is no longer in the bathroom.
+5 Burnhard went to the garden.
+6 Is Burnhard in the bedroom? 	no	5
+7 Conn is no longer in the office.
+8 Conn is in the office.
+9 Is Conn in the bathroom? 	no	8
+10 Colliani journeyed to the hallway.
+11 Doud went back to the bathroom.
+12 Is Colliani in the hallway? 	yes	10
+13 Doud is in the hallway.
+14 Conn is in the bathroom.
+15 Is Doud in the hallway? 	yes	13
+1 Conn went to the hallway.
+2 Doud moved to the bathroom.
+3 Is Conn in the bathroom? 	no	1
+4 Burnhard travelled to the bedroom.
+5 Colliani is in the bathroom.
+6 Is Colliani in the garden? 	no	5
+7 Burnhard is no longer in the bedroom.
+8 Conn journeyed to the bathroom.
+9 Is Conn in the bathroom? 	yes	8
+10 Doud is no longer in the bathroom.
+11 Burnhard moved to the office.
+12 Is Burnhard in the office? 	yes	11
+13 Doud is in the bathroom.
+14 Doud went back to the hallway.
+15 Is Doud in the bathroom? 	no	14
+1 Colliani journeyed to the garden.
+2 Colliani moved to the bathroom.
+3 Is Colliani in the kitchen? 	no	2
+4 Conn moved to the kitchen.
+5 Colliani travelled to the hallway.
+6 Is Colliani in the bedroom? 	no	5
+7 Burnhard is no longer in the bathroom.
+8 Burnhard went back to the hallway.
+9 Is Colliani in the hallway? 	yes	5
+10 Colliani is in the bedroom.
+11 Colliani is not in the bedroom.
+12 Is Colliani in the bedroom? 	no	11
+13 Burnhard is not in the hallway.
+14 Conn moved to the office.
+15 Is Colliani in the bedroom? 	no	11
+1 Burnhard is not in the kitchen.
+2 Colliani is in the bedroom.
+3 Is Colliani in the office? 	no	2
+4 Burnhard travelled to the bedroom.
+5 Doud is in the garden.
+6 Is Burnhard in the garden? 	no	4
+7 Conn went back to the office.
+8 Colliani is no longer in the bedroom.
+9 Is Colliani in the bedroom? 	no	8
+10 Conn is in the hallway.
+11 Conn is not in the hallway.
+12 Is Conn in the hallway? 	no	11
+13 Burnhard is not in the bedroom.
+14 Doud is no longer in the garden.
+15 Is Burnhard in the bedroom? 	no	13
+1 Doud is in the hallway.
+2 Colliani went back to the kitchen.
+3 Is Doud in the bathroom? 	no	1
+4 Conn is in the bathroom.
+5 Conn went back to the bedroom.
+6 Is Conn in the kitchen? 	no	5
+7 Conn moved to the office.
+8 Doud journeyed to the office.
+9 Is Conn in the hallway? 	no	7
+10 Burnhard is in the office.
+11 Conn is no longer in the office.
+12 Is Conn in the office? 	no	11
+13 Doud went back to the garden.
+14 Doud moved to the kitchen.
+15 Is Doud in the kitchen? 	yes	14
+1 Doud is not in the bathroom.
+2 Colliani is in the kitchen.
+3 Is Doud in the bathroom? 	no	1
+4 Colliani went back to the garden.
+5 Conn went back to the office.
+6 Is Conn in the office? 	yes	5
+7 Burnhard travelled to the hallway.
+8 Burnhard is in the kitchen.
+9 Is Colliani in the bathroom? 	no	4
+10 Colliani journeyed to the hallway.
+11 Conn went back to the garden.
+12 Is Conn in the kitchen? 	no	11
+13 Conn is in the bathroom.
+14 Burnhard is in the office.
+15 Is Colliani in the bedroom? 	no	10
+1 Doud is in the garden.
+2 Burnhard is no longer in the kitchen.
+3 Is Burnhard in the kitchen? 	no	2
+4 Doud journeyed to the bathroom.
+5 Burnhard is not in the bedroom.
+6 Is Doud in the bathroom? 	yes	4
+7 Doud travelled to the kitchen.
+8 Burnhard moved to the bathroom.
+9 Is Burnhard in the hallway? 	no	8
+10 Doud travelled to the hallway.
+11 Burnhard journeyed to the hallway.
+12 Is Doud in the hallway? 	yes	10
+13 Colliani went to the hallway.
+14 Doud is no longer in the hallway.
+15 Is Colliani in the hallway? 	yes	13
+1 Conn is in the bathroom.
+2 Burnhard is no longer in the bedroom.
+3 Is Conn in the kitchen? 	no	1
+4 Doud is no longer in the bedroom.
+5 Burnhard is no longer in the kitchen.
+6 Is Burnhard in the kitchen? 	no	5
+7 Burnhard is in the hallway.
+8 Conn is in the garden.
+9 Is Burnhard in the hallway? 	yes	7
+10 Burnhard is in the bedroom.
+11 Burnhard is in the bathroom.
+12 Is Burnhard in the bedroom? 	no	11
+13 Burnhard travelled to the hallway.
+14 Colliani is in the kitchen.
+15 Is Burnhard in the kitchen? 	no	13
+1 Doud is in the office.
+2 Colliani went back to the kitchen.
+3 Is Doud in the bathroom? 	no	1
+4 Burnhard travelled to the bathroom.
+5 Colliani is in the garden.
+6 Is Colliani in the garden? 	yes	5
+7 Conn travelled to the hallway.
+8 Conn went back to the bathroom.
+9 Is Conn in the bathroom? 	yes	8
+10 Colliani is in the hallway.
+11 Colliani went to the kitchen.
+12 Is Colliani in the kitchen? 	yes	11
+13 Burnhard is not in the bathroom.
+14 Doud moved to the bathroom.
+15 Is Colliani in the hallway? 	no	11
+1 Burnhard went to the bathroom.
+2 Burnhard is in the office.
+3 Is Burnhard in the office? 	yes	2
+4 Doud is in the hallway.
+5 Doud went to the garden.
+6 Is Doud in the garden? 	yes	5
+7 Conn travelled to the bathroom.
+8 Doud is in the bedroom.
+9 Is Doud in the garden? 	no	8
+10 Colliani travelled to the office.
+11 Colliani moved to the bedroom.
+12 Is Colliani in the garden? 	no	11
+13 Colliani is no longer in the bedroom.
+14 Colliani went to the bedroom.
+15 Is Colliani in the bathroom? 	no	14
+1 Doud is not in the kitchen.
+2 Colliani moved to the kitchen.
+3 Is Colliani in the kitchen? 	yes	2
+4 Colliani went back to the office.
+5 Colliani went to the bathroom.
+6 Is Doud in the kitchen? 	no	1
+7 Colliani is in the office.
+8 Colliani travelled to the bedroom.
+9 Is Colliani in the bedroom? 	yes	8
+10 Doud journeyed to the office.
+11 Conn travelled to the hallway.
+12 Is Doud in the office? 	yes	10
+13 Burnhard went back to the bathroom.
+14 Burnhard journeyed to the hallway.
+15 Is Burnhard in the hallway? 	yes	14
+1 Colliani is not in the kitchen.
+2 Conn went back to the hallway.
+3 Is Colliani in the kitchen? 	no	1
+4 Colliani moved to the kitchen.
+5 Conn went to the bedroom.
+6 Is Conn in the hallway? 	no	5
+7 Colliani went back to the bathroom.
+8 Colliani is in the bedroom.
+9 Is Colliani in the bedroom? 	yes	8
+10 Conn went back to the kitchen.
+11 Doud is no longer in the hallway.
+12 Is Conn in the kitchen? 	yes	10
+13 Colliani travelled to the office.
+14 Doud is in the office.
+15 Is Doud in the bedroom? 	no	14
+1 Colliani moved to the hallway.
+2 Conn journeyed to the hallway.
+3 Is Colliani in the hallway? 	yes	1
+4 Doud went back to the bathroom.
+5 Colliani is no longer in the hallway.
+6 Is Conn in the bedroom? 	no	2
+7 Colliani is no longer in the garden.
+8 Burnhard is no longer in the garden.
+9 Is Conn in the hallway? 	yes	2
+10 Conn is in the office.
+11 Colliani travelled to the office.
+12 Is Conn in the hallway? 	no	10
+13 Conn went to the bedroom.
+14 Conn journeyed to the hallway.
+15 Is Conn in the hallway? 	yes	14
+1 Colliani is not in the garden.
+2 Colliani journeyed to the garden.
+3 Is Colliani in the garden? 	yes	2
+4 Colliani journeyed to the bathroom.
+5 Burnhard is in the office.
+6 Is Colliani in the garden? 	no	4
+7 Conn is in the garden.
+8 Colliani went to the bedroom.
+9 Is Colliani in the bathroom? 	no	8
+10 Conn journeyed to the hallway.
+11 Colliani is in the hallway.
+12 Is Colliani in the bedroom? 	no	11
+13 Colliani is no longer in the hallway.
+14 Conn went to the bathroom.
+15 Is Conn in the bathroom? 	yes	14
+1 Doud is in the bedroom.
+2 Burnhard moved to the office.
+3 Is Doud in the bathroom? 	no	1
+4 Colliani journeyed to the garden.
+5 Conn is not in the hallway.
+6 Is Doud in the garden? 	no	1
+7 Colliani went to the bathroom.
+8 Conn journeyed to the office.
+9 Is Colliani in the hallway? 	no	7
+10 Conn is no longer in the office.
+11 Conn travelled to the office.
+12 Is Conn in the office? 	yes	11
+13 Colliani went to the garden.
+14 Burnhard is in the kitchen.
+15 Is Conn in the bedroom? 	no	11
+1 Doud moved to the office.
+2 Colliani is in the bathroom.
+3 Is Doud in the bathroom? 	no	1
+4 Colliani moved to the bedroom.
+5 Doud journeyed to the bathroom.
+6 Is Doud in the bathroom? 	yes	5
+7 Doud journeyed to the hallway.
+8 Burnhard is in the office.
+9 Is Colliani in the bedroom? 	yes	4
+10 Doud travelled to the garden.
+11 Conn went to the kitchen.
+12 Is Conn in the bedroom? 	no	11
+13 Doud went to the kitchen.
+14 Burnhard went to the bathroom.
+15 Is Conn in the kitchen? 	yes	11
+1 Colliani is not in the office.
+2 Colliani is in the kitchen.
+3 Is Colliani in the kitchen? 	yes	2
+4 Burnhard is in the garden.
+5 Colliani travelled to the bedroom.
+6 Is Colliani in the office? 	no	5
+7 Doud is no longer in the kitchen.
+8 Burnhard went back to the bathroom.
+9 Is Burnhard in the bathroom? 	yes	8
+10 Conn went back to the kitchen.
+11 Burnhard is in the office.
+12 Is Burnhard in the garden? 	no	11
+13 Burnhard is in the hallway.
+14 Conn travelled to the garden.
+15 Is Burnhard in the hallway? 	yes	13
+1 Colliani is in the bathroom.
+2 Colliani is in the garden.
+3 Is Colliani in the bedroom? 	no	2
+4 Colliani is in the bathroom.
+5 Colliani is in the bedroom.
+6 Is Colliani in the bedroom? 	yes	5
+7 Conn is in the bathroom.
+8 Doud is not in the garden.
+9 Is Colliani in the garden? 	no	5
+10 Conn moved to the kitchen.
+11 Colliani moved to the hallway.
+12 Is Doud in the garden? 	no	8
+13 Burnhard journeyed to the kitchen.
+14 Burnhard went to the hallway.
+15 Is Burnhard in the hallway? 	yes	14
+1 Conn is in the kitchen.
+2 Burnhard is not in the office.
+3 Is Burnhard in the office? 	no	2
+4 Colliani moved to the hallway.
+5 Doud is in the kitchen.
+6 Is Conn in the bathroom? 	no	1
+7 Doud is not in the kitchen.
+8 Doud is no longer in the bedroom.
+9 Is Burnhard in the office? 	no	2
+10 Burnhard went to the office.
+11 Doud travelled to the garden.
+12 Is Doud in the kitchen? 	no	11
+13 Doud went to the office.
+14 Doud is not in the office.
+15 Is Doud in the office? 	no	14
+1 Colliani is no longer in the kitchen.
+2 Colliani went back to the garden.
+3 Is Colliani in the kitchen? 	no	2
+4 Conn is not in the bedroom.
+5 Doud travelled to the office.
+6 Is Conn in the bedroom? 	no	4
+7 Conn is no longer in the garden.
+8 Conn is not in the office.
+9 Is Conn in the office? 	no	8
+10 Doud is no longer in the office.
+11 Conn went back to the office.
+12 Is Doud in the office? 	no	10
+13 Doud is not in the bedroom.
+14 Colliani is no longer in the garden.
+15 Is Doud in the bedroom? 	no	13
+1 Conn is not in the kitchen.
+2 Doud is not in the garden.
+3 Is Conn in the kitchen? 	no	1
+4 Conn is in the hallway.
+5 Burnhard journeyed to the bathroom.
+6 Is Conn in the hallway? 	yes	4
+7 Doud went to the office.
+8 Conn is not in the hallway.
+9 Is Doud in the hallway? 	no	7
+10 Doud is not in the office.
+11 Doud is in the kitchen.
+12 Is Burnhard in the hallway? 	no	5
+13 Conn is not in the office.
+14 Doud journeyed to the bathroom.
+15 Is Doud in the bathroom? 	yes	14
+1 Colliani is no longer in the garden.
+2 Colliani journeyed to the bedroom.
+3 Is Colliani in the bedroom? 	yes	2
+4 Colliani moved to the hallway.
+5 Doud is not in the garden.
+6 Is Doud in the garden? 	no	5
+7 Doud is not in the hallway.
+8 Burnhard is no longer in the bathroom.
+9 Is Colliani in the hallway? 	yes	4
+10 Colliani is no longer in the hallway.
+11 Colliani is in the bathroom.
+12 Is Doud in the hallway? 	no	7
+13 Colliani is no longer in the bathroom.
+14 Doud is in the garden.
+15 Is Doud in the garden? 	yes	14
+1 Doud is not in the garden.
+2 Burnhard moved to the garden.
+3 Is Doud in the garden? 	no	1
+4 Colliani journeyed to the bedroom.
+5 Colliani is not in the bedroom.
+6 Is Burnhard in the garden? 	yes	2
+7 Colliani went to the garden.
+8 Burnhard went to the hallway.
+9 Is Colliani in the office? 	no	7
+10 Colliani is no longer in the garden.
+11 Burnhard is in the bedroom.
+12 Is Burnhard in the garden? 	no	11
+13 Burnhard went to the bathroom.
+14 Colliani is not in the hallway.
+15 Is Colliani in the hallway? 	no	14
+1 Conn went to the kitchen.
+2 Conn went back to the garden.
+3 Is Conn in the garden? 	yes	2
+4 Conn is in the hallway.
+5 Burnhard went back to the garden.
+6 Is Burnhard in the garden? 	yes	5
+7 Colliani is in the garden.
+8 Conn is in the office.
+9 Is Conn in the garden? 	no	8
+10 Doud went to the office.
+11 Conn is in the bathroom.
+12 Is Burnhard in the kitchen? 	no	5
+13 Conn went back to the hallway.
+14 Doud is not in the office.
+15 Is Conn in the office? 	no	13
+1 Colliani went to the bedroom.
+2 Conn is not in the kitchen.
+3 Is Conn in the kitchen? 	no	2
+4 Conn went back to the kitchen.
+5 Doud moved to the kitchen.
+6 Is Conn in the hallway? 	no	4
+7 Colliani is no longer in the bedroom.
+8 Conn is in the office.
+9 Is Doud in the kitchen? 	yes	5
+10 Doud moved to the hallway.
+11 Conn is no longer in the office.
+12 Is Conn in the office? 	no	11
+13 Conn went back to the bedroom.
+14 Colliani is in the garden.
+15 Is Conn in the bedroom? 	yes	13
+1 Conn is in the bathroom.
+2 Conn is not in the bathroom.
+3 Is Conn in the bathroom? 	no	2
+4 Burnhard is no longer in the kitchen.
+5 Colliani is not in the bedroom.
+6 Is Burnhard in the kitchen? 	no	4
+7 Burnhard journeyed to the office.
+8 Conn journeyed to the garden.
+9 Is Colliani in the bedroom? 	no	5
+10 Doud is in the bathroom.
+11 Doud is not in the bathroom.
+12 Is Colliani in the bedroom? 	no	5
+13 Burnhard is not in the office.
+14 Colliani went back to the garden.
+15 Is Doud in the bathroom? 	no	11
+1 Colliani is in the kitchen.
+2 Doud is not in the garden.
+3 Is Doud in the garden? 	no	2
+4 Conn moved to the bathroom.
+5 Colliani went to the hallway.
+6 Is Doud in the garden? 	no	2
+7 Conn is in the hallway.
+8 Burnhard is not in the garden.
+9 Is Colliani in the hallway? 	yes	5
+10 Conn is not in the hallway.
+11 Conn went back to the kitchen.
+12 Is Conn in the office? 	no	11
+13 Colliani went back to the kitchen.
+14 Conn went to the hallway.
+15 Is Conn in the bathroom? 	no	14
+1 Doud is no longer in the hallway.
+2 Conn went to the garden.
+3 Is Conn in the bedroom? 	no	2
+4 Burnhard is in the garden.
+5 Burnhard is not in the garden.
+6 Is Conn in the bathroom? 	no	2
+7 Conn journeyed to the office.
+8 Colliani is in the office.
+9 Is Colliani in the office? 	yes	8
+10 Colliani is no longer in the office.
+11 Colliani moved to the office.
+12 Is Conn in the office? 	yes	7
+13 Conn travelled to the kitchen.
+14 Doud went to the office.
+15 Is Conn in the bedroom? 	no	13
+1 Colliani is not in the kitchen.
+2 Burnhard journeyed to the bathroom.
+3 Is Burnhard in the garden? 	no	2
+4 Conn is in the bedroom.
+5 Colliani went to the hallway.
+6 Is Burnhard in the kitchen? 	no	2
+7 Conn is not in the bedroom.
+8 Conn is not in the bathroom.
+9 Is Conn in the bathroom? 	no	8
+10 Burnhard is in the garden.
+11 Colliani went to the bedroom.
+12 Is Conn in the bathroom? 	no	8
+13 Doud went back to the hallway.
+14 Colliani went to the office.
+15 Is Colliani in the hallway? 	no	14
+1 Colliani went to the bathroom.
+2 Burnhard journeyed to the garden.
+3 Is Colliani in the bathroom? 	yes	1
+4 Conn journeyed to the garden.
+5 Burnhard went back to the office.
+6 Is Conn in the garden? 	yes	4
+7 Conn journeyed to the kitchen.
+8 Doud is in the bathroom.
+9 Is Burnhard in the bathroom? 	no	5
+10 Burnhard went back to the hallway.
+11 Conn is in the office.
+12 Is Burnhard in the hallway? 	yes	10
+13 Conn went to the kitchen.
+14 Burnhard is not in the hallway.
+15 Is Conn in the hallway? 	no	13
+1 Colliani went back to the kitchen.
+2 Doud journeyed to the hallway.
+3 Is Colliani in the garden? 	no	1
+4 Colliani is in the hallway.
+5 Colliani is no longer in the hallway.
+6 Is Colliani in the hallway? 	no	5
+7 Doud is no longer in the hallway.
+8 Colliani is in the office.
+9 Is Colliani in the bathroom? 	no	8
+10 Burnhard is in the garden.
+11 Burnhard went to the hallway.
+12 Is Colliani in the hallway? 	no	8
+13 Burnhard is in the kitchen.
+14 Burnhard is not in the kitchen.
+15 Is Colliani in the garden? 	no	8
+1 Burnhard is in the office.
+2 Conn travelled to the bedroom.
+3 Is Conn in the bedroom? 	yes	2
+4 Colliani is in the garden.
+5 Burnhard moved to the kitchen.
+6 Is Burnhard in the kitchen? 	yes	5
+7 Colliani is in the bedroom.
+8 Doud went to the garden.
+9 Is Colliani in the bedroom? 	yes	7
+10 Doud journeyed to the kitchen.
+11 Burnhard is no longer in the kitchen.
+12 Is Colliani in the bedroom? 	yes	7
+13 Colliani journeyed to the hallway.
+14 Doud went back to the office.
+15 Is Colliani in the office? 	no	13
+1 Conn travelled to the garden.
+2 Burnhard is in the bathroom.
+3 Is Burnhard in the kitchen? 	no	2
+4 Colliani journeyed to the bedroom.
+5 Burnhard is not in the bathroom.
+6 Is Burnhard in the bathroom? 	no	5
+7 Colliani went to the bathroom.
+8 Doud travelled to the kitchen.
+9 Is Burnhard in the bathroom? 	no	5
+10 Doud travelled to the bathroom.
+11 Burnhard journeyed to the bedroom.
+12 Is Doud in the bathroom? 	yes	10
+13 Conn journeyed to the bedroom.
+14 Burnhard went back to the hallway.
+15 Is Conn in the bedroom? 	yes	13
+1 Conn is in the bathroom.
+2 Burnhard journeyed to the garden.
+3 Is Burnhard in the office? 	no	2
+4 Colliani moved to the kitchen.
+5 Burnhard moved to the hallway.
+6 Is Colliani in the kitchen? 	yes	4
+7 Conn is no longer in the bathroom.
+8 Conn is no longer in the garden.
+9 Is Burnhard in the hallway? 	yes	5
+10 Colliani is in the hallway.
+11 Burnhard is in the bathroom.
+12 Is Burnhard in the office? 	no	11
+13 Burnhard went to the hallway.
+14 Conn is no longer in the bedroom.
+15 Is Colliani in the hallway? 	yes	10
+1 Doud travelled to the garden.
+2 Conn is no longer in the hallway.
+3 Is Conn in the hallway? 	no	2
+4 Colliani went to the office.
+5 Colliani is in the hallway.
+6 Is Conn in the hallway? 	no	2
+7 Burnhard is in the bedroom.
+8 Burnhard is in the bathroom.
+9 Is Burnhard in the bathroom? 	yes	8
+10 Colliani is not in the hallway.
+11 Colliani went back to the bedroom.
+12 Is Burnhard in the office? 	no	8
+13 Burnhard went back to the bedroom.
+14 Doud journeyed to the kitchen.
+15 Is Burnhard in the bathroom? 	no	13
+1 Colliani travelled to the bathroom.
+2 Burnhard is no longer in the kitchen.
+3 Is Burnhard in the kitchen? 	no	2
+4 Colliani is not in the bathroom.
+5 Doud moved to the office.
+6 Is Colliani in the bathroom? 	no	4
+7 Doud is not in the office.
+8 Colliani journeyed to the kitchen.
+9 Is Doud in the office? 	no	7
+10 Doud is in the hallway.
+11 Colliani went back to the hallway.
+12 Is Doud in the office? 	no	10
+13 Burnhard is in the office.
+14 Doud is no longer in the hallway.
+15 Is Colliani in the hallway? 	yes	11
+1 Conn is in the kitchen.
+2 Burnhard is in the office.
+3 Is Conn in the office? 	no	1
+4 Conn is no longer in the kitchen.
+5 Doud moved to the hallway.
+6 Is Conn in the kitchen? 	no	4
+7 Doud moved to the kitchen.
+8 Colliani went to the office.
+9 Is Doud in the kitchen? 	yes	7
+10 Conn went back to the office.
+11 Doud went back to the garden.
+12 Is Colliani in the bedroom? 	no	8
+13 Doud went back to the bedroom.
+14 Doud is in the garden.
+15 Is Doud in the garden? 	yes	14
+1 Burnhard travelled to the office.
+2 Conn is not in the kitchen.
+3 Is Conn in the kitchen? 	no	2
+4 Conn is not in the bedroom.
+5 Doud went back to the kitchen.
+6 Is Conn in the bedroom? 	no	4
+7 Colliani moved to the kitchen.
+8 Conn moved to the garden.
+9 Is Conn in the bedroom? 	no	8
+10 Burnhard is in the bathroom.
+11 Conn journeyed to the office.
+12 Is Colliani in the kitchen? 	yes	7
+13 Colliani is not in the kitchen.
+14 Conn is in the bedroom.
+15 Is Conn in the office? 	no	14
+1 Doud went to the bedroom.
+2 Conn is no longer in the kitchen.
+3 Is Conn in the kitchen? 	no	2
+4 Burnhard is not in the office.
+5 Burnhard went to the office.
+6 Is Burnhard in the hallway? 	no	5
+7 Doud is in the garden.
+8 Colliani is not in the hallway.
+9 Is Colliani in the hallway? 	no	8
+10 Colliani went back to the bathroom.
+11 Colliani is not in the bathroom.
+12 Is Colliani in the bathroom? 	no	11
+13 Conn journeyed to the garden.
+14 Burnhard is not in the office.
+15 Is Colliani in the bathroom? 	no	11
+1 Colliani travelled to the bathroom.
+2 Conn moved to the garden.
+3 Is Conn in the bathroom? 	no	2
+4 Colliani went back to the office.
+5 Colliani is not in the office.
+6 Is Colliani in the office? 	no	5
+7 Burnhard moved to the office.
+8 Conn is in the bedroom.
+9 Is Conn in the bedroom? 	yes	8
+10 Colliani is no longer in the bedroom.
+11 Doud travelled to the kitchen.
+12 Is Colliani in the bedroom? 	no	10
+13 Doud is in the bathroom.
+14 Conn is in the kitchen.
+15 Is Conn in the kitchen? 	yes	14
+1 Conn journeyed to the hallway.
+2 Doud went to the bedroom.
+3 Is Doud in the kitchen? 	no	2
+4 Doud is no longer in the bedroom.
+5 Conn journeyed to the bathroom.
+6 Is Conn in the garden? 	no	5
+7 Burnhard journeyed to the garden.
+8 Burnhard went to the bathroom.
+9 Is Conn in the bathroom? 	yes	5
+10 Conn travelled to the office.
+11 Doud is no longer in the garden.
+12 Is Burnhard in the bathroom? 	yes	8
+13 Colliani is not in the bedroom.
+14 Conn is in the garden.
+15 Is Burnhard in the bathroom? 	yes	8
+1 Colliani went back to the kitchen.
+2 Conn is in the hallway.
+3 Is Colliani in the kitchen? 	yes	1
+4 Colliani travelled to the bathroom.
+5 Doud journeyed to the garden.
+6 Is Conn in the hallway? 	yes	2
+7 Conn is in the garden.
+8 Burnhard went back to the garden.
+9 Is Burnhard in the hallway? 	no	8
+10 Conn went to the hallway.
+11 Conn journeyed to the office.
+12 Is Burnhard in the garden? 	yes	8
+13 Burnhard went back to the kitchen.
+14 Conn is no longer in the office.
+15 Is Burnhard in the kitchen? 	yes	13
+1 Doud travelled to the office.
+2 Conn went to the office.
+3 Is Doud in the office? 	yes	1
+4 Conn is no longer in the office.
+5 Burnhard travelled to the hallway.
+6 Is Burnhard in the hallway? 	yes	5
+7 Colliani is no longer in the garden.
+8 Burnhard is not in the hallway.
+9 Is Colliani in the garden? 	no	7
+10 Colliani is in the garden.
+11 Colliani is no longer in the garden.
+12 Is Colliani in the garden? 	no	11
+13 Colliani journeyed to the office.
+14 Conn is in the garden.
+15 Is Burnhard in the hallway? 	no	8
+1 Doud is not in the kitchen.
+2 Conn is in the garden.
+3 Is Conn in the garden? 	yes	2
+4 Doud journeyed to the garden.
+5 Conn is not in the garden.
+6 Is Conn in the garden? 	no	5
+7 Colliani moved to the kitchen.
+8 Doud journeyed to the hallway.
+9 Is Doud in the bedroom? 	no	8
+10 Colliani is no longer in the kitchen.
+11 Conn went to the office.
+12 Is Colliani in the kitchen? 	no	10
+13 Colliani went back to the garden.
+14 Conn travelled to the bedroom.
+15 Is Conn in the bedroom? 	yes	14
+1 Conn is no longer in the bathroom.
+2 Colliani is in the kitchen.
+3 Is Colliani in the bedroom? 	no	2
+4 Doud travelled to the hallway.
+5 Conn is in the bedroom.
+6 Is Doud in the hallway? 	yes	4
+7 Burnhard is in the bathroom.
+8 Doud is not in the hallway.
+9 Is Conn in the bedroom? 	yes	5
+10 Conn is in the hallway.
+11 Burnhard went back to the kitchen.
+12 Is Burnhard in the kitchen? 	yes	11
+13 Burnhard is not in the kitchen.
+14 Burnhard is in the garden.
+15 Is Conn in the bathroom? 	no	10
+1 Doud is not in the office.
+2 Colliani went to the bedroom.
+3 Is Doud in the office? 	no	1
+4 Doud is no longer in the bedroom.
+5 Burnhard is not in the kitchen.
+6 Is Doud in the bedroom? 	no	4
+7 Conn is not in the bathroom.
+8 Conn is not in the bedroom.
+9 Is Conn in the bedroom? 	no	8
+10 Doud journeyed to the kitchen.
+11 Burnhard travelled to the kitchen.
+12 Is Burnhard in the hallway? 	no	11
+13 Colliani is in the office.
+14 Doud is not in the kitchen.
+15 Is Doud in the kitchen? 	no	14
+1 Conn went to the office.
+2 Conn is no longer in the office.
+3 Is Conn in the office? 	no	2
+4 Burnhard is in the hallway.
+5 Burnhard is in the bedroom.
+6 Is Burnhard in the office? 	no	5
+7 Colliani journeyed to the garden.
+8 Colliani is no longer in the garden.
+9 Is Burnhard in the kitchen? 	no	5
+10 Doud is no longer in the bathroom.
+11 Colliani is in the bathroom.
+12 Is Colliani in the bathroom? 	yes	11
+13 Colliani went to the garden.
+14 Colliani is no longer in the garden.
+15 Is Colliani in the garden? 	no	14
+1 Conn is no longer in the hallway.
+2 Burnhard is in the garden.
+3 Is Burnhard in the bedroom? 	no	2
+4 Doud is in the kitchen.
+5 Doud journeyed to the office.
+6 Is Doud in the office? 	yes	5
+7 Colliani is no longer in the hallway.
+8 Burnhard went to the office.
+9 Is Doud in the office? 	yes	5
+10 Conn is in the office.
+11 Conn is in the kitchen.
+12 Is Conn in the kitchen? 	yes	11
+13 Burnhard went back to the garden.
+14 Colliani is not in the kitchen.
+15 Is Conn in the kitchen? 	yes	11
+1 Conn journeyed to the bathroom.
+2 Conn is in the kitchen.
+3 Is Conn in the kitchen? 	yes	2
+4 Burnhard journeyed to the garden.
+5 Conn is in the office.
+6 Is Conn in the office? 	yes	5
+7 Colliani is in the bedroom.
+8 Doud went to the garden.
+9 Is Doud in the bathroom? 	no	8
+10 Conn is in the hallway.
+11 Doud is in the office.
+12 Is Doud in the hallway? 	no	11
+13 Burnhard is in the bathroom.
+14 Doud travelled to the hallway.
+15 Is Burnhard in the kitchen? 	no	13
+1 Colliani is not in the bathroom.
+2 Burnhard is no longer in the bedroom.
+3 Is Burnhard in the bedroom? 	no	2
+4 Burnhard travelled to the bedroom.
+5 Doud is in the bathroom.
+6 Is Doud in the bathroom? 	yes	5
+7 Doud moved to the garden.
+8 Colliani is not in the office.
+9 Is Burnhard in the bedroom? 	yes	4
+10 Colliani travelled to the bathroom.
+11 Doud is in the bathroom.
+12 Is Doud in the bathroom? 	yes	11
+13 Doud moved to the bedroom.
+14 Conn moved to the bedroom.
+15 Is Colliani in the bedroom? 	no	10
+1 Colliani is no longer in the kitchen.
+2 Colliani went to the garden.
+3 Is Colliani in the hallway? 	no	2
+4 Doud went back to the bathroom.
+5 Burnhard is not in the office.
+6 Is Burnhard in the office? 	no	5
+7 Conn journeyed to the office.
+8 Burnhard journeyed to the office.
+9 Is Burnhard in the kitchen? 	no	8
+10 Colliani moved to the bathroom.
+11 Conn travelled to the kitchen.
+12 Is Burnhard in the bedroom? 	no	8
+13 Conn is not in the kitchen.
+14 Doud is in the garden.
+15 Is Conn in the kitchen? 	no	13
+1 Conn is no longer in the bedroom.
+2 Colliani is no longer in the kitchen.
+3 Is Colliani in the kitchen? 	no	2
+4 Conn is in the garden.
+5 Burnhard went back to the bedroom.
+6 Is Burnhard in the hallway? 	no	5
+7 Burnhard moved to the hallway.
+8 Doud journeyed to the kitchen.
+9 Is Conn in the garden? 	yes	4
+10 Conn travelled to the hallway.
+11 Doud is not in the kitchen.
+12 Is Doud in the kitchen? 	no	11
+13 Colliani journeyed to the kitchen.
+14 Colliani went to the office.
+15 Is Conn in the office? 	no	10
+1 Doud is in the kitchen.
+2 Colliani went to the bedroom.
+3 Is Colliani in the bathroom? 	no	2
+4 Colliani went back to the bathroom.
+5 Burnhard travelled to the garden.
+6 Is Doud in the kitchen? 	yes	1
+7 Doud is in the office.
+8 Burnhard is in the bedroom.
+9 Is Burnhard in the bathroom? 	no	8
+10 Colliani is not in the bathroom.
+11 Burnhard went to the bathroom.
+12 Is Burnhard in the bathroom? 	yes	11
+13 Doud went to the kitchen.
+14 Burnhard is not in the bathroom.
+15 Is Doud in the garden? 	no	13
+1 Colliani is in the bathroom.
+2 Colliani is no longer in the bathroom.
+3 Is Colliani in the bathroom? 	no	2
+4 Doud is not in the bedroom.
+5 Doud moved to the office.
+6 Is Colliani in the bathroom? 	no	2
+7 Colliani is in the garden.
+8 Burnhard journeyed to the bathroom.
+9 Is Doud in the hallway? 	no	5
+10 Burnhard went back to the bedroom.
+11 Conn journeyed to the kitchen.
+12 Is Burnhard in the bedroom? 	yes	10
+13 Doud is in the garden.
+14 Colliani is in the office.
+15 Is Conn in the kitchen? 	yes	11
+1 Colliani is in the garden.
+2 Conn went to the hallway.
+3 Is Colliani in the garden? 	yes	1
+4 Doud journeyed to the bathroom.
+5 Doud journeyed to the hallway.
+6 Is Colliani in the bathroom? 	no	1
+7 Burnhard travelled to the hallway.
+8 Doud went to the bathroom.
+9 Is Doud in the bathroom? 	yes	8
+10 Colliani is not in the garden.
+11 Doud is not in the bathroom.
+12 Is Doud in the bathroom? 	no	11
+13 Doud is no longer in the bedroom.
+14 Doud went back to the office.
+15 Is Doud in the office? 	yes	14
+1 Doud is in the bathroom.
+2 Colliani is in the bedroom.
+3 Is Doud in the office? 	no	1
+4 Conn is in the bedroom.
+5 Doud is no longer in the bathroom.
+6 Is Doud in the bathroom? 	no	5
+7 Burnhard journeyed to the garden.
+8 Doud is in the kitchen.
+9 Is Conn in the bedroom? 	yes	4
+10 Doud is not in the kitchen.
+11 Conn is in the garden.
+12 Is Doud in the kitchen? 	no	10
+13 Burnhard travelled to the bedroom.
+14 Doud is in the bathroom.
+15 Is Burnhard in the garden? 	no	13
+1 Conn is no longer in the office.
+2 Colliani moved to the garden.
+3 Is Colliani in the bedroom? 	no	2
+4 Doud moved to the bedroom.
+5 Colliani is in the hallway.
+6 Is Colliani in the hallway? 	yes	5
+7 Colliani is in the bedroom.
+8 Conn journeyed to the office.
+9 Is Conn in the hallway? 	no	8
+10 Doud is not in the bedroom.
+11 Burnhard went back to the office.
+12 Is Colliani in the bedroom? 	yes	7
+13 Doud is in the garden.
+14 Burnhard moved to the bedroom.
+15 Is Doud in the bathroom? 	no	13
+1 Colliani is in the garden.
+2 Doud moved to the bedroom.
+3 Is Doud in the bedroom? 	yes	2
+4 Burnhard is not in the bathroom.
+5 Colliani is in the kitchen.
+6 Is Burnhard in the bathroom? 	no	4
+7 Conn went back to the bathroom.
+8 Colliani journeyed to the office.
+9 Is Burnhard in the bathroom? 	no	4
+10 Doud moved to the garden.
+11 Doud journeyed to the bathroom.
+12 Is Colliani in the office? 	yes	8
+13 Burnhard went back to the bedroom.
+14 Doud is no longer in the bathroom.
+15 Is Doud in the bathroom? 	no	14
+1 Doud is in the office.
+2 Colliani is in the bathroom.
+3 Is Colliani in the bedroom? 	no	2
+4 Doud went back to the bedroom.
+5 Colliani is no longer in the bathroom.
+6 Is Doud in the kitchen? 	no	4
+7 Doud went back to the hallway.
+8 Doud is not in the hallway.
+9 Is Doud in the hallway? 	no	8
+10 Conn went to the bathroom.
+11 Burnhard moved to the kitchen.
+12 Is Colliani in the bathroom? 	no	5
+13 Doud is no longer in the bedroom.
+14 Burnhard is in the office.
+15 Is Burnhard in the hallway? 	no	14
+1 Burnhard is in the kitchen.
+2 Burnhard moved to the bedroom.
+3 Is Burnhard in the hallway? 	no	2
+4 Colliani is in the bathroom.
+5 Colliani is not in the bathroom.
+6 Is Colliani in the bathroom? 	no	5
+7 Doud is in the office.
+8 Conn moved to the bathroom.
+9 Is Colliani in the bathroom? 	no	5
+10 Burnhard went back to the bathroom.
+11 Conn travelled to the hallway.
+12 Is Colliani in the bathroom? 	no	5
+13 Doud journeyed to the garden.
+14 Doud is in the bathroom.
+15 Is Conn in the bedroom? 	no	11
+1 Conn is no longer in the bathroom.
+2 Conn is in the bathroom.
+3 Is Conn in the kitchen? 	no	2
+4 Burnhard moved to the office.
+5 Conn is in the garden.
+6 Is Conn in the hallway? 	no	5
+7 Doud travelled to the bedroom.
+8 Conn is not in the garden.
+9 Is Burnhard in the office? 	yes	4
+10 Burnhard travelled to the hallway.
+11 Burnhard is in the garden.
+12 Is Burnhard in the garden? 	yes	11
+13 Colliani is in the bedroom.
+14 Conn moved to the bedroom.
+15 Is Conn in the bedroom? 	yes	14
+1 Conn moved to the office.
+2 Doud is no longer in the bedroom.
+3 Is Conn in the hallway? 	no	1
+4 Colliani is not in the office.
+5 Doud is no longer in the hallway.
+6 Is Colliani in the office? 	no	4
+7 Doud went to the kitchen.
+8 Doud journeyed to the hallway.
+9 Is Doud in the hallway? 	yes	8
+10 Doud is not in the hallway.
+11 Conn journeyed to the hallway.
+12 Is Doud in the hallway? 	no	10
+13 Colliani journeyed to the office.
+14 Colliani went back to the hallway.
+15 Is Colliani in the hallway? 	yes	14
+1 Colliani went to the garden.
+2 Colliani is in the hallway.
+3 Is Colliani in the hallway? 	yes	2
+4 Colliani is in the kitchen.
+5 Conn is in the office.
+6 Is Colliani in the kitchen? 	yes	4
+7 Conn journeyed to the bathroom.
+8 Colliani is not in the kitchen.
+9 Is Conn in the bathroom? 	yes	7
+10 Colliani is not in the garden.
+11 Conn journeyed to the garden.
+12 Is Conn in the hallway? 	no	11
+13 Conn moved to the hallway.
+14 Burnhard travelled to the garden.
+15 Is Conn in the hallway? 	yes	13
+1 Doud is in the kitchen.
+2 Colliani is no longer in the office.
+3 Is Doud in the kitchen? 	yes	1
+4 Conn journeyed to the bedroom.
+5 Doud travelled to the garden.
+6 Is Doud in the garden? 	yes	5
+7 Doud journeyed to the hallway.
+8 Doud is not in the hallway.
+9 Is Doud in the hallway? 	no	8
+10 Doud went to the hallway.
+11 Doud travelled to the garden.
+12 Is Doud in the kitchen? 	no	11
+13 Conn is in the office.
+14 Conn is in the bedroom.
+15 Is Conn in the kitchen? 	no	14
+1 Colliani moved to the kitchen.
+2 Colliani travelled to the hallway.
+3 Is Colliani in the bedroom? 	no	2
+4 Burnhard is in the hallway.
+5 Doud went back to the kitchen.
+6 Is Doud in the kitchen? 	yes	5
+7 Doud is no longer in the kitchen.
+8 Conn journeyed to the bathroom.
+9 Is Doud in the kitchen? 	no	7
+10 Burnhard is not in the hallway.
+11 Doud went to the kitchen.
+12 Is Doud in the office? 	no	11
+13 Conn journeyed to the hallway.
+14 Conn moved to the bathroom.
+15 Is Conn in the garden? 	no	14
+1 Doud is in the hallway.
+2 Conn is in the bathroom.
+3 Is Doud in the hallway? 	yes	1
+4 Colliani went to the bathroom.
+5 Conn is not in the bathroom.
+6 Is Doud in the hallway? 	yes	1
+7 Conn is in the hallway.
+8 Burnhard is in the hallway.
+9 Is Conn in the hallway? 	yes	7
+10 Colliani is not in the bathroom.
+11 Conn journeyed to the kitchen.
+12 Is Conn in the kitchen? 	yes	11
+13 Conn moved to the hallway.
+14 Doud is in the garden.
+15 Is Colliani in the bathroom? 	no	10
+1 Burnhard is in the garden.
+2 Burnhard is not in the garden.
+3 Is Burnhard in the garden? 	no	2
+4 Colliani went to the bedroom.
+5 Colliani is in the bathroom.
+6 Is Burnhard in the garden? 	no	2
+7 Doud is in the office.
+8 Burnhard is in the kitchen.
+9 Is Burnhard in the bathroom? 	no	8
+10 Doud is in the kitchen.
+11 Colliani went to the bedroom.
+12 Is Burnhard in the kitchen? 	yes	8
+13 Conn is in the bathroom.
+14 Conn moved to the office.
+15 Is Conn in the office? 	yes	14
+1 Doud went back to the kitchen.
+2 Doud is in the office.
+3 Is Doud in the kitchen? 	no	2
+4 Conn is in the bathroom.
+5 Burnhard is not in the garden.
+6 Is Doud in the bedroom? 	no	2
+7 Burnhard went back to the hallway.
+8 Conn is not in the bathroom.
+9 Is Burnhard in the hallway? 	yes	7
+10 Colliani moved to the hallway.
+11 Doud is in the kitchen.
+12 Is Doud in the hallway? 	no	11
+13 Conn is no longer in the bedroom.
+14 Colliani is not in the hallway.
+15 Is Conn in the bedroom? 	no	13
+1 Colliani is in the kitchen.
+2 Burnhard is in the hallway.
+3 Is Burnhard in the hallway? 	yes	2
+4 Doud went back to the office.
+5 Doud is in the bedroom.
+6 Is Burnhard in the hallway? 	yes	2
+7 Burnhard is in the bathroom.
+8 Colliani is not in the kitchen.
+9 Is Doud in the bedroom? 	yes	5
+10 Burnhard is in the kitchen.
+11 Doud travelled to the garden.
+12 Is Doud in the kitchen? 	no	11
+13 Burnhard is in the garden.
+14 Doud is not in the garden.
+15 Is Colliani in the kitchen? 	no	8
+1 Burnhard moved to the garden.
+2 Colliani moved to the hallway.
+3 Is Burnhard in the hallway? 	no	1
+4 Conn moved to the garden.
+5 Colliani is not in the hallway.
+6 Is Colliani in the hallway? 	no	5
+7 Doud travelled to the bathroom.
+8 Conn went back to the hallway.
+9 Is Doud in the hallway? 	no	7
+10 Doud moved to the office.
+11 Doud moved to the bedroom.
+12 Is Conn in the office? 	no	8
+13 Conn is in the bathroom.
+14 Burnhard is not in the garden.
+15 Is Conn in the bathroom? 	yes	13
+1 Colliani went back to the bedroom.
+2 Doud journeyed to the office.
+3 Is Colliani in the bathroom? 	no	1
+4 Colliani travelled to the kitchen.
+5 Conn is in the bedroom.
+6 Is Colliani in the kitchen? 	yes	4
+7 Doud went back to the bathroom.
+8 Doud travelled to the garden.
+9 Is Colliani in the kitchen? 	yes	4
+10 Colliani is no longer in the kitchen.
+11 Colliani journeyed to the kitchen.
+12 Is Colliani in the hallway? 	no	11
+13 Burnhard is not in the office.
+14 Burnhard travelled to the bathroom.
+15 Is Doud in the garden? 	yes	8
+1 Conn travelled to the bathroom.
+2 Burnhard travelled to the bathroom.
+3 Is Conn in the bathroom? 	yes	1
+4 Conn is not in the bathroom.
+5 Colliani is not in the hallway.
+6 Is Colliani in the hallway? 	no	5
+7 Colliani journeyed to the bathroom.
+8 Burnhard is in the kitchen.
+9 Is Conn in the bathroom? 	no	4
+10 Colliani went to the garden.
+11 Burnhard went to the garden.
+12 Is Colliani in the bedroom? 	no	10
+13 Conn travelled to the hallway.
+14 Colliani is in the hallway.
+15 Is Burnhard in the kitchen? 	no	11
+1 Burnhard is in the hallway.
+2 Colliani moved to the kitchen.
+3 Is Colliani in the kitchen? 	yes	2
+4 Doud moved to the garden.
+5 Burnhard is no longer in the hallway.
+6 Is Doud in the office? 	no	4
+7 Burnhard is no longer in the bedroom.
+8 Burnhard is no longer in the hallway.
+9 Is Burnhard in the hallway? 	no	8
+10 Conn journeyed to the hallway.
+11 Doud went back to the hallway.
+12 Is Burnhard in the hallway? 	no	8
+13 Doud is not in the hallway.
+14 Conn is no longer in the hallway.
+15 Is Doud in the hallway? 	no	13
+1 Doud is in the garden.
+2 Doud is not in the garden.
+3 Is Doud in the garden? 	no	2
+4 Burnhard journeyed to the kitchen.
+5 Doud travelled to the hallway.
+6 Is Doud in the bathroom? 	no	5
+7 Burnhard is in the bathroom.
+8 Doud is no longer in the hallway.
+9 Is Doud in the hallway? 	no	8
+10 Doud is in the hallway.
+11 Doud is no longer in the hallway.
+12 Is Doud in the hallway? 	no	11
+13 Colliani is not in the office.
+14 Colliani journeyed to the bathroom.
+15 Is Doud in the hallway? 	no	11
+1 Burnhard travelled to the garden.
+2 Burnhard went to the bathroom.
+3 Is Burnhard in the hallway? 	no	2
+4 Colliani is in the kitchen.
+5 Conn is in the garden.
+6 Is Colliani in the kitchen? 	yes	4
+7 Burnhard moved to the garden.
+8 Doud went to the bedroom.
+9 Is Burnhard in the garden? 	yes	7
+10 Colliani moved to the hallway.
+11 Colliani travelled to the bedroom.
+12 Is Colliani in the bedroom? 	yes	11
+13 Conn is not in the garden.
+14 Burnhard is no longer in the garden.
+15 Is Colliani in the office? 	no	11
+1 Colliani travelled to the hallway.
+2 Colliani went to the bedroom.
+3 Is Colliani in the bedroom? 	yes	2
+4 Burnhard went back to the garden.
+5 Burnhard is no longer in the garden.
+6 Is Burnhard in the garden? 	no	5
+7 Conn went back to the hallway.
+8 Doud is no longer in the garden.
+9 Is Burnhard in the garden? 	no	5
+10 Conn is not in the hallway.
+11 Burnhard went to the garden.
+12 Is Conn in the hallway? 	no	10
+13 Colliani is no longer in the bedroom.
+14 Colliani journeyed to the hallway.
+15 Is Colliani in the garden? 	no	14
+1 Doud is no longer in the kitchen.
+2 Conn went to the bedroom.
+3 Is Conn in the bathroom? 	no	2
+4 Conn went back to the bathroom.
+5 Burnhard journeyed to the hallway.
+6 Is Conn in the bathroom? 	yes	4
+7 Conn journeyed to the hallway.
+8 Colliani is no longer in the bedroom.
+9 Is Burnhard in the bedroom? 	no	5
+10 Colliani is in the kitchen.
+11 Burnhard travelled to the office.
+12 Is Burnhard in the bedroom? 	no	11
+13 Conn is not in the hallway.
+14 Conn is no longer in the kitchen.
+15 Is Colliani in the bedroom? 	no	10
+1 Colliani moved to the bathroom.
+2 Conn moved to the bathroom.
+3 Is Conn in the bathroom? 	yes	2
+4 Burnhard went to the kitchen.
+5 Conn journeyed to the bedroom.
+6 Is Conn in the bedroom? 	yes	5
+7 Burnhard went to the garden.
+8 Burnhard is no longer in the garden.
+9 Is Burnhard in the garden? 	no	8
+10 Conn is not in the bedroom.
+11 Doud is not in the office.
+12 Is Conn in the bedroom? 	no	10
+13 Burnhard is no longer in the bedroom.
+14 Doud moved to the bathroom.
+15 Is Doud in the bathroom? 	yes	14
+1 Conn travelled to the office.
+2 Doud journeyed to the bedroom.
+3 Is Conn in the hallway? 	no	1
+4 Doud is no longer in the bedroom.
+5 Colliani is in the kitchen.
+6 Is Colliani in the bathroom? 	no	5
+7 Doud is in the kitchen.
+8 Burnhard is in the bedroom.
+9 Is Doud in the bedroom? 	no	7
+10 Burnhard is no longer in the bedroom.
+11 Conn is in the bathroom.
+12 Is Colliani in the kitchen? 	yes	5
+13 Burnhard is no longer in the hallway.
+14 Colliani journeyed to the garden.
+15 Is Colliani in the garden? 	yes	14
+1 Conn is no longer in the garden.
+2 Colliani went to the hallway.
+3 Is Conn in the garden? 	no	1
+4 Colliani is not in the hallway.
+5 Doud is in the bathroom.
+6 Is Colliani in the hallway? 	no	4
+7 Conn is in the office.
+8 Burnhard is in the kitchen.
+9 Is Colliani in the hallway? 	no	4
+10 Conn went back to the hallway.
+11 Conn is in the office.
+12 Is Doud in the bedroom? 	no	5
+13 Conn is no longer in the office.
+14 Conn is in the kitchen.
+15 Is Burnhard in the kitchen? 	yes	8
+1 Burnhard is in the bathroom.
+2 Doud journeyed to the office.
+3 Is Doud in the office? 	yes	2
+4 Doud went back to the kitchen.
+5 Burnhard is no longer in the bathroom.
+6 Is Burnhard in the bathroom? 	no	5
+7 Doud is in the office.
+8 Conn is not in the kitchen.
+9 Is Doud in the bedroom? 	no	7
+10 Doud is in the garden.
+11 Colliani went to the hallway.
+12 Is Burnhard in the bathroom? 	no	5
+13 Conn is not in the office.
+14 Colliani went to the office.
+15 Is Conn in the office? 	no	13
+1 Conn is not in the kitchen.
+2 Colliani is in the garden.
+3 Is Conn in the kitchen? 	no	1
+4 Doud is not in the kitchen.
+5 Colliani moved to the bedroom.
+6 Is Colliani in the bathroom? 	no	5
+7 Conn moved to the bedroom.
+8 Conn is not in the bedroom.
+9 Is Conn in the bedroom? 	no	8
+10 Doud is no longer in the bedroom.
+11 Burnhard went back to the bathroom.
+12 Is Conn in the bedroom? 	no	8
+13 Conn journeyed to the kitchen.
+14 Burnhard is in the kitchen.
+15 Is Conn in the hallway? 	no	13
+1 Colliani is not in the bedroom.
+2 Conn travelled to the office.
+3 Is Conn in the garden? 	no	2
+4 Doud moved to the bedroom.
+5 Colliani travelled to the bedroom.
+6 Is Conn in the office? 	yes	2
+7 Doud journeyed to the bathroom.
+8 Colliani is in the bathroom.
+9 Is Colliani in the kitchen? 	no	8
+10 Conn travelled to the garden.
+11 Conn is in the office.
+12 Is Colliani in the office? 	no	8
+13 Conn is no longer in the office.
+14 Burnhard went to the hallway.
+15 Is Conn in the office? 	no	13
+1 Doud is in the office.
+2 Doud is in the garden.
+3 Is Doud in the bedroom? 	no	2
+4 Conn went to the bedroom.
+5 Burnhard is in the kitchen.
+6 Is Doud in the garden? 	yes	2
+7 Burnhard travelled to the bathroom.
+8 Colliani is in the bedroom.
+9 Is Burnhard in the office? 	no	7
+10 Doud is no longer in the garden.
+11 Doud went to the hallway.
+12 Is Burnhard in the bedroom? 	no	7
+13 Burnhard journeyed to the bedroom.
+14 Doud is in the bedroom.
+15 Is Colliani in the hallway? 	no	8
+1 Conn is not in the hallway.
+2 Conn journeyed to the kitchen.
+3 Is Conn in the kitchen? 	yes	2
+4 Burnhard is in the bathroom.
+5 Colliani went to the garden.
+6 Is Colliani in the garden? 	yes	5
+7 Burnhard moved to the hallway.
+8 Colliani is in the kitchen.
+9 Is Colliani in the garden? 	no	8
+10 Colliani is not in the kitchen.
+11 Doud went to the office.
+12 Is Colliani in the kitchen? 	no	10
+13 Doud journeyed to the bedroom.
+14 Conn is in the bedroom.
+15 Is Doud in the garden? 	no	13
+1 Doud is in the hallway.
+2 Doud is not in the hallway.
+3 Is Doud in the hallway? 	no	2
+4 Colliani travelled to the office.
+5 Burnhard journeyed to the hallway.
+6 Is Doud in the hallway? 	no	2
+7 Conn journeyed to the kitchen.
+8 Doud is in the hallway.
+9 Is Colliani in the garden? 	no	4
+10 Conn went to the hallway.
+11 Conn travelled to the office.
+12 Is Conn in the bedroom? 	no	11
+13 Conn is in the bathroom.
+14 Colliani is in the bathroom.
+15 Is Colliani in the garden? 	no	14
+1 Colliani went to the hallway.
+2 Conn is in the hallway.
+3 Is Conn in the hallway? 	yes	2
+4 Colliani is in the bedroom.
+5 Conn moved to the office.
+6 Is Colliani in the bedroom? 	yes	4
+7 Colliani went to the kitchen.
+8 Doud travelled to the kitchen.
+9 Is Conn in the office? 	yes	5
+10 Conn journeyed to the garden.
+11 Doud is not in the kitchen.
+12 Is Doud in the kitchen? 	no	11
+13 Doud is in the office.
+14 Doud moved to the hallway.
+15 Is Doud in the kitchen? 	no	14
+1 Doud went back to the kitchen.
+2 Burnhard journeyed to the bedroom.
+3 Is Doud in the kitchen? 	yes	1
+4 Burnhard is in the hallway.
+5 Doud is no longer in the kitchen.
+6 Is Burnhard in the kitchen? 	no	4
+7 Colliani is not in the garden.
+8 Conn is in the bedroom.
+9 Is Burnhard in the hallway? 	yes	4
+10 Doud is in the office.
+11 Doud is in the hallway.
+12 Is Doud in the hallway? 	yes	11
+13 Conn journeyed to the garden.
+14 Colliani travelled to the garden.
+15 Is Doud in the hallway? 	yes	11
+1 Burnhard is in the bedroom.
+2 Doud went back to the hallway.
+3 Is Burnhard in the hallway? 	no	1
+4 Doud is not in the hallway.
+5 Doud went back to the kitchen.
+6 Is Doud in the bathroom? 	no	5
+7 Burnhard is in the garden.
+8 Colliani moved to the garden.
+9 Is Colliani in the office? 	no	8
+10 Burnhard is no longer in the garden.
+11 Colliani is not in the garden.
+12 Is Colliani in the garden? 	no	11
+13 Burnhard went back to the kitchen.
+14 Doud is no longer in the kitchen.
+15 Is Colliani in the garden? 	no	11
+1 Burnhard is in the bedroom.
+2 Burnhard travelled to the kitchen.
+3 Is Burnhard in the hallway? 	no	2
+4 Colliani is in the bathroom.
+5 Burnhard journeyed to the hallway.
+6 Is Burnhard in the hallway? 	yes	5
+7 Doud moved to the bathroom.
+8 Burnhard went back to the bathroom.
+9 Is Burnhard in the bathroom? 	yes	8
+10 Conn moved to the kitchen.
+11 Burnhard is in the hallway.
+12 Is Doud in the bathroom? 	yes	7
+13 Conn is in the hallway.
+14 Doud is in the office.
+15 Is Doud in the office? 	yes	14
+1 Colliani is no longer in the office.
+2 Doud went back to the office.
+3 Is Doud in the office? 	yes	2
+4 Burnhard is no longer in the bathroom.
+5 Doud moved to the kitchen.
+6 Is Colliani in the office? 	no	1
+7 Burnhard is in the bedroom.
+8 Colliani went back to the garden.
+9 Is Doud in the bathroom? 	no	5
+10 Burnhard is not in the bedroom.
+11 Burnhard is in the bedroom.
+12 Is Burnhard in the bedroom? 	yes	11
+13 Burnhard is in the office.
+14 Conn moved to the office.
+15 Is Burnhard in the office? 	yes	13
+1 Conn journeyed to the office.
+2 Burnhard journeyed to the bedroom.
+3 Is Conn in the office? 	yes	1
+4 Colliani is in the bathroom.
+5 Conn is no longer in the office.
+6 Is Conn in the office? 	no	5
+7 Colliani moved to the hallway.
+8 Burnhard moved to the bathroom.
+9 Is Conn in the office? 	no	5
+10 Burnhard went back to the garden.
+11 Doud went back to the office.
+12 Is Burnhard in the bedroom? 	no	10
+13 Colliani moved to the office.
+14 Conn is in the garden.
+15 Is Colliani in the office? 	yes	13
+1 Colliani went back to the bathroom.
+2 Colliani moved to the garden.
+3 Is Colliani in the office? 	no	2
+4 Doud moved to the garden.
+5 Burnhard went to the garden.
+6 Is Burnhard in the hallway? 	no	5
+7 Colliani moved to the bathroom.
+8 Colliani is not in the bathroom.
+9 Is Colliani in the bathroom? 	no	8
+10 Doud went to the kitchen.
+11 Conn is not in the garden.
+12 Is Colliani in the bathroom? 	no	8
+13 Doud is not in the kitchen.
+14 Conn is in the bathroom.
+15 Is Colliani in the bathroom? 	no	8
+1 Doud went to the bedroom.
+2 Conn travelled to the kitchen.
+3 Is Conn in the kitchen? 	yes	2
+4 Burnhard moved to the bedroom.
+5 Doud went back to the kitchen.
+6 Is Burnhard in the hallway? 	no	4
+7 Colliani is in the garden.
+8 Doud journeyed to the office.
+9 Is Conn in the bathroom? 	no	2
+10 Doud went back to the hallway.
+11 Colliani went to the kitchen.
+12 Is Doud in the bedroom? 	no	10
+13 Doud is in the kitchen.
+14 Burnhard moved to the kitchen.
+15 Is Doud in the hallway? 	no	13
+1 Burnhard moved to the office.
+2 Colliani is in the garden.
+3 Is Colliani in the garden? 	yes	2
+4 Colliani is in the kitchen.
+5 Doud is in the bathroom.
+6 Is Doud in the hallway? 	no	5
+7 Doud journeyed to the kitchen.
+8 Conn is no longer in the bedroom.
+9 Is Colliani in the kitchen? 	yes	4
+10 Burnhard journeyed to the garden.
+11 Burnhard is not in the garden.
+12 Is Burnhard in the garden? 	no	11
+13 Doud journeyed to the hallway.
+14 Doud travelled to the office.
+15 Is Doud in the office? 	yes	14
+1 Doud is not in the kitchen.
+2 Doud is not in the garden.
+3 Is Doud in the garden? 	no	2
+4 Colliani is in the kitchen.
+5 Colliani is not in the kitchen.
+6 Is Colliani in the kitchen? 	no	5
+7 Colliani is not in the bedroom.
+8 Conn is in the office.
+9 Is Colliani in the bedroom? 	no	7
+10 Conn is not in the office.
+11 Burnhard is in the kitchen.
+12 Is Conn in the office? 	no	10
+13 Conn went back to the bedroom.
+14 Doud went back to the bedroom.
+15 Is Burnhard in the kitchen? 	yes	11
+1 Conn went to the office.
+2 Doud went back to the garden.
+3 Is Doud in the bedroom? 	no	2
+4 Conn is no longer in the office.
+5 Conn moved to the bedroom.
+6 Is Conn in the garden? 	no	5
+7 Burnhard is in the hallway.
+8 Doud is no longer in the garden.
+9 Is Conn in the bedroom? 	yes	5
+10 Burnhard travelled to the garden.
+11 Colliani is in the kitchen.
+12 Is Burnhard in the bathroom? 	no	10
+13 Colliani is in the bedroom.
+14 Conn is in the garden.
+15 Is Conn in the garden? 	yes	14
+1 Conn is in the garden.
+2 Burnhard journeyed to the office.
+3 Is Conn in the office? 	no	1
+4 Burnhard went to the kitchen.
+5 Doud travelled to the hallway.
+6 Is Burnhard in the office? 	no	4
+7 Colliani is in the kitchen.
+8 Burnhard travelled to the garden.
+9 Is Burnhard in the bedroom? 	no	8
+10 Doud is in the office.
+11 Colliani went back to the bathroom.
+12 Is Burnhard in the bathroom? 	no	8
+13 Doud is no longer in the office.
+14 Conn is in the hallway.
+15 Is Burnhard in the kitchen? 	no	8
+1 Doud travelled to the office.
+2 Colliani is in the hallway.
+3 Is Doud in the office? 	yes	1
+4 Doud went back to the bedroom.
+5 Conn is no longer in the hallway.
+6 Is Conn in the hallway? 	no	5
+7 Colliani went back to the kitchen.
+8 Burnhard journeyed to the bathroom.
+9 Is Colliani in the office? 	no	7
+10 Doud is not in the bedroom.
+11 Doud is in the kitchen.
+12 Is Colliani in the kitchen? 	yes	7
+13 Colliani is in the garden.
+14 Doud went back to the hallway.
+15 Is Colliani in the office? 	no	13
+1 Burnhard is in the office.
+2 Colliani is not in the garden.
+3 Is Burnhard in the kitchen? 	no	1
+4 Conn is not in the kitchen.
+5 Doud is in the garden.
+6 Is Conn in the kitchen? 	no	4
+7 Conn went back to the office.
+8 Conn journeyed to the bathroom.
+9 Is Conn in the hallway? 	no	8
+10 Doud travelled to the bathroom.
+11 Colliani travelled to the office.
+12 Is Conn in the office? 	no	8
+13 Conn went back to the bedroom.
+14 Doud is in the hallway.
+15 Is Colliani in the office? 	yes	11
+1 Colliani moved to the garden.
+2 Burnhard is in the bedroom.
+3 Is Burnhard in the bedroom? 	yes	2
+4 Conn travelled to the bathroom.
+5 Doud is not in the kitchen.
+6 Is Burnhard in the hallway? 	no	2
+7 Burnhard is no longer in the bedroom.
+8 Doud is not in the garden.
+9 Is Conn in the kitchen? 	no	4
+10 Doud journeyed to the bedroom.
+11 Burnhard went to the kitchen.
+12 Is Burnhard in the hallway? 	no	11
+13 Burnhard moved to the garden.
+14 Colliani is in the hallway.
+15 Is Burnhard in the garden? 	yes	13
+1 Conn is no longer in the bedroom.
+2 Colliani travelled to the bathroom.
+3 Is Conn in the bedroom? 	no	1
+4 Conn journeyed to the bathroom.
+5 Doud moved to the bedroom.
+6 Is Colliani in the bedroom? 	no	2
+7 Conn is in the garden.
+8 Doud is not in the bedroom.
+9 Is Colliani in the bathroom? 	yes	2
+10 Doud moved to the hallway.
+11 Colliani is not in the bathroom.
+12 Is Conn in the garden? 	yes	7
+13 Burnhard is no longer in the garden.
+14 Colliani moved to the hallway.
+15 Is Colliani in the bathroom? 	no	14
+1 Colliani went to the office.
+2 Burnhard journeyed to the office.
+3 Is Colliani in the office? 	yes	1
+4 Doud moved to the kitchen.
+5 Conn went back to the bathroom.
+6 Is Doud in the hallway? 	no	4
+7 Burnhard is not in the office.
+8 Doud travelled to the office.
+9 Is Burnhard in the office? 	no	7
+10 Colliani is no longer in the office.
+11 Colliani went back to the bathroom.
+12 Is Burnhard in the office? 	no	7
+13 Burnhard went to the garden.
+14 Burnhard went back to the bedroom.
+15 Is Doud in the office? 	yes	8
+1 Burnhard is no longer in the kitchen.
+2 Colliani is in the bathroom.
+3 Is Colliani in the bathroom? 	yes	2
+4 Burnhard journeyed to the office.
+5 Conn went back to the office.
+6 Is Burnhard in the bathroom? 	no	4
+7 Conn travelled to the bathroom.
+8 Burnhard went to the bedroom.
+9 Is Conn in the bedroom? 	no	7
+10 Conn travelled to the bedroom.
+11 Burnhard journeyed to the kitchen.
+12 Is Conn in the bedroom? 	yes	10
+13 Burnhard went back to the bathroom.
+14 Burnhard moved to the office.
+15 Is Burnhard in the hallway? 	no	14
+1 Doud travelled to the kitchen.
+2 Conn is in the garden.
+3 Is Conn in the garden? 	yes	2
+4 Conn moved to the bathroom.
+5 Burnhard is not in the garden.
+6 Is Doud in the bedroom? 	no	1
+7 Conn is in the garden.
+8 Colliani went to the office.
+9 Is Colliani in the hallway? 	no	8
+10 Conn is not in the garden.
+11 Colliani went back to the bedroom.
+12 Is Burnhard in the garden? 	no	5
+13 Conn went to the office.
+14 Doud travelled to the office.
+15 Is Doud in the office? 	yes	14
+1 Conn is in the garden.
+2 Doud is no longer in the bathroom.
+3 Is Doud in the bathroom? 	no	2
+4 Doud is no longer in the garden.
+5 Colliani is no longer in the bedroom.
+6 Is Colliani in the bedroom? 	no	5
+7 Burnhard is no longer in the bathroom.
+8 Burnhard is in the bathroom.
+9 Is Colliani in the bedroom? 	no	5
+10 Conn is not in the garden.
+11 Colliani is no longer in the kitchen.
+12 Is Colliani in the kitchen? 	no	11
+13 Colliani went back to the bathroom.
+14 Doud is not in the kitchen.
+15 Is Doud in the kitchen? 	no	14
+1 Doud is not in the kitchen.
+2 Doud journeyed to the bathroom.
+3 Is Doud in the kitchen? 	no	2
+4 Conn is in the bedroom.
+5 Doud travelled to the office.
+6 Is Doud in the office? 	yes	5
+7 Burnhard is no longer in the office.
+8 Colliani is in the bedroom.
+9 Is Conn in the garden? 	no	4
+10 Conn journeyed to the hallway.
+11 Conn is not in the hallway.
+12 Is Doud in the kitchen? 	no	5
+13 Conn is not in the office.
+14 Doud went to the kitchen.
+15 Is Conn in the office? 	no	13
+1 Burnhard is in the hallway.
+2 Conn moved to the office.
+3 Is Conn in the kitchen? 	no	2
+4 Conn is not in the office.
+5 Doud is in the garden.
+6 Is Conn in the office? 	no	4
+7 Conn went to the garden.
+8 Doud is in the hallway.
+9 Is Doud in the office? 	no	8
+10 Colliani is no longer in the office.
+11 Burnhard travelled to the garden.
+12 Is Burnhard in the garden? 	yes	11
+13 Burnhard is in the bedroom.
+14 Doud travelled to the garden.
+15 Is Burnhard in the bedroom? 	yes	13
+1 Conn is not in the bathroom.
+2 Conn is in the office.
+3 Is Conn in the office? 	yes	2
+4 Conn went to the hallway.
+5 Burnhard went to the garden.
+6 Is Conn in the hallway? 	yes	4
+7 Doud is in the office.
+8 Burnhard is not in the garden.
+9 Is Doud in the bedroom? 	no	7
+10 Burnhard went to the kitchen.
+11 Colliani is in the hallway.
+12 Is Doud in the office? 	yes	7
+13 Conn went to the office.
+14 Colliani is not in the hallway.
+15 Is Burnhard in the hallway? 	no	10
+1 Colliani is no longer in the office.
+2 Colliani is no longer in the hallway.
+3 Is Colliani in the hallway? 	no	2
+4 Colliani is in the hallway.
+5 Doud is in the hallway.
+6 Is Colliani in the hallway? 	yes	4
+7 Colliani is no longer in the hallway.
+8 Burnhard is in the bedroom.
+9 Is Colliani in the hallway? 	no	7
+10 Colliani travelled to the bathroom.
+11 Burnhard is not in the bedroom.
+12 Is Colliani in the bathroom? 	yes	10
+13 Doud is not in the hallway.
+14 Doud is not in the kitchen.
+15 Is Doud in the kitchen? 	no	14
+1 Colliani travelled to the garden.
+2 Doud is in the kitchen.
+3 Is Colliani in the bedroom? 	no	1
+4 Burnhard travelled to the hallway.
+5 Conn moved to the bathroom.
+6 Is Conn in the office? 	no	5
+7 Conn is no longer in the bathroom.
+8 Burnhard is not in the hallway.
+9 Is Conn in the bathroom? 	no	7
+10 Colliani went to the kitchen.
+11 Doud is in the office.
+12 Is Doud in the bathroom? 	no	11
+13 Burnhard moved to the office.
+14 Conn is in the garden.
+15 Is Burnhard in the bedroom? 	no	13
+1 Burnhard is no longer in the kitchen.
+2 Colliani is not in the office.
+3 Is Burnhard in the kitchen? 	no	1
+4 Burnhard journeyed to the kitchen.
+5 Burnhard travelled to the garden.
+6 Is Burnhard in the garden? 	yes	5
+7 Doud journeyed to the office.
+8 Conn is in the hallway.
+9 Is Burnhard in the office? 	no	5
+10 Doud is not in the office.
+11 Doud is no longer in the bedroom.
+12 Is Doud in the bedroom? 	no	11
+13 Doud went to the bedroom.
+14 Doud is no longer in the bedroom.
+15 Is Doud in the bedroom? 	no	14
+1 Colliani is no longer in the bathroom.
+2 Conn is no longer in the bedroom.
+3 Is Colliani in the bathroom? 	no	1
+4 Conn is no longer in the garden.
+5 Conn is no longer in the office.
+6 Is Colliani in the bathroom? 	no	1
+7 Conn is no longer in the bathroom.
+8 Burnhard is in the garden.
+9 Is Conn in the bathroom? 	no	7
+10 Conn journeyed to the bathroom.
+11 Burnhard went back to the bathroom.
+12 Is Burnhard in the hallway? 	no	11
+13 Conn journeyed to the bedroom.
+14 Doud is no longer in the office.
+15 Is Conn in the bedroom? 	yes	13
+1 Doud went to the office.
+2 Doud travelled to the hallway.
+3 Is Doud in the hallway? 	yes	2
+4 Conn is no longer in the garden.
+5 Doud journeyed to the bathroom.
+6 Is Doud in the garden? 	no	5
+7 Doud journeyed to the garden.
+8 Burnhard is in the hallway.
+9 Is Doud in the office? 	no	7
+10 Burnhard is in the kitchen.
+11 Conn went to the hallway.
+12 Is Burnhard in the kitchen? 	yes	10
+13 Colliani is in the office.
+14 Burnhard went back to the office.
+15 Is Colliani in the bathroom? 	no	13
+1 Doud is in the bathroom.
+2 Conn is in the bathroom.
+3 Is Conn in the bathroom? 	yes	2
+4 Colliani is in the bedroom.
+5 Colliani is not in the bedroom.
+6 Is Conn in the bathroom? 	yes	2
+7 Doud went to the hallway.
+8 Doud is in the garden.
+9 Is Colliani in the bedroom? 	no	5
+10 Colliani travelled to the hallway.
+11 Conn is not in the bathroom.
+12 Is Doud in the garden? 	yes	8
+13 Burnhard journeyed to the garden.
+14 Burnhard moved to the hallway.
+15 Is Burnhard in the garden? 	no	14
+1 Colliani is in the garden.
+2 Colliani moved to the hallway.
+3 Is Colliani in the bedroom? 	no	2
+4 Colliani travelled to the kitchen.
+5 Burnhard travelled to the garden.
+6 Is Colliani in the office? 	no	4
+7 Conn went to the office.
+8 Burnhard journeyed to the bedroom.
+9 Is Colliani in the kitchen? 	yes	4
+10 Doud travelled to the bathroom.
+11 Doud is in the bedroom.
+12 Is Burnhard in the hallway? 	no	8
+13 Colliani moved to the hallway.
+14 Doud went to the hallway.
+15 Is Colliani in the bathroom? 	no	13
+1 Burnhard is no longer in the hallway.
+2 Doud went back to the hallway.
+3 Is Doud in the hallway? 	yes	2
+4 Burnhard journeyed to the bedroom.
+5 Conn is in the bathroom.
+6 Is Burnhard in the bedroom? 	yes	4
+7 Conn is in the office.
+8 Conn went to the hallway.
+9 Is Conn in the garden? 	no	8
+10 Conn is in the bathroom.
+11 Burnhard is not in the bedroom.
+12 Is Conn in the hallway? 	no	10
+13 Conn is in the garden.
+14 Doud travelled to the garden.
+15 Is Burnhard in the bedroom? 	no	11
+1 Doud moved to the office.
+2 Colliani went to the bathroom.
+3 Is Doud in the office? 	yes	1
+4 Conn journeyed to the hallway.
+5 Conn went to the office.
+6 Is Colliani in the kitchen? 	no	2
+7 Burnhard moved to the hallway.
+8 Burnhard is in the garden.
+9 Is Colliani in the bathroom? 	yes	2
+10 Conn is in the hallway.
+11 Burnhard went back to the hallway.
+12 Is Burnhard in the hallway? 	yes	11
+13 Doud is not in the office.
+14 Conn is not in the hallway.
+15 Is Burnhard in the office? 	no	11
+1 Conn moved to the garden.
+2 Doud is not in the garden.
+3 Is Doud in the garden? 	no	2
+4 Conn travelled to the hallway.
+5 Doud is in the garden.
+6 Is Doud in the bathroom? 	no	5
+7 Conn went back to the office.
+8 Doud journeyed to the kitchen.
+9 Is Doud in the kitchen? 	yes	8
+10 Doud is no longer in the kitchen.
+11 Burnhard is no longer in the bathroom.
+12 Is Conn in the office? 	yes	7
+13 Conn went back to the bathroom.
+14 Burnhard is in the hallway.
+15 Is Conn in the bathroom? 	yes	13
+1 Conn is in the bedroom.
+2 Conn is in the hallway.
+3 Is Conn in the hallway? 	yes	2
+4 Conn moved to the bedroom.
+5 Conn is not in the bedroom.
+6 Is Conn in the bedroom? 	no	5
+7 Conn is not in the garden.
+8 Conn journeyed to the office.
+9 Is Conn in the bathroom? 	no	8
+10 Colliani went to the office.
+11 Doud is not in the office.
+12 Is Colliani in the hallway? 	no	10
+13 Conn is not in the office.
+14 Doud journeyed to the hallway.
+15 Is Doud in the bedroom? 	no	14
+1 Colliani is in the hallway.
+2 Colliani travelled to the bathroom.
+3 Is Colliani in the bathroom? 	yes	2
+4 Colliani is in the office.
+5 Burnhard is in the office.
+6 Is Colliani in the bathroom? 	no	4
+7 Conn travelled to the bathroom.
+8 Burnhard is not in the office.
+9 Is Conn in the bedroom? 	no	7
+10 Burnhard is no longer in the garden.
+11 Conn journeyed to the bedroom.
+12 Is Burnhard in the garden? 	no	10
+13 Conn journeyed to the hallway.
+14 Colliani is in the kitchen.
+15 Is Burnhard in the garden? 	no	10
+1 Colliani journeyed to the kitchen.
+2 Colliani journeyed to the bathroom.
+3 Is Colliani in the bathroom? 	yes	2
+4 Conn is in the kitchen.
+5 Doud is not in the bedroom.
+6 Is Colliani in the bedroom? 	no	2
+7 Doud went to the hallway.
+8 Conn is in the bedroom.
+9 Is Doud in the hallway? 	yes	7
+10 Doud is not in the hallway.
+11 Burnhard moved to the hallway.
+12 Is Doud in the hallway? 	no	10
+13 Burnhard travelled to the garden.
+14 Burnhard moved to the kitchen.
+15 Is Burnhard in the kitchen? 	yes	14
+1 Burnhard is in the garden.
+2 Burnhard is not in the garden.
+3 Is Burnhard in the garden? 	no	2
+4 Colliani went to the office.
+5 Colliani is in the bedroom.
+6 Is Colliani in the bedroom? 	yes	5
+7 Conn moved to the garden.
+8 Doud went to the bedroom.
+9 Is Burnhard in the garden? 	no	2
+10 Conn is not in the garden.
+11 Colliani is in the garden.
+12 Is Colliani in the garden? 	yes	11
+13 Burnhard moved to the hallway.
+14 Doud went back to the garden.
+15 Is Burnhard in the garden? 	no	13
+1 Burnhard is no longer in the kitchen.
+2 Colliani is in the hallway.
+3 Is Colliani in the hallway? 	yes	2
+4 Conn travelled to the kitchen.
+5 Doud is in the office.
+6 Is Colliani in the kitchen? 	no	2
+7 Conn travelled to the garden.
+8 Colliani is in the kitchen.
+9 Is Conn in the garden? 	yes	7
+10 Colliani is in the garden.
+11 Conn is no longer in the garden.
+12 Is Conn in the garden? 	no	11
+13 Colliani went to the bathroom.
+14 Burnhard is in the office.
+15 Is Conn in the garden? 	no	11
+1 Burnhard went back to the hallway.
+2 Burnhard is not in the hallway.
+3 Is Burnhard in the hallway? 	no	2
+4 Doud is in the hallway.
+5 Colliani went back to the bedroom.
+6 Is Burnhard in the hallway? 	no	2
+7 Doud journeyed to the bedroom.
+8 Colliani moved to the bathroom.
+9 Is Colliani in the bathroom? 	yes	8
+10 Burnhard journeyed to the kitchen.
+11 Doud went to the kitchen.
+12 Is Burnhard in the office? 	no	10
+13 Burnhard moved to the bathroom.
+14 Doud is in the bedroom.
+15 Is Burnhard in the bathroom? 	yes	13
+1 Colliani moved to the bathroom.
+2 Doud is no longer in the office.
+3 Is Doud in the office? 	no	2
+4 Burnhard is in the bathroom.
+5 Burnhard travelled to the garden.
+6 Is Burnhard in the bedroom? 	no	5
+7 Conn is in the bathroom.
+8 Doud journeyed to the garden.
+9 Is Doud in the garden? 	yes	8
+10 Conn moved to the garden.
+11 Conn is no longer in the garden.
+12 Is Burnhard in the kitchen? 	no	5
+13 Burnhard is in the bedroom.
+14 Conn journeyed to the garden.
+15 Is Conn in the garden? 	yes	14
+1 Conn travelled to the bedroom.
+2 Colliani is in the bathroom.
+3 Is Colliani in the bathroom? 	yes	2
+4 Doud travelled to the garden.
+5 Doud is in the kitchen.
+6 Is Conn in the garden? 	no	1
+7 Conn is no longer in the bedroom.
+8 Doud is not in the kitchen.
+9 Is Conn in the bedroom? 	no	7
+10 Doud is in the office.
+11 Conn is in the kitchen.
+12 Is Doud in the office? 	yes	10
+13 Doud moved to the kitchen.
+14 Colliani moved to the bedroom.
+15 Is Conn in the bedroom? 	no	11
+1 Burnhard is in the bathroom.
+2 Conn went back to the office.
+3 Is Conn in the bedroom? 	no	2
+4 Burnhard is no longer in the bathroom.
+5 Doud moved to the kitchen.
+6 Is Conn in the office? 	yes	2
+7 Colliani journeyed to the bathroom.
+8 Doud moved to the garden.
+9 Is Burnhard in the bathroom? 	no	4
+10 Burnhard is not in the garden.
+11 Burnhard is in the office.
+12 Is Burnhard in the office? 	yes	11
+13 Burnhard moved to the kitchen.
+14 Doud went back to the hallway.
+15 Is Burnhard in the hallway? 	no	13
+1 Colliani is not in the bedroom.
+2 Conn is in the bedroom.
+3 Is Conn in the bedroom? 	yes	2
+4 Burnhard is no longer in the bathroom.
+5 Burnhard is in the garden.
+6 Is Conn in the kitchen? 	no	2
+7 Conn went back to the kitchen.
+8 Conn is in the bedroom.
+9 Is Burnhard in the office? 	no	5
+10 Doud went back to the bedroom.
+11 Colliani is no longer in the kitchen.
+12 Is Conn in the garden? 	no	8
+13 Colliani is no longer in the office.
+14 Conn went to the office.
+15 Is Conn in the bedroom? 	no	14
+1 Burnhard is no longer in the bedroom.
+2 Colliani went back to the kitchen.
+3 Is Colliani in the kitchen? 	yes	2
+4 Colliani is in the hallway.
+5 Conn is in the hallway.
+6 Is Conn in the hallway? 	yes	5
+7 Conn is no longer in the hallway.
+8 Colliani moved to the office.
+9 Is Conn in the hallway? 	no	7
+10 Colliani travelled to the bathroom.
+11 Doud is in the bedroom.
+12 Is Conn in the hallway? 	no	7
+13 Burnhard is in the office.
+14 Conn journeyed to the garden.
+15 Is Conn in the hallway? 	no	14

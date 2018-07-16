@@ -1,0 +1,5398 @@
+1 Mary got the milk there.
+2 John moved to the earth.
+3 Sandra went back to the mars.
+4 Mary travelled to the neptune.
+5 Where is the milk? 	neptune	1 4
+6 John got the football there.
+7 John went to the neptune.
+8 Where is the football? 	neptune	6 7
+9 John put down the football.
+10 Mary went to the venus.
+11 Where is the football? 	neptune	9 7
+12 John went to the mars.
+13 Sandra travelled to the neptune.
+14 Where is the football? 	neptune	9 7
+15 Daniel went to the neptune.
+16 Mary discarded the milk.
+17 Where is the milk? 	venus	16 10
+1 Mary journeyed to the moon.
+2 Sandra went to the venus.
+3 Daniel went back to the venus.
+4 Daniel went to the jupiter.
+5 Sandra grabbed the milk there.
+6 Sandra put down the milk there.
+7 Where is the milk? 	venus	6 2
+8 Daniel went to the neptune.
+9 Sandra got the milk there.
+10 Daniel went to the venus.
+11 Daniel journeyed to the mars.
+12 Daniel journeyed to the earth.
+13 Mary journeyed to the venus.
+14 Daniel took the football there.
+15 Mary moved to the jupiter.
+16 Sandra travelled to the earth.
+17 Daniel dropped the football.
+18 Where is the football? 	earth	17 12
+19 Sandra left the milk there.
+20 Daniel grabbed the football there.
+21 Where is the milk? 	earth	19 16
+22 Sandra grabbed the milk there.
+23 Daniel went to the mars.
+24 Where is the football? 	mars	20 23
+25 John travelled to the mars.
+26 Mary moved to the neptune.
+27 Where is the football? 	mars	20 23
+1 Mary picked up the apple there.
+2 Mary dropped the apple.
+3 Daniel went back to the venus.
+4 Mary journeyed to the jupiter.
+5 John got the football there.
+6 Mary went back to the mars.
+7 Daniel picked up the milk there.
+8 John travelled to the earth.
+9 Where is the football? 	earth	5 8
+10 John moved to the neptune.
+11 John discarded the football.
+12 Where is the football? 	neptune	11 10
+13 Daniel dropped the milk.
+14 John got the football there.
+15 Where is the milk? 	venus	13 3
+16 Mary journeyed to the venus.
+17 Daniel travelled to the moon.
+18 Where is the milk? 	venus	13 3
+19 Sandra journeyed to the moon.
+20 Mary went to the moon.
+21 Mary took the apple there.
+22 Mary dropped the apple.
+23 Where is the apple? 	moon	22 20
+1 Daniel journeyed to the jupiter.
+2 John took the football there.
+3 John discarded the football.
+4 John travelled to the venus.
+5 Daniel travelled to the venus.
+6 Sandra went to the venus.
+7 Daniel travelled to the mars.
+8 Daniel moved to the jupiter.
+9 Mary grabbed the milk there.
+10 Daniel journeyed to the earth.
+11 John travelled to the jupiter.
+12 Daniel travelled to the moon.
+13 John travelled to the mars.
+14 Mary travelled to the venus.
+15 Mary dropped the milk.
+16 John went back to the venus.
+17 Where is the milk? 	venus	15 14
+18 Sandra got the milk there.
+19 Sandra put down the milk.
+20 Where is the milk? 	venus	19 6
+21 Mary went back to the moon.
+22 Mary travelled to the earth.
+23 Where is the milk? 	venus	19 6
+24 John got the milk there.
+25 Daniel went back to the jupiter.
+26 Daniel moved to the mars.
+27 Daniel grabbed the apple there.
+28 John left the milk.
+29 Daniel discarded the apple.
+30 Where is the apple? 	mars	29 26
+31 John picked up the milk there.
+32 Daniel went to the neptune.
+33 Where is the apple? 	mars	29 26
+1 Mary moved to the mars.
+2 Mary travelled to the jupiter.
+3 Daniel grabbed the football there.
+4 Mary moved to the neptune.
+5 Sandra moved to the earth.
+6 Mary went back to the earth.
+7 John grabbed the milk there.
+8 John put down the milk.
+9 Daniel journeyed to the moon.
+10 Sandra journeyed to the moon.
+11 John got the milk there.
+12 Mary took the apple there.
+13 Mary left the apple.
+14 John journeyed to the earth.
+15 Where is the apple? 	earth	13 6
+16 Mary travelled to the jupiter.
+17 Daniel put down the football.
+18 Where is the apple? 	earth	13 6
+19 John went back to the mars.
+20 Sandra got the football there.
+21 John travelled to the neptune.
+22 Sandra discarded the football there.
+23 Where is the football? 	moon	22 10
+24 John left the milk.
+25 John grabbed the milk there.
+26 Where is the football? 	moon	22 10
+27 Mary went to the neptune.
+28 John moved to the earth.
+29 Where is the milk? 	earth	25 28
+1 Daniel moved to the mars.
+2 John grabbed the football there.
+3 John left the football there.
+4 Mary journeyed to the neptune.
+5 John grabbed the milk there.
+6 John travelled to the mars.
+7 Where is the milk? 	mars	5 6
+8 Mary journeyed to the mars.
+9 Sandra went to the jupiter.
+10 Where is the milk? 	mars	5 6
+11 Daniel went to the moon.
+12 Daniel picked up the apple there.
+13 Sandra travelled to the venus.
+14 Daniel dropped the apple there.
+15 Where is the apple? 	moon	14 11
+16 Sandra went back to the jupiter.
+17 Daniel journeyed to the mars.
+18 Where is the apple? 	moon	14 11
+19 John put down the milk.
+20 Daniel moved to the earth.
+21 Where is the milk? 	mars	19 6
+1 Daniel journeyed to the jupiter.
+2 Daniel went back to the earth.
+3 Mary went back to the mars.
+4 Mary got the football there.
+5 Daniel travelled to the neptune.
+6 John journeyed to the earth.
+7 Daniel got the apple there.
+8 Sandra travelled to the venus.
+9 Daniel travelled to the venus.
+10 Daniel dropped the apple.
+11 Where is the apple? 	venus	10 9
+12 Mary left the football.
+13 Mary journeyed to the earth.
+14 Where is the apple? 	venus	10 9
+15 John moved to the neptune.
+16 John went back to the earth.
+17 Where is the football? 	mars	12 3
+18 Sandra got the apple there.
+19 John went to the mars.
+20 Mary went to the moon.
+21 Mary journeyed to the venus.
+22 Sandra went back to the mars.
+23 Sandra put down the apple there.
+24 Where is the apple? 	mars	23 22
+25 Mary went back to the earth.
+26 Mary went back to the mars.
+27 Where is the apple? 	mars	23 22
+1 John went back to the jupiter.
+2 Mary went back to the neptune.
+3 Daniel journeyed to the earth.
+4 Mary went back to the moon.
+5 Sandra went back to the neptune.
+6 Sandra got the milk there.
+7 Mary moved to the jupiter.
+8 Mary went to the neptune.
+9 Daniel went to the moon.
+10 Sandra went to the jupiter.
+11 Where is the milk? 	jupiter	6 10
+12 John journeyed to the venus.
+13 Sandra journeyed to the neptune.
+14 Daniel moved to the jupiter.
+15 Mary went back to the jupiter.
+16 John moved to the mars.
+17 Sandra journeyed to the earth.
+18 Sandra went back to the jupiter.
+19 Daniel moved to the mars.
+20 John took the football there.
+21 John left the football.
+22 Where is the football? 	mars	21 16
+23 Sandra went back to the earth.
+24 Sandra went back to the neptune.
+25 Where is the football? 	mars	21 16
+26 John grabbed the football there.
+27 Daniel went to the moon.
+28 John left the football.
+29 Sandra went back to the earth.
+30 Where is the football? 	mars	28 16
+31 Mary went to the mars.
+32 John grabbed the football there.
+33 Sandra put down the milk there.
+34 John moved to the venus.
+35 Where is the milk? 	earth	33 29
+1 Daniel moved to the neptune.
+2 Mary went back to the mars.
+3 John got the milk there.
+4 John put down the milk.
+5 John got the milk there.
+6 Mary went back to the venus.
+7 John went back to the earth.
+8 Mary picked up the football there.
+9 Where is the milk? 	earth	5 7
+10 John went to the jupiter.
+11 John left the milk.
+12 Where is the milk? 	jupiter	11 10
+13 Mary went to the earth.
+14 John went to the earth.
+15 Where is the milk? 	jupiter	11 10
+16 John went to the moon.
+17 Mary moved to the moon.
+18 Where is the milk? 	jupiter	11 10
+19 Mary went to the mars.
+20 Mary travelled to the jupiter.
+21 Sandra moved to the mars.
+22 Daniel picked up the apple there.
+23 Sandra travelled to the venus.
+24 Mary travelled to the earth.
+25 Daniel went to the mars.
+26 Mary put down the football.
+27 Where is the apple? 	mars	22 25
+1 John travelled to the moon.
+2 John travelled to the neptune.
+3 Mary picked up the milk there.
+4 Mary went back to the earth.
+5 Where is the milk? 	earth	3 4
+6 Sandra took the football there.
+7 Sandra moved to the jupiter.
+8 Where is the football? 	jupiter	6 7
+9 Sandra went back to the moon.
+10 John journeyed to the earth.
+11 Where is the football? 	moon	6 9
+12 John went back to the moon.
+13 Sandra put down the football.
+14 Where is the football? 	moon	13 9
+15 Mary discarded the milk.
+16 Sandra moved to the mars.
+17 Where is the milk? 	earth	15 4
+1 Daniel took the milk there.
+2 John journeyed to the venus.
+3 Daniel went back to the neptune.
+4 Daniel journeyed to the moon.
+5 Where is the milk? 	moon	1 4
+6 Daniel dropped the milk.
+7 Daniel took the milk there.
+8 John grabbed the apple there.
+9 Sandra journeyed to the mars.
+10 John went to the neptune.
+11 Sandra went back to the venus.
+12 Where is the apple? 	neptune	8 10
+13 Daniel journeyed to the mars.
+14 Sandra journeyed to the earth.
+15 Daniel went back to the neptune.
+16 Sandra went back to the mars.
+17 Sandra went back to the moon.
+18 John went to the mars.
+19 Sandra got the football there.
+20 Sandra went to the mars.
+21 Where is the football? 	mars	19 20
+22 Daniel left the milk.
+23 Sandra put down the football.
+24 Where is the football? 	mars	23 20
+25 Sandra picked up the football there.
+26 Sandra put down the football.
+27 Where is the football? 	mars	26 20
+1 John went to the moon.
+2 Daniel travelled to the mars.
+3 John journeyed to the mars.
+4 Daniel journeyed to the neptune.
+5 Sandra travelled to the mars.
+6 Mary moved to the jupiter.
+7 Daniel went back to the jupiter.
+8 Sandra went back to the moon.
+9 John grabbed the milk there.
+10 John grabbed the apple there.
+11 Sandra journeyed to the jupiter.
+12 Mary went to the neptune.
+13 John went to the moon.
+14 John discarded the apple.
+15 Where is the apple? 	moon	14 13
+16 John put down the milk.
+17 John picked up the apple there.
+18 Where is the milk? 	moon	16 13
+19 Daniel went back to the moon.
+20 John took the milk there.
+21 Daniel travelled to the venus.
+22 Sandra journeyed to the moon.
+23 John travelled to the mars.
+24 Mary went back to the jupiter.
+25 Where is the milk? 	mars	20 23
+26 Mary moved to the neptune.
+27 John left the milk.
+28 Where is the milk? 	mars	27 23
+29 John went back to the earth.
+30 John left the apple there.
+31 Where is the apple? 	earth	30 29
+1 Daniel moved to the jupiter.
+2 Daniel travelled to the earth.
+3 John took the milk there.
+4 John travelled to the venus.
+5 Where is the milk? 	venus	3 4
+6 Sandra moved to the jupiter.
+7 Daniel went back to the jupiter.
+8 Where is the milk? 	venus	3 4
+9 John went to the mars.
+10 Mary travelled to the venus.
+11 John picked up the football there.
+12 John dropped the football.
+13 Where is the football? 	mars	12 9
+14 John put down the milk.
+15 Daniel moved to the mars.
+16 Where is the football? 	mars	12 9
+17 Mary travelled to the moon.
+18 Daniel went to the jupiter.
+19 Where is the football? 	mars	12 9
+1 Daniel journeyed to the neptune.
+2 Daniel journeyed to the venus.
+3 Mary went back to the mars.
+4 Daniel went back to the jupiter.
+5 Mary journeyed to the moon.
+6 John moved to the neptune.
+7 Daniel grabbed the football there.
+8 Daniel went to the mars.
+9 Where is the football? 	mars	7 8
+10 Daniel discarded the football.
+11 John went to the moon.
+12 Where is the football? 	mars	10 8
+13 Daniel took the football there.
+14 John travelled to the mars.
+15 Mary travelled to the jupiter.
+16 John travelled to the neptune.
+17 John went back to the jupiter.
+18 Daniel journeyed to the earth.
+19 Daniel got the milk there.
+20 Daniel discarded the milk.
+21 Where is the milk? 	earth	20 18
+22 Sandra went to the moon.
+23 Mary went back to the earth.
+24 Where is the milk? 	earth	20 18
+25 Daniel took the apple there.
+26 Daniel dropped the football.
+27 Where is the football? 	earth	26 18
+1 Sandra moved to the venus.
+2 Daniel took the apple there.
+3 Daniel dropped the apple.
+4 Sandra travelled to the jupiter.
+5 John moved to the mars.
+6 Sandra moved to the venus.
+7 Daniel went back to the moon.
+8 Mary travelled to the neptune.
+9 Sandra went to the moon.
+10 John went back to the earth.
+11 Mary moved to the venus.
+12 John picked up the apple there.
+13 John went back to the mars.
+14 John went back to the venus.
+15 Where is the apple? 	venus	12 14
+16 Mary went to the jupiter.
+17 Daniel went to the earth.
+18 Where is the apple? 	venus	12 14
+19 John went to the moon.
+20 John dropped the apple.
+21 Where is the apple? 	moon	20 19
+22 Mary journeyed to the earth.
+23 Sandra grabbed the apple there.
+24 Daniel moved to the mars.
+25 Sandra left the apple.
+26 Where is the apple? 	moon	25 9
+27 John grabbed the apple there.
+28 Sandra journeyed to the mars.
+29 Sandra journeyed to the moon.
+30 Daniel travelled to the jupiter.
+31 John put down the apple.
+32 Mary journeyed to the mars.
+33 Where is the apple? 	moon	31 19
+1 Sandra journeyed to the venus.
+2 Sandra travelled to the moon.
+3 Daniel went back to the venus.
+4 Sandra got the apple there.
+5 Mary travelled to the earth.
+6 John went to the neptune.
+7 Sandra travelled to the jupiter.
+8 Mary grabbed the milk there.
+9 Where is the apple? 	jupiter	4 7
+10 John went to the mars.
+11 Mary moved to the neptune.
+12 Where is the milk? 	neptune	8 11
+13 Sandra discarded the apple.
+14 Mary left the milk.
+15 Where is the milk? 	neptune	14 11
+16 Mary took the milk there.
+17 Mary left the milk.
+18 Where is the milk? 	neptune	17 11
+19 John got the football there.
+20 John moved to the neptune.
+21 Where is the milk? 	neptune	17 11
+1 Daniel moved to the earth.
+2 Daniel went to the moon.
+3 John moved to the venus.
+4 Mary travelled to the earth.
+5 Sandra travelled to the venus.
+6 Daniel journeyed to the venus.
+7 Sandra travelled to the neptune.
+8 John got the football there.
+9 John moved to the moon.
+10 Sandra travelled to the moon.
+11 Where is the football? 	moon	8 9
+12 Daniel moved to the earth.
+13 Daniel travelled to the mars.
+14 Where is the football? 	moon	8 9
+15 Mary moved to the neptune.
+16 Sandra travelled to the jupiter.
+17 Daniel moved to the neptune.
+18 Daniel went back to the mars.
+19 John went back to the neptune.
+20 Daniel went back to the neptune.
+21 Daniel went to the earth.
+22 John moved to the mars.
+23 Mary moved to the jupiter.
+24 John went back to the venus.
+25 Sandra took the apple there.
+26 Daniel went to the jupiter.
+27 Mary went back to the mars.
+28 Mary went to the earth.
+29 John journeyed to the moon.
+30 Sandra went back to the neptune.
+31 Sandra moved to the earth.
+32 Daniel moved to the venus.
+33 John went back to the earth.
+34 Mary went back to the jupiter.
+35 John moved to the mars.
+36 John grabbed the milk there.
+37 Daniel journeyed to the earth.
+38 John discarded the football.
+39 Where is the football? 	mars	38 35
+40 John left the milk.
+41 John took the milk there.
+42 Where is the football? 	mars	38 35
+43 John picked up the football there.
+44 John put down the football.
+45 Where is the football? 	mars	44 35
+1 John went to the neptune.
+2 John went back to the moon.
+3 John grabbed the milk there.
+4 Sandra went back to the jupiter.
+5 Sandra journeyed to the mars.
+6 Sandra got the apple there.
+7 Sandra dropped the apple there.
+8 John dropped the milk.
+9 Where is the milk? 	moon	8 2
+10 Mary went back to the venus.
+11 Sandra journeyed to the neptune.
+12 Where is the apple? 	mars	7 5
+13 Sandra got the football there.
+14 Mary moved to the mars.
+15 Where is the milk? 	moon	8 2
+16 Sandra journeyed to the earth.
+17 Mary grabbed the apple there.
+18 Where is the football? 	earth	13 16
+19 Sandra went back to the jupiter.
+20 Mary discarded the apple.
+21 Where is the apple? 	mars	20 14
+1 Daniel moved to the moon.
+2 Sandra went back to the mars.
+3 John moved to the moon.
+4 Mary picked up the milk there.
+5 John travelled to the venus.
+6 Mary dropped the milk there.
+7 Sandra journeyed to the earth.
+8 John journeyed to the moon.
+9 Daniel went back to the jupiter.
+10 John moved to the neptune.
+11 Mary got the milk there.
+12 Daniel took the apple there.
+13 John picked up the football there.
+14 Mary went to the mars.
+15 Where is the milk? 	mars	11 14
+16 Mary dropped the milk.
+17 Daniel travelled to the earth.
+18 Where is the milk? 	mars	16 14
+19 John journeyed to the jupiter.
+20 Daniel went to the venus.
+21 Where is the milk? 	mars	16 14
+22 Mary picked up the milk there.
+23 Mary left the milk.
+24 Where is the milk? 	mars	23 14
+25 John travelled to the venus.
+26 Mary travelled to the jupiter.
+27 Where is the milk? 	mars	23 14
+1 Mary went to the venus.
+2 John picked up the milk there.
+3 Mary journeyed to the earth.
+4 Sandra went back to the neptune.
+5 John discarded the milk.
+6 John journeyed to the earth.
+7 John got the football there.
+8 John moved to the moon.
+9 Where is the football? 	moon	7 8
+10 Sandra went to the jupiter.
+11 Daniel went back to the neptune.
+12 Where is the football? 	moon	7 8
+13 John put down the football.
+14 Mary journeyed to the mars.
+15 Where is the football? 	moon	13 8
+16 Mary picked up the milk there.
+17 Mary moved to the neptune.
+18 Where is the football? 	moon	13 8
+19 John went to the venus.
+20 Mary discarded the milk.
+21 Where is the milk? 	neptune	20 17
+1 Mary moved to the moon.
+2 Sandra went to the mars.
+3 John travelled to the earth.
+4 Mary journeyed to the mars.
+5 Mary moved to the jupiter.
+6 Sandra travelled to the moon.
+7 John travelled to the moon.
+8 John journeyed to the jupiter.
+9 John took the milk there.
+10 Daniel travelled to the venus.
+11 Mary went to the mars.
+12 Daniel journeyed to the moon.
+13 John discarded the milk.
+14 Sandra went back to the mars.
+15 Where is the milk? 	jupiter	13 8
+16 Daniel journeyed to the jupiter.
+17 Sandra went back to the jupiter.
+18 Where is the milk? 	jupiter	13 8
+19 Daniel picked up the milk there.
+20 Sandra went back to the earth.
+21 John went to the venus.
+22 Daniel travelled to the mars.
+23 Where is the milk? 	mars	19 22
+24 John journeyed to the earth.
+25 Sandra journeyed to the venus.
+26 Sandra moved to the mars.
+27 Daniel discarded the milk.
+28 Where is the milk? 	mars	27 22
+29 John picked up the football there.
+30 Daniel took the milk there.
+31 John left the football.
+32 Mary went to the earth.
+33 Where is the football? 	earth	31 24
+1 Sandra took the football there.
+2 Mary travelled to the mars.
+3 John went to the jupiter.
+4 Daniel travelled to the earth.
+5 Daniel journeyed to the moon.
+6 Mary went back to the earth.
+7 Sandra travelled to the mars.
+8 Mary went to the moon.
+9 Sandra went back to the moon.
+10 Sandra discarded the football.
+11 Where is the football? 	moon	10 9
+12 Mary journeyed to the earth.
+13 Sandra picked up the football there.
+14 Mary grabbed the milk there.
+15 Mary discarded the milk.
+16 Where is the milk? 	earth	15 12
+17 Daniel moved to the earth.
+18 Mary picked up the milk there.
+19 Mary got the apple there.
+20 Sandra went back to the mars.
+21 Mary discarded the apple there.
+22 Daniel took the apple there.
+23 Mary put down the milk there.
+24 Daniel travelled to the moon.
+25 Where is the apple? 	moon	22 24
+26 Mary journeyed to the neptune.
+27 Daniel went to the mars.
+28 Where is the milk? 	earth	23 12
+29 Daniel went back to the moon.
+30 Daniel dropped the apple.
+31 Where is the apple? 	moon	30 29
+1 Mary went back to the mars.
+2 Mary travelled to the neptune.
+3 John journeyed to the earth.
+4 John moved to the venus.
+5 Daniel went to the neptune.
+6 John moved to the neptune.
+7 Daniel journeyed to the moon.
+8 Mary travelled to the venus.
+9 Daniel went to the neptune.
+10 John travelled to the jupiter.
+11 John travelled to the earth.
+12 Mary journeyed to the earth.
+13 John picked up the football there.
+14 John dropped the football.
+15 Where is the football? 	earth	14 11
+16 Sandra travelled to the jupiter.
+17 Mary travelled to the neptune.
+18 Where is the football? 	earth	14 11
+19 Sandra grabbed the apple there.
+20 John grabbed the football there.
+21 Mary went back to the moon.
+22 John discarded the football.
+23 Where is the football? 	earth	22 11
+24 John picked up the football there.
+25 Daniel went to the jupiter.
+26 Sandra discarded the apple.
+27 Sandra grabbed the apple there.
+28 John put down the football.
+29 Daniel moved to the venus.
+30 Where is the football? 	earth	28 11
+31 Sandra left the apple.
+32 John journeyed to the venus.
+33 Where is the apple? 	jupiter	31 16
+1 John grabbed the football there.
+2 John journeyed to the jupiter.
+3 Where is the football? 	jupiter	1 2
+4 John went back to the venus.
+5 John went to the neptune.
+6 Where is the football? 	neptune	1 5
+7 John dropped the football.
+8 John grabbed the football there.
+9 Sandra travelled to the moon.
+10 Sandra picked up the milk there.
+11 Sandra went to the jupiter.
+12 John moved to the moon.
+13 Where is the milk? 	jupiter	10 11
+14 John grabbed the apple there.
+15 Sandra travelled to the earth.
+16 Where is the milk? 	earth	10 15
+17 John discarded the apple.
+18 Mary went back to the neptune.
+19 Where is the apple? 	moon	17 12
+1 Sandra grabbed the football there.
+2 Sandra put down the football.
+3 John grabbed the apple there.
+4 Sandra went to the neptune.
+5 John journeyed to the neptune.
+6 Mary grabbed the milk there.
+7 Where is the apple? 	neptune	3 5
+8 John journeyed to the venus.
+9 Sandra moved to the moon.
+10 Mary journeyed to the earth.
+11 John picked up the football there.
+12 Where is the milk? 	earth	6 10
+13 John dropped the football.
+14 John discarded the apple.
+15 Where is the apple? 	venus	14 8
+16 John got the apple there.
+17 John picked up the football there.
+18 Daniel moved to the venus.
+19 Sandra journeyed to the mars.
+20 John discarded the football.
+21 Daniel travelled to the earth.
+22 Where is the football? 	venus	20 8
+23 John grabbed the football there.
+24 Daniel went back to the neptune.
+25 Mary journeyed to the neptune.
+26 Mary went back to the mars.
+27 John dropped the football.
+28 Daniel went to the mars.
+29 Where is the football? 	venus	27 8
+1 Daniel got the apple there.
+2 Daniel dropped the apple.
+3 Mary moved to the earth.
+4 Daniel journeyed to the neptune.
+5 Mary travelled to the neptune.
+6 Sandra moved to the earth.
+7 Mary went back to the moon.
+8 Daniel moved to the mars.
+9 Mary went to the mars.
+10 Daniel moved to the jupiter.
+11 Mary picked up the football there.
+12 Mary put down the football.
+13 Where is the football? 	mars	12 9
+14 John travelled to the jupiter.
+15 Daniel went to the moon.
+16 Where is the football? 	mars	12 9
+17 Mary got the football there.
+18 Mary discarded the football.
+19 Where is the football? 	mars	18 9
+20 Daniel went back to the mars.
+21 Daniel picked up the football there.
+22 John travelled to the earth.
+23 Daniel moved to the earth.
+24 Where is the football? 	earth	21 23
+25 Mary journeyed to the moon.
+26 Mary went back to the mars.
+27 Where is the football? 	earth	21 23
+1 Daniel travelled to the neptune.
+2 Mary moved to the mars.
+3 John grabbed the football there.
+4 John discarded the football.
+5 Sandra journeyed to the mars.
+6 Sandra picked up the milk there.
+7 Daniel moved to the jupiter.
+8 John took the football there.
+9 John went to the mars.
+10 Mary moved to the jupiter.
+11 Where is the football? 	mars	8 9
+12 Sandra put down the milk.
+13 John left the football.
+14 Where is the football? 	mars	13 9
+15 John moved to the neptune.
+16 Sandra picked up the football there.
+17 Where is the milk? 	mars	12 5
+18 Daniel went to the venus.
+19 Daniel went to the moon.
+20 Mary moved to the earth.
+21 Mary took the apple there.
+22 Sandra went back to the neptune.
+23 Sandra discarded the football.
+24 Where is the football? 	neptune	23 22
+25 Sandra grabbed the football there.
+26 Daniel moved to the venus.
+27 Daniel travelled to the earth.
+28 Daniel moved to the venus.
+29 Sandra discarded the football.
+30 John travelled to the jupiter.
+31 Where is the football? 	neptune	29 22
+1 Sandra went back to the neptune.
+2 Mary travelled to the neptune.
+3 Mary picked up the football there.
+4 John travelled to the moon.
+5 Daniel moved to the earth.
+6 Sandra moved to the earth.
+7 Sandra travelled to the neptune.
+8 Sandra travelled to the jupiter.
+9 Mary moved to the jupiter.
+10 Mary put down the football.
+11 Where is the football? 	jupiter	10 9
+12 Sandra grabbed the milk there.
+13 Sandra left the milk.
+14 Where is the milk? 	jupiter	13 8
+15 Mary took the football there.
+16 Sandra took the milk there.
+17 Mary dropped the football.
+18 Mary travelled to the earth.
+19 Where is the football? 	jupiter	17 9
+20 John went to the neptune.
+21 Sandra took the football there.
+22 Mary went back to the neptune.
+23 Sandra travelled to the mars.
+24 Where is the football? 	mars	21 23
+25 John journeyed to the venus.
+26 Sandra journeyed to the moon.
+27 Where is the football? 	moon	21 26
+1 Daniel journeyed to the neptune.
+2 Daniel picked up the football there.
+3 Daniel journeyed to the earth.
+4 Daniel dropped the football.
+5 Where is the football? 	earth	4 3
+6 Sandra travelled to the earth.
+7 Daniel journeyed to the mars.
+8 Where is the football? 	earth	4 3
+9 Sandra grabbed the football there.
+10 John travelled to the jupiter.
+11 Sandra discarded the football.
+12 Mary went back to the neptune.
+13 Where is the football? 	earth	11 6
+14 Daniel went to the neptune.
+15 Daniel travelled to the earth.
+16 Where is the football? 	earth	11 6
+17 Mary travelled to the jupiter.
+18 John journeyed to the mars.
+19 Sandra went back to the jupiter.
+20 Daniel took the football there.
+21 Daniel went to the venus.
+22 Mary travelled to the earth.
+23 Where is the football? 	venus	20 21
+1 John got the football there.
+2 John left the football.
+3 Daniel went back to the moon.
+4 Mary went back to the moon.
+5 Sandra travelled to the jupiter.
+6 Daniel got the apple there.
+7 John got the football there.
+8 John left the football.
+9 Daniel journeyed to the mars.
+10 John moved to the moon.
+11 Where is the apple? 	mars	6 9
+12 John went to the jupiter.
+13 Mary took the milk there.
+14 John journeyed to the venus.
+15 Sandra went to the venus.
+16 Daniel grabbed the football there.
+17 Mary discarded the milk.
+18 Where is the milk? 	moon	17 4
+19 Sandra moved to the jupiter.
+20 Mary got the milk there.
+21 Mary moved to the venus.
+22 Mary left the milk.
+23 Where is the milk? 	venus	22 21
+24 Daniel dropped the apple.
+25 Sandra went back to the moon.
+26 Where is the apple? 	mars	24 9
+27 John went back to the neptune.
+28 Mary got the milk there.
+29 Where is the apple? 	mars	24 9
+1 Daniel travelled to the venus.
+2 Sandra went back to the earth.
+3 John travelled to the earth.
+4 Sandra grabbed the apple there.
+5 Daniel travelled to the mars.
+6 Sandra left the apple.
+7 Where is the apple? 	earth	6 2
+8 Sandra travelled to the jupiter.
+9 Sandra went back to the moon.
+10 Where is the apple? 	earth	6 2
+11 John travelled to the moon.
+12 Daniel went back to the neptune.
+13 Where is the apple? 	earth	6 2
+14 Sandra travelled to the earth.
+15 Sandra journeyed to the neptune.
+16 Sandra went back to the mars.
+17 Mary travelled to the jupiter.
+18 Sandra journeyed to the neptune.
+19 Mary went back to the neptune.
+20 Mary travelled to the venus.
+21 Mary took the football there.
+22 Mary went to the mars.
+23 Mary grabbed the milk there.
+24 Where is the football? 	mars	21 22
+25 John went to the venus.
+26 John travelled to the mars.
+27 Where is the football? 	mars	21 22
+1 Mary travelled to the moon.
+2 John took the milk there.
+3 Sandra moved to the neptune.
+4 Sandra grabbed the football there.
+5 Daniel went back to the earth.
+6 Daniel travelled to the mars.
+7 Sandra put down the football.
+8 John moved to the earth.
+9 Where is the football? 	neptune	7 3
+10 Mary journeyed to the neptune.
+11 John dropped the milk.
+12 Where is the football? 	neptune	7 3
+13 Mary travelled to the moon.
+14 Mary moved to the mars.
+15 Where is the milk? 	earth	11 8
+16 Daniel travelled to the earth.
+17 Daniel travelled to the moon.
+18 Where is the milk? 	earth	11 8
+19 Sandra grabbed the football there.
+20 Sandra left the football.
+21 Where is the football? 	neptune	20 3
+1 John moved to the earth.
+2 Sandra journeyed to the jupiter.
+3 Sandra moved to the mars.
+4 Daniel travelled to the earth.
+5 John went back to the jupiter.
+6 Mary travelled to the venus.
+7 Sandra moved to the neptune.
+8 Sandra went to the venus.
+9 John went back to the mars.
+10 Daniel went to the jupiter.
+11 Sandra moved to the neptune.
+12 Daniel picked up the apple there.
+13 Mary went to the earth.
+14 Daniel went back to the venus.
+15 Where is the apple? 	venus	12 14
+16 Daniel left the apple.
+17 Daniel grabbed the apple there.
+18 Sandra took the football there.
+19 Daniel discarded the apple.
+20 Where is the apple? 	venus	19 14
+21 Mary journeyed to the mars.
+22 Sandra journeyed to the mars.
+23 Where is the apple? 	venus	19 14
+24 Daniel travelled to the earth.
+25 Sandra went to the earth.
+26 Where is the apple? 	venus	19 14
+27 Daniel went back to the neptune.
+28 John went to the neptune.
+29 John went to the jupiter.
+30 John moved to the mars.
+31 Sandra dropped the football.
+32 Daniel went to the venus.
+33 Where is the football? 	earth	31 25
+1 John went back to the venus.
+2 Daniel went to the moon.
+3 Daniel went to the neptune.
+4 Daniel grabbed the football there.
+5 Daniel travelled to the moon.
+6 Daniel went to the venus.
+7 Where is the football? 	venus	4 6
+8 John went back to the mars.
+9 Daniel discarded the football.
+10 Where is the football? 	venus	9 6
+11 Sandra picked up the football there.
+12 Mary went back to the jupiter.
+13 John picked up the apple there.
+14 John journeyed to the neptune.
+15 Where is the apple? 	neptune	13 14
+16 Mary travelled to the earth.
+17 Daniel went back to the moon.
+18 Where is the apple? 	neptune	13 14
+19 Sandra went back to the jupiter.
+20 Sandra discarded the football.
+21 Where is the football? 	jupiter	20 19
+1 John went back to the earth.
+2 John journeyed to the mars.
+3 John took the milk there.
+4 Sandra took the football there.
+5 Daniel travelled to the neptune.
+6 Daniel picked up the apple there.
+7 Mary travelled to the earth.
+8 Daniel journeyed to the earth.
+9 Where is the apple? 	earth	6 8
+10 John went back to the neptune.
+11 Daniel went back to the moon.
+12 Where is the apple? 	moon	6 11
+13 John dropped the milk there.
+14 Sandra went back to the venus.
+15 Where is the milk? 	neptune	13 10
+16 John went back to the mars.
+17 Mary moved to the jupiter.
+18 Where is the milk? 	neptune	13 10
+19 Sandra went to the neptune.
+20 Sandra grabbed the milk there.
+21 Daniel dropped the apple.
+22 John went back to the neptune.
+23 Where is the apple? 	moon	21 11
+1 Mary went back to the moon.
+2 Daniel went back to the moon.
+3 Mary got the milk there.
+4 Mary journeyed to the mars.
+5 Where is the milk? 	mars	3 4
+6 Mary got the apple there.
+7 Mary moved to the neptune.
+8 Where is the apple? 	neptune	6 7
+9 Mary went back to the earth.
+10 Mary moved to the mars.
+11 Where is the apple? 	mars	6 10
+12 John journeyed to the moon.
+13 John went back to the neptune.
+14 John moved to the earth.
+15 Mary journeyed to the venus.
+16 Daniel travelled to the jupiter.
+17 Daniel picked up the football there.
+18 Mary journeyed to the jupiter.
+19 John journeyed to the moon.
+20 Daniel discarded the football.
+21 Mary discarded the milk.
+22 Where is the milk? 	jupiter	21 18
+23 Mary grabbed the football there.
+24 Sandra went back to the moon.
+25 Where is the milk? 	jupiter	21 18
+1 Sandra took the milk there.
+2 Sandra journeyed to the venus.
+3 Where is the milk? 	venus	1 2
+4 Sandra dropped the milk there.
+5 Sandra journeyed to the moon.
+6 Where is the milk? 	venus	4 2
+7 John travelled to the venus.
+8 John went to the mars.
+9 Where is the milk? 	venus	4 2
+10 John got the apple there.
+11 Daniel moved to the moon.
+12 John dropped the apple.
+13 Daniel moved to the neptune.
+14 Where is the apple? 	mars	12 8
+15 John picked up the apple there.
+16 Mary went back to the jupiter.
+17 Mary journeyed to the mars.
+18 John discarded the apple.
+19 Where is the apple? 	mars	18 8
+1 Sandra journeyed to the moon.
+2 Mary took the apple there.
+3 Sandra went back to the mars.
+4 Mary went back to the jupiter.
+5 Where is the apple? 	jupiter	2 4
+6 Sandra took the milk there.
+7 Mary discarded the apple.
+8 Where is the apple? 	jupiter	7 4
+9 Mary got the apple there.
+10 Daniel moved to the earth.
+11 John went to the earth.
+12 Sandra dropped the milk there.
+13 Where is the milk? 	mars	12 3
+14 Mary put down the apple.
+15 Daniel went back to the neptune.
+16 Where is the apple? 	jupiter	14 4
+17 Daniel went back to the venus.
+18 John moved to the jupiter.
+19 Where is the milk? 	mars	12 3
+1 Mary travelled to the earth.
+2 Daniel grabbed the apple there.
+3 Daniel went to the venus.
+4 John travelled to the jupiter.
+5 Where is the apple? 	venus	2 3
+6 Daniel left the apple.
+7 John travelled to the neptune.
+8 Where is the apple? 	venus	6 3
+9 Sandra went to the jupiter.
+10 Daniel journeyed to the neptune.
+11 Where is the apple? 	venus	6 3
+12 Daniel went to the mars.
+13 John journeyed to the mars.
+14 Mary moved to the jupiter.
+15 Mary went back to the venus.
+16 Mary moved to the jupiter.
+17 John went back to the moon.
+18 John travelled to the jupiter.
+19 Daniel went back to the venus.
+20 John travelled to the mars.
+21 Mary went to the earth.
+22 Daniel moved to the moon.
+23 Daniel picked up the football there.
+24 Sandra travelled to the neptune.
+25 Daniel picked up the milk there.
+26 Daniel dropped the milk.
+27 Daniel took the milk there.
+28 Daniel moved to the earth.
+29 Sandra went to the venus.
+30 Where is the milk? 	earth	27 28
+31 Sandra travelled to the mars.
+32 Sandra travelled to the jupiter.
+33 Where is the milk? 	earth	27 28
+1 Sandra got the milk there.
+2 John grabbed the apple there.
+3 John journeyed to the moon.
+4 John discarded the apple.
+5 Where is the apple? 	moon	4 3
+6 John journeyed to the venus.
+7 Sandra travelled to the earth.
+8 Where is the apple? 	moon	4 3
+9 Sandra went back to the venus.
+10 Sandra left the milk there.
+11 Where is the milk? 	venus	10 9
+12 John grabbed the milk there.
+13 John went back to the mars.
+14 Where is the milk? 	mars	12 13
+15 Daniel went to the venus.
+16 Sandra journeyed to the mars.
+17 Where is the milk? 	mars	12 13
+1 Mary moved to the neptune.
+2 Mary journeyed to the mars.
+3 Sandra moved to the jupiter.
+4 Daniel journeyed to the jupiter.
+5 Mary travelled to the earth.
+6 Mary went back to the venus.
+7 Sandra moved to the mars.
+8 Daniel went back to the earth.
+9 Mary went to the jupiter.
+10 Mary moved to the venus.
+11 John moved to the neptune.
+12 John travelled to the earth.
+13 John moved to the jupiter.
+14 Daniel journeyed to the moon.
+15 Sandra picked up the milk there.
+16 Sandra moved to the jupiter.
+17 Where is the milk? 	jupiter	15 16
+18 John travelled to the earth.
+19 John travelled to the moon.
+20 Where is the milk? 	jupiter	15 16
+21 Sandra went back to the venus.
+22 John went to the neptune.
+23 Sandra put down the milk.
+24 Mary picked up the milk there.
+25 John went back to the mars.
+26 John went to the venus.
+27 Mary put down the milk.
+28 Sandra picked up the milk there.
+29 Sandra went back to the neptune.
+30 John journeyed to the neptune.
+31 Where is the milk? 	neptune	28 29
+32 John moved to the earth.
+33 Sandra went back to the venus.
+34 Where is the milk? 	venus	28 33
+35 John moved to the neptune.
+36 Sandra dropped the milk there.
+37 Where is the milk? 	venus	36 33
+1 Sandra journeyed to the venus.
+2 Daniel got the football there.
+3 Mary went back to the mars.
+4 Sandra went back to the neptune.
+5 Daniel put down the football there.
+6 Daniel journeyed to the mars.
+7 Sandra moved to the venus.
+8 Mary went back to the jupiter.
+9 Mary moved to the mars.
+10 John travelled to the moon.
+11 Mary moved to the jupiter.
+12 Mary got the apple there.
+13 Daniel moved to the jupiter.
+14 Daniel got the milk there.
+15 Mary went back to the venus.
+16 Daniel left the milk.
+17 Where is the milk? 	jupiter	16 13
+18 John travelled to the jupiter.
+19 Mary put down the apple.
+20 Where is the milk? 	jupiter	16 13
+21 Daniel went to the moon.
+22 John got the milk there.
+23 Where is the apple? 	venus	19 15
+24 John travelled to the moon.
+25 John dropped the milk there.
+26 Where is the milk? 	moon	25 24
+27 Sandra picked up the apple there.
+28 Daniel moved to the jupiter.
+29 Where is the milk? 	moon	25 24
+1 Daniel journeyed to the jupiter.
+2 Sandra went to the moon.
+3 Mary journeyed to the mars.
+4 Mary got the football there.
+5 Mary dropped the football.
+6 John went to the neptune.
+7 Where is the football? 	mars	5 3
+8 John moved to the earth.
+9 Mary travelled to the moon.
+10 Where is the football? 	mars	5 3
+11 Sandra moved to the jupiter.
+12 Daniel journeyed to the earth.
+13 Daniel journeyed to the mars.
+14 Daniel picked up the football there.
+15 Daniel dropped the football.
+16 Sandra went to the moon.
+17 Where is the football? 	mars	15 13
+18 Mary travelled to the jupiter.
+19 Daniel grabbed the football there.
+20 Sandra moved to the neptune.
+21 Mary moved to the earth.
+22 Mary went back to the neptune.
+23 John went to the jupiter.
+24 Sandra went back to the mars.
+25 Daniel went back to the neptune.
+26 John journeyed to the mars.
+27 Mary went to the venus.
+28 Mary picked up the milk there.
+29 Daniel went back to the venus.
+30 Mary travelled to the jupiter.
+31 Mary journeyed to the mars.
+32 Where is the milk? 	mars	28 31
+33 Daniel left the football.
+34 Mary put down the milk.
+35 Where is the football? 	venus	33 29
+1 Daniel went to the jupiter.
+2 Mary took the football there.
+3 Sandra journeyed to the venus.
+4 Sandra went to the earth.
+5 John took the apple there.
+6 John put down the apple.
+7 Mary put down the football.
+8 John took the apple there.
+9 Mary went back to the earth.
+10 John put down the apple.
+11 Mary journeyed to the mars.
+12 Daniel moved to the venus.
+13 Sandra moved to the mars.
+14 Daniel picked up the milk there.
+15 John went to the neptune.
+16 John journeyed to the earth.
+17 Sandra picked up the apple there.
+18 Mary travelled to the earth.
+19 Mary went back to the moon.
+20 Sandra journeyed to the jupiter.
+21 Where is the apple? 	jupiter	17 20
+22 John went back to the mars.
+23 John moved to the venus.
+24 Sandra left the apple.
+25 Sandra took the apple there.
+26 Sandra put down the apple.
+27 John went back to the moon.
+28 Where is the apple? 	jupiter	26 20
+29 Sandra travelled to the venus.
+30 Daniel went to the moon.
+31 Where is the apple? 	jupiter	26 20
+32 Daniel left the milk.
+33 Mary took the milk there.
+34 Mary put down the milk.
+35 Mary journeyed to the mars.
+36 Where is the milk? 	moon	34 19
+37 Mary moved to the earth.
+38 John went to the venus.
+39 Where is the milk? 	moon	34 19
+1 John picked up the apple there.
+2 John moved to the jupiter.
+3 Where is the apple? 	jupiter	1 2
+4 Mary went to the jupiter.
+5 John discarded the apple.
+6 Where is the apple? 	jupiter	5 2
+7 John travelled to the mars.
+8 Mary went back to the neptune.
+9 Where is the apple? 	jupiter	5 2
+10 Daniel grabbed the apple there.
+11 Daniel left the apple.
+12 Mary grabbed the milk there.
+13 Daniel moved to the mars.
+14 Sandra got the apple there.
+15 Mary travelled to the earth.
+16 Where is the milk? 	earth	12 15
+17 Sandra went to the earth.
+18 John travelled to the neptune.
+19 Where is the apple? 	earth	14 17
+1 Mary grabbed the football there.
+2 Sandra travelled to the jupiter.
+3 Sandra picked up the apple there.
+4 Sandra journeyed to the earth.
+5 Where is the apple? 	earth	3 4
+6 Sandra journeyed to the mars.
+7 Mary travelled to the venus.
+8 Where is the apple? 	mars	3 6
+9 John moved to the moon.
+10 Daniel went to the moon.
+11 Mary left the football.
+12 Daniel took the milk there.
+13 Where is the football? 	venus	11 7
+14 Mary picked up the football there.
+15 John went to the venus.
+16 Mary put down the football there.
+17 Daniel put down the milk there.
+18 Where is the milk? 	moon	17 10
+19 Daniel grabbed the milk there.
+20 Daniel went to the mars.
+21 Where is the football? 	venus	16 7
+1 Daniel took the apple there.
+2 John moved to the jupiter.
+3 John moved to the earth.
+4 Sandra journeyed to the moon.
+5 Sandra journeyed to the venus.
+6 Mary took the milk there.
+7 Mary put down the milk.
+8 Mary went to the venus.
+9 Sandra grabbed the football there.
+10 John journeyed to the venus.
+11 Sandra went to the neptune.
+12 Sandra went back to the moon.
+13 Where is the football? 	moon	9 12
+14 Sandra discarded the football.
+15 Daniel moved to the mars.
+16 Where is the football? 	moon	14 12
+17 John travelled to the jupiter.
+18 Daniel travelled to the venus.
+19 Where is the football? 	moon	14 12
+20 Daniel put down the apple.
+21 Daniel took the apple there.
+22 Daniel discarded the apple there.
+23 Sandra grabbed the football there.
+24 Where is the apple? 	venus	22 18
+25 Mary picked up the apple there.
+26 Sandra dropped the football there.
+27 Where is the football? 	moon	26 12
+1 Daniel picked up the apple there.
+2 Daniel dropped the apple.
+3 John moved to the earth.
+4 John grabbed the apple there.
+5 Daniel went to the neptune.
+6 Sandra grabbed the football there.
+7 Sandra went back to the mars.
+8 John left the apple.
+9 Where is the apple? 	earth	8 3
+10 Sandra dropped the football.
+11 Mary journeyed to the earth.
+12 Where is the apple? 	earth	8 3
+13 Mary went back to the neptune.
+14 Sandra went to the earth.
+15 Where is the football? 	mars	10 7
+16 Sandra travelled to the mars.
+17 Sandra travelled to the venus.
+18 Mary went to the earth.
+19 Sandra grabbed the milk there.
+20 Daniel went back to the earth.
+21 Daniel picked up the apple there.
+22 Daniel travelled to the jupiter.
+23 Daniel put down the apple.
+24 Where is the apple? 	jupiter	23 22
+25 Sandra dropped the milk.
+26 Daniel grabbed the apple there.
+27 Where is the milk? 	venus	25 17
+1 Sandra moved to the neptune.
+2 Mary took the apple there.
+3 John moved to the venus.
+4 John moved to the earth.
+5 Daniel moved to the mars.
+6 John went to the venus.
+7 Mary put down the apple there.
+8 Mary picked up the apple there.
+9 Mary moved to the neptune.
+10 Daniel journeyed to the jupiter.
+11 Where is the apple? 	neptune	8 9
+12 John journeyed to the earth.
+13 John journeyed to the mars.
+14 Where is the apple? 	neptune	8 9
+15 Mary discarded the apple there.
+16 Mary took the apple there.
+17 Sandra moved to the moon.
+18 Mary went back to the mars.
+19 Where is the apple? 	mars	16 18
+20 Daniel moved to the mars.
+21 Mary journeyed to the moon.
+22 Where is the apple? 	moon	16 21
+23 Mary put down the apple.
+24 John moved to the earth.
+25 Where is the apple? 	moon	23 21
+1 Mary journeyed to the jupiter.
+2 John grabbed the apple there.
+3 John left the apple.
+4 Mary went back to the moon.
+5 John grabbed the apple there.
+6 Mary went back to the venus.
+7 John put down the apple.
+8 Daniel got the milk there.
+9 Daniel went back to the neptune.
+10 John journeyed to the jupiter.
+11 Where is the milk? 	neptune	8 9
+12 Daniel went back to the venus.
+13 Mary got the apple there.
+14 Where is the milk? 	venus	8 12
+15 Daniel discarded the milk.
+16 Daniel got the football there.
+17 Where is the milk? 	venus	15 12
+18 Daniel got the milk there.
+19 Daniel discarded the football.
+20 Where is the football? 	venus	19 12
+21 Daniel left the milk.
+22 Daniel grabbed the milk there.
+23 Where is the football? 	venus	19 12
+1 Daniel grabbed the apple there.
+2 Daniel went back to the moon.
+3 Where is the apple? 	moon	1 2
+4 John journeyed to the venus.
+5 Daniel went back to the neptune.
+6 Where is the apple? 	neptune	1 5
+7 Mary moved to the earth.
+8 Daniel left the apple.
+9 Where is the apple? 	neptune	8 5
+10 Sandra took the football there.
+11 Sandra discarded the football there.
+12 Where is the apple? 	neptune	8 5
+13 Sandra took the football there.
+14 John travelled to the mars.
+15 Where is the apple? 	neptune	8 5
+1 Sandra moved to the mars.
+2 John moved to the moon.
+3 Mary travelled to the venus.
+4 Sandra moved to the jupiter.
+5 Mary travelled to the neptune.
+6 Daniel grabbed the milk there.
+7 Daniel went to the moon.
+8 Sandra got the apple there.
+9 Where is the milk? 	moon	6 7
+10 Daniel put down the milk.
+11 John got the milk there.
+12 Sandra went back to the mars.
+13 Mary went to the jupiter.
+14 Where is the apple? 	mars	8 12
+15 Sandra journeyed to the neptune.
+16 Sandra put down the apple.
+17 Where is the apple? 	neptune	16 15
+18 Sandra journeyed to the mars.
+19 Sandra picked up the football there.
+20 Where is the apple? 	neptune	16 15
+21 Sandra put down the football.
+22 Sandra took the football there.
+23 Where is the apple? 	neptune	16 15
+1 Sandra went back to the mars.
+2 John picked up the milk there.
+3 John left the milk.
+4 Sandra went to the venus.
+5 Mary went to the moon.
+6 Daniel journeyed to the venus.
+7 Sandra took the football there.
+8 Daniel moved to the mars.
+9 John took the milk there.
+10 John put down the milk there.
+11 John went to the moon.
+12 Sandra put down the football.
+13 Where is the football? 	venus	12 4
+14 Daniel journeyed to the earth.
+15 Sandra travelled to the moon.
+16 Where is the football? 	venus	12 4
+17 John journeyed to the jupiter.
+18 John grabbed the apple there.
+19 Where is the football? 	venus	12 4
+20 John travelled to the moon.
+21 John left the apple there.
+22 Where is the apple? 	moon	21 20
+23 Daniel went to the moon.
+24 Daniel grabbed the apple there.
+25 Sandra moved to the neptune.
+26 Daniel journeyed to the neptune.
+27 Where is the apple? 	neptune	24 26
+1 Daniel grabbed the apple there.
+2 Daniel dropped the apple.
+3 John moved to the neptune.
+4 Daniel took the apple there.
+5 Daniel left the apple.
+6 Daniel went back to the moon.
+7 John travelled to the venus.
+8 Daniel travelled to the mars.
+9 Daniel went back to the neptune.
+10 John picked up the apple there.
+11 John picked up the football there.
+12 Mary went to the venus.
+13 John left the apple.
+14 Mary travelled to the moon.
+15 Where is the apple? 	venus	13 7
+16 Mary moved to the jupiter.
+17 Daniel journeyed to the moon.
+18 Where is the apple? 	venus	13 7
+19 Mary journeyed to the venus.
+20 Mary moved to the jupiter.
+21 John picked up the apple there.
+22 Sandra travelled to the mars.
+23 John travelled to the moon.
+24 Daniel travelled to the neptune.
+25 Where is the apple? 	moon	21 23
+26 Sandra travelled to the jupiter.
+27 John travelled to the jupiter.
+28 Sandra travelled to the moon.
+29 Sandra journeyed to the neptune.
+30 Mary went to the moon.
+31 John journeyed to the moon.
+32 Mary went to the neptune.
+33 Sandra journeyed to the jupiter.
+34 John left the apple there.
+35 Daniel journeyed to the mars.
+36 Where is the apple? 	moon	34 31
+37 John grabbed the apple there.
+38 Mary went back to the jupiter.
+39 Mary went to the mars.
+40 John went back to the venus.
+41 Where is the apple? 	venus	37 40
+1 John travelled to the jupiter.
+2 Daniel went back to the venus.
+3 John went back to the mars.
+4 Daniel went back to the neptune.
+5 Sandra journeyed to the earth.
+6 Daniel moved to the earth.
+7 John grabbed the football there.
+8 Daniel journeyed to the venus.
+9 John put down the football.
+10 John took the apple there.
+11 Where is the football? 	mars	9 3
+12 John journeyed to the jupiter.
+13 Mary journeyed to the neptune.
+14 Where is the apple? 	jupiter	10 12
+15 Mary journeyed to the mars.
+16 John picked up the milk there.
+17 Where is the apple? 	jupiter	10 12
+18 Mary got the football there.
+19 Sandra journeyed to the neptune.
+20 Mary left the football.
+21 John left the apple.
+22 Where is the football? 	mars	20 15
+23 Mary journeyed to the earth.
+24 John put down the milk.
+25 Where is the apple? 	jupiter	21 12
+1 Sandra moved to the neptune.
+2 John travelled to the jupiter.
+3 Sandra took the milk there.
+4 Sandra put down the milk.
+5 Where is the milk? 	neptune	4 1
+6 Mary went to the earth.
+7 Sandra went back to the mars.
+8 Where is the milk? 	neptune	4 1
+9 Mary went to the mars.
+10 Sandra got the apple there.
+11 Where is the milk? 	neptune	4 1
+12 Sandra dropped the apple.
+13 Daniel went back to the jupiter.
+14 Where is the apple? 	mars	12 7
+15 Mary grabbed the apple there.
+16 Daniel journeyed to the neptune.
+17 Daniel moved to the mars.
+18 Daniel travelled to the jupiter.
+19 Sandra journeyed to the moon.
+20 Mary left the apple.
+21 Where is the apple? 	mars	20 9
+1 Daniel journeyed to the moon.
+2 Sandra went to the moon.
+3 Mary picked up the apple there.
+4 Sandra took the football there.
+5 Daniel journeyed to the earth.
+6 John went back to the moon.
+7 John went back to the venus.
+8 Daniel journeyed to the neptune.
+9 Sandra left the football.
+10 Sandra went to the jupiter.
+11 Where is the football? 	moon	9 2
+12 Sandra went back to the moon.
+13 Mary left the apple.
+14 Where is the football? 	moon	9 2
+15 Mary went back to the mars.
+16 Sandra travelled to the mars.
+17 Daniel grabbed the milk there.
+18 Daniel moved to the jupiter.
+19 Where is the milk? 	jupiter	17 18
+20 Daniel put down the milk.
+21 Daniel travelled to the venus.
+22 Where is the milk? 	jupiter	20 18
+23 Daniel went back to the mars.
+24 Daniel journeyed to the neptune.
+25 Where is the milk? 	jupiter	20 18
+1 John went back to the earth.
+2 Sandra picked up the apple there.
+3 Mary moved to the earth.
+4 Sandra left the apple.
+5 John went back to the venus.
+6 Mary went back to the neptune.
+7 Sandra grabbed the apple there.
+8 Daniel went back to the jupiter.
+9 Sandra left the apple there.
+10 Sandra took the apple there.
+11 Sandra discarded the apple.
+12 Daniel went to the venus.
+13 Sandra went back to the venus.
+14 John went back to the earth.
+15 Sandra grabbed the football there.
+16 Sandra went back to the earth.
+17 Where is the football? 	earth	15 16
+18 John went to the venus.
+19 Sandra dropped the football.
+20 Where is the football? 	earth	19 16
+21 Sandra got the football there.
+22 Sandra put down the football.
+23 Where is the football? 	earth	22 16
+24 Daniel went to the earth.
+25 Daniel grabbed the football there.
+26 Mary went back to the jupiter.
+27 Daniel discarded the football.
+28 Where is the football? 	earth	27 24
+29 Mary grabbed the milk there.
+30 Sandra went to the neptune.
+31 Where is the football? 	earth	27 24
+1 Sandra took the football there.
+2 Sandra left the football.
+3 Sandra went to the moon.
+4 Daniel went back to the mars.
+5 Daniel travelled to the neptune.
+6 John went to the neptune.
+7 John journeyed to the earth.
+8 John picked up the milk there.
+9 Daniel took the apple there.
+10 Mary went back to the jupiter.
+11 Daniel moved to the jupiter.
+12 Sandra went back to the neptune.
+13 Where is the apple? 	jupiter	9 11
+14 Mary picked up the football there.
+15 Daniel dropped the apple there.
+16 Where is the apple? 	jupiter	15 11
+17 Daniel went to the mars.
+18 Sandra journeyed to the mars.
+19 Where is the apple? 	jupiter	15 11
+20 Daniel travelled to the earth.
+21 Sandra went back to the moon.
+22 Where is the apple? 	jupiter	15 11
+23 Daniel moved to the moon.
+24 John put down the milk.
+25 Where is the milk? 	earth	24 7
+1 Sandra got the football there.
+2 John journeyed to the neptune.
+3 John journeyed to the jupiter.
+4 Daniel travelled to the earth.
+5 John went to the earth.
+6 Mary went back to the mars.
+7 John journeyed to the moon.
+8 Sandra journeyed to the earth.
+9 Sandra put down the football.
+10 Sandra picked up the football there.
+11 John went back to the neptune.
+12 Daniel moved to the moon.
+13 John grabbed the milk there.
+14 Mary travelled to the venus.
+15 Sandra moved to the neptune.
+16 Daniel went back to the jupiter.
+17 Sandra left the football there.
+18 John grabbed the football there.
+19 John dropped the football.
+20 John discarded the milk there.
+21 Where is the milk? 	neptune	20 11
+22 Mary went to the jupiter.
+23 Mary travelled to the venus.
+24 Where is the football? 	neptune	19 11
+25 Sandra moved to the moon.
+26 Sandra went to the mars.
+27 Where is the milk? 	neptune	20 11
+28 Mary moved to the moon.
+29 Sandra travelled to the jupiter.
+30 John went to the earth.
+31 Mary grabbed the apple there.
+32 Mary put down the apple.
+33 Mary travelled to the neptune.
+34 Where is the apple? 	moon	32 28
+35 Mary got the milk there.
+36 John moved to the venus.
+37 Where is the apple? 	moon	32 28
+1 John moved to the moon.
+2 Daniel moved to the earth.
+3 Mary went back to the earth.
+4 Mary moved to the jupiter.
+5 Sandra moved to the venus.
+6 John travelled to the venus.
+7 Sandra went back to the neptune.
+8 Mary took the football there.
+9 Sandra journeyed to the mars.
+10 Mary went to the earth.
+11 Where is the football? 	earth	8 10
+12 Daniel went to the venus.
+13 John travelled to the jupiter.
+14 Where is the football? 	earth	8 10
+15 Mary moved to the jupiter.
+16 Mary discarded the football there.
+17 Where is the football? 	jupiter	16 15
+18 Sandra moved to the venus.
+19 John took the football there.
+20 Mary travelled to the mars.
+21 Daniel journeyed to the moon.
+22 Daniel journeyed to the earth.
+23 Mary went back to the jupiter.
+24 Sandra moved to the jupiter.
+25 John went back to the earth.
+26 Mary travelled to the venus.
+27 John dropped the football.
+28 Where is the football? 	earth	27 25
+29 Sandra went back to the venus.
+30 Sandra moved to the neptune.
+31 Where is the football? 	earth	27 25
+1 Mary grabbed the milk there.
+2 John picked up the apple there.
+3 Mary went to the moon.
+4 Daniel moved to the venus.
+5 Where is the milk? 	moon	1 3
+6 John put down the apple.
+7 Mary left the milk.
+8 Where is the milk? 	moon	7 3
+9 John went to the moon.
+10 Daniel went back to the mars.
+11 Where is the milk? 	moon	7 3
+12 Mary picked up the milk there.
+13 Sandra moved to the earth.
+14 Mary left the milk.
+15 Mary went back to the earth.
+16 Where is the milk? 	moon	14 3
+17 Daniel went back to the earth.
+18 Daniel journeyed to the venus.
+19 Where is the milk? 	moon	14 3
+1 Sandra moved to the moon.
+2 Mary picked up the milk there.
+3 Mary picked up the apple there.
+4 Mary moved to the mars.
+5 Where is the milk? 	mars	2 4
+6 Sandra moved to the neptune.
+7 Mary dropped the apple.
+8 Where is the milk? 	mars	2 4
+9 Mary dropped the milk.
+10 Daniel went to the earth.
+11 Where is the milk? 	mars	9 4
+12 Daniel journeyed to the jupiter.
+13 John went back to the jupiter.
+14 Where is the milk? 	mars	9 4
+15 Daniel travelled to the neptune.
+16 Mary moved to the neptune.
+17 John journeyed to the neptune.
+18 John travelled to the venus.
+19 Mary went to the venus.
+20 Sandra moved to the venus.
+21 John moved to the moon.
+22 Mary went to the jupiter.
+23 Mary went back to the venus.
+24 Sandra went to the neptune.
+25 Daniel journeyed to the venus.
+26 Mary journeyed to the jupiter.
+27 Sandra went back to the earth.
+28 Mary travelled to the moon.
+29 Mary went to the earth.
+30 Daniel went to the jupiter.
+31 Mary journeyed to the venus.
+32 Daniel moved to the earth.
+33 Daniel moved to the mars.
+34 John moved to the earth.
+35 Mary moved to the neptune.
+36 Sandra moved to the moon.
+37 John moved to the moon.
+38 Daniel went to the neptune.
+39 John went to the mars.
+40 John travelled to the moon.
+41 Sandra travelled to the jupiter.
+42 Sandra travelled to the mars.
+43 Mary went to the earth.
+44 Daniel travelled to the earth.
+45 Mary moved to the moon.
+46 Mary moved to the venus.
+47 Daniel went to the moon.
+48 Daniel went to the venus.
+49 Sandra went back to the jupiter.
+50 John went to the jupiter.
+51 John moved to the moon.
+52 Mary travelled to the earth.
+53 Mary moved to the neptune.
+54 Daniel travelled to the mars.
+55 John travelled to the mars.
+56 Sandra travelled to the mars.
+57 Daniel picked up the football there.
+58 John got the milk there.
+59 John travelled to the venus.
+60 John went to the mars.
+61 Where is the milk? 	mars	58 60
+1 Daniel moved to the mars.
+2 Daniel travelled to the earth.
+3 Daniel went to the jupiter.
+4 Mary journeyed to the moon.
+5 Daniel travelled to the mars.
+6 John went back to the mars.
+7 Daniel went back to the jupiter.
+8 John went to the earth.
+9 Sandra travelled to the venus.
+10 Sandra went back to the jupiter.
+11 Sandra got the milk there.
+12 Daniel picked up the football there.
+13 Mary went back to the venus.
+14 Mary got the apple there.
+15 Daniel moved to the moon.
+16 Daniel left the football.
+17 Where is the football? 	moon	16 15
+18 Mary journeyed to the jupiter.
+19 Mary went back to the venus.
+20 Where is the football? 	moon	16 15
+21 Mary moved to the mars.
+22 Mary moved to the earth.
+23 Where is the football? 	moon	16 15
+24 Sandra left the milk.
+25 Mary moved to the mars.
+26 Where is the milk? 	jupiter	24 10
+27 Sandra got the milk there.
+28 John journeyed to the jupiter.
+29 Daniel got the football there.
+30 Daniel went back to the mars.
+31 Where is the football? 	mars	29 30
+1 Daniel grabbed the football there.
+2 Sandra picked up the apple there.
+3 Daniel dropped the football.
+4 Sandra discarded the apple.
+5 John got the football there.
+6 Sandra got the apple there.
+7 John went to the moon.
+8 Mary journeyed to the venus.
+9 Where is the football? 	moon	5 7
+10 Sandra dropped the apple.
+11 Daniel went back to the earth.
+12 Sandra got the apple there.
+13 Daniel travelled to the venus.
+14 Daniel moved to the earth.
+15 John dropped the football.
+16 Where is the football? 	moon	15 7
+17 Sandra left the apple.
+18 John grabbed the football there.
+19 Daniel got the apple there.
+20 John left the football.
+21 Where is the football? 	moon	20 7
+22 Daniel discarded the apple.
+23 Sandra went back to the moon.
+24 Where is the football? 	moon	20 7
+25 Sandra went to the mars.
+26 Daniel travelled to the neptune.
+27 Where is the football? 	moon	20 7
+1 Sandra went back to the venus.
+2 Daniel took the football there.
+3 John went back to the mars.
+4 Sandra journeyed to the neptune.
+5 Sandra went to the moon.
+6 Sandra went to the earth.
+7 Sandra went to the mars.
+8 John travelled to the moon.
+9 Daniel went to the venus.
+10 Mary went to the venus.
+11 Mary grabbed the apple there.
+12 Mary travelled to the moon.
+13 Where is the apple? 	moon	11 12
+14 John went to the neptune.
+15 John journeyed to the jupiter.
+16 Where is the apple? 	moon	11 12
+17 Sandra went back to the earth.
+18 Daniel discarded the football.
+19 Where is the football? 	venus	18 9
+20 John went back to the venus.
+21 Daniel travelled to the earth.
+22 Where is the football? 	venus	18 9
+23 Mary discarded the apple there.
+24 Sandra moved to the venus.
+25 Where is the football? 	venus	18 9
+1 Sandra journeyed to the venus.
+2 John journeyed to the mars.
+3 John grabbed the apple there.
+4 Sandra moved to the moon.
+5 Daniel journeyed to the mars.
+6 Mary took the football there.
+7 John journeyed to the moon.
+8 Sandra travelled to the jupiter.
+9 Daniel travelled to the jupiter.
+10 Mary moved to the venus.
+11 Where is the football? 	venus	6 10
+12 Daniel went to the venus.
+13 John put down the apple.
+14 Where is the apple? 	moon	13 7
+15 John went to the earth.
+16 Mary moved to the neptune.
+17 Where is the apple? 	moon	13 7
+18 Daniel moved to the mars.
+19 Mary put down the football there.
+20 Where is the football? 	neptune	19 16
+21 Sandra moved to the earth.
+22 John grabbed the milk there.
+23 Where is the football? 	neptune	19 16
+1 John went back to the jupiter.
+2 Daniel journeyed to the venus.
+3 Mary took the apple there.
+4 John went back to the neptune.
+5 Mary grabbed the milk there.
+6 Daniel moved to the earth.
+7 Mary dropped the apple there.
+8 Sandra grabbed the football there.
+9 Mary travelled to the venus.
+10 Mary went back to the neptune.
+11 Sandra went back to the mars.
+12 Sandra went back to the neptune.
+13 Where is the football? 	neptune	8 12
+14 Sandra put down the football.
+15 Sandra went to the venus.
+16 Where is the football? 	neptune	14 12
+17 Mary picked up the football there.
+18 Sandra moved to the neptune.
+19 Sandra journeyed to the mars.
+20 Daniel journeyed to the moon.
+21 Sandra went to the jupiter.
+22 Sandra journeyed to the moon.
+23 Mary went to the moon.
+24 Mary moved to the earth.
+25 Mary went to the neptune.
+26 Daniel went to the jupiter.
+27 Daniel journeyed to the moon.
+28 Daniel went back to the venus.
+29 Mary discarded the football.
+30 Daniel went to the moon.
+31 Where is the football? 	neptune	29 25
+32 Mary journeyed to the earth.
+33 John moved to the jupiter.
+34 Where is the football? 	neptune	29 25
+35 John journeyed to the earth.
+36 Daniel went back to the jupiter.
+37 Daniel travelled to the mars.
+38 Daniel went to the earth.
+39 John went back to the neptune.
+40 Mary left the milk.
+41 Where is the milk? 	earth	40 32
+1 John travelled to the jupiter.
+2 John journeyed to the venus.
+3 Mary got the football there.
+4 Mary left the football there.
+5 Daniel got the football there.
+6 Sandra got the milk there.
+7 John travelled to the jupiter.
+8 Mary travelled to the venus.
+9 Sandra travelled to the venus.
+10 John moved to the earth.
+11 Where is the milk? 	venus	6 9
+12 Daniel travelled to the neptune.
+13 Sandra put down the milk.
+14 Where is the milk? 	venus	13 9
+15 Mary grabbed the milk there.
+16 Daniel journeyed to the earth.
+17 John journeyed to the neptune.
+18 John went back to the jupiter.
+19 Sandra went back to the jupiter.
+20 John journeyed to the earth.
+21 John went to the moon.
+22 John travelled to the mars.
+23 Daniel moved to the neptune.
+24 John travelled to the earth.
+25 Daniel put down the football.
+26 Mary went to the mars.
+27 Where is the football? 	neptune	25 23
+28 Daniel travelled to the venus.
+29 Mary journeyed to the neptune.
+30 Where is the football? 	neptune	25 23
+31 Sandra went back to the earth.
+32 John moved to the jupiter.
+33 Daniel journeyed to the neptune.
+34 Mary discarded the milk.
+35 Where is the milk? 	neptune	34 29
+1 Mary journeyed to the jupiter.
+2 Sandra picked up the milk there.
+3 John went back to the mars.
+4 Sandra got the apple there.
+5 Mary got the football there.
+6 Mary went back to the venus.
+7 Where is the football? 	venus	5 6
+8 Daniel went to the moon.
+9 John went to the moon.
+10 Where is the football? 	venus	5 6
+11 Sandra went back to the venus.
+12 Sandra discarded the apple.
+13 Where is the apple? 	venus	12 11
+14 Daniel went back to the earth.
+15 Sandra went back to the moon.
+16 Where is the apple? 	venus	12 11
+17 Mary went back to the moon.
+18 Mary left the football.
+19 Where is the apple? 	venus	12 11
+1 Mary picked up the football there.
+2 Sandra got the milk there.
+3 Sandra went back to the earth.
+4 Daniel went back to the venus.
+5 Where is the milk? 	earth	2 3
+6 Daniel travelled to the jupiter.
+7 Sandra travelled to the jupiter.
+8 Where is the milk? 	jupiter	2 7
+9 John got the apple there.
+10 Mary moved to the mars.
+11 Sandra left the milk there.
+12 Daniel went to the mars.
+13 Where is the milk? 	jupiter	11 7
+14 Sandra went to the mars.
+15 Daniel journeyed to the earth.
+16 Where is the milk? 	jupiter	11 7
+17 John dropped the apple.
+18 Mary put down the football.
+19 Where is the football? 	mars	18 10
+1 John went to the earth.
+2 John moved to the venus.
+3 Daniel travelled to the moon.
+4 Sandra moved to the neptune.
+5 Sandra got the football there.
+6 Sandra put down the football.
+7 Where is the football? 	neptune	6 4
+8 Daniel moved to the neptune.
+9 Mary took the milk there.
+10 Where is the football? 	neptune	6 4
+11 Mary moved to the jupiter.
+12 Sandra went to the venus.
+13 Where is the milk? 	jupiter	9 11
+14 Daniel went to the jupiter.
+15 Mary went to the neptune.
+16 Where is the milk? 	neptune	9 15
+17 John journeyed to the neptune.
+18 Mary discarded the milk.
+19 Where is the milk? 	neptune	18 15
+1 Mary went back to the mars.
+2 Daniel travelled to the jupiter.
+3 Mary moved to the neptune.
+4 John went to the mars.
+5 Daniel went back to the moon.
+6 John travelled to the moon.
+7 Daniel moved to the mars.
+8 Sandra moved to the mars.
+9 John grabbed the football there.
+10 Sandra journeyed to the moon.
+11 John discarded the football.
+12 John grabbed the football there.
+13 John went back to the earth.
+14 Sandra went to the jupiter.
+15 Where is the football? 	earth	12 13
+16 Mary moved to the venus.
+17 Daniel went to the moon.
+18 Where is the football? 	earth	12 13
+19 John moved to the jupiter.
+20 Mary picked up the milk there.
+21 Sandra got the apple there.
+22 Sandra travelled to the earth.
+23 Where is the apple? 	earth	21 22
+24 Daniel moved to the jupiter.
+25 Sandra left the apple.
+26 Where is the apple? 	earth	25 22
+27 John moved to the earth.
+28 John discarded the football there.
+29 Where is the football? 	earth	28 27
+1 John travelled to the neptune.
+2 Daniel journeyed to the mars.
+3 Sandra journeyed to the venus.
+4 Daniel grabbed the apple there.
+5 Sandra got the milk there.
+6 Daniel dropped the apple there.
+7 Where is the apple? 	mars	6 2
+8 Sandra discarded the milk there.
+9 Sandra went to the neptune.
+10 Where is the apple? 	mars	6 2
+11 John moved to the mars.
+12 Mary moved to the neptune.
+13 Where is the milk? 	venus	8 3
+14 John journeyed to the jupiter.
+15 Daniel took the apple there.
+16 Daniel put down the apple.
+17 Daniel got the apple there.
+18 John journeyed to the neptune.
+19 Daniel travelled to the earth.
+20 Where is the apple? 	earth	17 19
+21 Daniel put down the apple.
+22 Sandra went to the jupiter.
+23 Where is the apple? 	earth	21 19
+1 Sandra travelled to the jupiter.
+2 Daniel moved to the mars.
+3 Mary travelled to the moon.
+4 Sandra took the football there.
+5 Daniel picked up the apple there.
+6 Sandra went back to the mars.
+7 Where is the football? 	mars	4 6
+8 Sandra left the football there.
+9 Daniel dropped the apple there.
+10 Where is the apple? 	mars	9 2
+11 Mary journeyed to the jupiter.
+12 Daniel travelled to the neptune.
+13 Where is the apple? 	mars	9 2
+14 Daniel got the milk there.
+15 Sandra went to the neptune.
+16 Where is the apple? 	mars	9 2
+17 Sandra moved to the moon.
+18 Mary went back to the neptune.
+19 Mary moved to the moon.
+20 Daniel discarded the milk.
+21 Where is the milk? 	neptune	20 12
+1 John grabbed the milk there.
+2 John left the milk.
+3 Sandra took the milk there.
+4 Sandra moved to the mars.
+5 Where is the milk? 	mars	3 4
+6 Sandra put down the milk.
+7 John journeyed to the jupiter.
+8 Where is the milk? 	mars	6 4
+9 Daniel journeyed to the earth.
+10 John went back to the mars.
+11 Where is the milk? 	mars	6 4
+12 Daniel went back to the venus.
+13 John grabbed the apple there.
+14 Sandra got the milk there.
+15 Daniel moved to the moon.
+16 John travelled to the neptune.
+17 John moved to the jupiter.
+18 Where is the apple? 	jupiter	13 17
+19 Sandra put down the milk there.
+20 Sandra took the milk there.
+21 John went back to the mars.
+22 Daniel picked up the football there.
+23 John went to the jupiter.
+24 John travelled to the neptune.
+25 John went to the jupiter.
+26 John dropped the apple there.
+27 Where is the apple? 	jupiter	26 25
+1 Sandra grabbed the football there.
+2 Sandra discarded the football.
+3 Daniel travelled to the jupiter.
+4 Sandra grabbed the football there.
+5 Mary travelled to the mars.
+6 Sandra went to the moon.
+7 Where is the football? 	moon	4 6
+8 Sandra dropped the football.
+9 Sandra took the football there.
+10 Daniel journeyed to the mars.
+11 Sandra discarded the football.
+12 Where is the football? 	moon	11 6
+13 Sandra picked up the football there.
+14 Daniel went to the neptune.
+15 John travelled to the mars.
+16 Sandra left the football.
+17 Where is the football? 	moon	16 6
+18 Mary went to the jupiter.
+19 Sandra picked up the football there.
+20 Mary went back to the earth.
+21 John travelled to the moon.
+22 Mary grabbed the milk there.
+23 John went back to the neptune.
+24 Daniel travelled to the mars.
+25 John travelled to the jupiter.
+26 Mary discarded the milk.
+27 Sandra journeyed to the earth.
+28 Where is the milk? 	earth	26 20
+29 Mary journeyed to the moon.
+30 Sandra moved to the jupiter.
+31 Where is the milk? 	earth	26 20
+1 Sandra travelled to the moon.
+2 Mary journeyed to the earth.
+3 John travelled to the moon.
+4 John got the football there.
+5 Sandra got the milk there.
+6 Sandra left the milk.
+7 Where is the milk? 	moon	6 1
+8 John discarded the football.
+9 Sandra went to the venus.
+10 Where is the football? 	moon	8 3
+11 John travelled to the venus.
+12 Sandra journeyed to the jupiter.
+13 Where is the football? 	moon	8 3
+14 John journeyed to the earth.
+15 Mary travelled to the jupiter.
+16 John moved to the jupiter.
+17 Mary travelled to the moon.
+18 John moved to the earth.
+19 Mary journeyed to the neptune.
+20 Mary got the apple there.
+21 Sandra went back to the venus.
+22 Sandra went to the mars.
+23 Mary dropped the apple.
+24 Where is the apple? 	neptune	23 19
+25 John went to the neptune.
+26 Sandra went to the moon.
+27 Where is the apple? 	neptune	23 19
+1 John journeyed to the venus.
+2 Sandra went to the jupiter.
+3 Sandra moved to the neptune.
+4 Mary went to the jupiter.
+5 Sandra picked up the milk there.
+6 Sandra dropped the milk there.
+7 Where is the milk? 	neptune	6 3
+8 Mary journeyed to the earth.
+9 Sandra got the milk there.
+10 John moved to the jupiter.
+11 Sandra travelled to the venus.
+12 Where is the milk? 	venus	9 11
+13 Mary journeyed to the mars.
+14 Mary took the football there.
+15 Where is the milk? 	venus	9 11
+16 Sandra discarded the milk.
+17 Daniel moved to the neptune.
+18 Where is the milk? 	venus	16 11
+19 Mary discarded the football.
+20 Mary travelled to the venus.
+21 Where is the football? 	mars	19 13
+1 Sandra journeyed to the jupiter.
+2 Mary went back to the mars.
+3 John picked up the football there.
+4 Sandra journeyed to the earth.
+5 John put down the football.
+6 Sandra got the apple there.
+7 John went to the jupiter.
+8 John went back to the venus.
+9 John moved to the moon.
+10 Sandra left the apple.
+11 Where is the apple? 	earth	10 4
+12 Daniel journeyed to the jupiter.
+13 John went back to the venus.
+14 Where is the apple? 	earth	10 4
+15 John travelled to the jupiter.
+16 John travelled to the venus.
+17 Where is the apple? 	earth	10 4
+18 Mary went back to the jupiter.
+19 John grabbed the football there.
+20 John left the football.
+21 John travelled to the mars.
+22 Where is the football? 	venus	20 16
+23 Daniel moved to the mars.
+24 Sandra went to the neptune.
+25 Where is the football? 	venus	20 16
+1 Sandra journeyed to the neptune.
+2 John journeyed to the moon.
+3 Sandra grabbed the football there.
+4 Daniel travelled to the earth.
+5 John got the milk there.
+6 John dropped the milk.
+7 Where is the milk? 	moon	6 2
+8 Sandra moved to the venus.
+9 Daniel went back to the neptune.
+10 Where is the milk? 	moon	6 2
+11 Sandra discarded the football.
+12 John moved to the neptune.
+13 Where is the football? 	venus	11 8
+14 John went back to the venus.
+15 Sandra went to the mars.
+16 Where is the football? 	venus	11 8
+17 Daniel moved to the earth.
+18 Sandra journeyed to the neptune.
+19 Sandra moved to the mars.
+20 John travelled to the jupiter.
+21 Sandra went to the venus.
+22 Sandra grabbed the football there.
+23 Sandra put down the football there.
+24 Daniel went back to the mars.
+25 Where is the football? 	venus	23 21
+1 Daniel grabbed the football there.
+2 Daniel discarded the football.
+3 John got the football there.
+4 Mary went back to the neptune.
+5 Daniel moved to the moon.
+6 John dropped the football there.
+7 Sandra took the apple there.
+8 Daniel journeyed to the jupiter.
+9 Mary took the football there.
+10 Mary dropped the football there.
+11 Where is the football? 	neptune	10 4
+12 Mary went to the earth.
+13 John grabbed the football there.
+14 John moved to the moon.
+15 Mary moved to the mars.
+16 Where is the football? 	moon	13 14
+17 Daniel moved to the moon.
+18 Mary moved to the jupiter.
+19 Where is the football? 	moon	13 14
+20 Daniel went back to the jupiter.
+21 Sandra put down the apple.
+22 John put down the football.
+23 Mary journeyed to the venus.
+24 Where is the football? 	moon	22 14
+25 John went back to the earth.
+26 Sandra grabbed the apple there.
+27 Where is the football? 	moon	22 14
+1 Mary travelled to the jupiter.
+2 Daniel went to the moon.
+3 John went back to the earth.
+4 John went to the neptune.
+5 Mary journeyed to the moon.
+6 Sandra picked up the apple there.
+7 John moved to the moon.
+8 John got the milk there.
+9 Daniel moved to the earth.
+10 John moved to the venus.
+11 Where is the milk? 	venus	8 10
+12 Sandra put down the apple.
+13 John got the football there.
+14 Where is the milk? 	venus	8 10
+15 Sandra journeyed to the jupiter.
+16 Daniel picked up the apple there.
+17 Mary journeyed to the mars.
+18 Daniel left the apple there.
+19 Where is the apple? 	earth	18 9
+20 Daniel got the apple there.
+21 John went back to the moon.
+22 Daniel put down the apple.
+23 John moved to the venus.
+24 Where is the apple? 	earth	22 9
+25 Sandra travelled to the moon.
+26 Sandra moved to the mars.
+27 Where is the apple? 	earth	22 9
+1 Sandra journeyed to the earth.
+2 Sandra picked up the football there.
+3 Sandra discarded the football.
+4 Mary moved to the jupiter.
+5 Where is the football? 	earth	3 1
+6 Mary went back to the neptune.
+7 Sandra journeyed to the venus.
+8 Where is the football? 	earth	3 1
+9 Mary picked up the apple there.
+10 John went back to the venus.
+11 Mary put down the apple.
+12 Sandra went to the neptune.
+13 Where is the apple? 	neptune	11 6
+14 Daniel went back to the earth.
+15 Mary travelled to the earth.
+16 Where is the apple? 	neptune	11 6
+17 Sandra took the apple there.
+18 Daniel went back to the mars.
+19 John went to the jupiter.
+20 John went back to the venus.
+21 Daniel journeyed to the earth.
+22 Sandra went back to the moon.
+23 Daniel went back to the moon.
+24 Mary moved to the mars.
+25 John travelled to the mars.
+26 Mary went back to the earth.
+27 Mary took the football there.
+28 Daniel went back to the venus.
+29 Mary travelled to the jupiter.
+30 Sandra went back to the venus.
+31 Where is the football? 	jupiter	27 29
+1 Sandra travelled to the moon.
+2 John travelled to the jupiter.
+3 John grabbed the apple there.
+4 Sandra took the football there.
+5 Sandra dropped the football there.
+6 Sandra took the football there.
+7 Daniel moved to the moon.
+8 John journeyed to the mars.
+9 Sandra travelled to the venus.
+10 John put down the apple.
+11 Where is the apple? 	mars	10 8
+12 Sandra went to the neptune.
+13 Sandra went back to the earth.
+14 Where is the apple? 	mars	10 8
+15 John picked up the apple there.
+16 Sandra moved to the mars.
+17 Sandra went back to the venus.
+18 Sandra went to the earth.
+19 John put down the apple.
+20 John grabbed the apple there.
+21 John left the apple there.
+22 Sandra left the football there.
+23 Where is the apple? 	mars	21 8
+24 John journeyed to the moon.
+25 Mary journeyed to the venus.
+26 Where is the apple? 	mars	21 8
+27 Sandra took the football there.
+28 John travelled to the venus.
+29 John got the milk there.
+30 Mary moved to the earth.
+31 John moved to the mars.
+32 Daniel went to the neptune.
+33 Where is the milk? 	mars	29 31
+1 Daniel went back to the neptune.
+2 Mary went back to the venus.
+3 Sandra went to the mars.
+4 Mary moved to the earth.
+5 Sandra travelled to the moon.
+6 Mary journeyed to the venus.
+7 Daniel went back to the jupiter.
+8 John went back to the venus.
+9 John travelled to the jupiter.
+10 Sandra got the milk there.
+11 John went back to the mars.
+12 Sandra left the milk.
+13 Where is the milk? 	moon	12 5
+14 Sandra took the milk there.
+15 Mary travelled to the earth.
+16 Sandra left the milk there.
+17 John moved to the venus.
+18 Where is the milk? 	moon	16 5
+19 Sandra grabbed the milk there.
+20 Sandra went back to the mars.
+21 Where is the milk? 	mars	19 20
+22 Daniel journeyed to the neptune.
+23 Mary moved to the mars.
+24 Where is the milk? 	mars	19 20
+25 Daniel travelled to the earth.
+26 Daniel went to the jupiter.
+27 John journeyed to the mars.
+28 John went to the moon.
+29 Sandra travelled to the neptune.
+30 Mary journeyed to the jupiter.
+31 John travelled to the mars.
+32 Sandra went to the venus.
+33 John went to the venus.
+34 Sandra moved to the mars.
+35 Daniel journeyed to the neptune.
+36 Sandra left the milk.
+37 Where is the milk? 	mars	36 34
+1 Mary went to the jupiter.
+2 John took the football there.
+3 John journeyed to the earth.
+4 Sandra went to the earth.
+5 Where is the football? 	earth	2 3
+6 Daniel went to the moon.
+7 Sandra went back to the moon.
+8 Where is the football? 	earth	2 3
+9 Sandra picked up the apple there.
+10 Sandra went to the jupiter.
+11 Where is the apple? 	jupiter	9 10
+12 Daniel went back to the venus.
+13 Sandra moved to the neptune.
+14 Where is the apple? 	neptune	9 13
+15 John went to the moon.
+16 Daniel moved to the neptune.
+17 Sandra travelled to the earth.
+18 Sandra put down the apple there.
+19 Where is the apple? 	earth	18 17
+1 Mary moved to the venus.
+2 Mary took the milk there.
+3 Sandra went to the earth.
+4 Sandra went to the mars.
+5 John journeyed to the moon.
+6 Daniel went back to the mars.
+7 Sandra took the apple there.
+8 Sandra dropped the apple there.
+9 Where is the apple? 	mars	8 4
+10 Sandra took the apple there.
+11 Sandra took the football there.
+12 Mary went back to the neptune.
+13 Sandra put down the football.
+14 Where is the football? 	mars	13 4
+15 Mary discarded the milk.
+16 Mary picked up the milk there.
+17 Where is the football? 	mars	13 4
+18 Mary put down the milk.
+19 Sandra got the football there.
+20 Where is the milk? 	neptune	18 12
+21 Mary went back to the venus.
+22 Sandra left the football.
+23 Where is the milk? 	neptune	18 12
+1 Daniel journeyed to the neptune.
+2 John moved to the moon.
+3 Sandra picked up the apple there.
+4 John grabbed the milk there.
+5 John put down the milk there.
+6 Sandra moved to the moon.
+7 Where is the milk? 	moon	5 2
+8 Sandra picked up the milk there.
+9 John journeyed to the jupiter.
+10 Sandra journeyed to the neptune.
+11 Sandra discarded the milk.
+12 Where is the milk? 	neptune	11 10
+13 Daniel travelled to the moon.
+14 Sandra journeyed to the venus.
+15 Where is the milk? 	neptune	11 10
+16 Sandra dropped the apple.
+17 Daniel went to the mars.
+18 Where is the apple? 	venus	16 14
+19 Daniel went back to the venus.
+20 John journeyed to the venus.
+21 Where is the apple? 	venus	16 14
+1 Daniel travelled to the neptune.
+2 Sandra went to the jupiter.
+3 Sandra moved to the neptune.
+4 Daniel got the football there.
+5 John went to the jupiter.
+6 Mary journeyed to the moon.
+7 Daniel put down the football there.
+8 Mary went back to the jupiter.
+9 Where is the football? 	neptune	7 1
+10 Sandra got the football there.
+11 Daniel moved to the earth.
+12 Sandra left the football.
+13 Daniel picked up the milk there.
+14 Where is the football? 	neptune	12 3
+15 John moved to the mars.
+16 Sandra moved to the venus.
+17 Where is the football? 	neptune	12 3
+18 John went to the neptune.
+19 John went to the moon.
+20 Daniel went back to the moon.
+21 Mary journeyed to the earth.
+22 Sandra went back to the earth.
+23 Mary journeyed to the mars.
+24 Sandra journeyed to the moon.
+25 Daniel dropped the milk.
+26 Where is the milk? 	moon	25 20
+27 Daniel got the milk there.
+28 Mary grabbed the apple there.
+29 Mary left the apple.
+30 Sandra went to the venus.
+31 Where is the apple? 	mars	29 23
+1 Mary moved to the neptune.
+2 Sandra travelled to the mars.
+3 Sandra travelled to the jupiter.
+4 Daniel travelled to the jupiter.
+5 Sandra went to the mars.
+6 Sandra got the apple there.
+7 John went to the venus.
+8 John grabbed the milk there.
+9 Mary took the football there.
+10 John discarded the milk.
+11 Where is the milk? 	venus	10 7
+12 Daniel moved to the mars.
+13 John took the milk there.
+14 John discarded the milk.
+15 Mary discarded the football.
+16 Where is the football? 	neptune	15 1
+17 Sandra moved to the earth.
+18 Sandra journeyed to the neptune.
+19 Where is the football? 	neptune	15 1
+20 Sandra took the football there.
+21 Daniel went back to the moon.
+22 Mary journeyed to the jupiter.
+23 John grabbed the milk there.
+24 Sandra left the apple.
+25 John left the milk.
+26 Where is the milk? 	venus	25 7
+27 John got the milk there.
+28 John dropped the milk.
+29 Where is the milk? 	venus	28 7
+1 Daniel moved to the earth.
+2 Daniel took the milk there.
+3 Daniel left the milk.
+4 John went to the earth.
+5 Where is the milk? 	earth	3 1
+6 John grabbed the apple there.
+7 Sandra went back to the venus.
+8 Where is the milk? 	earth	3 1
+9 Mary journeyed to the venus.
+10 John got the milk there.
+11 John travelled to the neptune.
+12 Daniel journeyed to the mars.
+13 Where is the milk? 	neptune	10 11
+14 John journeyed to the jupiter.
+15 Mary went to the earth.
+16 Where is the milk? 	jupiter	10 14
+17 Mary journeyed to the jupiter.
+18 John discarded the milk there.
+19 Where is the milk? 	jupiter	18 14
+1 Mary journeyed to the venus.
+2 John went to the neptune.
+3 John went to the mars.
+4 Daniel grabbed the apple there.
+5 Daniel dropped the apple.
+6 John journeyed to the venus.
+7 Mary travelled to the moon.
+8 John went to the earth.
+9 Sandra moved to the mars.
+10 Daniel went back to the moon.
+11 Sandra went back to the neptune.
+12 Mary took the milk there.
+13 John grabbed the apple there.
+14 John journeyed to the moon.
+15 Where is the apple? 	moon	13 14
+16 Mary dropped the milk.
+17 John picked up the milk there.
+18 Where is the apple? 	moon	13 14
+19 Daniel travelled to the venus.
+20 Sandra went to the jupiter.
+21 Mary took the football there.
+22 Daniel journeyed to the neptune.
+23 Daniel went back to the earth.
+24 Mary left the football there.
+25 Where is the football? 	moon	24 7
+26 Mary got the football there.
+27 Daniel went to the neptune.
+28 Daniel journeyed to the venus.
+29 John went to the mars.
+30 John went back to the jupiter.
+31 John travelled to the neptune.
+32 Mary travelled to the earth.
+33 Mary dropped the football.
+34 Where is the football? 	earth	33 32
+35 John left the milk.
+36 Mary went to the venus.
+37 Where is the milk? 	neptune	35 31
+1 Mary went to the jupiter.
+2 Daniel grabbed the football there.
+3 Mary journeyed to the venus.
+4 Daniel dropped the football.
+5 Sandra travelled to the jupiter.
+6 Mary grabbed the milk there.
+7 Sandra moved to the earth.
+8 Sandra travelled to the moon.
+9 Daniel journeyed to the venus.
+10 Sandra moved to the mars.
+11 Mary left the milk.
+12 Mary travelled to the moon.
+13 Where is the milk? 	venus	11 3
+14 Daniel travelled to the neptune.
+15 Mary travelled to the neptune.
+16 Where is the milk? 	venus	11 3
+17 Daniel grabbed the football there.
+18 Mary travelled to the jupiter.
+19 Mary moved to the neptune.
+20 Daniel put down the football.
+21 Where is the football? 	neptune	20 14
+22 John went to the jupiter.
+23 Sandra travelled to the earth.
+24 Where is the football? 	neptune	20 14
+25 Sandra went to the mars.
+26 Sandra journeyed to the jupiter.
+27 Where is the football? 	neptune	20 14
+1 John journeyed to the neptune.
+2 Sandra moved to the moon.
+3 Sandra grabbed the football there.
+4 Sandra went to the venus.
+5 Where is the football? 	venus	3 4
+6 Mary went back to the moon.
+7 Sandra picked up the milk there.
+8 Where is the football? 	venus	3 4
+9 Sandra left the football.
+10 Daniel went back to the moon.
+11 Where is the football? 	venus	9 4
+12 Daniel travelled to the jupiter.
+13 Sandra put down the milk.
+14 Where is the milk? 	venus	13 4
+15 Mary moved to the earth.
+16 Sandra journeyed to the earth.
+17 Where is the milk? 	venus	13 4
+1 Mary grabbed the football there.
+2 John journeyed to the neptune.
+3 Mary went back to the neptune.
+4 John journeyed to the earth.
+5 Where is the football? 	neptune	1 3
+6 Daniel journeyed to the mars.
+7 Mary discarded the football.
+8 Where is the football? 	neptune	7 3
+9 Mary went to the earth.
+10 Sandra went back to the neptune.
+11 Where is the football? 	neptune	7 3
+12 Mary journeyed to the venus.
+13 Mary grabbed the milk there.
+14 Where is the football? 	neptune	7 3
+15 John moved to the mars.
+16 Mary journeyed to the mars.
+17 Where is the milk? 	mars	13 16
+1 Mary moved to the neptune.
+2 Mary went to the mars.
+3 Mary picked up the milk there.
+4 John went back to the moon.
+5 Mary picked up the football there.
+6 John got the apple there.
+7 Mary went to the jupiter.
+8 Daniel travelled to the mars.
+9 Where is the football? 	jupiter	5 7
+10 John dropped the apple there.
+11 Mary put down the football there.
+12 Where is the football? 	jupiter	11 7
+13 Mary grabbed the football there.
+14 John took the apple there.
+15 John went back to the neptune.
+16 Mary travelled to the mars.
+17 Where is the football? 	mars	13 16
+18 John moved to the mars.
+19 Mary left the milk.
+20 Where is the apple? 	mars	14 18
+21 Mary journeyed to the neptune.
+22 Daniel got the milk there.
+23 Sandra travelled to the mars.
+24 John discarded the apple.
+25 Where is the apple? 	mars	24 18
+1 Sandra journeyed to the mars.
+2 Sandra went back to the earth.
+3 Daniel went back to the venus.
+4 Daniel travelled to the moon.
+5 John moved to the moon.
+6 Mary went to the earth.
+7 Mary travelled to the jupiter.
+8 Mary journeyed to the neptune.
+9 John went to the earth.
+10 Daniel moved to the venus.
+11 Daniel grabbed the apple there.
+12 John travelled to the mars.
+13 Daniel travelled to the earth.
+14 John picked up the milk there.
+15 Where is the apple? 	earth	11 13
+16 Mary moved to the moon.
+17 John grabbed the football there.
+18 Sandra journeyed to the neptune.
+19 Sandra journeyed to the mars.
+20 Daniel went to the neptune.
+21 Daniel journeyed to the mars.
+22 John journeyed to the moon.
+23 John left the football.
+24 Where is the football? 	moon	23 22
+25 John dropped the milk.
+26 Mary grabbed the football there.
+27 Where is the milk? 	moon	25 22
+28 Sandra moved to the moon.
+29 John grabbed the milk there.
+30 John discarded the milk.
+31 John went back to the jupiter.
+32 Where is the milk? 	moon	30 22
+33 Sandra took the milk there.
+34 Mary dropped the football.
+35 Where is the football? 	moon	34 16
+1 Mary moved to the moon.
+2 Mary went back to the earth.
+3 Sandra moved to the jupiter.
+4 John went to the earth.
+5 Mary travelled to the neptune.
+6 Sandra went to the earth.
+7 Mary travelled to the venus.
+8 John went to the moon.
+9 Daniel went to the neptune.
+10 Mary moved to the moon.
+11 Daniel went to the mars.
+12 Mary travelled to the neptune.
+13 John got the milk there.
+14 Mary went to the jupiter.
+15 Daniel journeyed to the moon.
+16 Daniel grabbed the apple there.
+17 John put down the milk.
+18 Daniel dropped the apple.
+19 Where is the apple? 	moon	18 15
+20 Daniel went back to the mars.
+21 Mary journeyed to the mars.
+22 Where is the apple? 	moon	18 15
+23 John took the apple there.
+24 John went back to the jupiter.
+25 Where is the apple? 	jupiter	23 24
+26 John went back to the earth.
+27 Daniel moved to the venus.
+28 Where is the apple? 	earth	23 26
+29 John dropped the apple there.
+30 Sandra went back to the mars.
+31 Where is the apple? 	earth	29 26
+1 Daniel travelled to the venus.
+2 Mary journeyed to the moon.
+3 John went back to the mars.
+4 John went back to the neptune.
+5 John travelled to the mars.
+6 Mary journeyed to the jupiter.
+7 Mary got the football there.
+8 Sandra moved to the jupiter.
+9 Mary left the football.
+10 John went to the jupiter.
+11 Where is the football? 	jupiter	9 6
+12 Sandra grabbed the football there.
+13 Daniel went to the earth.
+14 John travelled to the moon.
+15 Mary journeyed to the moon.
+16 Daniel travelled to the jupiter.
+17 Sandra travelled to the neptune.
+18 John journeyed to the jupiter.
+19 Daniel went to the earth.
+20 Sandra got the milk there.
+21 Sandra got the apple there.
+22 Mary went to the earth.
+23 Daniel went back to the venus.
+24 Mary travelled to the jupiter.
+25 John journeyed to the venus.
+26 Mary journeyed to the mars.
+27 Sandra discarded the apple.
+28 Where is the apple? 	neptune	27 17
+29 Mary travelled to the neptune.
+30 Mary grabbed the apple there.
+31 John moved to the moon.
+32 Daniel travelled to the neptune.
+33 Sandra discarded the football.
+34 Daniel got the football there.
+35 Daniel moved to the earth.
+36 Mary put down the apple.
+37 Where is the football? 	earth	34 35
+38 Sandra put down the milk.
+39 Daniel put down the football.
+40 Where is the milk? 	neptune	38 17
+41 Daniel went back to the venus.
+42 John travelled to the jupiter.
+43 Where is the milk? 	neptune	38 17
+1 Mary journeyed to the jupiter.
+2 Mary moved to the earth.
+3 Daniel moved to the earth.
+4 Daniel travelled to the venus.
+5 Daniel went to the mars.
+6 John journeyed to the jupiter.
+7 Mary went to the jupiter.
+8 Mary journeyed to the earth.
+9 John grabbed the apple there.
+10 Mary travelled to the venus.
+11 Daniel went to the neptune.
+12 Sandra went back to the venus.
+13 John dropped the apple there.
+14 John went back to the moon.
+15 Where is the apple? 	jupiter	13 6
+16 Mary picked up the milk there.
+17 Sandra went to the moon.
+18 Where is the apple? 	jupiter	13 6
+19 Mary discarded the milk.
+20 Mary moved to the mars.
+21 Where is the milk? 	venus	19 10
+22 Sandra went to the venus.
+23 Daniel moved to the mars.
+24 Where is the milk? 	venus	19 10
+25 John travelled to the neptune.
+26 Daniel went to the venus.
+27 Daniel went to the moon.
+28 Mary went to the venus.
+29 Mary moved to the earth.
+30 Mary went to the venus.
+31 Daniel went to the mars.
+32 John went back to the mars.
+33 John travelled to the neptune.
+34 Sandra grabbed the milk there.
+35 Sandra went to the earth.
+36 Daniel travelled to the earth.
+37 Where is the milk? 	earth	34 35
+1 John went to the jupiter.
+2 Mary went to the moon.
+3 Sandra moved to the mars.
+4 John went to the moon.
+5 Daniel went back to the neptune.
+6 Daniel picked up the milk there.
+7 Sandra grabbed the football there.
+8 John travelled to the venus.
+9 Daniel journeyed to the earth.
+10 Mary picked up the apple there.
+11 Where is the milk? 	earth	6 9
+12 John journeyed to the mars.
+13 Mary journeyed to the earth.
+14 Where is the apple? 	earth	10 13
+15 Sandra dropped the football there.
+16 John moved to the neptune.
+17 Where is the football? 	mars	15 3
+18 Daniel went to the mars.
+19 Daniel left the milk.
+20 Where is the milk? 	mars	19 18
+21 Sandra took the football there.
+22 Daniel went to the moon.
+23 Where is the milk? 	mars	19 18
+1 John went to the mars.
+2 Mary journeyed to the mars.
+3 John journeyed to the earth.
+4 Mary journeyed to the neptune.
+5 Mary moved to the jupiter.
+6 Mary moved to the neptune.
+7 John picked up the football there.
+8 John went to the jupiter.
+9 Where is the football? 	jupiter	7 8
+10 Sandra journeyed to the earth.
+11 John got the milk there.
+12 Where is the football? 	jupiter	7 8
+13 Sandra went back to the neptune.
+14 Sandra journeyed to the venus.
+15 Mary moved to the earth.
+16 Mary travelled to the moon.
+17 Sandra went to the mars.
+18 John put down the football.
+19 Where is the football? 	jupiter	18 8
+20 Mary travelled to the venus.
+21 John put down the milk there.
+22 Where is the milk? 	jupiter	21 8
+23 John moved to the venus.
+24 Sandra went to the earth.
+25 Where is the football? 	jupiter	18 8
+1 Daniel went back to the venus.
+2 Mary went to the venus.
+3 Sandra journeyed to the venus.
+4 Daniel journeyed to the earth.
+5 Sandra got the milk there.
+6 Mary travelled to the jupiter.
+7 Mary took the apple there.
+8 Mary left the apple.
+9 Where is the apple? 	jupiter	8 6
+10 Sandra discarded the milk there.
+11 Sandra moved to the moon.
+12 Where is the apple? 	jupiter	8 6
+13 John went back to the mars.
+14 Sandra went to the jupiter.
+15 Where is the apple? 	jupiter	8 6
+16 John moved to the venus.
+17 Mary picked up the apple there.
+18 John picked up the milk there.
+19 Sandra went back to the mars.
+20 John went back to the moon.
+21 Mary went back to the neptune.
+22 Where is the apple? 	neptune	17 21
+23 Mary went to the moon.
+24 Daniel travelled to the neptune.
+25 Mary discarded the apple.
+26 Mary went back to the earth.
+27 Where is the apple? 	moon	25 23
+1 Daniel picked up the apple there.
+2 Sandra travelled to the neptune.
+3 Daniel put down the apple there.
+4 Mary went back to the moon.
+5 John moved to the moon.
+6 John travelled to the venus.
+7 Daniel journeyed to the neptune.
+8 Mary went back to the earth.
+9 Daniel moved to the mars.
+10 Daniel journeyed to the earth.
+11 Mary moved to the neptune.
+12 Daniel went back to the mars.
+13 Daniel moved to the venus.
+14 John went back to the neptune.
+15 Mary moved to the jupiter.
+16 Mary got the apple there.
+17 Sandra went to the moon.
+18 Mary left the apple.
+19 Where is the apple? 	jupiter	18 15
+20 Mary moved to the moon.
+21 Mary went back to the jupiter.
+22 Where is the apple? 	jupiter	18 15
+23 Sandra travelled to the venus.
+24 Daniel journeyed to the earth.
+25 Where is the apple? 	jupiter	18 15
+26 Daniel got the football there.
+27 Daniel went to the neptune.
+28 Where is the football? 	neptune	26 27
+29 John went back to the mars.
+30 Daniel moved to the venus.
+31 Where is the football? 	venus	26 30
+1 Mary went back to the moon.
+2 Sandra journeyed to the venus.
+3 Mary went back to the jupiter.
+4 Daniel grabbed the football there.
+5 Daniel journeyed to the neptune.
+6 John took the milk there.
+7 Where is the football? 	neptune	4 5
+8 Mary picked up the apple there.
+9 John journeyed to the neptune.
+10 Where is the milk? 	neptune	6 9
+11 Sandra went to the jupiter.
+12 John journeyed to the venus.
+13 Where is the milk? 	venus	6 12
+14 Mary put down the apple.
+15 Sandra went back to the mars.
+16 Where is the apple? 	jupiter	14 3
+17 Daniel went to the mars.
+18 John discarded the milk.
+19 Where is the apple? 	jupiter	14 3
+1 Mary went to the neptune.
+2 Daniel went back to the earth.
+3 Sandra went back to the venus.
+4 Mary went to the jupiter.
+5 Mary journeyed to the mars.
+6 Sandra moved to the jupiter.
+7 Sandra journeyed to the neptune.
+8 Daniel journeyed to the venus.
+9 Mary journeyed to the moon.
+10 John went back to the moon.
+11 Sandra travelled to the venus.
+12 John moved to the jupiter.
+13 Daniel went back to the mars.
+14 Mary moved to the mars.
+15 Mary moved to the neptune.
+16 Mary went to the mars.
+17 Sandra went back to the earth.
+18 Sandra travelled to the neptune.
+19 Sandra travelled to the mars.
+20 Sandra moved to the venus.
+21 Daniel went to the venus.
+22 Sandra went back to the moon.
+23 John moved to the venus.
+24 Mary went to the moon.
+25 Daniel travelled to the mars.
+26 John went back to the neptune.
+27 Sandra went back to the neptune.
+28 Mary went to the neptune.
+29 Daniel went back to the venus.
+30 Sandra went back to the jupiter.
+31 Sandra moved to the mars.
+32 Mary travelled to the venus.
+33 Sandra went to the venus.
+34 Daniel journeyed to the neptune.
+35 Mary went back to the neptune.
+36 Daniel travelled to the venus.
+37 John journeyed to the moon.
+38 Daniel travelled to the neptune.
+39 Daniel travelled to the earth.
+40 Mary went back to the mars.
+41 Daniel went to the jupiter.
+42 John journeyed to the neptune.
+43 John went to the mars.
+44 Daniel travelled to the neptune.
+45 Sandra went back to the mars.
+46 Mary moved to the jupiter.
+47 Sandra went back to the venus.
+48 Sandra went back to the mars.
+49 Sandra moved to the venus.
+50 Sandra moved to the jupiter.
+51 John went back to the neptune.
+52 Daniel went to the venus.
+53 Sandra travelled to the mars.
+54 Sandra moved to the moon.
+55 John journeyed to the venus.
+56 Mary moved to the neptune.
+57 John went back to the jupiter.
+58 Mary went back to the jupiter.
+59 Daniel travelled to the moon.
+60 Sandra travelled to the neptune.
+61 Sandra journeyed to the moon.
+62 Sandra travelled to the earth.
+63 Mary went back to the neptune.
+64 Sandra travelled to the mars.
+65 Daniel travelled to the venus.
+66 Daniel journeyed to the earth.
+67 Mary journeyed to the jupiter.
+68 Sandra went back to the jupiter.
+69 John travelled to the neptune.
+70 Daniel picked up the milk there.
+71 Daniel picked up the apple there.
+72 Sandra moved to the neptune.
+73 John journeyed to the earth.
+74 John went back to the venus.
+75 Sandra journeyed to the jupiter.
+76 Sandra moved to the earth.
+77 Mary moved to the mars.
+78 Mary went to the jupiter.
+79 Sandra grabbed the football there.
+80 Sandra discarded the football.
+81 Where is the football? 	earth	80 76
+82 Daniel took the football there.
+83 Daniel put down the apple there.
+84 Where is the apple? 	earth	83 66
+85 Daniel took the apple there.
+86 Daniel travelled to the neptune.
+87 Where is the football? 	neptune	82 86
+88 Sandra journeyed to the moon.
+89 Daniel left the milk there.
+90 Where is the milk? 	neptune	89 86
+91 Daniel went to the mars.
+92 Daniel went back to the moon.
+93 Where is the milk? 	neptune	89 86
+1 Daniel went to the jupiter.
+2 John travelled to the mars.
+3 Mary journeyed to the earth.
+4 John picked up the apple there.
+5 John put down the apple.
+6 Sandra travelled to the jupiter.
+7 Where is the apple? 	mars	5 2
+8 Sandra went to the moon.
+9 Daniel grabbed the milk there.
+10 Where is the apple? 	mars	5 2
+11 John journeyed to the jupiter.
+12 John travelled to the earth.
+13 Daniel left the milk.
+14 Daniel grabbed the milk there.
+15 John moved to the venus.
+16 Daniel moved to the mars.
+17 Where is the milk? 	mars	14 16
+18 Daniel put down the milk.
+19 Mary went to the neptune.
+20 Where is the milk? 	mars	18 16
+21 Sandra went back to the jupiter.
+22 Daniel picked up the milk there.
+23 John took the football there.
+24 John dropped the football.
+25 Where is the football? 	venus	24 15
+1 John journeyed to the earth.
+2 Sandra went back to the moon.
+3 Sandra grabbed the football there.
+4 Sandra journeyed to the jupiter.
+5 Where is the football? 	jupiter	3 4
+6 Daniel travelled to the mars.
+7 Mary went to the venus.
+8 Where is the football? 	jupiter	3 4
+9 Mary travelled to the jupiter.
+10 Mary moved to the mars.
+11 Daniel went to the venus.
+12 Daniel got the milk there.
+13 Daniel put down the milk there.
+14 Sandra went back to the venus.
+15 Where is the milk? 	venus	13 11
+16 Daniel got the milk there.
+17 Sandra travelled to the neptune.
+18 Sandra picked up the apple there.
+19 Sandra journeyed to the moon.
+20 Where is the apple? 	moon	18 19
+21 Mary moved to the earth.
+22 Sandra went back to the earth.
+23 Where is the apple? 	earth	18 22
+1 Sandra picked up the apple there.
+2 Sandra put down the apple.
+3 Sandra moved to the moon.
+4 Daniel went to the mars.
+5 Sandra went to the earth.
+6 John went to the mars.
+7 Daniel journeyed to the neptune.
+8 Sandra journeyed to the moon.
+9 Sandra took the milk there.
+10 Sandra went to the jupiter.
+11 Where is the milk? 	jupiter	9 10
+12 Sandra moved to the moon.
+13 Sandra put down the milk.
+14 Where is the milk? 	moon	13 12
+15 John went to the moon.
+16 John journeyed to the earth.
+17 Where is the milk? 	moon	13 12
+18 Mary went to the moon.
+19 John picked up the apple there.
+20 Where is the milk? 	moon	13 12
+21 Mary got the football there.
+22 Mary went to the neptune.
+23 Where is the football? 	neptune	21 22
+1 Daniel journeyed to the mars.
+2 John went to the mars.
+3 Mary went back to the moon.
+4 Sandra picked up the football there.
+5 Sandra took the milk there.
+6 John moved to the jupiter.
+7 Mary got the apple there.
+8 Mary dropped the apple there.
+9 Where is the apple? 	moon	8 3
+10 Sandra went to the jupiter.
+11 Mary grabbed the apple there.
+12 Sandra went to the earth.
+13 Daniel moved to the moon.
+14 Sandra put down the football there.
+15 Sandra took the football there.
+16 Sandra moved to the moon.
+17 Mary moved to the neptune.
+18 Where is the football? 	moon	15 16
+19 Mary dropped the apple.
+20 John travelled to the earth.
+21 Where is the apple? 	neptune	19 17
+22 Mary grabbed the apple there.
+23 Mary put down the apple.
+24 Where is the apple? 	neptune	23 17
+25 Sandra put down the milk.
+26 Mary took the apple there.
+27 Where is the milk? 	moon	25 16
+1 Daniel grabbed the apple there.
+2 Mary got the milk there.
+3 Mary went back to the mars.
+4 Mary moved to the venus.
+5 Where is the milk? 	venus	2 4
+6 Sandra went back to the venus.
+7 Mary moved to the jupiter.
+8 Where is the milk? 	jupiter	2 7
+9 Sandra went back to the moon.
+10 Mary discarded the milk.
+11 Where is the milk? 	jupiter	10 7
+12 Mary grabbed the milk there.
+13 Sandra went back to the mars.
+14 Sandra went back to the moon.
+15 Daniel journeyed to the moon.
+16 Mary moved to the moon.
+17 Daniel journeyed to the jupiter.
+18 Daniel discarded the apple.
+19 Mary dropped the milk.
+20 Where is the milk? 	moon	19 16
+21 John picked up the milk there.
+22 Sandra moved to the jupiter.
+23 Where is the apple? 	jupiter	18 17
+1 Sandra took the apple there.
+2 Daniel went back to the earth.
+3 Daniel travelled to the moon.
+4 John went to the moon.
+5 Mary journeyed to the earth.
+6 Daniel moved to the earth.
+7 Sandra moved to the earth.
+8 Daniel got the milk there.
+9 Daniel dropped the milk.
+10 Sandra picked up the milk there.
+11 Sandra put down the apple there.
+12 Mary picked up the apple there.
+13 Mary travelled to the moon.
+14 Sandra discarded the milk.
+15 Where is the milk? 	earth	14 7
+16 Daniel took the milk there.
+17 John moved to the mars.
+18 Where is the apple? 	moon	12 13
+19 Mary dropped the apple.
+20 Mary travelled to the jupiter.
+21 Where is the apple? 	moon	19 13
+22 Mary grabbed the football there.
+23 Daniel went back to the mars.
+24 Where is the apple? 	moon	19 13
+25 Mary went back to the venus.
+26 John journeyed to the moon.
+27 Where is the football? 	venus	22 25
+1 John went back to the jupiter.
+2 Daniel travelled to the venus.
+3 Daniel grabbed the football there.
+4 John journeyed to the venus.
+5 Mary went to the venus.
+6 Sandra moved to the moon.
+7 Sandra got the milk there.
+8 Daniel journeyed to the jupiter.
+9 John moved to the jupiter.
+10 Daniel picked up the apple there.
+11 Mary went back to the moon.
+12 Sandra travelled to the jupiter.
+13 Sandra went back to the earth.
+14 John moved to the venus.
+15 Sandra dropped the milk there.
+16 Daniel left the football.
+17 Where is the football? 	jupiter	16 8
+18 Daniel travelled to the mars.
+19 Daniel travelled to the neptune.
+20 Where is the milk? 	earth	15 13
+21 Daniel discarded the apple.
+22 Sandra took the milk there.
+23 Where is the apple? 	neptune	21 19
+24 Daniel took the apple there.
+25 Daniel went to the jupiter.
+26 Where is the apple? 	jupiter	24 25
+27 Daniel took the football there.
+28 Sandra put down the milk.
+29 Where is the milk? 	earth	28 13
+1 Sandra went back to the moon.
+2 Sandra went to the jupiter.
+3 John went to the earth.
+4 Mary went to the moon.
+5 Mary journeyed to the earth.
+6 John moved to the moon.
+7 Mary picked up the milk there.
+8 John went to the earth.
+9 John went back to the moon.
+10 Sandra went to the venus.
+11 Mary discarded the milk.
+12 Daniel journeyed to the neptune.
+13 Where is the milk? 	earth	11 5
+14 Sandra journeyed to the mars.
+15 Daniel travelled to the mars.
+16 Where is the milk? 	earth	11 5
+17 Sandra went back to the earth.
+18 Mary journeyed to the venus.
+19 Daniel picked up the apple there.
+20 Mary journeyed to the moon.
+21 Mary journeyed to the venus.
+22 Daniel travelled to the moon.
+23 Where is the apple? 	moon	19 22
+24 Sandra got the milk there.
+25 Sandra went back to the jupiter.
+26 Where is the milk? 	jupiter	24 25
+27 Daniel travelled to the jupiter.
+28 John travelled to the mars.
+29 Where is the milk? 	jupiter	24 25
+1 John got the milk there.
+2 Sandra journeyed to the neptune.
+3 Daniel went back to the earth.
+4 John left the milk.
+5 Daniel got the apple there.
+6 Sandra picked up the milk there.
+7 Sandra went to the moon.
+8 John went to the moon.
+9 Where is the milk? 	moon	6 7
+10 Sandra journeyed to the earth.
+11 John travelled to the jupiter.
+12 Where is the milk? 	earth	6 10
+13 Mary travelled to the mars.
+14 Sandra moved to the moon.
+15 Mary went back to the neptune.
+16 Sandra dropped the milk.
+17 Where is the milk? 	moon	16 14
+18 Sandra journeyed to the venus.
+19 John went to the venus.
+20 Where is the milk? 	moon	16 14
+21 Mary journeyed to the earth.
+22 John moved to the mars.
+23 Where is the milk? 	moon	16 14
+1 Daniel travelled to the venus.
+2 John picked up the milk there.
+3 Mary moved to the venus.
+4 Mary went to the moon.
+5 Mary moved to the earth.
+6 Daniel journeyed to the neptune.
+7 John moved to the neptune.
+8 Daniel picked up the football there.
+9 Daniel discarded the football there.
+10 Mary travelled to the neptune.
+11 Where is the football? 	neptune	9 6
+12 Mary travelled to the venus.
+13 Daniel took the football there.
+14 Daniel moved to the moon.
+15 Daniel travelled to the jupiter.
+16 Where is the football? 	jupiter	13 15
+17 John journeyed to the venus.
+18 John left the milk.
+19 Where is the football? 	jupiter	13 15
+20 John travelled to the mars.
+21 Mary travelled to the earth.
+22 Where is the milk? 	venus	18 17
+23 Daniel went to the venus.
+24 Mary travelled to the mars.
+25 Where is the milk? 	venus	18 17
+1 John went back to the neptune.
+2 Daniel went back to the venus.
+3 John moved to the earth.
+4 Daniel moved to the mars.
+5 Sandra travelled to the venus.
+6 Daniel picked up the football there.
+7 Sandra took the milk there.
+8 Sandra left the milk.
+9 Where is the milk? 	venus	8 5
+10 Mary moved to the jupiter.
+11 Sandra took the milk there.
+12 Daniel moved to the venus.
+13 Sandra discarded the milk.
+14 Where is the milk? 	venus	13 5
+15 Sandra journeyed to the earth.
+16 Mary journeyed to the mars.
+17 Where is the milk? 	venus	13 5
+18 Mary journeyed to the venus.
+19 Daniel went back to the moon.
+20 Where is the milk? 	venus	13 5
+21 John travelled to the neptune.
+22 Mary picked up the milk there.
+23 Sandra travelled to the mars.
+24 Mary left the milk.
+25 Where is the milk? 	venus	24 18
+1 Sandra moved to the earth.
+2 Daniel moved to the neptune.
+3 John went to the mars.
+4 John got the milk there.
+5 Mary travelled to the mars.
+6 Daniel journeyed to the moon.
+7 Mary went to the venus.
+8 Sandra journeyed to the moon.
+9 Daniel picked up the apple there.
+10 Mary travelled to the moon.
+11 John dropped the milk.
+12 Daniel travelled to the earth.
+13 Where is the apple? 	earth	9 12
+14 John moved to the neptune.
+15 John travelled to the jupiter.
+16 Where is the milk? 	mars	11 3
+17 John travelled to the earth.
+18 Mary went back to the venus.
+19 Daniel put down the apple.
+20 Mary went to the moon.
+21 Where is the apple? 	earth	19 12
+22 Sandra travelled to the earth.
+23 Daniel got the apple there.
+24 Sandra travelled to the venus.
+25 Daniel dropped the apple.
+26 Where is the apple? 	earth	25 12
+27 Daniel moved to the jupiter.
+28 Mary went back to the neptune.
+29 Where is the apple? 	earth	25 12
+1 John journeyed to the mars.
+2 Daniel travelled to the jupiter.
+3 Sandra moved to the mars.
+4 Sandra got the milk there.
+5 John moved to the earth.
+6 Mary went back to the mars.
+7 Sandra put down the milk.
+8 Mary took the milk there.
+9 John travelled to the moon.
+10 John went back to the neptune.
+11 Daniel went back to the mars.
+12 John travelled to the mars.
+13 Mary went back to the neptune.
+14 Mary left the milk there.
+15 Where is the milk? 	neptune	14 13
+16 John moved to the venus.
+17 Daniel moved to the earth.
+18 Where is the milk? 	neptune	14 13
+19 Daniel travelled to the moon.
+20 Mary took the football there.
+21 Where is the milk? 	neptune	14 13
+22 John went back to the moon.
+23 John journeyed to the earth.
+24 Mary went back to the mars.
+25 Sandra went back to the earth.
+26 Where is the football? 	mars	20 24
+27 Daniel moved to the earth.
+28 John travelled to the jupiter.
+29 Daniel went back to the mars.
+30 John got the apple there.
+31 John journeyed to the venus.
+32 Mary travelled to the jupiter.
+33 Where is the apple? 	venus	30 31
+1 Daniel moved to the venus.
+2 Daniel went back to the earth.
+3 Mary went to the jupiter.
+4 Mary went to the earth.
+5 Mary moved to the venus.
+6 John went to the neptune.
+7 Daniel went back to the mars.
+8 Sandra grabbed the football there.
+9 Daniel went to the earth.
+10 John went to the moon.
+11 Daniel went to the neptune.
+12 Sandra left the football.
+13 Daniel grabbed the milk there.
+14 John journeyed to the jupiter.
+15 Daniel got the apple there.
+16 Sandra picked up the football there.
+17 Sandra journeyed to the earth.
+18 Daniel moved to the mars.
+19 Where is the apple? 	mars	15 18
+20 Daniel discarded the apple.
+21 John went to the mars.
+22 Where is the apple? 	mars	20 18
+23 John grabbed the apple there.
+24 Sandra journeyed to the venus.
+25 John left the apple.
+26 Daniel grabbed the apple there.
+27 Sandra journeyed to the neptune.
+28 Sandra put down the football.
+29 Where is the football? 	neptune	28 27
+30 Daniel went to the venus.
+31 Sandra got the football there.
+32 Where is the apple? 	venus	26 30
+33 John went back to the earth.
+34 Sandra put down the football.
+35 Where is the football? 	neptune	34 27
+1 John took the football there.
+2 John put down the football.
+3 Daniel moved to the moon.
+4 Mary went back to the venus.
+5 Daniel journeyed to the jupiter.
+6 Mary journeyed to the neptune.
+7 John moved to the moon.
+8 John travelled to the earth.
+9 John got the football there.
+10 Sandra moved to the jupiter.
+11 John grabbed the milk there.
+12 John left the football.
+13 Where is the football? 	earth	12 8
+14 John put down the milk.
+15 Mary went back to the earth.
+16 Where is the milk? 	earth	14 8
+17 Sandra travelled to the earth.
+18 John picked up the football there.
+19 Where is the milk? 	earth	14 8
+20 Sandra went to the mars.
+21 Daniel went back to the venus.
+22 John took the milk there.
+23 Sandra journeyed to the venus.
+24 John travelled to the moon.
+25 Mary travelled to the venus.
+26 Where is the milk? 	moon	22 24
+27 John moved to the mars.
+28 John got the apple there.
+29 John went to the earth.
+30 John went to the neptune.
+31 Where is the apple? 	neptune	28 30
+1 Daniel went to the jupiter.
+2 Mary took the apple there.
+3 Mary went back to the venus.
+4 Mary left the apple.
+5 Where is the apple? 	venus	4 3
+6 Sandra moved to the moon.
+7 John journeyed to the neptune.
+8 Where is the apple? 	venus	4 3
+9 Mary grabbed the milk there.
+10 Sandra went back to the venus.
+11 Where is the apple? 	venus	4 3
+12 Mary picked up the apple there.
+13 Mary discarded the apple.
+14 Where is the apple? 	venus	13 3
+15 Mary journeyed to the moon.
+16 Sandra went to the jupiter.
+17 Where is the apple? 	venus	13 3
+1 Sandra travelled to the moon.
+2 Daniel journeyed to the neptune.
+3 Mary moved to the mars.
+4 Daniel took the apple there.
+5 Daniel put down the apple there.
+6 Daniel grabbed the apple there.
+7 Daniel travelled to the venus.
+8 Mary went back to the venus.
+9 Where is the apple? 	venus	6 7
+10 Daniel went back to the neptune.
+11 Daniel discarded the apple.
+12 Where is the apple? 	neptune	11 10
+13 Mary went back to the mars.
+14 John moved to the venus.
+15 Where is the apple? 	neptune	11 10
+16 Daniel took the apple there.
+17 John picked up the football there.
+18 John put down the football.
+19 John got the football there.
+20 Sandra went back to the jupiter.
+21 Daniel journeyed to the mars.
+22 John dropped the football.
+23 Mary took the milk there.
+24 Where is the football? 	venus	22 14
+25 Mary left the milk.
+26 John took the football there.
+27 Where is the milk? 	mars	25 13
+1 John went to the neptune.
+2 Mary travelled to the moon.
+3 John took the football there.
+4 Mary travelled to the earth.
+5 Daniel got the apple there.
+6 Sandra went back to the neptune.
+7 Mary journeyed to the mars.
+8 Mary moved to the neptune.
+9 John moved to the earth.
+10 John left the football.
+11 Where is the football? 	earth	10 9
+12 Daniel travelled to the moon.
+13 John went to the jupiter.
+14 Where is the football? 	earth	10 9
+15 John went back to the venus.
+16 John went to the neptune.
+17 Where is the football? 	earth	10 9
+18 Daniel left the apple.
+19 Mary journeyed to the moon.
+20 Where is the apple? 	moon	18 12
+21 Daniel picked up the apple there.
+22 Daniel journeyed to the venus.
+23 Where is the apple? 	venus	21 22
+1 Sandra travelled to the jupiter.
+2 John journeyed to the neptune.
+3 Mary went to the mars.
+4 Sandra travelled to the earth.
+5 Mary went to the moon.
+6 John went to the mars.
+7 Mary picked up the football there.
+8 Mary journeyed to the mars.
+9 Where is the football? 	mars	7 8
+10 Daniel grabbed the milk there.
+11 Sandra went back to the moon.
+12 Where is the football? 	mars	7 8
+13 Daniel moved to the mars.
+14 John moved to the venus.
+15 Where is the milk? 	mars	10 13
+16 Daniel journeyed to the moon.
+17 Sandra journeyed to the jupiter.
+18 Daniel dropped the milk.
+19 Sandra moved to the mars.
+20 Where is the milk? 	moon	18 16
+21 Sandra went back to the earth.
+22 Sandra travelled to the neptune.
+23 Where is the milk? 	moon	18 16
+1 Sandra travelled to the mars.
+2 Sandra moved to the moon.
+3 John travelled to the earth.
+4 John got the apple there.
+5 Daniel moved to the venus.
+6 Sandra got the football there.
+7 John put down the apple.
+8 John got the apple there.
+9 John journeyed to the mars.
+10 Sandra left the football.
+11 Where is the football? 	moon	10 2
+12 Daniel went back to the neptune.
+13 Sandra picked up the football there.
+14 Where is the apple? 	mars	8 9
+15 Sandra put down the football.
+16 Sandra took the football there.
+17 John dropped the apple.
+18 Daniel journeyed to the jupiter.
+19 Where is the apple? 	mars	17 9
+20 Daniel got the milk there.
+21 John went back to the jupiter.
+22 Where is the apple? 	mars	17 9
+23 Daniel put down the milk.
+24 Sandra dropped the football.
+25 Where is the milk? 	jupiter	23 18
+1 Mary moved to the jupiter.
+2 Daniel went to the venus.
+3 Sandra went back to the neptune.
+4 Mary journeyed to the moon.
+5 Mary went back to the venus.
+6 Mary travelled to the neptune.
+7 John went to the venus.
+8 Sandra travelled to the venus.
+9 Daniel went to the jupiter.
+10 Daniel travelled to the earth.
+11 John took the football there.
+12 Daniel grabbed the milk there.
+13 John discarded the football.
+14 Sandra went to the mars.
+15 Where is the football? 	venus	13 7
+16 John went to the jupiter.
+17 Sandra travelled to the earth.
+18 Where is the football? 	venus	13 7
+19 Sandra moved to the moon.
+20 Mary journeyed to the moon.
+21 Daniel moved to the venus.
+22 Daniel dropped the milk.
+23 Where is the milk? 	venus	22 21
+24 Mary travelled to the neptune.
+25 Daniel journeyed to the earth.
+26 Where is the milk? 	venus	22 21
+27 Mary went back to the venus.
+28 John journeyed to the moon.
+29 Where is the milk? 	venus	22 21
+1 Sandra travelled to the neptune.
+2 Mary grabbed the apple there.
+3 Mary dropped the apple.
+4 Sandra moved to the jupiter.
+5 Daniel went back to the mars.
+6 John picked up the apple there.
+7 John put down the apple there.
+8 Sandra got the milk there.
+9 Sandra left the milk there.
+10 John grabbed the apple there.
+11 Where is the milk? 	jupiter	9 4
+12 John journeyed to the jupiter.
+13 Sandra took the milk there.
+14 Where is the apple? 	jupiter	10 12
+15 Daniel journeyed to the venus.
+16 Sandra moved to the moon.
+17 Where is the milk? 	moon	13 16
+18 Sandra left the milk.
+19 John left the apple.
+20 Where is the milk? 	moon	18 16
+21 John travelled to the neptune.
+22 Sandra travelled to the neptune.
+23 Where is the apple? 	jupiter	19 12
+1 Mary went to the mars.
+2 Mary journeyed to the earth.
+3 Sandra travelled to the jupiter.
+4 John went back to the neptune.
+5 Daniel grabbed the football there.
+6 Daniel left the football.
+7 Daniel got the football there.
+8 Sandra travelled to the neptune.
+9 John got the apple there.
+10 Daniel dropped the football.
+11 Mary picked up the football there.
+12 Daniel moved to the venus.
+13 Mary went back to the venus.
+14 John took the milk there.
+15 Where is the football? 	venus	11 13
+16 Daniel went back to the mars.
+17 John went to the jupiter.
+18 Where is the milk? 	jupiter	14 17
+19 Sandra went to the earth.
+20 Sandra went back to the moon.
+21 Where is the milk? 	jupiter	14 17
+22 Sandra journeyed to the neptune.
+23 Mary left the football.
+24 Where is the football? 	venus	23 13
+25 John travelled to the earth.
+26 Sandra travelled to the mars.
+27 Where is the football? 	venus	23 13
+1 Sandra went back to the jupiter.
+2 John moved to the earth.
+3 Daniel took the football there.
+4 Mary moved to the neptune.
+5 Mary moved to the mars.
+6 Daniel left the football there.
+7 Daniel got the football there.
+8 Mary moved to the neptune.
+9 Sandra journeyed to the moon.
+10 John went back to the mars.
+11 Mary travelled to the earth.
+12 Daniel travelled to the neptune.
+13 Sandra went back to the mars.
+14 Daniel moved to the jupiter.
+15 Sandra went to the jupiter.
+16 Daniel grabbed the apple there.
+17 Sandra went to the moon.
+18 Daniel took the milk there.
+19 Daniel dropped the apple.
+20 John travelled to the earth.
+21 Where is the apple? 	jupiter	19 14
+22 Daniel went back to the venus.
+23 John journeyed to the moon.
+24 Where is the apple? 	jupiter	19 14
+25 Sandra moved to the jupiter.
+26 Sandra went back to the moon.
+27 John travelled to the neptune.
+28 Daniel discarded the football.
+29 Where is the football? 	venus	28 22
+30 John journeyed to the moon.
+31 Daniel travelled to the mars.
+32 Where is the football? 	venus	28 22
+33 Daniel travelled to the earth.
+34 Daniel travelled to the venus.
+35 Where is the football? 	venus	28 22
+1 Daniel journeyed to the neptune.
+2 Sandra journeyed to the moon.
+3 Mary moved to the earth.
+4 Sandra took the football there.
+5 Daniel went back to the earth.
+6 Daniel journeyed to the mars.
+7 Daniel took the apple there.
+8 Sandra moved to the venus.
+9 Where is the football? 	venus	4 8
+10 Sandra went back to the mars.
+11 Daniel journeyed to the venus.
+12 Where is the apple? 	venus	7 11
+13 Sandra went back to the moon.
+14 Sandra discarded the football.
+15 Where is the football? 	moon	14 13
+16 Sandra grabbed the football there.
+17 Daniel dropped the apple there.
+18 Where is the apple? 	venus	17 11
+19 John travelled to the moon.
+20 Daniel moved to the moon.
+21 Where is the apple? 	venus	17 11
+1 Daniel moved to the jupiter.
+2 Sandra went back to the jupiter.
+3 Sandra travelled to the venus.
+4 Sandra travelled to the neptune.
+5 John journeyed to the jupiter.
+6 Mary went back to the neptune.
+7 Mary moved to the moon.
+8 John journeyed to the moon.
+9 Daniel picked up the football there.
+10 Daniel left the football.
+11 Where is the football? 	jupiter	10 1
+12 Daniel moved to the moon.
+13 Sandra took the apple there.
+14 Where is the football? 	jupiter	10 1
+15 Mary travelled to the earth.
+16 Sandra left the apple.
+17 Where is the apple? 	neptune	16 4
+18 Sandra went back to the jupiter.
+19 Daniel went to the jupiter.
+20 Where is the apple? 	neptune	16 4
+21 Daniel picked up the football there.
+22 John journeyed to the neptune.
+23 Where is the apple? 	neptune	16 4
+1 Mary went back to the venus.
+2 Mary grabbed the milk there.
+3 Sandra went to the neptune.
+4 Mary got the football there.
+5 John picked up the apple there.
+6 Daniel went back to the mars.
+7 John moved to the mars.
+8 Mary left the milk.
+9 Where is the apple? 	mars	5 7
+10 Mary put down the football.
+11 Mary journeyed to the jupiter.
+12 Where is the football? 	venus	10 1
+13 Daniel went to the neptune.
+14 Mary moved to the mars.
+15 Where is the milk? 	venus	8 1
+16 John discarded the apple.
+17 John grabbed the apple there.
+18 John moved to the neptune.
+19 Mary went to the jupiter.
+20 Where is the apple? 	neptune	17 18
+21 John put down the apple.
+22 John got the apple there.
+23 Daniel went to the moon.
+24 John dropped the apple there.
+25 Where is the apple? 	neptune	24 18
+1 Daniel moved to the mars.
+2 Sandra went back to the moon.
+3 Sandra travelled to the jupiter.
+4 Daniel went to the jupiter.
+5 Mary moved to the moon.
+6 Daniel went to the earth.
+7 Daniel grabbed the apple there.
+8 John journeyed to the venus.
+9 Mary picked up the football there.
+10 Mary dropped the football.
+11 Where is the football? 	moon	10 5
+12 Sandra went back to the moon.
+13 Daniel journeyed to the mars.
+14 Where is the football? 	moon	10 5
+15 John went back to the moon.
+16 John took the milk there.
+17 Where is the football? 	moon	10 5
+18 Sandra went back to the jupiter.
+19 John dropped the milk.
+20 Where is the milk? 	moon	19 15
+21 Daniel moved to the jupiter.
+22 Mary journeyed to the jupiter.
+23 Where is the milk? 	moon	19 15
+1 Daniel went to the moon.
+2 Mary took the milk there.
+3 Sandra travelled to the venus.
+4 John journeyed to the venus.
+5 John grabbed the football there.
+6 John put down the football there.
+7 Where is the football? 	venus	6 4
+8 Sandra went to the jupiter.
+9 Sandra travelled to the neptune.
+10 Where is the football? 	venus	6 4
+11 Sandra went to the mars.
+12 John moved to the jupiter.
+13 Where is the football? 	venus	6 4
+14 Mary went back to the earth.
+15 Mary moved to the jupiter.
+16 John went back to the neptune.
+17 Daniel went to the earth.
+18 Sandra journeyed to the neptune.
+19 Daniel journeyed to the moon.
+20 Daniel moved to the jupiter.
+21 Daniel travelled to the moon.
+22 Daniel went back to the mars.
+23 Daniel went back to the neptune.
+24 Mary discarded the milk.
+25 Mary got the milk there.
+26 Mary went to the moon.
+27 Sandra moved to the venus.
+28 Where is the milk? 	moon	25 26
+29 Daniel moved to the earth.
+30 John travelled to the mars.
+31 Where is the milk? 	moon	25 26
+1 John went to the venus.
+2 John travelled to the earth.
+3 John took the milk there.
+4 Daniel moved to the venus.
+5 Sandra went to the neptune.
+6 John grabbed the football there.
+7 John left the football.
+8 John discarded the milk.
+9 Where is the milk? 	earth	8 2
+10 Sandra got the apple there.
+11 Mary moved to the neptune.
+12 Where is the football? 	earth	7 2
+13 Sandra went to the earth.
+14 Sandra picked up the football there.
+15 Where is the milk? 	earth	8 2
+16 Mary travelled to the earth.
+17 Sandra travelled to the moon.
+18 Where is the football? 	moon	14 17
+19 Sandra journeyed to the jupiter.
+20 John journeyed to the jupiter.
+21 Where is the football? 	jupiter	14 19
+1 Sandra travelled to the venus.
+2 Sandra journeyed to the earth.
+3 John moved to the jupiter.
+4 Mary moved to the jupiter.
+5 Mary picked up the milk there.
+6 Mary took the apple there.
+7 John went back to the venus.
+8 Daniel took the football there.
+9 Mary went back to the mars.
+10 Daniel put down the football there.
+11 Where is the apple? 	mars	6 9
+12 John picked up the football there.
+13 Mary journeyed to the jupiter.
+14 Mary travelled to the earth.
+15 John put down the football.
+16 Where is the football? 	venus	15 7
+17 Daniel journeyed to the jupiter.
+18 John picked up the football there.
+19 Mary travelled to the jupiter.
+20 John put down the football there.
+21 Where is the football? 	venus	20 7
+22 Sandra travelled to the neptune.
+23 John grabbed the football there.
+24 Daniel went back to the earth.
+25 John went back to the moon.
+26 Where is the football? 	moon	23 25
+27 John discarded the football.
+28 Sandra went to the jupiter.
+29 Where is the football? 	moon	27 25
+1 John went to the mars.
+2 Mary picked up the apple there.
+3 Mary went back to the earth.
+4 Daniel journeyed to the jupiter.
+5 Where is the apple? 	earth	2 3
+6 Daniel picked up the milk there.
+7 John travelled to the moon.
+8 Where is the apple? 	earth	2 3
+9 Mary discarded the apple.
+10 Sandra went to the mars.
+11 Where is the apple? 	earth	9 3
+12 John moved to the jupiter.
+13 Daniel left the milk.
+14 Where is the milk? 	jupiter	13 4
+15 Mary grabbed the football there.
+16 Daniel journeyed to the moon.
+17 Where is the milk? 	jupiter	13 4
+1 Mary travelled to the earth.
+2 Daniel journeyed to the jupiter.
+3 Sandra got the apple there.
+4 Sandra travelled to the moon.
+5 Where is the apple? 	moon	3 4
+6 Sandra dropped the apple.
+7 Mary grabbed the football there.
+8 Where is the apple? 	moon	6 4
+9 Sandra went to the earth.
+10 Mary travelled to the mars.
+11 Where is the football? 	mars	7 10
+12 Daniel travelled to the moon.
+13 Daniel journeyed to the neptune.
+14 Where is the football? 	mars	7 10
+15 Sandra travelled to the moon.
+16 Mary moved to the earth.
+17 John grabbed the apple there.
+18 Daniel journeyed to the jupiter.
+19 Mary moved to the moon.
+20 Mary went back to the earth.
+21 Sandra travelled to the neptune.
+22 Mary went to the venus.
+23 John went to the earth.
+24 Sandra moved to the jupiter.
+25 Mary left the football.
+26 Mary moved to the mars.
+27 Where is the football? 	venus	25 22
+1 Mary moved to the neptune.
+2 Daniel took the milk there.
+3 Sandra grabbed the apple there.
+4 Daniel travelled to the moon.
+5 Where is the milk? 	moon	2 4
+6 Sandra dropped the apple there.
+7 Daniel put down the milk there.
+8 Where is the milk? 	moon	7 4
+9 Daniel picked up the milk there.
+10 Daniel dropped the milk.
+11 Where is the milk? 	moon	10 4
+12 Daniel went back to the mars.
+13 Daniel went to the earth.
+14 Where is the milk? 	moon	10 4
+15 Mary went to the moon.
+16 Mary grabbed the milk there.
+17 Sandra went to the neptune.
+18 John picked up the apple there.
+19 Daniel went back to the jupiter.
+20 Daniel moved to the earth.
+21 John went back to the jupiter.
+22 Daniel travelled to the jupiter.
+23 Where is the apple? 	jupiter	18 21
+1 Mary grabbed the football there.
+2 Sandra journeyed to the venus.
+3 Mary left the football.
+4 Daniel got the football there.
+5 Daniel journeyed to the earth.
+6 Mary travelled to the moon.
+7 Where is the football? 	earth	4 5
+8 John travelled to the moon.
+9 Daniel put down the football.
+10 Where is the football? 	earth	9 5
+11 Daniel journeyed to the mars.
+12 John went to the jupiter.
+13 Where is the football? 	earth	9 5
+14 Mary went to the jupiter.
+15 Sandra went to the jupiter.
+16 Where is the football? 	earth	9 5
+17 John travelled to the venus.
+18 Mary moved to the mars.
+19 Sandra moved to the venus.
+20 Mary travelled to the earth.
+21 Mary got the football there.
+22 Mary put down the football.
+23 Where is the football? 	earth	22 20
+1 Sandra moved to the venus.
+2 Sandra picked up the apple there.
+3 John journeyed to the jupiter.
+4 Daniel travelled to the neptune.
+5 Mary took the football there.
+6 Mary discarded the football.
+7 Mary grabbed the football there.
+8 John got the milk there.
+9 Mary left the football there.
+10 Daniel moved to the earth.
+11 John travelled to the venus.
+12 Daniel went to the neptune.
+13 Where is the milk? 	venus	8 11
+14 Mary picked up the football there.
+15 Sandra left the apple.
+16 Where is the apple? 	venus	15 1
+17 Mary left the football there.
+18 Mary took the football there.
+19 Where is the apple? 	venus	15 1
+20 Daniel went to the mars.
+21 John got the apple there.
+22 Mary discarded the football.
+23 Sandra moved to the moon.
+24 Mary got the football there.
+25 Sandra travelled to the earth.
+26 Mary left the football.
+27 John went back to the jupiter.
+28 Sandra travelled to the neptune.
+29 John travelled to the venus.
+30 John discarded the apple.
+31 Mary picked up the football there.
+32 Where is the apple? 	venus	30 29
+33 John got the apple there.
+34 John put down the milk there.
+35 Where is the milk? 	venus	34 29
+1 John took the apple there.
+2 John dropped the apple.
+3 Daniel went back to the moon.
+4 John grabbed the apple there.
+5 Mary travelled to the mars.
+6 Sandra went back to the venus.
+7 John dropped the apple.
+8 John took the apple there.
+9 John dropped the apple.
+10 Daniel travelled to the jupiter.
+11 Sandra journeyed to the neptune.
+12 John got the apple there.
+13 Sandra journeyed to the moon.
+14 Daniel took the milk there.
+15 John discarded the apple.
+16 John moved to the mars.
+17 Daniel left the milk there.
+18 Daniel went back to the moon.
+19 Where is the milk? 	jupiter	17 10
+20 Sandra journeyed to the venus.
+21 Mary got the football there.
+22 Where is the milk? 	jupiter	17 10
+23 Mary discarded the football.
+24 John journeyed to the moon.
+25 Where is the football? 	mars	23 5
+26 Daniel travelled to the jupiter.
+27 Daniel travelled to the moon.
+28 Where is the football? 	mars	23 5
+29 John moved to the venus.
+30 Mary went back to the jupiter.
+31 Daniel travelled to the jupiter.
+32 Daniel picked up the milk there.
+33 Daniel discarded the milk.
+34 John travelled to the earth.
+35 Where is the milk? 	jupiter	33 31
+1 Daniel grabbed the football there.
+2 John travelled to the jupiter.
+3 Mary moved to the venus.
+4 Mary got the apple there.
+5 John went to the neptune.
+6 Mary dropped the apple.
+7 Where is the apple? 	venus	6 3
+8 Daniel discarded the football.
+9 Mary moved to the earth.
+10 Where is the apple? 	venus	6 3
+11 Daniel grabbed the football there.
+12 Daniel went to the earth.
+13 Where is the football? 	earth	11 12
+14 Sandra moved to the neptune.
+15 Daniel moved to the neptune.
+16 Where is the football? 	neptune	11 15
+17 Daniel moved to the jupiter.
+18 Daniel put down the football there.
+19 Where is the football? 	jupiter	18 17
+1 Sandra travelled to the mars.
+2 Daniel moved to the neptune.
+3 Mary travelled to the mars.
+4 Mary journeyed to the earth.
+5 Daniel moved to the earth.
+6 Sandra journeyed to the earth.
+7 Daniel moved to the mars.
+8 Daniel went to the jupiter.
+9 John journeyed to the jupiter.
+10 John moved to the venus.
+11 Daniel grabbed the milk there.
+12 John moved to the mars.
+13 John moved to the venus.
+14 Daniel took the football there.
+15 Mary went back to the mars.
+16 Mary went back to the jupiter.
+17 Daniel left the football.
+18 Mary got the apple there.
+19 Where is the football? 	jupiter	17 8
+20 John travelled to the earth.
+21 John moved to the neptune.
+22 Where is the football? 	jupiter	17 8
+23 Mary grabbed the football there.
+24 Sandra moved to the venus.
+25 Daniel dropped the milk.
+26 Mary moved to the mars.
+27 Where is the football? 	mars	23 26
+28 Sandra went back to the mars.
+29 Mary put down the apple.
+30 Where is the apple? 	mars	29 26
+31 Sandra grabbed the apple there.
+32 Mary discarded the football.
+33 Where is the football? 	mars	32 26
+1 Mary took the apple there.
+2 Mary discarded the apple.
+3 Sandra grabbed the football there.
+4 Sandra picked up the milk there.
+5 John journeyed to the venus.
+6 Mary took the apple there.
+7 John went to the moon.
+8 Sandra went to the earth.
+9 Where is the milk? 	earth	4 8
+10 Mary left the apple there.
+11 Sandra went back to the mars.
+12 Mary moved to the venus.
+13 Mary moved to the earth.
+14 John journeyed to the jupiter.
+15 Sandra took the apple there.
+16 Sandra went back to the moon.
+17 John travelled to the mars.
+18 Where is the apple? 	moon	15 16
+19 Mary travelled to the mars.
+20 Sandra put down the football.
+21 Where is the football? 	moon	20 16
+22 Sandra discarded the milk.
+23 Sandra put down the apple.
+24 Where is the milk? 	moon	22 16
+25 Sandra picked up the milk there.
+26 Sandra left the milk.
+27 Where is the football? 	moon	20 16
+1 John took the apple there.
+2 Sandra travelled to the moon.
+3 Mary grabbed the milk there.
+4 Sandra went to the mars.
+5 Mary went to the neptune.
+6 Mary went to the moon.
+7 Where is the milk? 	moon	3 6
+8 Sandra journeyed to the earth.
+9 John grabbed the football there.
+10 John put down the apple.
+11 Sandra went back to the mars.
+12 Sandra went to the jupiter.
+13 John moved to the moon.
+14 Where is the football? 	moon	9 13
+15 John put down the football.
+16 Mary dropped the milk.
+17 Where is the milk? 	moon	16 6
+18 John picked up the football there.
+19 Daniel travelled to the jupiter.
+20 Where is the milk? 	moon	16 6
+21 Mary got the milk there.
+22 Mary left the milk.
+23 Where is the milk? 	moon	22 6
+1 Sandra travelled to the neptune.
+2 Daniel moved to the moon.
+3 Daniel went back to the venus.
+4 Sandra moved to the mars.
+5 John moved to the mars.
+6 Sandra grabbed the apple there.
+7 Sandra travelled to the neptune.
+8 Sandra moved to the venus.
+9 Where is the apple? 	venus	6 8
+10 John got the football there.
+11 Mary journeyed to the neptune.
+12 Where is the apple? 	venus	6 8
+13 Mary journeyed to the mars.
+14 John travelled to the earth.
+15 Where is the football? 	earth	10 14
+16 Mary journeyed to the venus.
+17 Daniel moved to the moon.
+18 Mary travelled to the earth.
+19 John went to the neptune.
+20 John went back to the moon.
+21 Sandra went to the neptune.
+22 Sandra took the milk there.
+23 Daniel went to the mars.
+24 Sandra went to the venus.
+25 John left the football.
+26 Where is the football? 	moon	25 20
+27 John picked up the football there.
+28 Sandra went to the neptune.
+29 John discarded the football.
+30 John picked up the football there.
+31 Daniel journeyed to the moon.
+32 Sandra went to the earth.
+33 Sandra travelled to the mars.
+34 John discarded the football.
+35 Where is the football? 	moon	34 20
+1 Daniel grabbed the football there.
+2 Mary picked up the milk there.
+3 Mary left the milk.
+4 Mary got the milk there.
+5 Mary journeyed to the neptune.
+6 Sandra journeyed to the moon.
+7 Where is the milk? 	neptune	4 5
+8 John grabbed the apple there.
+9 Sandra went back to the neptune.
+10 Where is the milk? 	neptune	4 5
+11 Daniel journeyed to the mars.
+12 Mary left the milk.
+13 Where is the milk? 	neptune	12 5
+14 Mary grabbed the milk there.
+15 Sandra journeyed to the venus.
+16 John discarded the apple.
+17 Daniel put down the football there.
+18 Where is the football? 	mars	17 11
+19 Mary dropped the milk.
+20 Mary journeyed to the venus.
+21 Where is the milk? 	neptune	19 5
+1 Daniel got the football there.
+2 Mary travelled to the venus.
+3 Mary moved to the earth.
+4 Daniel moved to the jupiter.
+5 Where is the football? 	jupiter	1 4
+6 Daniel travelled to the neptune.
+7 Daniel left the football.
+8 Where is the football? 	neptune	7 6
+9 Mary went to the moon.
+10 Daniel picked up the football there.
+11 Sandra went back to the neptune.
+12 Daniel picked up the milk there.
+13 Mary went to the mars.
+14 Daniel moved to the venus.
+15 Where is the football? 	venus	10 14
+16 Mary journeyed to the neptune.
+17 Daniel left the football.
+18 Where is the football? 	venus	17 14
+19 John went back to the earth.
+20 Daniel went to the earth.
+21 Where is the football? 	venus	17 14
+1 John went back to the mars.
+2 Mary went to the neptune.
+3 Daniel took the apple there.
+4 Sandra journeyed to the mars.
+5 Daniel dropped the apple there.
+6 Mary went to the jupiter.
+7 Sandra travelled to the venus.
+8 Daniel travelled to the venus.
+9 Sandra travelled to the earth.
+10 Daniel went to the moon.
+11 John picked up the apple there.
+12 Sandra went back to the venus.
+13 John discarded the apple.
+14 Mary moved to the venus.
+15 Where is the apple? 	mars	13 1
+16 John journeyed to the moon.
+17 John travelled to the neptune.
+18 Where is the apple? 	mars	13 1
+19 Sandra journeyed to the mars.
+20 John journeyed to the moon.
+21 Sandra travelled to the moon.
+22 Mary went back to the moon.
+23 Mary went back to the earth.
+24 Daniel went back to the mars.
+25 John went back to the mars.
+26 Sandra travelled to the mars.
+27 John picked up the apple there.
+28 Sandra travelled to the jupiter.
+29 Sandra went to the earth.
+30 Daniel journeyed to the earth.
+31 Daniel grabbed the milk there.
+32 Sandra grabbed the football there.
+33 Mary journeyed to the jupiter.
+34 Sandra put down the football.
+35 Where is the football? 	earth	34 29
+36 Mary went back to the earth.
+37 Sandra went back to the mars.
+38 Where is the football? 	earth	34 29
+39 John dropped the apple.
+40 John went to the earth.
+41 Where is the football? 	earth	34 29
+1 Sandra travelled to the venus.
+2 Mary took the football there.
+3 Sandra picked up the apple there.
+4 Daniel went to the jupiter.
+5 Mary put down the football.
+6 Sandra travelled to the mars.
+7 Where is the apple? 	mars	3 6
+8 Daniel got the milk there.
+9 Mary moved to the venus.
+10 Sandra travelled to the venus.
+11 Daniel discarded the milk.
+12 Where is the milk? 	jupiter	11 4
+13 Daniel journeyed to the moon.
+14 Sandra went back to the mars.
+15 Where is the milk? 	jupiter	11 4
+16 Sandra discarded the apple there.
+17 John travelled to the jupiter.
+18 Where is the apple? 	mars	16 14
+19 Sandra picked up the apple there.
+20 Mary journeyed to the moon.
+21 Sandra went back to the moon.
+22 Mary went to the jupiter.
+23 Where is the apple? 	moon	19 21
+1 Sandra picked up the milk there.
+2 Sandra journeyed to the mars.
+3 Where is the milk? 	mars	1 2
+4 Daniel moved to the moon.
+5 Daniel got the apple there.
+6 Where is the milk? 	mars	1 2
+7 Daniel left the apple.
+8 John travelled to the neptune.
+9 Where is the apple? 	moon	7 4
+10 John moved to the moon.
+11 Sandra dropped the milk.
+12 Where is the apple? 	moon	7 4
+13 Mary journeyed to the mars.
+14 Sandra got the milk there.
+15 John went to the jupiter.
+16 Daniel got the apple there.
+17 Sandra put down the milk.
+18 Daniel went back to the earth.
+19 Where is the milk? 	mars	17 2
+1 Daniel journeyed to the neptune.
+2 Mary went to the mars.
+3 John went to the earth.
+4 Daniel went back to the venus.
+5 Mary journeyed to the moon.
+6 Sandra journeyed to the moon.
+7 Sandra went back to the jupiter.
+8 John took the football there.
+9 John journeyed to the mars.
+10 John journeyed to the venus.
+11 Where is the football? 	venus	8 10
+12 Mary went to the neptune.
+13 John left the football.
+14 Where is the football? 	venus	13 10
+15 Mary went back to the earth.
+16 Sandra went back to the earth.
+17 Where is the football? 	venus	13 10
+18 Daniel went back to the mars.
+19 John travelled to the moon.
+20 Where is the football? 	venus	13 10
+21 Daniel moved to the moon.
+22 Daniel went back to the jupiter.
+23 John went back to the earth.
+24 John moved to the venus.
+25 John got the football there.
+26 Sandra journeyed to the neptune.
+27 Mary moved to the mars.
+28 John dropped the football.
+29 Where is the football? 	venus	28 24
+1 John went to the venus.
+2 Mary journeyed to the earth.
+3 Daniel journeyed to the earth.
+4 Mary journeyed to the moon.
+5 Daniel went back to the neptune.
+6 Daniel picked up the football there.
+7 Daniel journeyed to the moon.
+8 Daniel travelled to the mars.
+9 Where is the football? 	mars	6 8
+10 Daniel journeyed to the jupiter.
+11 Daniel grabbed the milk there.
+12 Where is the football? 	jupiter	6 10
+13 John moved to the neptune.
+14 Mary grabbed the apple there.
+15 Daniel discarded the milk.
+16 Daniel took the milk there.
+17 Mary discarded the apple.
+18 John went to the jupiter.
+19 Where is the apple? 	moon	17 4
+20 Mary grabbed the apple there.
+21 Daniel left the football.
+22 Where is the football? 	jupiter	21 10
+23 Mary went to the venus.
+24 Mary travelled to the jupiter.
+25 Where is the apple? 	jupiter	20 24
+1 John moved to the jupiter.
+2 Sandra journeyed to the neptune.
+3 John went back to the moon.
+4 Daniel went back to the neptune.
+5 Daniel moved to the mars.
+6 Mary journeyed to the moon.
+7 John journeyed to the jupiter.
+8 Sandra went to the venus.
+9 Sandra grabbed the milk there.
+10 John went to the neptune.
+11 Mary took the apple there.
+12 Mary left the apple.
+13 Where is the apple? 	moon	12 6
+14 Sandra put down the milk.
+15 Daniel journeyed to the venus.
+16 Where is the milk? 	venus	14 8
+17 Daniel got the milk there.
+18 Mary went back to the neptune.
+19 Where is the apple? 	moon	12 6
+20 Mary went back to the earth.
+21 Sandra moved to the earth.
+22 John travelled to the moon.
+23 John grabbed the apple there.
+24 Daniel moved to the earth.
+25 Mary picked up the football there.
+26 Mary went to the venus.
+27 John travelled to the mars.
+28 Where is the football? 	venus	25 26
+29 Sandra journeyed to the jupiter.
+30 Mary moved to the mars.
+31 Where is the football? 	mars	25 30
+1 John moved to the neptune.
+2 Sandra went to the jupiter.
+3 Daniel went to the moon.
+4 John journeyed to the mars.
+5 Sandra took the apple there.
+6 Sandra took the football there.
+7 Sandra left the football.
+8 Sandra travelled to the neptune.
+9 Where is the football? 	jupiter	7 2
+10 John went back to the earth.
+11 Sandra dropped the apple there.
+12 Where is the football? 	jupiter	7 2
+13 Sandra grabbed the apple there.
+14 John picked up the milk there.
+15 Sandra went to the moon.
+16 Sandra went back to the neptune.
+17 Where is the apple? 	neptune	13 16
+18 John journeyed to the moon.
+19 John left the milk.
+20 Where is the milk? 	moon	19 18
+21 Sandra left the apple there.
+22 Sandra grabbed the apple there.
+23 Where is the milk? 	moon	19 18
+1 Sandra picked up the football there.
+2 Sandra travelled to the earth.
+3 Where is the football? 	earth	1 2
+4 John went to the venus.
+5 Mary went back to the moon.
+6 Where is the football? 	earth	1 2
+7 Mary went back to the mars.
+8 John travelled to the moon.
+9 Mary travelled to the venus.
+10 Daniel moved to the mars.
+11 Sandra grabbed the apple there.
+12 Sandra travelled to the moon.
+13 Where is the apple? 	moon	11 12
+14 John went to the neptune.
+15 Daniel travelled to the venus.
+16 Where is the apple? 	moon	11 12
+17 Sandra journeyed to the jupiter.
+18 Daniel went back to the earth.
+19 Sandra got the milk there.
+20 Sandra dropped the milk.
+21 Where is the milk? 	jupiter	20 17
+1 Daniel picked up the apple there.
+2 Sandra travelled to the neptune.
+3 Mary picked up the football there.
+4 Daniel travelled to the neptune.
+5 Where is the apple? 	neptune	1 4
+6 Mary journeyed to the jupiter.
+7 Sandra went back to the jupiter.
+8 Where is the football? 	jupiter	3 6
+9 Mary journeyed to the neptune.
+10 John travelled to the venus.
+11 Mary dropped the football.
+12 Daniel grabbed the football there.
+13 John went to the mars.
+14 Daniel dropped the football.
+15 Where is the football? 	neptune	14 4
+16 Mary travelled to the earth.
+17 Sandra went to the mars.
+18 Where is the football? 	neptune	14 4
+19 Mary took the milk there.
+20 Sandra went to the moon.
+21 Where is the football? 	neptune	14 4
+1 John journeyed to the earth.
+2 Mary got the apple there.
+3 Sandra journeyed to the earth.
+4 Mary moved to the jupiter.
+5 Where is the apple? 	jupiter	2 4
+6 John went back to the neptune.
+7 Sandra travelled to the neptune.
+8 Where is the apple? 	jupiter	2 4
+9 John journeyed to the mars.
+10 Sandra went to the mars.
+11 Sandra got the milk there.
+12 Mary travelled to the earth.
+13 Mary moved to the mars.
+14 Mary dropped the apple there.
+15 Where is the apple? 	mars	14 13
+16 Sandra put down the milk.
+17 John went back to the moon.
+18 Where is the milk? 	mars	16 10
+19 John moved to the earth.
+20 Mary got the apple there.
+21 Where is the milk? 	mars	16 10
+1 John went to the moon.
+2 John journeyed to the mars.
+3 Mary travelled to the neptune.
+4 John got the football there.
+5 Sandra journeyed to the moon.
+6 Sandra travelled to the earth.
+7 John travelled to the earth.
+8 Sandra moved to the jupiter.
+9 Where is the football? 	earth	4 7
+10 John went back to the mars.
+11 Mary journeyed to the venus.
+12 John journeyed to the moon.
+13 John travelled to the neptune.
+14 Mary took the apple there.
+15 Mary dropped the apple.
+16 Where is the apple? 	venus	15 11
+17 Mary took the apple there.
+18 Daniel moved to the neptune.
+19 Mary went back to the jupiter.
+20 John dropped the football.
+21 Where is the apple? 	jupiter	17 19
+22 Mary dropped the apple.
+23 Sandra journeyed to the venus.
+24 Where is the apple? 	jupiter	22 19
+25 Daniel moved to the earth.
+26 John got the football there.
+27 Where is the apple? 	jupiter	22 19
+1 Daniel got the football there.
+2 Sandra travelled to the earth.
+3 Mary went back to the mars.
+4 Sandra went to the moon.
+5 Mary went back to the earth.
+6 Daniel left the football.
+7 Mary journeyed to the neptune.
+8 Sandra moved to the neptune.
+9 Daniel got the football there.
+10 Mary travelled to the earth.
+11 Daniel went back to the moon.
+12 Sandra moved to the mars.
+13 Where is the football? 	moon	9 11
+14 Daniel journeyed to the neptune.
+15 Daniel dropped the football.
+16 Where is the football? 	neptune	15 14
+17 Daniel grabbed the football there.
+18 John went back to the neptune.
+19 Daniel dropped the football.
+20 Mary went to the moon.
+21 Where is the football? 	neptune	19 14
+22 John journeyed to the jupiter.
+23 Sandra travelled to the jupiter.
+24 Where is the football? 	neptune	19 14
+25 Daniel travelled to the venus.
+26 Sandra got the apple there.
+27 Daniel grabbed the milk there.
+28 Daniel moved to the mars.
+29 Where is the milk? 	mars	27 28
+1 Sandra went back to the mars.
+2 Daniel journeyed to the mars.
+3 Sandra journeyed to the moon.
+4 Mary moved to the jupiter.
+5 Sandra journeyed to the jupiter.
+6 Mary went to the moon.
+7 Sandra went back to the mars.
+8 Sandra went to the jupiter.
+9 Daniel travelled to the jupiter.
+10 Daniel went to the mars.
+11 Mary went back to the earth.
+12 Sandra journeyed to the mars.
+13 John travelled to the earth.
+14 Mary journeyed to the neptune.
+15 Mary moved to the venus.
+16 Mary picked up the apple there.
+17 Mary discarded the apple.
+18 John moved to the venus.
+19 Where is the apple? 	venus	17 15
+20 Mary went back to the neptune.
+21 John journeyed to the neptune.
+22 Where is the apple? 	venus	17 15
+23 John travelled to the moon.
+24 Mary travelled to the earth.
+25 John picked up the milk there.
+26 Mary travelled to the moon.
+27 John moved to the jupiter.
+28 Sandra travelled to the earth.
+29 Where is the milk? 	jupiter	25 27
+30 Sandra travelled to the neptune.
+31 John went back to the venus.
+32 John left the milk.
+33 Mary moved to the jupiter.
+34 Where is the milk? 	venus	32 31
+35 Mary journeyed to the earth.
+36 John got the milk there.
+37 Sandra went back to the mars.
+38 Sandra journeyed to the moon.
+39 Daniel journeyed to the jupiter.
+40 Daniel went to the neptune.
+41 John got the apple there.
+42 John put down the apple.
+43 Where is the apple? 	venus	42 31
+1 Mary picked up the football there.
+2 Mary put down the football.
+3 John moved to the venus.
+4 John went to the moon.
+5 Daniel went back to the moon.
+6 Mary got the football there.
+7 Mary journeyed to the jupiter.
+8 Daniel got the apple there.
+9 Where is the football? 	jupiter	6 7
+10 John went back to the venus.
+11 Sandra moved to the neptune.
+12 Where is the football? 	jupiter	6 7
+13 Mary travelled to the moon.
+14 Daniel travelled to the earth.
+15 Where is the apple? 	earth	8 14
+16 Mary moved to the jupiter.
+17 Daniel discarded the apple there.
+18 Where is the apple? 	earth	17 14
+19 Sandra journeyed to the venus.
+20 Mary went to the venus.
+21 Where is the apple? 	earth	17 14
+1 Daniel grabbed the milk there.
+2 Daniel discarded the milk.
+3 John went back to the earth.
+4 Daniel moved to the mars.
+5 Mary travelled to the neptune.
+6 Daniel picked up the apple there.
+7 Sandra journeyed to the jupiter.
+8 Sandra picked up the milk there.
+9 Sandra left the milk.
+10 John went back to the venus.
+11 Where is the milk? 	jupiter	9 7
+12 Daniel left the apple.
+13 Daniel took the apple there.
+14 Where is the milk? 	jupiter	9 7
+15 Mary went to the moon.
+16 John got the football there.
+17 Mary moved to the jupiter.
+18 Daniel put down the apple.
+19 Where is the apple? 	mars	18 4
+20 Sandra travelled to the mars.
+21 Daniel travelled to the moon.
+22 Where is the apple? 	mars	18 4
+23 John journeyed to the mars.
+24 John travelled to the moon.
+25 Where is the apple? 	mars	18 4
+1 John picked up the football there.
+2 John discarded the football.
+3 John took the football there.
+4 Mary went back to the mars.
+5 Sandra moved to the venus.
+6 John went to the neptune.
+7 Where is the football? 	neptune	3 6
+8 John got the apple there.
+9 John got the milk there.
+10 Mary went to the jupiter.
+11 Sandra journeyed to the mars.
+12 John travelled to the venus.
+13 John put down the milk there.
+14 Where is the milk? 	venus	13 12
+15 John travelled to the earth.
+16 John left the football.
+17 Where is the football? 	earth	16 15
+18 John moved to the jupiter.
+19 Daniel went to the moon.
+20 Where is the football? 	earth	16 15
+21 Sandra went back to the moon.
+22 Sandra journeyed to the earth.
+23 Where is the football? 	earth	16 15
+1 Daniel went to the earth.
+2 Sandra moved to the earth.
+3 Daniel went to the venus.
+4 Mary moved to the neptune.
+5 John moved to the earth.
+6 Mary travelled to the mars.
+7 Daniel grabbed the milk there.
+8 Daniel discarded the milk.
+9 Where is the milk? 	venus	8 3
+10 Daniel moved to the earth.
+11 Daniel journeyed to the venus.
+12 Where is the milk? 	venus	8 3
+13 Daniel went back to the earth.
+14 John moved to the neptune.
+15 Where is the milk? 	venus	8 3
+16 John got the football there.
+17 John went back to the mars.
+18 Where is the football? 	mars	16 17
+19 John went to the moon.
+20 Mary went back to the earth.
+21 Where is the football? 	moon	16 19
+1 Sandra went to the neptune.
+2 John travelled to the venus.
+3 John moved to the moon.
+4 Daniel grabbed the football there.
+5 Mary journeyed to the earth.
+6 Mary grabbed the milk there.
+7 Daniel travelled to the earth.
+8 Mary left the milk.
+9 Where is the milk? 	earth	8 5
+10 Mary got the milk there.
+11 Daniel took the apple there.
+12 Daniel left the football.
+13 Daniel went to the moon.
+14 Where is the football? 	earth	12 7
+15 Daniel went back to the jupiter.
+16 Daniel put down the apple.
+17 Where is the football? 	earth	12 7
+18 John travelled to the neptune.
+19 Mary went to the venus.
+20 Where is the apple? 	jupiter	16 15
+21 Daniel picked up the apple there.
+22 Daniel dropped the apple there.
+23 Where is the apple? 	jupiter	22 15
+1 Mary travelled to the jupiter.
+2 Daniel grabbed the football there.
+3 Mary journeyed to the venus.
+4 Daniel dropped the football.
+5 Sandra moved to the jupiter.
+6 Daniel grabbed the football there.
+7 Daniel travelled to the jupiter.
+8 John went to the venus.
+9 Where is the football? 	jupiter	6 7
+10 John grabbed the apple there.
+11 John discarded the apple.
+12 Where is the football? 	jupiter	6 7
+13 Mary took the apple there.
+14 Mary went back to the mars.
+15 Where is the apple? 	mars	13 14
+16 Sandra went to the earth.
+17 Daniel left the football there.
+18 Where is the football? 	jupiter	17 7
+19 Daniel took the football there.
+20 Sandra grabbed the milk there.
+21 Mary dropped the apple.
+22 Mary got the apple there.
+23 Daniel went to the venus.
+24 Sandra left the milk.
+25 Where is the milk? 	earth	24 16
+1 Daniel went back to the earth.
+2 Mary travelled to the neptune.
+3 John journeyed to the earth.
+4 Mary got the football there.
+5 Daniel went to the moon.
+6 Mary moved to the mars.
+7 Where is the football? 	mars	4 6
+8 Daniel travelled to the venus.
+9 Mary went to the moon.
+10 Where is the football? 	moon	4 9
+11 Mary journeyed to the mars.
+12 Daniel journeyed to the moon.
+13 John journeyed to the mars.
+14 Sandra went to the mars.
+15 Daniel went back to the neptune.
+16 Daniel moved to the mars.
+17 Daniel moved to the neptune.
+18 Sandra went to the earth.
+19 Mary went to the moon.
+20 Sandra travelled to the neptune.
+21 Mary journeyed to the jupiter.
+22 Daniel went to the mars.
+23 Daniel went to the moon.
+24 Mary put down the football.
+25 Where is the football? 	jupiter	24 21
+26 Mary got the football there.
+27 Mary left the football.
+28 Where is the football? 	jupiter	27 21
+29 Daniel travelled to the earth.
+30 Mary took the football there.
+31 Mary went back to the earth.
+32 Mary left the football.
+33 Where is the football? 	earth	32 31
+1 Mary picked up the football there.
+2 Mary dropped the football.
+3 Sandra journeyed to the neptune.
+4 Mary moved to the moon.
+5 Daniel travelled to the mars.
+6 Sandra journeyed to the earth.
+7 Daniel went back to the jupiter.
+8 Sandra picked up the apple there.
+9 John moved to the venus.
+10 Sandra moved to the mars.
+11 Where is the apple? 	mars	8 10
+12 Mary moved to the neptune.
+13 Sandra travelled to the jupiter.
+14 Where is the apple? 	jupiter	8 13
+15 Sandra dropped the apple.
+16 Daniel grabbed the apple there.
+17 Sandra went back to the mars.
+18 Sandra travelled to the moon.
+19 Mary moved to the jupiter.
+20 Daniel travelled to the neptune.
+21 Where is the apple? 	neptune	16 20
+22 Mary travelled to the mars.
+23 Sandra moved to the neptune.
+24 Sandra went to the venus.
+25 John got the football there.
+26 Daniel journeyed to the earth.
+27 John went to the earth.
+28 Where is the football? 	earth	25 27
+29 Daniel dropped the apple.
+30 Daniel moved to the mars.
+31 Where is the apple? 	earth	29 26
+1 Mary grabbed the milk there.
+2 John travelled to the earth.
+3 Mary went back to the moon.
+4 John travelled to the venus.
+5 Where is the milk? 	moon	1 3
+6 Daniel journeyed to the neptune.
+7 John journeyed to the earth.
+8 Mary went back to the earth.
+9 Sandra travelled to the jupiter.
+10 Mary moved to the venus.
+11 Sandra took the football there.
+12 Mary moved to the mars.
+13 Mary moved to the neptune.
+14 John went back to the mars.
+15 Mary discarded the milk there.
+16 Where is the milk? 	neptune	15 13
+17 Daniel took the milk there.
+18 Daniel left the milk.
+19 Where is the milk? 	neptune	18 6
+20 Mary went to the mars.
+21 Daniel journeyed to the venus.
+22 Where is the milk? 	neptune	18 6
+23 Sandra journeyed to the mars.
+24 Mary went back to the jupiter.
+25 Where is the milk? 	neptune	18 6
+1 Daniel went to the neptune.
+2 Mary moved to the jupiter.
+3 Sandra picked up the football there.
+4 Mary grabbed the milk there.
+5 Mary got the apple there.
+6 Sandra went back to the neptune.
+7 Where is the football? 	neptune	3 6
+8 John went to the jupiter.
+9 Sandra left the football there.
+10 Where is the football? 	neptune	9 6
+11 John travelled to the mars.
+12 Sandra moved to the mars.
+13 Where is the football? 	neptune	9 6
+14 Daniel picked up the football there.
+15 Sandra went back to the jupiter.
+16 Daniel moved to the moon.
+17 Sandra journeyed to the earth.
+18 Where is the football? 	moon	14 16
+19 John went back to the moon.
+20 Mary discarded the apple there.
+21 Where is the apple? 	jupiter	20 2
+1 John moved to the mars.
+2 Sandra grabbed the apple there.
+3 Mary moved to the venus.
+4 Mary journeyed to the mars.
+5 John journeyed to the venus.
+6 Sandra left the apple.
+7 Sandra moved to the earth.
+8 Sandra picked up the milk there.
+9 Sandra dropped the milk.
+10 Daniel took the milk there.
+11 John grabbed the football there.
+12 Daniel went to the mars.
+13 Where is the milk? 	mars	10 12
+14 Daniel went to the neptune.
+15 John discarded the football.
+16 Where is the football? 	venus	15 5
+17 John got the football there.
+18 John dropped the football.
+19 Where is the football? 	venus	18 5
+20 Mary travelled to the neptune.
+21 Daniel went to the jupiter.
+22 Where is the football? 	venus	18 5
+23 Daniel went back to the neptune.
+24 Sandra moved to the mars.
+25 Where is the football? 	venus	18 5
+1 Daniel journeyed to the venus.
+2 Mary moved to the neptune.
+3 Daniel journeyed to the earth.
+4 John picked up the football there.
+5 John discarded the football.
+6 Daniel went to the neptune.
+7 Sandra went back to the moon.
+8 John picked up the football there.
+9 John journeyed to the venus.
+10 Sandra went back to the earth.
+11 Where is the football? 	venus	8 9
+12 John journeyed to the moon.
+13 Daniel journeyed to the earth.
+14 Where is the football? 	moon	8 12
+15 Sandra moved to the venus.
+16 Daniel moved to the venus.
+17 John journeyed to the jupiter.
+18 Daniel went to the mars.
+19 Mary travelled to the mars.
+20 John travelled to the moon.
+21 Mary went to the earth.
+22 John picked up the apple there.
+23 Sandra went back to the mars.
+24 Daniel moved to the moon.
+25 Sandra travelled to the jupiter.
+26 Daniel travelled to the mars.
+27 Sandra went back to the moon.
+28 Sandra travelled to the mars.
+29 Daniel picked up the milk there.
+30 Daniel moved to the jupiter.
+31 Where is the milk? 	jupiter	29 30
+32 Daniel dropped the milk.
+33 John dropped the apple.
+34 Where is the apple? 	moon	33 20
+35 John discarded the football.
+36 Sandra moved to the jupiter.
+37 Where is the football? 	moon	35 20
+1 John grabbed the apple there.
+2 John journeyed to the jupiter.
+3 Where is the apple? 	jupiter	1 2
+4 Sandra travelled to the jupiter.
+5 Sandra took the milk there.
+6 Where is the apple? 	jupiter	1 2
+7 Sandra discarded the milk.
+8 John picked up the milk there.
+9 Sandra moved to the earth.
+10 Daniel went to the venus.
+11 Daniel grabbed the football there.
+12 Sandra went to the moon.
+13 Daniel journeyed to the mars.
+14 John moved to the venus.
+15 Where is the football? 	mars	11 13
+16 John journeyed to the moon.
+17 John left the milk.
+18 Where is the milk? 	moon	17 16
+19 John got the milk there.
+20 John left the apple.
+21 Where is the apple? 	moon	20 16
+1 John travelled to the venus.
+2 Sandra journeyed to the mars.
+3 Daniel went to the earth.
+4 Mary went to the moon.
+5 Sandra took the milk there.
+6 Sandra went back to the earth.
+7 Where is the milk? 	earth	5 6
+8 Daniel journeyed to the mars.
+9 Mary went to the earth.
+10 Where is the milk? 	earth	5 6
+11 Mary moved to the venus.
+12 Mary went to the neptune.
+13 Sandra dropped the milk there.
+14 John travelled to the moon.
+15 Where is the milk? 	earth	13 6
+16 Sandra travelled to the moon.
+17 Sandra moved to the earth.
+18 Where is the milk? 	earth	13 6
+19 Sandra grabbed the milk there.
+20 Daniel journeyed to the jupiter.
+21 Daniel took the football there.
+22 John took the apple there.
+23 John journeyed to the earth.
+24 Sandra went to the mars.
+25 Where is the apple? 	earth	22 23
+1 Sandra went back to the mars.
+2 Daniel went to the mars.
+3 Mary got the milk there.
+4 Sandra went back to the moon.
+5 Mary went to the neptune.
+6 Daniel moved to the earth.
+7 Where is the milk? 	neptune	3 5
+8 John journeyed to the neptune.
+9 Sandra journeyed to the neptune.
+10 Mary got the apple there.
+11 John went to the moon.
+12 Daniel moved to the neptune.
+13 Mary discarded the apple.
+14 Where is the apple? 	neptune	13 5
+15 Mary put down the milk.
+16 Daniel grabbed the apple there.
+17 Where is the milk? 	neptune	15 5
+18 Daniel travelled to the venus.
+19 Sandra moved to the jupiter.
+20 Where is the milk? 	neptune	15 5
+21 Daniel dropped the apple.
+22 Mary moved to the venus.
+23 Where is the apple? 	venus	21 18
+1 Mary went back to the moon.
+2 John went to the jupiter.
+3 Daniel grabbed the football there.
+4 Sandra travelled to the moon.
+5 Daniel left the football.
+6 Sandra moved to the earth.
+7 Sandra journeyed to the mars.
+8 Sandra travelled to the venus.
+9 Sandra went back to the moon.
+10 John travelled to the mars.
+11 Daniel moved to the venus.
+12 Sandra moved to the venus.
+13 Mary went to the jupiter.
+14 Daniel went to the mars.
+15 Daniel got the milk there.
+16 Daniel moved to the venus.
+17 Where is the milk? 	venus	15 16
+18 John went to the earth.
+19 Sandra journeyed to the earth.
+20 Where is the milk? 	venus	15 16
+21 John got the apple there.
+22 Daniel put down the milk.
+23 Where is the milk? 	venus	22 16
+24 John went to the jupiter.
+25 John left the apple.
+26 Where is the milk? 	venus	22 16
+27 John took the apple there.
+28 Daniel got the milk there.
+29 Sandra travelled to the mars.
+30 Daniel put down the milk there.
+31 Where is the milk? 	venus	30 16
+1 Mary went to the jupiter.
+2 John went to the venus.
+3 Mary journeyed to the earth.
+4 Daniel got the milk there.
+5 Daniel journeyed to the earth.
+6 John moved to the mars.
+7 Where is the milk? 	earth	4 5
+8 Sandra went to the moon.
+9 Mary travelled to the jupiter.
+10 Where is the milk? 	earth	4 5
+11 Sandra went back to the jupiter.
+12 Mary went to the mars.
+13 Mary went back to the neptune.
+14 Daniel discarded the milk.
+15 Where is the milk? 	earth	14 5
+16 Sandra picked up the football there.
+17 Mary moved to the venus.
+18 Where is the milk? 	earth	14 5
+19 John travelled to the venus.
+20 John travelled to the moon.
+21 Where is the milk? 	earth	14 5
+1 Sandra journeyed to the earth.
+2 John went to the mars.
+3 Sandra went back to the jupiter.
+4 Daniel went back to the earth.
+5 Daniel picked up the apple there.
+6 Daniel went to the neptune.
+7 Where is the apple? 	neptune	5 6
+8 John moved to the jupiter.
+9 Mary picked up the football there.
+10 Where is the apple? 	neptune	5 6
+11 Mary put down the football there.
+12 Mary picked up the football there.
+13 Daniel journeyed to the mars.
+14 Daniel travelled to the neptune.
+15 Daniel put down the apple.
+16 Mary moved to the mars.
+17 Where is the football? 	mars	12 16
+18 John moved to the neptune.
+19 John journeyed to the mars.
+20 Where is the apple? 	neptune	15 14
+21 Mary discarded the football.
+22 John grabbed the football there.
+23 John travelled to the venus.
+24 Daniel grabbed the apple there.
+25 Where is the football? 	venus	22 23
+1 John got the milk there.
+2 John went back to the jupiter.
+3 Where is the milk? 	jupiter	1 2
+4 Sandra grabbed the football there.
+5 John left the milk.
+6 Where is the milk? 	jupiter	5 2
+7 John grabbed the milk there.
+8 Daniel journeyed to the venus.
+9 Sandra travelled to the jupiter.
+10 Sandra journeyed to the moon.
+11 Mary went back to the neptune.
+12 Mary took the apple there.
+13 Mary discarded the apple.
+14 Sandra left the football.
+15 Where is the football? 	moon	14 10
+16 Mary picked up the apple there.
+17 Daniel went back to the earth.
+18 Where is the football? 	moon	14 10
+19 Mary went to the venus.
+20 Sandra picked up the football there.
+21 Where is the apple? 	venus	16 19
+1 Mary went back to the jupiter.
+2 Sandra journeyed to the jupiter.
+3 Daniel picked up the milk there.
+4 Daniel left the milk.
+5 Daniel picked up the football there.
+6 Daniel left the football.
+7 Daniel went to the venus.
+8 Sandra journeyed to the neptune.
+9 Daniel went to the earth.
+10 Daniel got the apple there.
+11 John journeyed to the earth.
+12 Sandra picked up the milk there.
+13 Daniel journeyed to the venus.
+14 Daniel moved to the neptune.
+15 Where is the apple? 	neptune	10 14
+16 John moved to the venus.
+17 Sandra dropped the milk.
+18 Where is the milk? 	neptune	17 8
+19 Daniel discarded the apple.
+20 Daniel took the football there.
+21 Where is the apple? 	neptune	19 14
+22 Sandra got the milk there.
+23 Daniel dropped the football there.
+24 Where is the football? 	neptune	23 14
+25 Sandra left the milk.
+26 Daniel went to the venus.
+27 Where is the milk? 	neptune	25 8
+1 Daniel moved to the neptune.
+2 Sandra journeyed to the venus.
+3 Sandra journeyed to the earth.
+4 Daniel went back to the mars.
+5 Daniel got the milk there.
+6 Mary travelled to the moon.
+7 Daniel discarded the milk there.
+8 Sandra travelled to the neptune.
+9 Where is the milk? 	mars	7 4
+10 Mary went back to the mars.
+11 Sandra travelled to the earth.
+12 Where is the milk? 	mars	7 4
+13 Mary moved to the jupiter.
+14 John moved to the moon.
+15 Daniel got the milk there.
+16 Daniel travelled to the moon.
+17 Where is the milk? 	moon	15 16
+18 Daniel left the milk.
+19 Daniel picked up the milk there.
+20 Mary moved to the neptune.
+21 Sandra went back to the jupiter.
+22 John journeyed to the mars.
+23 Daniel put down the milk.
+24 Where is the milk? 	moon	23 16
+25 Mary grabbed the football there.
+26 Daniel grabbed the milk there.
+27 John journeyed to the neptune.
+28 Daniel left the milk.
+29 Where is the milk? 	moon	28 16
+1 John grabbed the football there.
+2 John discarded the football.
+3 Daniel went back to the moon.
+4 Mary journeyed to the neptune.
+5 Mary picked up the milk there.
+6 Sandra travelled to the earth.
+7 John picked up the football there.
+8 John went to the earth.
+9 Where is the football? 	earth	7 8
+10 Mary moved to the mars.
+11 Sandra got the apple there.
+12 Where is the football? 	earth	7 8
+13 Mary went to the moon.
+14 Sandra went to the venus.
+15 Where is the apple? 	venus	11 14
+16 Daniel went to the jupiter.
+17 John journeyed to the neptune.
+18 Where is the apple? 	venus	11 14
+19 Mary went back to the venus.
+20 Mary discarded the milk.
+21 Where is the milk? 	venus	20 19
+1 John went back to the earth.
+2 Daniel took the apple there.
+3 Mary journeyed to the earth.
+4 Mary journeyed to the moon.
+5 John journeyed to the neptune.
+6 Sandra went back to the earth.
+7 Sandra went back to the neptune.
+8 Sandra travelled to the mars.
+9 John journeyed to the mars.
+10 John travelled to the earth.
+11 Sandra picked up the milk there.
+12 Daniel left the apple.
+13 Daniel got the apple there.
+14 John travelled to the jupiter.
+15 Sandra discarded the milk.
+16 Sandra grabbed the milk there.
+17 Sandra went back to the neptune.
+18 Sandra got the football there.
+19 Where is the milk? 	neptune	16 17
+20 Daniel put down the apple.
+21 Daniel went back to the mars.
+22 Where is the milk? 	neptune	16 17
+23 Mary moved to the earth.
+24 Mary grabbed the apple there.
+25 Mary put down the apple.
+26 Sandra moved to the venus.
+27 Where is the apple? 	earth	25 23
+28 Sandra left the milk.
+29 Sandra went to the mars.
+30 Where is the apple? 	earth	25 23
+31 Sandra put down the football.
+32 John journeyed to the earth.
+33 Where is the milk? 	venus	28 26
+1 Mary journeyed to the venus.
+2 Sandra got the football there.
+3 Mary picked up the apple there.
+4 Mary dropped the apple.
+5 Where is the apple? 	venus	4 1
+6 John went back to the venus.
+7 John picked up the apple there.
+8 John put down the apple.
+9 Sandra left the football.
+10 Where is the apple? 	venus	8 6
+11 John went back to the moon.
+12 Sandra grabbed the football there.
+13 Where is the apple? 	venus	8 6
+14 Mary journeyed to the earth.
+15 John went back to the jupiter.
+16 Sandra discarded the football.
+17 Daniel moved to the neptune.
+18 Daniel journeyed to the jupiter.
+19 Sandra picked up the football there.
+20 Daniel went back to the neptune.
+21 Sandra discarded the football.
+22 Mary took the football there.
+23 John went back to the earth.
+24 Mary went to the moon.
+25 Sandra travelled to the jupiter.
+26 Where is the football? 	moon	22 24
+27 Mary dropped the football.
+28 Mary got the football there.
+29 Sandra went to the mars.
+30 Mary took the milk there.
+31 Daniel went back to the venus.
+32 John went to the neptune.
+33 John journeyed to the earth.
+34 John went back to the moon.
+35 Daniel went back to the jupiter.
+36 Mary journeyed to the neptune.
+37 Daniel went back to the earth.
+38 Sandra went to the jupiter.
+39 Daniel travelled to the venus.
+40 Mary put down the football.
+41 Where is the football? 	neptune	40 36
+1 John journeyed to the mars.
+2 Sandra went back to the jupiter.
+3 Mary went back to the moon.
+4 Daniel went back to the mars.
+5 Daniel went to the venus.
+6 Daniel took the apple there.
+7 Daniel went back to the mars.
+8 Daniel went back to the earth.
+9 Where is the apple? 	earth	6 8
+10 John went back to the earth.
+11 Sandra moved to the venus.
+12 Where is the apple? 	earth	6 8
+13 Mary grabbed the milk there.
+14 Mary got the football there.
+15 Mary moved to the jupiter.
+16 Sandra went back to the neptune.
+17 Where is the football? 	jupiter	14 15
+18 Daniel moved to the neptune.
+19 Daniel went to the jupiter.
+20 Where is the football? 	jupiter	14 15
+21 Mary dropped the football.
+22 Daniel put down the apple.
+23 Where is the apple? 	jupiter	22 19
+1 Sandra moved to the moon.
+2 Mary journeyed to the jupiter.
+3 Daniel took the apple there.
+4 Mary journeyed to the venus.
+5 Mary got the football there.
+6 John went to the moon.
+7 Sandra journeyed to the jupiter.
+8 Daniel travelled to the earth.
+9 Daniel discarded the apple.
+10 Daniel moved to the moon.
+11 Where is the apple? 	earth	9 8
+12 Sandra travelled to the mars.
+13 Sandra picked up the milk there.
+14 Where is the apple? 	earth	9 8
+15 John went back to the earth.
+16 John got the apple there.
+17 Sandra left the milk there.
+18 Sandra journeyed to the neptune.
+19 Where is the milk? 	mars	17 12
+20 Mary discarded the football.
+21 Sandra travelled to the venus.
+22 Where is the football? 	venus	20 4
+23 Mary got the football there.
+24 John went to the jupiter.
+25 Sandra went to the mars.
+26 Daniel moved to the jupiter.
+27 Mary travelled to the moon.
+28 Mary left the football.
+29 Where is the football? 	moon	28 27
+1 Mary grabbed the milk there.
+2 Daniel went back to the moon.
+3 Sandra picked up the football there.
+4 Mary dropped the milk there.
+5 Sandra went back to the neptune.
+6 Sandra discarded the football.
+7 Where is the football? 	neptune	6 5
+8 John journeyed to the mars.
+9 Sandra took the football there.
+10 Sandra left the football.
+11 Sandra went to the mars.
+12 Where is the football? 	neptune	10 5
+13 Mary journeyed to the mars.
+14 Sandra went back to the venus.
+15 Where is the football? 	neptune	10 5
+16 Mary went back to the neptune.
+17 Mary picked up the football there.
+18 John travelled to the moon.
+19 Sandra got the milk there.
+20 Sandra discarded the milk.
+21 John moved to the earth.
+22 Where is the milk? 	venus	20 14
+23 John moved to the jupiter.
+24 John journeyed to the earth.
+25 Where is the milk? 	venus	20 14
+1 John took the football there.
+2 John moved to the earth.
+3 Where is the football? 	earth	1 2
+4 John discarded the football.
+5 Sandra went to the earth.
+6 Where is the football? 	earth	4 2
+7 John took the football there.
+8 John dropped the football.
+9 Where is the football? 	earth	8 2
+10 Sandra took the football there.
+11 Sandra left the football.
+12 Where is the football? 	earth	11 5
+13 Sandra journeyed to the mars.
+14 Mary went back to the jupiter.
+15 Where is the football? 	earth	11 5
+1 John got the milk there.
+2 Sandra went back to the venus.
+3 Daniel moved to the venus.
+4 Sandra went to the jupiter.
+5 John dropped the milk.
+6 Daniel travelled to the earth.
+7 John took the milk there.
+8 Sandra went back to the moon.
+9 John moved to the neptune.
+10 Mary went back to the earth.
+11 Where is the milk? 	neptune	7 9
+12 Sandra went back to the neptune.
+13 John took the football there.
+14 Sandra picked up the apple there.
+15 Mary travelled to the venus.
+16 John discarded the football there.
+17 John put down the milk.
+18 Where is the football? 	neptune	16 9
+19 Mary travelled to the moon.
+20 Sandra grabbed the football there.
+21 Where is the milk? 	neptune	17 9
+22 Sandra dropped the apple.
+23 John took the milk there.
+24 Where is the apple? 	neptune	22 12
+25 John dropped the milk.
+26 Daniel went back to the moon.
+27 Where is the milk? 	neptune	25 9
+1 Sandra travelled to the jupiter.
+2 John journeyed to the earth.
+3 John travelled to the neptune.
+4 Mary moved to the moon.
+5 John journeyed to the mars.
+6 Mary picked up the football there.
+7 Mary left the football.
+8 Mary picked up the football there.
+9 Mary went back to the neptune.
+10 Daniel journeyed to the neptune.
+11 Where is the football? 	neptune	8 9
+12 John took the milk there.
+13 John discarded the milk.
+14 Where is the milk? 	mars	13 5
+15 Mary put down the football.
+16 Daniel got the football there.
+17 Where is the milk? 	mars	13 5
+18 Daniel travelled to the earth.
+19 Daniel left the football.
+20 Where is the football? 	earth	19 18
+21 Sandra moved to the moon.
+22 Sandra got the apple there.
+23 Where is the football? 	earth	19 18
+1 Mary grabbed the apple there.
+2 John took the milk there.
+3 Mary travelled to the jupiter.
+4 Mary discarded the apple.
+5 Where is the apple? 	jupiter	4 3
+6 Sandra grabbed the apple there.
+7 John dropped the milk.
+8 Daniel travelled to the jupiter.
+9 John picked up the milk there.
+10 Sandra went back to the mars.
+11 Sandra grabbed the football there.
+12 John left the milk.
+13 John took the milk there.
+14 Sandra discarded the football.
+15 Sandra took the football there.
+16 John moved to the mars.
+17 Sandra left the apple.
+18 Where is the apple? 	mars	17 10
+19 Mary travelled to the mars.
+20 Daniel went to the earth.
+21 Where is the apple? 	mars	17 10
+22 Mary got the apple there.
+23 Mary left the apple.
+24 Where is the apple? 	mars	23 19
+25 Sandra went back to the jupiter.
+26 Mary picked up the apple there.
+27 Mary travelled to the jupiter.
+28 John moved to the jupiter.
+29 Where is the apple? 	jupiter	26 27
+1 John moved to the moon.
+2 Daniel picked up the football there.
+3 Mary journeyed to the moon.
+4 Sandra grabbed the milk there.
+5 Sandra put down the milk.
+6 John travelled to the neptune.
+7 Sandra went back to the moon.
+8 John went back to the earth.
+9 Daniel went to the venus.
+10 Daniel put down the football.
+11 Where is the football? 	venus	10 9
+12 Daniel went back to the earth.
+13 Daniel went to the venus.
+14 Where is the football? 	venus	10 9
+15 Daniel picked up the football there.
+16 Mary moved to the jupiter.
+17 Daniel journeyed to the mars.
+18 Daniel grabbed the milk there.
+19 Where is the football? 	mars	15 17
+20 Daniel moved to the moon.
+21 John journeyed to the venus.
+22 Where is the milk? 	moon	18 20
+23 Sandra moved to the neptune.
+24 Mary took the apple there.
+25 Where is the milk? 	moon	18 20
+1 Sandra journeyed to the earth.
+2 Daniel travelled to the neptune.
+3 Mary moved to the moon.
+4 Daniel picked up the apple there.
+5 Sandra travelled to the jupiter.
+6 Mary picked up the football there.
+7 Sandra went back to the neptune.
+8 Daniel discarded the apple.
+9 Where is the apple? 	neptune	8 2
+10 Mary moved to the jupiter.
+11 Sandra grabbed the apple there.
+12 Where is the football? 	jupiter	6 10
+13 Daniel journeyed to the mars.
+14 Sandra left the apple there.
+15 Where is the apple? 	neptune	14 7
+16 Daniel journeyed to the neptune.
+17 Daniel took the apple there.
+18 Daniel moved to the mars.
+19 Daniel went to the earth.
+20 Where is the apple? 	earth	17 19
+21 Sandra travelled to the moon.
+22 Daniel dropped the apple.
+23 Where is the apple? 	earth	22 19
+1 Mary journeyed to the moon.
+2 Sandra took the milk there.
+3 John took the football there.
+4 John moved to the mars.
+5 Where is the football? 	mars	3 4
+6 John dropped the football.
+7 Daniel travelled to the jupiter.
+8 Where is the football? 	mars	6 4
+9 Sandra travelled to the moon.
+10 Sandra dropped the milk.
+11 Where is the milk? 	moon	10 9
+12 Mary went back to the venus.
+13 Sandra grabbed the milk there.
+14 Mary went to the neptune.
+15 Sandra journeyed to the earth.
+16 Where is the milk? 	earth	13 15
+17 Daniel went back to the earth.
+18 Sandra moved to the venus.
+19 Where is the milk? 	venus	13 18
+1 Sandra travelled to the jupiter.
+2 Mary grabbed the football there.
+3 Mary put down the football.
+4 Daniel picked up the football there.
+5 John travelled to the venus.
+6 Mary moved to the venus.
+7 John went to the jupiter.
+8 Mary got the milk there.
+9 Mary left the milk there.
+10 Daniel put down the football.
+11 Where is the milk? 	venus	9 6
+12 John went to the earth.
+13 Mary got the milk there.
+14 Daniel journeyed to the venus.
+15 Mary discarded the milk.
+16 Where is the milk? 	venus	15 6
+17 Mary moved to the neptune.
+18 Daniel grabbed the milk there.
+19 Daniel travelled to the jupiter.
+20 Mary picked up the apple there.
+21 Where is the milk? 	jupiter	18 19
+22 Daniel put down the milk there.
+23 Daniel got the milk there.
+24 John travelled to the jupiter.
+25 Sandra went to the neptune.
+26 Sandra went back to the moon.
+27 Mary went to the venus.
+28 Daniel discarded the milk.
+29 Daniel got the milk there.
+30 Mary went to the jupiter.
+31 John went back to the neptune.
+32 John moved to the moon.
+33 John went back to the neptune.
+34 Sandra journeyed to the jupiter.
+35 Daniel dropped the milk.
+36 Where is the milk? 	jupiter	35 19
+37 Daniel picked up the milk there.
+38 Daniel moved to the earth.
+39 Where is the milk? 	earth	37 38
+1 John took the football there.
+2 John left the football.
+3 Mary went back to the moon.
+4 Sandra got the football there.
+5 Daniel journeyed to the mars.
+6 John journeyed to the earth.
+7 Sandra dropped the football.
+8 Mary moved to the mars.
+9 Daniel grabbed the apple there.
+10 Mary went to the moon.
+11 Mary moved to the earth.
+12 John went back to the moon.
+13 Daniel discarded the apple there.
+14 Mary travelled to the mars.
+15 Where is the apple? 	mars	13 5
+16 Sandra picked up the football there.
+17 Sandra left the football there.
+18 Where is the apple? 	mars	13 5
+19 Mary went to the neptune.
+20 Daniel got the apple there.
+21 Daniel travelled to the neptune.
+22 Mary took the football there.
+23 Where is the apple? 	neptune	20 21
+24 John travelled to the neptune.
+25 Mary put down the football.
+26 Where is the football? 	neptune	25 19
+27 Mary went back to the earth.
+28 John went back to the jupiter.
+29 Where is the football? 	neptune	25 19

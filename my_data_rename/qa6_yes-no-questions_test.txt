@@ -1,0 +1,3050 @@
+1 Doud got the milk there.
+2 Colliani moved to the bedroom.
+3 Is Colliani in the kitchen? 	no	2
+4 Doud discarded the milk.
+5 Colliani went to the garden.
+6 Is Colliani in the kitchen? 	no	5
+7 Conn moved to the bedroom.
+8 Conn went to the garden.
+9 Is Colliani in the garden? 	yes	5
+10 Conn travelled to the bathroom.
+11 Burnhard travelled to the bedroom.
+12 Is Conn in the bathroom? 	yes	10
+13 Doud took the football there.
+14 Burnhard grabbed the milk there.
+15 Is Conn in the bedroom? 	no	10
+1 Conn went back to the kitchen.
+2 Doud grabbed the apple there.
+3 Is Conn in the office? 	no	1
+4 Conn journeyed to the office.
+5 Colliani went back to the office.
+6 Is Conn in the hallway? 	no	4
+7 Doud left the apple.
+8 Conn went to the hallway.
+9 Is Conn in the hallway? 	yes	8
+10 Colliani went to the hallway.
+11 Conn picked up the milk there.
+12 Is Colliani in the kitchen? 	no	10
+13 Colliani grabbed the football there.
+14 Doud got the apple there.
+15 Is Conn in the hallway? 	yes	8
+1 Colliani moved to the hallway.
+2 Burnhard went to the bedroom.
+3 Is Colliani in the hallway? 	yes	1
+4 Burnhard travelled to the garden.
+5 Colliani got the football there.
+6 Is Colliani in the bedroom? 	no	1
+7 Conn went back to the bedroom.
+8 Doud moved to the bathroom.
+9 Is Burnhard in the garden? 	yes	4
+10 Doud went to the kitchen.
+11 Burnhard went to the hallway.
+12 Is Doud in the kitchen? 	yes	10
+13 Burnhard travelled to the kitchen.
+14 Colliani dropped the football.
+15 Is Doud in the kitchen? 	yes	10
+1 Colliani journeyed to the hallway.
+2 Colliani got the apple there.
+3 Is Colliani in the hallway? 	yes	1
+4 Conn journeyed to the hallway.
+5 Conn went back to the kitchen.
+6 Is Colliani in the hallway? 	yes	1
+7 Colliani put down the apple.
+8 Conn went back to the garden.
+9 Is Conn in the kitchen? 	no	8
+10 Colliani travelled to the bedroom.
+11 Burnhard journeyed to the bedroom.
+12 Is Colliani in the bathroom? 	no	10
+13 Burnhard travelled to the bathroom.
+14 Colliani went to the office.
+15 Is Conn in the bedroom? 	no	8
+1 Conn grabbed the apple there.
+2 Doud travelled to the bedroom.
+3 Is Doud in the bedroom? 	yes	2
+4 Burnhard got the milk there.
+5 Conn moved to the hallway.
+6 Is Doud in the kitchen? 	no	2
+7 Conn moved to the bathroom.
+8 Doud took the football there.
+9 Is Conn in the bathroom? 	yes	7
+10 Conn discarded the apple.
+11 Burnhard journeyed to the hallway.
+12 Is Burnhard in the bedroom? 	no	11
+13 Burnhard dropped the milk.
+14 Colliani went back to the hallway.
+15 Is Colliani in the bedroom? 	no	14
+1 Conn grabbed the apple there.
+2 Colliani journeyed to the office.
+3 Is Colliani in the office? 	yes	2
+4 Doud journeyed to the bathroom.
+5 Doud went back to the garden.
+6 Is Doud in the garden? 	yes	5
+7 Conn discarded the apple.
+8 Burnhard moved to the bedroom.
+9 Is Colliani in the office? 	yes	2
+10 Colliani journeyed to the kitchen.
+11 Burnhard got the apple there.
+12 Is Colliani in the office? 	no	10
+13 Burnhard dropped the apple.
+14 Doud moved to the hallway.
+15 Is Doud in the hallway? 	yes	14
+1 Conn grabbed the apple there.
+2 Colliani went to the garden.
+3 Is Colliani in the garden? 	yes	2
+4 Burnhard picked up the milk there.
+5 Doud went back to the hallway.
+6 Is Colliani in the bathroom? 	no	2
+7 Burnhard put down the milk there.
+8 Burnhard moved to the garden.
+9 Is Burnhard in the bedroom? 	no	8
+10 Colliani went to the bedroom.
+11 Burnhard moved to the bathroom.
+12 Is Burnhard in the bedroom? 	no	11
+13 Burnhard moved to the garden.
+14 Burnhard moved to the bathroom.
+15 Is Burnhard in the garden? 	no	14
+1 Colliani took the apple there.
+2 Doud went back to the bathroom.
+3 Is Doud in the kitchen? 	no	2
+4 Colliani left the apple.
+5 Burnhard went to the garden.
+6 Is Burnhard in the garden? 	yes	5
+7 Doud went back to the bedroom.
+8 Doud journeyed to the garden.
+9 Is Doud in the garden? 	yes	8
+10 Colliani picked up the apple there.
+11 Colliani travelled to the bathroom.
+12 Is Doud in the garden? 	yes	8
+13 Colliani got the football there.
+14 Doud journeyed to the kitchen.
+15 Is Doud in the office? 	no	14
+1 Colliani went back to the kitchen.
+2 Doud got the football there.
+3 Is Colliani in the kitchen? 	yes	1
+4 Burnhard picked up the apple there.
+5 Burnhard travelled to the bedroom.
+6 Is Colliani in the hallway? 	no	1
+7 Conn travelled to the bathroom.
+8 Burnhard dropped the apple there.
+9 Is Burnhard in the kitchen? 	no	5
+10 Colliani moved to the office.
+11 Doud went to the garden.
+12 Is Doud in the bathroom? 	no	11
+13 Doud moved to the office.
+14 Burnhard went back to the bathroom.
+15 Is Doud in the office? 	yes	13
+1 Conn went back to the bathroom.
+2 Conn journeyed to the office.
+3 Is Conn in the office? 	yes	2
+4 Conn journeyed to the hallway.
+5 Doud took the milk there.
+6 Is Conn in the hallway? 	yes	4
+7 Doud went to the kitchen.
+8 Doud discarded the milk.
+9 Is Doud in the bathroom? 	no	7
+10 Doud picked up the football there.
+11 Doud took the milk there.
+12 Is Doud in the kitchen? 	yes	7
+13 Conn went to the kitchen.
+14 Colliani travelled to the kitchen.
+15 Is Colliani in the kitchen? 	yes	14
+1 Doud journeyed to the kitchen.
+2 Conn picked up the football there.
+3 Is Doud in the kitchen? 	yes	1
+4 Colliani picked up the apple there.
+5 Colliani discarded the apple there.
+6 Is Doud in the kitchen? 	yes	1
+7 Colliani picked up the apple there.
+8 Conn journeyed to the kitchen.
+9 Is Conn in the kitchen? 	yes	8
+10 Conn put down the football.
+11 Doud moved to the garden.
+12 Is Doud in the garden? 	yes	11
+13 Burnhard went back to the kitchen.
+14 Conn moved to the office.
+15 Is Burnhard in the kitchen? 	yes	13
+1 Colliani travelled to the office.
+2 Conn picked up the football there.
+3 Is Colliani in the bathroom? 	no	1
+4 Colliani grabbed the apple there.
+5 Doud went to the bathroom.
+6 Is Doud in the bedroom? 	no	5
+7 Conn picked up the milk there.
+8 Conn discarded the football.
+9 Is Doud in the bathroom? 	yes	5
+10 Doud went back to the office.
+11 Conn took the football there.
+12 Is Doud in the bedroom? 	no	10
+13 Doud went back to the garden.
+14 Colliani dropped the apple.
+15 Is Doud in the office? 	no	13
+1 Colliani went to the office.
+2 Conn picked up the football there.
+3 Is Colliani in the garden? 	no	1
+4 Conn moved to the office.
+5 Burnhard moved to the office.
+6 Is Conn in the bedroom? 	no	4
+7 Conn discarded the football there.
+8 Burnhard moved to the kitchen.
+9 Is Burnhard in the office? 	no	8
+10 Doud journeyed to the kitchen.
+11 Colliani picked up the football there.
+12 Is Doud in the office? 	no	10
+13 Colliani discarded the football.
+14 Colliani moved to the kitchen.
+15 Is Doud in the kitchen? 	yes	10
+1 Burnhard journeyed to the kitchen.
+2 Colliani travelled to the kitchen.
+3 Is Colliani in the kitchen? 	yes	2
+4 Conn picked up the football there.
+5 Burnhard went to the garden.
+6 Is Colliani in the kitchen? 	yes	2
+7 Colliani journeyed to the office.
+8 Conn picked up the milk there.
+9 Is Burnhard in the garden? 	yes	5
+10 Colliani journeyed to the hallway.
+11 Colliani got the apple there.
+12 Is Burnhard in the kitchen? 	no	5
+13 Conn travelled to the garden.
+14 Colliani journeyed to the bathroom.
+15 Is Colliani in the garden? 	no	14
+1 Burnhard went to the bathroom.
+2 Doud got the milk there.
+3 Is Burnhard in the bedroom? 	no	1
+4 Doud went to the bathroom.
+5 Doud went back to the bedroom.
+6 Is Doud in the bedroom? 	yes	5
+7 Burnhard moved to the bedroom.
+8 Conn journeyed to the hallway.
+9 Is Burnhard in the bathroom? 	no	7
+10 Doud journeyed to the garden.
+11 Conn went back to the garden.
+12 Is Doud in the garden? 	yes	10
+13 Colliani travelled to the bedroom.
+14 Doud dropped the milk.
+15 Is Colliani in the garden? 	no	13
+1 Doud journeyed to the garden.
+2 Conn travelled to the bathroom.
+3 Is Conn in the bathroom? 	yes	2
+4 Colliani moved to the bedroom.
+5 Doud went back to the bedroom.
+6 Is Doud in the bedroom? 	yes	5
+7 Colliani got the apple there.
+8 Colliani discarded the apple.
+9 Is Colliani in the bedroom? 	yes	4
+10 Colliani took the apple there.
+11 Burnhard moved to the office.
+12 Is Doud in the bathroom? 	no	5
+13 Colliani moved to the office.
+14 Colliani travelled to the bathroom.
+15 Is Burnhard in the office? 	yes	11
+1 Burnhard travelled to the office.
+2 Conn grabbed the football there.
+3 Is Burnhard in the office? 	yes	1
+4 Conn moved to the garden.
+5 Conn moved to the bathroom.
+6 Is Burnhard in the bedroom? 	no	1
+7 Colliani went to the bedroom.
+8 Burnhard grabbed the milk there.
+9 Is Conn in the bathroom? 	yes	5
+10 Colliani went to the hallway.
+11 Doud went to the hallway.
+12 Is Doud in the hallway? 	yes	11
+13 Burnhard travelled to the bathroom.
+14 Burnhard put down the milk.
+15 Is Colliani in the bedroom? 	no	10
+1 Colliani travelled to the office.
+2 Conn went back to the kitchen.
+3 Is Colliani in the bathroom? 	no	1
+4 Conn got the milk there.
+5 Burnhard went to the office.
+6 Is Burnhard in the office? 	yes	5
+7 Burnhard travelled to the hallway.
+8 Colliani went to the bathroom.
+9 Is Burnhard in the kitchen? 	no	7
+10 Doud travelled to the bathroom.
+11 Doud took the football there.
+12 Is Burnhard in the hallway? 	yes	7
+13 Doud left the football.
+14 Conn went to the bedroom.
+15 Is Doud in the bathroom? 	yes	10
+1 Doud picked up the apple there.
+2 Doud went to the bathroom.
+3 Is Doud in the bathroom? 	yes	2
+4 Burnhard went to the bathroom.
+5 Burnhard grabbed the football there.
+6 Is Doud in the kitchen? 	no	2
+7 Burnhard went back to the bedroom.
+8 Doud went back to the kitchen.
+9 Is Doud in the office? 	no	8
+10 Burnhard went back to the office.
+11 Burnhard left the football.
+12 Is Doud in the bathroom? 	no	8
+13 Conn got the football there.
+14 Burnhard went back to the bedroom.
+15 Is Doud in the kitchen? 	yes	8
+1 Conn moved to the bedroom.
+2 Doud moved to the hallway.
+3 Is Doud in the bedroom? 	no	2
+4 Colliani journeyed to the garden.
+5 Doud went back to the bathroom.
+6 Is Doud in the hallway? 	no	5
+7 Colliani journeyed to the hallway.
+8 Colliani moved to the bedroom.
+9 Is Colliani in the bedroom? 	yes	8
+10 Burnhard moved to the kitchen.
+11 Conn went to the kitchen.
+12 Is Conn in the kitchen? 	yes	11
+13 Burnhard took the milk there.
+14 Colliani journeyed to the bathroom.
+15 Is Conn in the garden? 	no	11
+1 Colliani took the apple there.
+2 Colliani went to the bathroom.
+3 Is Colliani in the hallway? 	no	2
+4 Colliani moved to the office.
+5 Doud picked up the milk there.
+6 Is Colliani in the hallway? 	no	4
+7 Colliani dropped the apple there.
+8 Doud picked up the football there.
+9 Is Colliani in the bathroom? 	no	4
+10 Colliani got the apple there.
+11 Colliani journeyed to the hallway.
+12 Is Colliani in the bathroom? 	no	11
+13 Colliani left the apple.
+14 Colliani took the apple there.
+15 Is Colliani in the bedroom? 	no	11
+1 Doud went to the bathroom.
+2 Conn took the football there.
+3 Is Doud in the kitchen? 	no	1
+4 Colliani moved to the bedroom.
+5 Colliani journeyed to the kitchen.
+6 Is Colliani in the hallway? 	no	5
+7 Colliani took the milk there.
+8 Colliani went to the bedroom.
+9 Is Colliani in the kitchen? 	no	8
+10 Burnhard went to the hallway.
+11 Conn put down the football there.
+12 Is Burnhard in the bathroom? 	no	10
+13 Colliani went back to the kitchen.
+14 Burnhard moved to the office.
+15 Is Colliani in the hallway? 	no	13
+1 Conn travelled to the bathroom.
+2 Doud went back to the bedroom.
+3 Is Conn in the office? 	no	1
+4 Doud travelled to the bathroom.
+5 Conn journeyed to the kitchen.
+6 Is Conn in the bedroom? 	no	5
+7 Doud took the apple there.
+8 Colliani travelled to the office.
+9 Is Conn in the kitchen? 	yes	5
+10 Doud moved to the garden.
+11 Burnhard went back to the office.
+12 Is Conn in the kitchen? 	yes	5
+13 Burnhard journeyed to the bedroom.
+14 Colliani went to the hallway.
+15 Is Colliani in the hallway? 	yes	14
+1 Conn travelled to the hallway.
+2 Doud got the football there.
+3 Is Conn in the office? 	no	1
+4 Doud dropped the football.
+5 Doud grabbed the football there.
+6 Is Conn in the hallway? 	yes	1
+7 Burnhard journeyed to the bedroom.
+8 Doud left the football there.
+9 Is Burnhard in the bedroom? 	yes	7
+10 Burnhard got the apple there.
+11 Burnhard grabbed the milk there.
+12 Is Burnhard in the bedroom? 	yes	7
+13 Doud travelled to the bathroom.
+14 Conn travelled to the kitchen.
+15 Is Conn in the bathroom? 	no	14
+1 Colliani went to the kitchen.
+2 Burnhard journeyed to the bedroom.
+3 Is Colliani in the office? 	no	1
+4 Burnhard journeyed to the kitchen.
+5 Conn went back to the office.
+6 Is Colliani in the kitchen? 	yes	1
+7 Colliani picked up the football there.
+8 Colliani discarded the football.
+9 Is Conn in the office? 	yes	5
+10 Burnhard got the football there.
+11 Burnhard dropped the football.
+12 Is Conn in the bedroom? 	no	5
+13 Doud grabbed the apple there.
+14 Colliani got the football there.
+15 Colliani travelled to the hallway.
+16 Burnhard went back to the garden.
+17 Is Burnhard in the garden? 	yes	16
+1 Burnhard went to the kitchen.
+2 Conn got the milk there.
+3 Is Burnhard in the garden? 	no	1
+4 Colliani moved to the bedroom.
+5 Colliani travelled to the hallway.
+6 Is Burnhard in the hallway? 	no	1
+7 Doud journeyed to the bedroom.
+8 Doud went back to the garden.
+9 Is Doud in the hallway? 	no	8
+10 Burnhard went to the garden.
+11 Conn put down the milk.
+12 Is Colliani in the kitchen? 	no	5
+13 Burnhard took the milk there.
+14 Colliani took the apple there.
+15 Is Doud in the hallway? 	no	8
+1 Burnhard moved to the bedroom.
+2 Burnhard moved to the bathroom.
+3 Is Burnhard in the garden? 	no	2
+4 Conn travelled to the bathroom.
+5 Doud travelled to the kitchen.
+6 Is Conn in the bathroom? 	yes	4
+7 Doud picked up the milk there.
+8 Burnhard travelled to the kitchen.
+9 Is Burnhard in the bedroom? 	no	8
+10 Colliani went back to the garden.
+11 Doud discarded the milk.
+12 Is Colliani in the garden? 	yes	10
+13 Burnhard travelled to the office.
+14 Colliani picked up the apple there.
+15 Is Colliani in the hallway? 	no	10
+1 Colliani went back to the hallway.
+2 Burnhard picked up the football there.
+3 Is Colliani in the office? 	no	1
+4 Doud moved to the kitchen.
+5 Conn grabbed the apple there.
+6 Is Colliani in the bathroom? 	no	1
+7 Burnhard left the football.
+8 Burnhard grabbed the football there.
+9 Is Doud in the office? 	no	4
+10 Colliani moved to the bedroom.
+11 Conn discarded the apple there.
+12 Is Colliani in the hallway? 	no	10
+13 Conn grabbed the apple there.
+14 Doud went back to the bedroom.
+15 Is Doud in the kitchen? 	no	14
+1 Doud grabbed the apple there.
+2 Conn travelled to the garden.
+3 Is Conn in the kitchen? 	no	2
+4 Conn grabbed the milk there.
+5 Conn discarded the milk.
+6 Is Conn in the garden? 	yes	2
+7 Doud dropped the apple there.
+8 Colliani went to the hallway.
+9 Is Conn in the bedroom? 	no	2
+10 Colliani picked up the apple there.
+11 Colliani moved to the office.
+12 Is Colliani in the bathroom? 	no	11
+13 Burnhard travelled to the office.
+14 Colliani left the apple.
+15 Is Colliani in the office? 	yes	11
+1 Colliani journeyed to the bathroom.
+2 Colliani journeyed to the kitchen.
+3 Is Colliani in the kitchen? 	yes	2
+4 Doud went to the office.
+5 Conn went to the bedroom.
+6 Is Colliani in the hallway? 	no	2
+7 Doud journeyed to the garden.
+8 Doud journeyed to the hallway.
+9 Is Doud in the hallway? 	yes	8
+10 Burnhard moved to the office.
+11 Colliani went back to the hallway.
+12 Is Doud in the bedroom? 	no	8
+13 Burnhard grabbed the football there.
+14 Colliani travelled to the bathroom.
+15 Is Colliani in the kitchen? 	no	14
+1 Burnhard travelled to the bathroom.
+2 Conn went back to the office.
+3 Is Burnhard in the bathroom? 	yes	1
+4 Burnhard journeyed to the office.
+5 Burnhard moved to the garden.
+6 Is Burnhard in the garden? 	yes	5
+7 Doud grabbed the milk there.
+8 Doud grabbed the football there.
+9 Is Burnhard in the hallway? 	no	5
+10 Conn travelled to the hallway.
+11 Doud put down the milk.
+12 Is Conn in the hallway? 	yes	10
+13 Conn moved to the bathroom.
+14 Colliani went to the bathroom.
+15 Is Conn in the garden? 	no	13
+1 Colliani went to the kitchen.
+2 Colliani moved to the hallway.
+3 Is Colliani in the bedroom? 	no	2
+4 Conn went back to the garden.
+5 Burnhard travelled to the hallway.
+6 Is Colliani in the garden? 	no	2
+7 Doud went to the garden.
+8 Colliani went to the office.
+9 Is Burnhard in the bedroom? 	no	5
+10 Conn went back to the bedroom.
+11 Burnhard travelled to the kitchen.
+12 Is Doud in the bathroom? 	no	7
+13 Burnhard went to the hallway.
+14 Doud moved to the kitchen.
+15 Is Burnhard in the kitchen? 	no	13
+1 Conn moved to the kitchen.
+2 Conn travelled to the office.
+3 Is Conn in the office? 	yes	2
+4 Doud journeyed to the bedroom.
+5 Conn journeyed to the kitchen.
+6 Is Doud in the bedroom? 	yes	4
+7 Colliani went to the office.
+8 Conn got the milk there.
+9 Is Conn in the kitchen? 	yes	5
+10 Conn discarded the milk.
+11 Burnhard grabbed the football there.
+12 Is Colliani in the office? 	yes	7
+13 Colliani moved to the bedroom.
+14 Burnhard dropped the football.
+15 Is Colliani in the bedroom? 	yes	13
+1 Burnhard moved to the garden.
+2 Doud went to the garden.
+3 Is Doud in the bathroom? 	no	2
+4 Burnhard journeyed to the bedroom.
+5 Doud grabbed the apple there.
+6 Is Doud in the garden? 	yes	2
+7 Doud put down the apple.
+8 Doud journeyed to the bathroom.
+9 Is Doud in the hallway? 	no	8
+10 Burnhard went to the kitchen.
+11 Conn journeyed to the hallway.
+12 Is Burnhard in the kitchen? 	yes	10
+13 Doud moved to the garden.
+14 Doud went back to the bedroom.
+15 Is Conn in the hallway? 	yes	11
+1 Colliani got the apple there.
+2 Conn took the football there.
+3 Conn put down the football.
+4 Colliani went back to the hallway.
+5 Is Colliani in the hallway? 	yes	4
+6 Burnhard went back to the garden.
+7 Colliani went to the bathroom.
+8 Is Colliani in the kitchen? 	no	7
+9 Doud journeyed to the bathroom.
+10 Colliani moved to the office.
+11 Is Colliani in the kitchen? 	no	10
+12 Doud went back to the kitchen.
+13 Colliani left the apple.
+14 Is Colliani in the hallway? 	no	10
+15 Conn travelled to the bedroom.
+16 Burnhard moved to the office.
+17 Is Conn in the office? 	no	15
+1 Burnhard journeyed to the bedroom.
+2 Burnhard went back to the kitchen.
+3 Is Burnhard in the kitchen? 	yes	2
+4 Doud travelled to the bedroom.
+5 Colliani went to the kitchen.
+6 Is Burnhard in the kitchen? 	yes	2
+7 Colliani journeyed to the office.
+8 Burnhard travelled to the bathroom.
+9 Is Colliani in the kitchen? 	no	7
+10 Doud went to the bathroom.
+11 Doud moved to the office.
+12 Is Burnhard in the garden? 	no	8
+13 Conn travelled to the bedroom.
+14 Burnhard went back to the office.
+15 Is Conn in the kitchen? 	no	13
+1 Colliani grabbed the apple there.
+2 Conn moved to the bedroom.
+3 Is Conn in the bedroom? 	yes	2
+4 Colliani travelled to the bedroom.
+5 Conn got the football there.
+6 Is Colliani in the bedroom? 	yes	4
+7 Colliani went back to the office.
+8 Colliani put down the apple.
+9 Is Colliani in the office? 	yes	7
+10 Conn left the football.
+11 Colliani picked up the apple there.
+12 Is Colliani in the office? 	yes	7
+13 Conn picked up the football there.
+14 Doud went to the bedroom.
+15 Is Doud in the garden? 	no	14
+1 Conn moved to the garden.
+2 Doud journeyed to the bedroom.
+3 Is Conn in the garden? 	yes	1
+4 Colliani travelled to the garden.
+5 Doud journeyed to the kitchen.
+6 Is Doud in the kitchen? 	yes	5
+7 Colliani travelled to the bedroom.
+8 Conn moved to the kitchen.
+9 Is Conn in the kitchen? 	yes	8
+10 Doud journeyed to the hallway.
+11 Colliani journeyed to the bathroom.
+12 Is Colliani in the bathroom? 	yes	11
+13 Doud grabbed the apple there.
+14 Conn went to the bathroom.
+15 Is Conn in the garden? 	no	14
+1 Burnhard went to the garden.
+2 Doud got the apple there.
+3 Is Burnhard in the garden? 	yes	1
+4 Burnhard travelled to the bedroom.
+5 Doud travelled to the hallway.
+6 Is Burnhard in the garden? 	no	4
+7 Colliani journeyed to the hallway.
+8 Doud went to the garden.
+9 Is Burnhard in the bedroom? 	yes	4
+10 Doud journeyed to the office.
+11 Burnhard moved to the hallway.
+12 Is Doud in the office? 	yes	10
+13 Doud picked up the milk there.
+14 Doud put down the milk.
+15 Is Doud in the office? 	yes	10
+1 Colliani travelled to the kitchen.
+2 Conn got the milk there.
+3 Is Colliani in the kitchen? 	yes	1
+4 Conn went back to the office.
+5 Conn left the milk there.
+6 Is Conn in the office? 	yes	4
+7 Conn got the milk there.
+8 Conn left the milk.
+9 Is Conn in the hallway? 	no	4
+10 Doud went back to the hallway.
+11 Burnhard went back to the bathroom.
+12 Is Doud in the kitchen? 	no	10
+13 Colliani went to the office.
+14 Conn grabbed the milk there.
+15 Is Colliani in the office? 	yes	13
+1 Doud grabbed the milk there.
+2 Burnhard took the football there.
+3 Conn grabbed the apple there.
+4 Colliani went to the bathroom.
+5 Is Colliani in the bathroom? 	yes	4
+6 Doud discarded the milk.
+7 Doud picked up the milk there.
+8 Is Colliani in the bathroom? 	yes	4
+9 Burnhard put down the football there.
+10 Doud put down the milk.
+11 Is Colliani in the garden? 	no	4
+12 Burnhard travelled to the office.
+13 Doud travelled to the bedroom.
+14 Is Burnhard in the bedroom? 	no	12
+15 Colliani went back to the kitchen.
+16 Colliani journeyed to the hallway.
+17 Is Colliani in the garden? 	no	16
+1 Burnhard journeyed to the garden.
+2 Doud got the milk there.
+3 Is Burnhard in the garden? 	yes	1
+4 Burnhard travelled to the office.
+5 Colliani went to the office.
+6 Is Burnhard in the office? 	yes	4
+7 Burnhard travelled to the kitchen.
+8 Burnhard went to the bathroom.
+9 Is Burnhard in the office? 	no	8
+10 Conn went to the bedroom.
+11 Doud dropped the milk.
+12 Is Conn in the bedroom? 	yes	10
+13 Colliani took the football there.
+14 Conn got the milk there.
+15 Is Conn in the bedroom? 	yes	10
+1 Conn went to the office.
+2 Burnhard went back to the garden.
+3 Is Burnhard in the garden? 	yes	2
+4 Doud grabbed the apple there.
+5 Conn grabbed the milk there.
+6 Is Conn in the garden? 	no	1
+7 Conn went back to the garden.
+8 Colliani moved to the office.
+9 Is Colliani in the bathroom? 	no	8
+10 Colliani journeyed to the hallway.
+11 Doud put down the apple.
+12 Is Colliani in the garden? 	no	10
+13 Conn journeyed to the office.
+14 Burnhard went to the bathroom.
+15 Is Colliani in the kitchen? 	no	10
+1 Conn moved to the bedroom.
+2 Colliani travelled to the garden.
+3 Is Conn in the bathroom? 	no	1
+4 Doud went to the hallway.
+5 Doud picked up the football there.
+6 Is Doud in the hallway? 	yes	4
+7 Doud dropped the football.
+8 Colliani went back to the bedroom.
+9 Is Colliani in the kitchen? 	no	8
+10 Doud journeyed to the kitchen.
+11 Doud got the apple there.
+12 Is Doud in the office? 	no	10
+13 Doud dropped the apple there.
+14 Conn travelled to the office.
+15 Is Doud in the kitchen? 	yes	10
+1 Doud travelled to the kitchen.
+2 Burnhard journeyed to the kitchen.
+3 Is Doud in the kitchen? 	yes	1
+4 Conn journeyed to the hallway.
+5 Conn got the football there.
+6 Is Doud in the hallway? 	no	1
+7 Colliani journeyed to the bedroom.
+8 Conn journeyed to the bedroom.
+9 Is Conn in the hallway? 	no	8
+10 Burnhard took the apple there.
+11 Conn travelled to the hallway.
+12 Is Conn in the hallway? 	yes	11
+13 Burnhard put down the apple.
+14 Doud went back to the bedroom.
+15 Is Conn in the hallway? 	yes	11
+1 Doud picked up the milk there.
+2 Colliani journeyed to the garden.
+3 Is Colliani in the garden? 	yes	2
+4 Doud put down the milk.
+5 Burnhard grabbed the football there.
+6 Is Colliani in the garden? 	yes	2
+7 Colliani journeyed to the bathroom.
+8 Colliani grabbed the apple there.
+9 Is Colliani in the bedroom? 	no	7
+10 Burnhard discarded the football.
+11 Doud travelled to the bedroom.
+12 Is Colliani in the bathroom? 	yes	7
+13 Burnhard grabbed the football there.
+14 Burnhard went back to the kitchen.
+15 Is Doud in the hallway? 	no	11
+1 Conn moved to the hallway.
+2 Burnhard picked up the apple there.
+3 Is Conn in the office? 	no	1
+4 Conn travelled to the garden.
+5 Conn went back to the kitchen.
+6 Is Conn in the kitchen? 	yes	5
+7 Doud went back to the hallway.
+8 Burnhard moved to the office.
+9 Is Burnhard in the bathroom? 	no	8
+10 Conn picked up the football there.
+11 Conn put down the football.
+12 Is Conn in the kitchen? 	yes	5
+13 Burnhard left the apple.
+14 Burnhard travelled to the hallway.
+15 Is Burnhard in the hallway? 	yes	14
+1 Burnhard went back to the kitchen.
+2 Colliani grabbed the football there.
+3 Is Burnhard in the kitchen? 	yes	1
+4 Colliani went back to the office.
+5 Burnhard went back to the garden.
+6 Is Burnhard in the kitchen? 	no	5
+7 Colliani went to the kitchen.
+8 Doud went back to the bathroom.
+9 Is Colliani in the bathroom? 	no	7
+10 Colliani discarded the football.
+11 Doud journeyed to the bedroom.
+12 Is Burnhard in the kitchen? 	no	5
+13 Doud got the apple there.
+14 Conn went to the bathroom.
+15 Is Doud in the bathroom? 	no	11
+1 Burnhard travelled to the bathroom.
+2 Burnhard travelled to the kitchen.
+3 Is Burnhard in the hallway? 	no	2
+4 Burnhard moved to the garden.
+5 Burnhard got the apple there.
+6 Is Burnhard in the hallway? 	no	4
+7 Conn travelled to the hallway.
+8 Burnhard moved to the kitchen.
+9 Is Burnhard in the kitchen? 	yes	8
+10 Colliani went to the garden.
+11 Conn travelled to the office.
+12 Is Conn in the bathroom? 	no	11
+13 Burnhard went to the garden.
+14 Burnhard discarded the apple.
+15 Is Conn in the bedroom? 	no	11
+1 Conn grabbed the apple there.
+2 Colliani journeyed to the hallway.
+3 Is Colliani in the hallway? 	yes	2
+4 Colliani journeyed to the kitchen.
+5 Burnhard travelled to the bathroom.
+6 Is Burnhard in the bathroom? 	yes	5
+7 Colliani took the football there.
+8 Burnhard journeyed to the office.
+9 Is Burnhard in the office? 	yes	8
+10 Burnhard travelled to the hallway.
+11 Colliani left the football.
+12 Is Burnhard in the garden? 	no	10
+13 Burnhard travelled to the bedroom.
+14 Conn discarded the apple.
+15 Is Burnhard in the bedroom? 	yes	13
+1 Doud got the apple there.
+2 Colliani moved to the office.
+3 Is Colliani in the office? 	yes	2
+4 Doud travelled to the garden.
+5 Doud discarded the apple.
+6 Is Colliani in the office? 	yes	2
+7 Doud took the apple there.
+8 Doud travelled to the bedroom.
+9 Is Doud in the bathroom? 	no	8
+10 Doud travelled to the hallway.
+11 Colliani grabbed the football there.
+12 Is Doud in the hallway? 	yes	10
+13 Colliani put down the football there.
+14 Doud left the apple.
+15 Is Doud in the hallway? 	yes	10
+1 Burnhard moved to the bathroom.
+2 Conn went to the garden.
+3 Is Conn in the garden? 	yes	2
+4 Burnhard journeyed to the office.
+5 Doud went back to the bathroom.
+6 Is Burnhard in the office? 	yes	4
+7 Doud picked up the apple there.
+8 Conn grabbed the football there.
+9 Is Doud in the bathroom? 	yes	5
+10 Doud journeyed to the office.
+11 Conn put down the football.
+12 Is Doud in the garden? 	no	10
+13 Colliani grabbed the football there.
+14 Colliani moved to the bathroom.
+15 Is Colliani in the bathroom? 	yes	14
+1 Burnhard travelled to the bathroom.
+2 Colliani got the football there.
+3 Is Burnhard in the garden? 	no	1
+4 Conn moved to the bathroom.
+5 Conn travelled to the hallway.
+6 Is Burnhard in the bathroom? 	yes	1
+7 Burnhard went to the hallway.
+8 Colliani dropped the football.
+9 Is Conn in the hallway? 	yes	5
+10 Conn grabbed the milk there.
+11 Burnhard went to the office.
+12 Is Burnhard in the bedroom? 	no	11
+13 Conn put down the milk there.
+14 Burnhard moved to the kitchen.
+15 Is Burnhard in the bedroom? 	no	14
+1 Burnhard went back to the kitchen.
+2 Colliani moved to the kitchen.
+3 Is Colliani in the kitchen? 	yes	2
+4 Doud went back to the office.
+5 Burnhard moved to the garden.
+6 Is Colliani in the garden? 	no	2
+7 Colliani moved to the office.
+8 Conn travelled to the hallway.
+9 Is Conn in the kitchen? 	no	8
+10 Colliani journeyed to the bedroom.
+11 Doud went back to the bedroom.
+12 Is Burnhard in the garden? 	yes	5
+13 Colliani journeyed to the hallway.
+14 Colliani went to the bedroom.
+15 Is Colliani in the hallway? 	no	14
+1 Doud journeyed to the garden.
+2 Conn went to the bathroom.
+3 Is Conn in the bathroom? 	yes	2
+4 Doud travelled to the hallway.
+5 Doud went to the office.
+6 Is Doud in the hallway? 	no	5
+7 Doud took the football there.
+8 Colliani went to the bedroom.
+9 Is Doud in the bedroom? 	no	5
+10 Doud journeyed to the hallway.
+11 Burnhard moved to the hallway.
+12 Is Doud in the hallway? 	yes	10
+13 Conn took the apple there.
+14 Doud went back to the bedroom.
+15 Is Burnhard in the bedroom? 	no	11
+1 Colliani got the football there.
+2 Conn went to the bathroom.
+3 Is Conn in the bathroom? 	yes	2
+4 Conn took the apple there.
+5 Burnhard went to the bathroom.
+6 Is Burnhard in the bathroom? 	yes	5
+7 Conn left the apple there.
+8 Conn journeyed to the bedroom.
+9 Is Burnhard in the bathroom? 	yes	5
+10 Burnhard moved to the garden.
+11 Conn travelled to the garden.
+12 Is Burnhard in the bathroom? 	no	10
+13 Colliani put down the football.
+14 Conn journeyed to the bathroom.
+15 Is Burnhard in the hallway? 	no	10
+1 Burnhard moved to the garden.
+2 Burnhard went back to the bedroom.
+3 Is Burnhard in the bedroom? 	yes	2
+4 Colliani travelled to the kitchen.
+5 Colliani moved to the bedroom.
+6 Is Burnhard in the kitchen? 	no	2
+7 Conn picked up the apple there.
+8 Doud went to the bathroom.
+9 Is Colliani in the bedroom? 	yes	5
+10 Conn dropped the apple.
+11 Conn moved to the hallway.
+12 Is Colliani in the bedroom? 	yes	5
+13 Colliani went back to the kitchen.
+14 Colliani moved to the office.
+15 Is Colliani in the office? 	yes	14
+1 Conn went to the office.
+2 Burnhard travelled to the hallway.
+3 Is Conn in the office? 	yes	1
+4 Doud went to the kitchen.
+5 Colliani journeyed to the hallway.
+6 Is Conn in the hallway? 	no	1
+7 Colliani got the football there.
+8 Colliani discarded the football.
+9 Is Doud in the office? 	no	4
+10 Doud travelled to the garden.
+11 Colliani took the football there.
+12 Is Colliani in the hallway? 	yes	5
+13 Colliani went to the office.
+14 Burnhard went to the kitchen.
+15 Is Doud in the hallway? 	no	10
+1 Conn journeyed to the bathroom.
+2 Conn grabbed the football there.
+3 Is Conn in the bathroom? 	yes	1
+4 Conn grabbed the milk there.
+5 Burnhard went to the hallway.
+6 Is Burnhard in the office? 	no	5
+7 Burnhard picked up the apple there.
+8 Burnhard left the apple.
+9 Is Burnhard in the hallway? 	yes	5
+10 Conn went to the kitchen.
+11 Doud moved to the kitchen.
+12 Is Doud in the office? 	no	11
+13 Conn dropped the milk.
+14 Conn left the football.
+15 Is Doud in the bedroom? 	no	11
+1 Burnhard travelled to the bedroom.
+2 Burnhard journeyed to the garden.
+3 Is Burnhard in the office? 	no	2
+4 Colliani went to the bedroom.
+5 Doud moved to the bathroom.
+6 Is Burnhard in the garden? 	yes	2
+7 Conn got the milk there.
+8 Doud moved to the bedroom.
+9 Is Doud in the bathroom? 	no	8
+10 Burnhard journeyed to the bedroom.
+11 Colliani moved to the kitchen.
+12 Is Burnhard in the garden? 	no	10
+13 Colliani travelled to the bedroom.
+14 Doud picked up the football there.
+15 Is Burnhard in the bedroom? 	yes	10
+1 Colliani moved to the bedroom.
+2 Doud picked up the apple there.
+3 Is Colliani in the bedroom? 	yes	1
+4 Burnhard went back to the bedroom.
+5 Burnhard moved to the hallway.
+6 Is Colliani in the office? 	no	1
+7 Doud dropped the apple there.
+8 Burnhard travelled to the garden.
+9 Is Burnhard in the garden? 	yes	8
+10 Colliani moved to the bathroom.
+11 Conn travelled to the hallway.
+12 Is Conn in the hallway? 	yes	11
+13 Burnhard travelled to the bathroom.
+14 Doud picked up the apple there.
+15 Is Burnhard in the kitchen? 	no	13
+1 Conn took the milk there.
+2 Conn dropped the milk.
+3 Doud travelled to the hallway.
+4 Colliani went back to the bedroom.
+5 Is Colliani in the bedroom? 	yes	4
+6 Colliani went back to the office.
+7 Conn journeyed to the garden.
+8 Is Conn in the bedroom? 	no	7
+9 Doud travelled to the office.
+10 Colliani moved to the bedroom.
+11 Is Colliani in the bedroom? 	yes	10
+12 Conn took the apple there.
+13 Conn went back to the office.
+14 Is Conn in the garden? 	no	13
+15 Doud moved to the bathroom.
+16 Conn got the milk there.
+17 Is Conn in the garden? 	no	13
+1 Doud journeyed to the bathroom.
+2 Burnhard went to the hallway.
+3 Is Burnhard in the hallway? 	yes	2
+4 Doud journeyed to the hallway.
+5 Doud journeyed to the office.
+6 Is Doud in the hallway? 	no	5
+7 Conn took the football there.
+8 Burnhard moved to the kitchen.
+9 Is Burnhard in the kitchen? 	yes	8
+10 Colliani went back to the hallway.
+11 Colliani went to the bedroom.
+12 Is Doud in the bathroom? 	no	5
+13 Colliani went back to the hallway.
+14 Conn left the football.
+15 Is Colliani in the hallway? 	yes	13
+1 Burnhard journeyed to the garden.
+2 Colliani picked up the milk there.
+3 Is Burnhard in the hallway? 	no	1
+4 Colliani put down the milk there.
+5 Doud went to the hallway.
+6 Is Burnhard in the garden? 	yes	1
+7 Conn journeyed to the bedroom.
+8 Burnhard picked up the football there.
+9 Is Doud in the bedroom? 	no	5
+10 Colliani got the milk there.
+11 Colliani travelled to the hallway.
+12 Is Conn in the kitchen? 	no	7
+13 Burnhard travelled to the bathroom.
+14 Colliani travelled to the bedroom.
+15 Is Burnhard in the bathroom? 	yes	13
+1 Colliani went to the kitchen.
+2 Burnhard travelled to the hallway.
+3 Is Burnhard in the hallway? 	yes	2
+4 Colliani went to the bedroom.
+5 Burnhard travelled to the bedroom.
+6 Is Burnhard in the hallway? 	no	5
+7 Doud moved to the office.
+8 Burnhard travelled to the hallway.
+9 Is Doud in the bedroom? 	no	7
+10 Doud grabbed the football there.
+11 Conn journeyed to the bedroom.
+12 Is Burnhard in the hallway? 	yes	8
+13 Colliani travelled to the bathroom.
+14 Colliani travelled to the hallway.
+15 Is Burnhard in the garden? 	no	8
+1 Conn travelled to the bathroom.
+2 Colliani went to the kitchen.
+3 Is Colliani in the office? 	no	2
+4 Colliani got the apple there.
+5 Colliani moved to the bedroom.
+6 Is Colliani in the hallway? 	no	5
+7 Colliani journeyed to the office.
+8 Conn travelled to the office.
+9 Is Colliani in the bathroom? 	no	7
+10 Doud moved to the bathroom.
+11 Colliani discarded the apple.
+12 Is Doud in the kitchen? 	no	10
+13 Doud journeyed to the kitchen.
+14 Colliani moved to the kitchen.
+15 Is Colliani in the bathroom? 	no	14
+1 Colliani went back to the kitchen.
+2 Colliani moved to the garden.
+3 Is Colliani in the garden? 	yes	2
+4 Burnhard went back to the office.
+5 Doud took the milk there.
+6 Is Burnhard in the hallway? 	no	4
+7 Doud discarded the milk there.
+8 Doud went to the office.
+9 Is Burnhard in the office? 	yes	4
+10 Conn went back to the garden.
+11 Conn took the football there.
+12 Is Doud in the office? 	yes	8
+13 Conn put down the football there.
+14 Conn travelled to the hallway.
+15 Is Conn in the hallway? 	yes	14
+1 Colliani went to the kitchen.
+2 Conn travelled to the bedroom.
+3 Is Colliani in the kitchen? 	yes	1
+4 Colliani travelled to the hallway.
+5 Doud journeyed to the garden.
+6 Is Colliani in the bedroom? 	no	4
+7 Conn went to the kitchen.
+8 Conn went back to the hallway.
+9 Is Conn in the kitchen? 	no	8
+10 Burnhard went back to the garden.
+11 Colliani went back to the garden.
+12 Is Conn in the hallway? 	yes	8
+13 Doud went to the office.
+14 Colliani journeyed to the kitchen.
+15 Is Burnhard in the office? 	no	10
+1 Burnhard went to the office.
+2 Doud went back to the bedroom.
+3 Is Burnhard in the hallway? 	no	1
+4 Conn travelled to the bathroom.
+5 Colliani went to the hallway.
+6 Is Doud in the bedroom? 	yes	2
+7 Conn moved to the garden.
+8 Burnhard moved to the bathroom.
+9 Is Doud in the bathroom? 	no	2
+10 Conn moved to the office.
+11 Doud picked up the apple there.
+12 Is Conn in the kitchen? 	no	10
+13 Colliani took the milk there.
+14 Colliani moved to the garden.
+15 Is Colliani in the garden? 	yes	14
+1 Doud grabbed the milk there.
+2 Colliani moved to the garden.
+3 Is Colliani in the bedroom? 	no	2
+4 Burnhard took the apple there.
+5 Burnhard went to the hallway.
+6 Is Colliani in the bedroom? 	no	2
+7 Conn went back to the hallway.
+8 Colliani journeyed to the bedroom.
+9 Is Colliani in the garden? 	no	8
+10 Doud picked up the football there.
+11 Doud went to the garden.
+12 Is Conn in the bedroom? 	no	7
+13 Colliani travelled to the garden.
+14 Doud journeyed to the bedroom.
+15 Is Colliani in the hallway? 	no	13
+1 Colliani moved to the bedroom.
+2 Colliani went to the bathroom.
+3 Is Colliani in the bathroom? 	yes	2
+4 Conn travelled to the bathroom.
+5 Colliani picked up the apple there.
+6 Is Conn in the bathroom? 	yes	4
+7 Burnhard took the football there.
+8 Colliani went back to the garden.
+9 Is Colliani in the garden? 	yes	8
+10 Colliani dropped the apple.
+11 Burnhard discarded the football.
+12 Is Colliani in the garden? 	yes	8
+13 Colliani travelled to the bedroom.
+14 Colliani went to the hallway.
+15 Is Colliani in the bedroom? 	no	14
+1 Conn took the apple there.
+2 Doud went to the office.
+3 Is Doud in the kitchen? 	no	2
+4 Burnhard picked up the football there.
+5 Burnhard travelled to the bedroom.
+6 Is Burnhard in the bedroom? 	yes	5
+7 Burnhard went to the garden.
+8 Burnhard discarded the football there.
+9 Is Burnhard in the garden? 	yes	7
+10 Burnhard went back to the office.
+11 Colliani grabbed the football there.
+12 Is Burnhard in the bedroom? 	no	10
+13 Conn moved to the office.
+14 Doud travelled to the bathroom.
+15 Is Doud in the bathroom? 	yes	14
+1 Conn grabbed the apple there.
+2 Doud went back to the office.
+3 Is Doud in the office? 	yes	2
+4 Conn dropped the apple.
+5 Colliani journeyed to the office.
+6 Is Doud in the bedroom? 	no	2
+7 Conn went back to the bathroom.
+8 Doud journeyed to the garden.
+9 Is Colliani in the bedroom? 	no	5
+10 Conn journeyed to the office.
+11 Burnhard travelled to the bathroom.
+12 Is Conn in the office? 	yes	10
+13 Burnhard went back to the hallway.
+14 Burnhard went back to the office.
+15 Is Doud in the garden? 	yes	8
+1 Doud went to the bedroom.
+2 Burnhard grabbed the milk there.
+3 Is Doud in the bathroom? 	no	1
+4 Burnhard journeyed to the bedroom.
+5 Burnhard dropped the milk.
+6 Is Burnhard in the hallway? 	no	4
+7 Conn went back to the office.
+8 Colliani went to the kitchen.
+9 Is Conn in the office? 	yes	7
+10 Conn journeyed to the kitchen.
+11 Doud went back to the bathroom.
+12 Is Colliani in the hallway? 	no	8
+13 Burnhard picked up the milk there.
+14 Burnhard left the milk.
+15 Is Doud in the bedroom? 	no	11
+1 Conn picked up the apple there.
+2 Conn travelled to the garden.
+3 Is Conn in the bedroom? 	no	2
+4 Doud travelled to the hallway.
+5 Conn dropped the apple.
+6 Is Conn in the kitchen? 	no	2
+7 Doud picked up the milk there.
+8 Conn grabbed the apple there.
+9 Is Conn in the garden? 	yes	2
+10 Conn dropped the apple.
+11 Conn took the apple there.
+12 Conn went to the bathroom.
+13 Conn journeyed to the kitchen.
+14 Is Conn in the hallway? 	no	13
+15 Conn journeyed to the hallway.
+16 Doud discarded the milk.
+17 Is Conn in the garden? 	no	15
+1 Doud travelled to the hallway.
+2 Conn got the apple there.
+3 Is Doud in the bathroom? 	no	1
+4 Conn journeyed to the bathroom.
+5 Doud moved to the kitchen.
+6 Is Doud in the kitchen? 	yes	5
+7 Conn travelled to the hallway.
+8 Conn dropped the apple.
+9 Is Doud in the bedroom? 	no	5
+10 Colliani moved to the garden.
+11 Conn travelled to the garden.
+12 Is Doud in the garden? 	no	5
+13 Conn went back to the bedroom.
+14 Conn took the football there.
+15 Is Colliani in the garden? 	yes	10
+1 Burnhard moved to the garden.
+2 Burnhard got the milk there.
+3 Is Burnhard in the garden? 	yes	1
+4 Burnhard went to the bedroom.
+5 Doud journeyed to the garden.
+6 Is Burnhard in the bedroom? 	yes	4
+7 Colliani went back to the office.
+8 Conn went back to the office.
+9 Is Colliani in the bedroom? 	no	7
+10 Conn moved to the hallway.
+11 Conn went to the bathroom.
+12 Is Conn in the bathroom? 	yes	11
+13 Conn took the football there.
+14 Burnhard put down the milk.
+15 Is Conn in the hallway? 	no	11
+1 Burnhard picked up the apple there.
+2 Colliani took the football there.
+3 Burnhard put down the apple.
+4 Colliani dropped the football.
+5 Doud got the milk there.
+6 Conn went to the kitchen.
+7 Is Conn in the bedroom? 	no	6
+8 Colliani moved to the hallway.
+9 Doud discarded the milk there.
+10 Is Colliani in the hallway? 	yes	8
+11 Doud picked up the milk there.
+12 Conn travelled to the hallway.
+13 Is Conn in the bathroom? 	no	12
+14 Burnhard got the apple there.
+15 Burnhard discarded the apple there.
+16 Is Conn in the hallway? 	yes	12
+17 Burnhard went back to the kitchen.
+18 Burnhard got the football there.
+19 Is Burnhard in the kitchen? 	yes	17
+1 Conn went to the office.
+2 Conn travelled to the kitchen.
+3 Is Conn in the bathroom? 	no	2
+4 Colliani took the milk there.
+5 Doud went to the hallway.
+6 Is Doud in the garden? 	no	5
+7 Colliani went back to the garden.
+8 Burnhard went to the garden.
+9 Is Burnhard in the office? 	no	8
+10 Conn travelled to the hallway.
+11 Colliani journeyed to the bedroom.
+12 Is Colliani in the office? 	no	11
+13 Doud travelled to the office.
+14 Colliani went to the office.
+15 Is Colliani in the kitchen? 	no	14
+1 Colliani journeyed to the bathroom.
+2 Conn picked up the football there.
+3 Is Colliani in the kitchen? 	no	1
+4 Burnhard went to the hallway.
+5 Doud moved to the kitchen.
+6 Is Doud in the hallway? 	no	5
+7 Conn went to the hallway.
+8 Conn put down the football.
+9 Is Burnhard in the hallway? 	yes	4
+10 Burnhard moved to the office.
+11 Doud travelled to the bedroom.
+12 Is Doud in the bedroom? 	yes	11
+13 Conn grabbed the football there.
+14 Conn left the football.
+15 Is Burnhard in the office? 	yes	10
+1 Doud picked up the apple there.
+2 Doud moved to the kitchen.
+3 Is Doud in the kitchen? 	yes	2
+4 Burnhard went to the office.
+5 Doud travelled to the garden.
+6 Is Doud in the garden? 	yes	5
+7 Doud travelled to the hallway.
+8 Doud discarded the apple.
+9 Is Doud in the hallway? 	yes	7
+10 Doud took the apple there.
+11 Doud left the apple.
+12 Is Doud in the hallway? 	yes	7
+13 Doud travelled to the kitchen.
+14 Doud travelled to the hallway.
+15 Is Doud in the bathroom? 	no	14
+1 Colliani went to the office.
+2 Colliani went back to the garden.
+3 Is Colliani in the garden? 	yes	2
+4 Conn travelled to the office.
+5 Conn grabbed the football there.
+6 Is Colliani in the garden? 	yes	2
+7 Burnhard grabbed the milk there.
+8 Doud went back to the hallway.
+9 Is Doud in the hallway? 	yes	8
+10 Conn dropped the football.
+11 Doud journeyed to the garden.
+12 Is Doud in the bedroom? 	no	11
+13 Conn grabbed the football there.
+14 Burnhard put down the milk there.
+15 Is Doud in the office? 	no	11
+1 Conn picked up the football there.
+2 Conn left the football.
+3 Doud got the apple there.
+4 Conn moved to the office.
+5 Is Conn in the office? 	yes	4
+6 Doud went to the kitchen.
+7 Burnhard went back to the bathroom.
+8 Is Doud in the kitchen? 	yes	6
+9 Doud left the apple.
+10 Burnhard got the milk there.
+11 Is Conn in the bedroom? 	no	4
+12 Colliani journeyed to the kitchen.
+13 Burnhard moved to the hallway.
+14 Is Burnhard in the garden? 	no	13
+15 Doud moved to the garden.
+16 Conn went to the kitchen.
+17 Is Colliani in the kitchen? 	yes	12
+1 Doud moved to the bedroom.
+2 Conn picked up the milk there.
+3 Is Doud in the garden? 	no	1
+4 Colliani went to the hallway.
+5 Doud travelled to the bathroom.
+6 Is Colliani in the bedroom? 	no	4
+7 Conn put down the milk.
+8 Burnhard travelled to the bathroom.
+9 Is Burnhard in the bathroom? 	yes	8
+10 Colliani travelled to the office.
+11 Burnhard went to the bedroom.
+12 Is Doud in the garden? 	no	5
+13 Burnhard moved to the garden.
+14 Conn moved to the office.
+15 Is Burnhard in the garden? 	yes	13
+1 Colliani travelled to the hallway.
+2 Colliani travelled to the garden.
+3 Is Colliani in the garden? 	yes	2
+4 Colliani moved to the kitchen.
+5 Conn grabbed the apple there.
+6 Is Colliani in the bedroom? 	no	4
+7 Colliani moved to the bathroom.
+8 Conn put down the apple there.
+9 Is Colliani in the bathroom? 	yes	7
+10 Colliani went to the office.
+11 Conn went to the bedroom.
+12 Is Colliani in the hallway? 	no	10
+13 Colliani travelled to the hallway.
+14 Colliani took the football there.
+15 Is Colliani in the hallway? 	yes	13
+1 Doud went to the office.
+2 Conn journeyed to the hallway.
+3 Is Conn in the bedroom? 	no	2
+4 Doud went to the bedroom.
+5 Burnhard went to the garden.
+6 Is Doud in the office? 	no	4
+7 Burnhard took the football there.
+8 Doud journeyed to the bathroom.
+9 Is Doud in the office? 	no	8
+10 Doud went to the bedroom.
+11 Colliani moved to the hallway.
+12 Is Burnhard in the garden? 	yes	5
+13 Burnhard put down the football there.
+14 Burnhard picked up the football there.
+15 Is Colliani in the office? 	no	11
+1 Doud journeyed to the kitchen.
+2 Conn moved to the hallway.
+3 Is Conn in the bedroom? 	no	2
+4 Doud moved to the bathroom.
+5 Burnhard picked up the milk there.
+6 Is Conn in the bathroom? 	no	2
+7 Burnhard put down the milk.
+8 Conn went back to the office.
+9 Is Conn in the office? 	yes	8
+10 Doud went to the office.
+11 Burnhard moved to the garden.
+12 Is Burnhard in the garden? 	yes	11
+13 Colliani travelled to the kitchen.
+14 Burnhard got the football there.
+15 Is Conn in the garden? 	no	8
+1 Doud moved to the office.
+2 Burnhard took the apple there.
+3 Is Doud in the office? 	yes	1
+4 Colliani went to the hallway.
+5 Burnhard left the apple.
+6 Is Doud in the office? 	yes	1
+7 Conn went to the garden.
+8 Doud got the apple there.
+9 Is Conn in the garden? 	yes	7
+10 Burnhard went back to the bedroom.
+11 Doud went back to the garden.
+12 Is Burnhard in the bedroom? 	yes	10
+13 Doud left the apple.
+14 Burnhard travelled to the kitchen.
+15 Is Burnhard in the kitchen? 	yes	14
+1 Colliani went back to the office.
+2 Colliani went back to the bathroom.
+3 Is Colliani in the bathroom? 	yes	2
+4 Colliani moved to the hallway.
+5 Conn moved to the garden.
+6 Is Conn in the office? 	no	5
+7 Doud moved to the hallway.
+8 Colliani picked up the football there.
+9 Is Conn in the garden? 	yes	5
+10 Conn travelled to the bedroom.
+11 Colliani moved to the kitchen.
+12 Is Conn in the office? 	no	10
+13 Conn journeyed to the kitchen.
+14 Conn moved to the bathroom.
+15 Is Conn in the bathroom? 	yes	14
+1 Doud moved to the hallway.
+2 Doud picked up the football there.
+3 Is Doud in the bathroom? 	no	1
+4 Conn journeyed to the bedroom.
+5 Conn moved to the bathroom.
+6 Is Conn in the garden? 	no	5
+7 Doud left the football.
+8 Colliani travelled to the bedroom.
+9 Is Conn in the hallway? 	no	5
+10 Colliani picked up the milk there.
+11 Burnhard travelled to the hallway.
+12 Is Colliani in the bathroom? 	no	8
+13 Conn went back to the hallway.
+14 Conn got the football there.
+15 Is Colliani in the kitchen? 	no	8
+1 Burnhard went back to the hallway.
+2 Burnhard grabbed the apple there.
+3 Is Burnhard in the hallway? 	yes	1
+4 Burnhard went to the bathroom.
+5 Doud went back to the bedroom.
+6 Is Burnhard in the office? 	no	4
+7 Burnhard moved to the office.
+8 Burnhard dropped the apple there.
+9 Is Doud in the bedroom? 	yes	5
+10 Burnhard travelled to the garden.
+11 Burnhard took the milk there.
+12 Is Burnhard in the office? 	no	10
+13 Burnhard dropped the milk.
+14 Conn went to the office.
+15 Is Burnhard in the kitchen? 	no	10
+1 Colliani journeyed to the kitchen.
+2 Burnhard went back to the hallway.
+3 Is Colliani in the bedroom? 	no	1
+4 Doud journeyed to the kitchen.
+5 Burnhard moved to the bedroom.
+6 Is Burnhard in the bedroom? 	yes	5
+7 Colliani went to the office.
+8 Burnhard went back to the bathroom.
+9 Is Burnhard in the garden? 	no	8
+10 Burnhard travelled to the office.
+11 Burnhard travelled to the bedroom.
+12 Is Colliani in the bedroom? 	no	7
+13 Doud went to the office.
+14 Conn moved to the office.
+15 Is Doud in the office? 	yes	13
+1 Colliani went back to the garden.
+2 Burnhard travelled to the office.
+3 Is Colliani in the kitchen? 	no	1
+4 Colliani went to the bathroom.
+5 Conn went back to the bathroom.
+6 Is Burnhard in the garden? 	no	2
+7 Doud moved to the hallway.
+8 Burnhard went back to the garden.
+9 Is Conn in the bathroom? 	yes	5
+10 Doud journeyed to the garden.
+11 Burnhard journeyed to the bedroom.
+12 Is Burnhard in the hallway? 	no	11
+13 Burnhard travelled to the kitchen.
+14 Conn travelled to the hallway.
+15 Is Burnhard in the kitchen? 	yes	13
+1 Burnhard journeyed to the office.
+2 Burnhard grabbed the football there.
+3 Is Burnhard in the office? 	yes	1
+4 Burnhard picked up the apple there.
+5 Colliani got the milk there.
+6 Is Burnhard in the office? 	yes	1
+7 Colliani dropped the milk.
+8 Burnhard discarded the apple.
+9 Doud went to the garden.
+10 Burnhard went to the bathroom.
+11 Is Burnhard in the bathroom? 	yes	10
+12 Conn went back to the bathroom.
+13 Colliani picked up the milk there.
+14 Is Burnhard in the hallway? 	no	10
+15 Conn went to the hallway.
+16 Colliani went back to the bedroom.
+17 Is Colliani in the bedroom? 	yes	16
+1 Conn travelled to the bathroom.
+2 Conn went back to the garden.
+3 Is Conn in the bathroom? 	no	2
+4 Conn went back to the office.
+5 Conn went to the garden.
+6 Is Conn in the bedroom? 	no	5
+7 Colliani journeyed to the bathroom.
+8 Conn took the milk there.
+9 Is Colliani in the bathroom? 	yes	7
+10 Doud journeyed to the kitchen.
+11 Doud moved to the bathroom.
+12 Is Doud in the bathroom? 	yes	11
+13 Doud went back to the garden.
+14 Conn dropped the milk.
+15 Is Doud in the garden? 	yes	13
+1 Burnhard moved to the office.
+2 Conn journeyed to the garden.
+3 Is Burnhard in the office? 	yes	1
+4 Burnhard journeyed to the bathroom.
+5 Burnhard travelled to the kitchen.
+6 Is Conn in the garden? 	yes	2
+7 Conn went to the office.
+8 Conn grabbed the football there.
+9 Is Conn in the bathroom? 	no	7
+10 Doud journeyed to the office.
+11 Conn went back to the bathroom.
+12 Is Conn in the office? 	no	11
+13 Conn put down the football there.
+14 Doud went to the bedroom.
+15 Is Doud in the hallway? 	no	14
+1 Burnhard journeyed to the bedroom.
+2 Colliani went to the bedroom.
+3 Is Colliani in the bedroom? 	yes	2
+4 Burnhard took the football there.
+5 Conn moved to the garden.
+6 Is Burnhard in the hallway? 	no	1
+7 Burnhard went to the hallway.
+8 Burnhard went back to the garden.
+9 Is Colliani in the garden? 	no	2
+10 Burnhard discarded the football.
+11 Conn picked up the apple there.
+12 Is Conn in the bedroom? 	no	5
+13 Colliani travelled to the garden.
+14 Colliani journeyed to the kitchen.
+15 Is Colliani in the garden? 	no	14
+1 Burnhard grabbed the milk there.
+2 Conn journeyed to the kitchen.
+3 Is Conn in the kitchen? 	yes	2
+4 Conn picked up the football there.
+5 Doud went to the office.
+6 Is Doud in the office? 	yes	5
+7 Colliani went to the bedroom.
+8 Conn went to the garden.
+9 Is Conn in the garden? 	yes	8
+10 Burnhard went back to the office.
+11 Doud journeyed to the bedroom.
+12 Is Colliani in the office? 	no	7
+13 Colliani travelled to the hallway.
+14 Burnhard left the milk.
+15 Is Conn in the garden? 	yes	8
+1 Colliani travelled to the bathroom.
+2 Colliani moved to the kitchen.
+3 Is Colliani in the kitchen? 	yes	2
+4 Colliani grabbed the apple there.
+5 Colliani went back to the hallway.
+6 Is Colliani in the office? 	no	5
+7 Doud went back to the hallway.
+8 Colliani travelled to the bathroom.
+9 Is Colliani in the bathroom? 	yes	8
+10 Conn moved to the office.
+11 Doud went to the office.
+12 Is Doud in the office? 	yes	11
+13 Burnhard moved to the kitchen.
+14 Burnhard went back to the bedroom.
+15 Is Conn in the office? 	yes	10
+1 Burnhard moved to the bedroom.
+2 Conn journeyed to the kitchen.
+3 Is Conn in the bathroom? 	no	2
+4 Conn took the football there.
+5 Burnhard journeyed to the kitchen.
+6 Is Burnhard in the kitchen? 	yes	5
+7 Conn left the football there.
+8 Conn went back to the garden.
+9 Is Conn in the garden? 	yes	8
+10 Doud went to the garden.
+11 Conn picked up the apple there.
+12 Is Doud in the garden? 	yes	10
+13 Burnhard travelled to the bedroom.
+14 Doud travelled to the bedroom.
+15 Is Doud in the office? 	no	14
+1 Burnhard travelled to the office.
+2 Doud got the football there.
+3 Is Burnhard in the hallway? 	no	1
+4 Doud moved to the kitchen.
+5 Colliani went to the kitchen.
+6 Is Doud in the kitchen? 	yes	4
+7 Doud dropped the football.
+8 Doud went back to the office.
+9 Is Doud in the office? 	yes	8
+10 Colliani moved to the bedroom.
+11 Conn took the apple there.
+12 Is Doud in the office? 	yes	8
+13 Burnhard travelled to the kitchen.
+14 Burnhard got the football there.
+15 Is Burnhard in the kitchen? 	yes	13
+1 Burnhard took the apple there.
+2 Burnhard moved to the bedroom.
+3 Is Burnhard in the bedroom? 	yes	2
+4 Conn moved to the garden.
+5 Burnhard moved to the kitchen.
+6 Is Burnhard in the office? 	no	5
+7 Burnhard grabbed the football there.
+8 Colliani went back to the hallway.
+9 Is Burnhard in the kitchen? 	yes	5
+10 Conn went back to the bedroom.
+11 Burnhard left the apple.
+12 Is Colliani in the hallway? 	yes	8
+13 Conn picked up the milk there.
+14 Conn journeyed to the bathroom.
+15 Is Conn in the bathroom? 	yes	14
+1 Conn picked up the milk there.
+2 Burnhard went to the garden.
+3 Is Burnhard in the kitchen? 	no	2
+4 Doud moved to the office.
+5 Conn moved to the garden.
+6 Is Conn in the bathroom? 	no	5
+7 Doud went back to the garden.
+8 Conn dropped the milk.
+9 Is Doud in the bedroom? 	no	7
+10 Conn grabbed the milk there.
+11 Doud journeyed to the bathroom.
+12 Is Doud in the bathroom? 	yes	11
+13 Doud went to the hallway.
+14 Doud picked up the football there.
+15 Is Doud in the bedroom? 	no	13
+1 Burnhard journeyed to the bathroom.
+2 Burnhard got the milk there.
+3 Is Burnhard in the bathroom? 	yes	1
+4 Conn travelled to the kitchen.
+5 Burnhard travelled to the office.
+6 Is Conn in the bedroom? 	no	4
+7 Conn journeyed to the office.
+8 Burnhard moved to the bathroom.
+9 Is Burnhard in the bathroom? 	yes	8
+10 Conn grabbed the apple there.
+11 Burnhard put down the milk there.
+12 Is Burnhard in the bathroom? 	yes	8
+13 Doud went to the office.
+14 Conn discarded the apple.
+15 Is Burnhard in the office? 	no	8
+1 Colliani picked up the apple there.
+2 Doud grabbed the football there.
+3 Conn journeyed to the bathroom.
+4 Doud put down the football.
+5 Is Conn in the kitchen? 	no	3
+6 Colliani left the apple.
+7 Doud got the apple there.
+8 Is Conn in the office? 	no	3
+9 Doud grabbed the football there.
+10 Colliani moved to the kitchen.
+11 Is Colliani in the garden? 	no	10
+12 Doud went back to the hallway.
+13 Burnhard travelled to the garden.
+14 Is Burnhard in the garden? 	yes	13
+15 Burnhard grabbed the milk there.
+16 Conn went to the bedroom.
+17 Is Doud in the garden? 	no	12
+1 Conn went to the bathroom.
+2 Burnhard travelled to the garden.
+3 Is Burnhard in the bedroom? 	no	2
+4 Burnhard moved to the office.
+5 Doud travelled to the office.
+6 Is Burnhard in the office? 	yes	4
+7 Colliani grabbed the football there.
+8 Colliani put down the football.
+9 Is Doud in the hallway? 	no	5
+10 Burnhard went to the bedroom.
+11 Burnhard journeyed to the bathroom.
+12 Is Burnhard in the bathroom? 	yes	11
+13 Colliani grabbed the football there.
+14 Doud travelled to the bathroom.
+15 Is Burnhard in the office? 	no	11
+1 Doud journeyed to the kitchen.
+2 Colliani moved to the garden.
+3 Is Doud in the kitchen? 	yes	1
+4 Burnhard travelled to the hallway.
+5 Burnhard grabbed the milk there.
+6 Is Doud in the kitchen? 	yes	1
+7 Burnhard dropped the milk.
+8 Doud went to the bedroom.
+9 Is Doud in the bedroom? 	yes	8
+10 Doud moved to the kitchen.
+11 Burnhard travelled to the bathroom.
+12 Is Doud in the kitchen? 	yes	10
+13 Doud went back to the hallway.
+14 Burnhard journeyed to the office.
+15 Is Doud in the hallway? 	yes	13
+1 Doud travelled to the bedroom.
+2 Doud grabbed the apple there.
+3 Is Doud in the bathroom? 	no	1
+4 Doud moved to the kitchen.
+5 Conn went back to the kitchen.
+6 Is Doud in the kitchen? 	yes	4
+7 Conn went to the bathroom.
+8 Burnhard went back to the office.
+9 Is Conn in the office? 	no	7
+10 Burnhard moved to the hallway.
+11 Conn went back to the office.
+12 Is Conn in the office? 	yes	11
+13 Burnhard picked up the milk there.
+14 Doud went back to the hallway.
+15 Is Doud in the hallway? 	yes	14
+1 Conn went to the office.
+2 Colliani moved to the garden.
+3 Is Conn in the hallway? 	no	1
+4 Colliani went back to the kitchen.
+5 Conn moved to the garden.
+6 Is Colliani in the kitchen? 	yes	4
+7 Doud went to the kitchen.
+8 Conn went to the bedroom.
+9 Is Colliani in the kitchen? 	yes	4
+10 Colliani went back to the hallway.
+11 Burnhard travelled to the garden.
+12 Is Colliani in the hallway? 	yes	10
+13 Burnhard travelled to the bedroom.
+14 Conn moved to the kitchen.
+15 Is Burnhard in the bedroom? 	yes	13
+1 Conn grabbed the milk there.
+2 Burnhard journeyed to the garden.
+3 Is Burnhard in the bedroom? 	no	2
+4 Conn picked up the apple there.
+5 Conn discarded the milk.
+6 Is Burnhard in the kitchen? 	no	2
+7 Burnhard journeyed to the office.
+8 Conn dropped the apple.
+9 Is Burnhard in the office? 	yes	7
+10 Burnhard went to the bedroom.
+11 Conn picked up the apple there.
+12 Is Burnhard in the bedroom? 	yes	10
+13 Burnhard moved to the office.
+14 Conn picked up the football there.
+15 Is Burnhard in the office? 	yes	13
+1 Conn moved to the kitchen.
+2 Conn went back to the bedroom.
+3 Is Conn in the bedroom? 	yes	2
+4 Doud went back to the garden.
+5 Doud picked up the football there.
+6 Is Conn in the garden? 	no	2
+7 Doud grabbed the apple there.
+8 Burnhard travelled to the kitchen.
+9 Is Burnhard in the kitchen? 	yes	8
+10 Burnhard took the milk there.
+11 Doud moved to the hallway.
+12 Is Doud in the hallway? 	yes	11
+13 Burnhard went to the bathroom.
+14 Burnhard left the milk.
+15 Is Doud in the kitchen? 	no	11
+1 Doud moved to the bedroom.
+2 Colliani got the apple there.
+3 Is Doud in the bathroom? 	no	1
+4 Colliani discarded the apple there.
+5 Colliani moved to the bathroom.
+6 Is Doud in the bedroom? 	yes	1
+7 Doud went back to the kitchen.
+8 Colliani got the milk there.
+9 Is Colliani in the bedroom? 	no	5
+10 Doud went back to the bedroom.
+11 Colliani discarded the milk.
+12 Is Doud in the kitchen? 	no	10
+13 Colliani went to the hallway.
+14 Colliani moved to the bathroom.
+15 Is Doud in the hallway? 	no	10
+1 Burnhard travelled to the hallway.
+2 Burnhard moved to the bathroom.
+3 Is Burnhard in the office? 	no	2
+4 Colliani grabbed the football there.
+5 Doud got the apple there.
+6 Is Burnhard in the office? 	no	2
+7 Colliani went back to the office.
+8 Conn went to the office.
+9 Is Colliani in the bedroom? 	no	7
+10 Colliani moved to the bedroom.
+11 Colliani discarded the football.
+12 Is Colliani in the office? 	no	10
+13 Doud discarded the apple.
+14 Colliani went back to the garden.
+15 Is Colliani in the garden? 	yes	14
+1 Doud picked up the milk there.
+2 Doud travelled to the kitchen.
+3 Is Doud in the kitchen? 	yes	2
+4 Doud went to the office.
+5 Conn journeyed to the kitchen.
+6 Is Doud in the hallway? 	no	4
+7 Burnhard moved to the office.
+8 Doud put down the milk there.
+9 Is Doud in the office? 	yes	4
+10 Burnhard moved to the bathroom.
+11 Burnhard grabbed the apple there.
+12 Is Burnhard in the hallway? 	no	10
+13 Burnhard went to the garden.
+14 Doud grabbed the milk there.
+15 Is Burnhard in the bathroom? 	no	13
+1 Doud got the apple there.
+2 Conn journeyed to the kitchen.
+3 Is Conn in the bathroom? 	no	2
+4 Doud journeyed to the garden.
+5 Doud journeyed to the bedroom.
+6 Is Doud in the bedroom? 	yes	5
+7 Conn picked up the football there.
+8 Doud went to the hallway.
+9 Is Conn in the garden? 	no	2
+10 Doud went to the bedroom.
+11 Doud journeyed to the bathroom.
+12 Is Doud in the office? 	no	11
+13 Conn travelled to the garden.
+14 Colliani went back to the kitchen.
+15 Is Colliani in the garden? 	no	14
+1 Burnhard went to the office.
+2 Doud took the apple there.
+3 Is Burnhard in the office? 	yes	1
+4 Doud discarded the apple.
+5 Doud journeyed to the bathroom.
+6 Is Burnhard in the bathroom? 	no	1
+7 Burnhard travelled to the bedroom.
+8 Burnhard grabbed the apple there.
+9 Is Doud in the bathroom? 	yes	5
+10 Colliani moved to the hallway.
+11 Colliani journeyed to the bathroom.
+12 Is Colliani in the hallway? 	no	11
+13 Burnhard went to the bathroom.
+14 Colliani travelled to the hallway.
+15 Is Colliani in the kitchen? 	no	14
+1 Colliani journeyed to the bathroom.
+2 Doud went to the office.
+3 Is Colliani in the kitchen? 	no	1
+4 Doud moved to the kitchen.
+5 Burnhard moved to the hallway.
+6 Is Doud in the bedroom? 	no	4
+7 Colliani got the apple there.
+8 Colliani got the football there.
+9 Is Doud in the hallway? 	no	4
+10 Doud picked up the milk there.
+11 Burnhard journeyed to the garden.
+12 Is Burnhard in the garden? 	yes	11
+13 Burnhard travelled to the bedroom.
+14 Colliani travelled to the garden.
+15 Is Burnhard in the bedroom? 	yes	13
+1 Colliani took the milk there.
+2 Colliani discarded the milk.
+3 Burnhard went to the bedroom.
+4 Colliani picked up the football there.
+5 Is Burnhard in the bedroom? 	yes	3
+6 Burnhard journeyed to the garden.
+7 Colliani went back to the bathroom.
+8 Is Burnhard in the office? 	no	6
+9 Doud went to the hallway.
+10 Colliani dropped the football there.
+11 Is Burnhard in the office? 	no	6
+12 Colliani moved to the kitchen.
+13 Doud journeyed to the office.
+14 Is Colliani in the bathroom? 	no	12
+15 Doud went to the bedroom.
+16 Colliani journeyed to the bedroom.
+17 Is Colliani in the bedroom? 	yes	16
+1 Burnhard moved to the hallway.
+2 Colliani grabbed the football there.
+3 Is Burnhard in the hallway? 	yes	1
+4 Doud picked up the milk there.
+5 Doud dropped the milk.
+6 Is Burnhard in the kitchen? 	no	1
+7 Doud journeyed to the hallway.
+8 Burnhard went back to the kitchen.
+9 Is Doud in the hallway? 	yes	7
+10 Burnhard took the milk there.
+11 Colliani journeyed to the bathroom.
+12 Is Burnhard in the bathroom? 	no	8
+13 Conn went to the hallway.
+14 Conn travelled to the bedroom.
+15 Is Conn in the office? 	no	14
+1 Doud travelled to the kitchen.
+2 Burnhard picked up the apple there.
+3 Is Doud in the kitchen? 	yes	1
+4 Conn went back to the office.
+5 Doud got the football there.
+6 Is Doud in the kitchen? 	yes	1
+7 Conn journeyed to the hallway.
+8 Burnhard journeyed to the garden.
+9 Is Conn in the hallway? 	yes	7
+10 Colliani moved to the hallway.
+11 Conn journeyed to the garden.
+12 Is Colliani in the hallway? 	yes	10
+13 Doud travelled to the garden.
+14 Doud dropped the football.
+15 Is Doud in the kitchen? 	no	13
+1 Burnhard journeyed to the office.
+2 Doud moved to the kitchen.
+3 Is Burnhard in the office? 	yes	1
+4 Colliani grabbed the football there.
+5 Colliani put down the football.
+6 Is Doud in the bedroom? 	no	2
+7 Conn journeyed to the bedroom.
+8 Doud journeyed to the office.
+9 Is Doud in the office? 	yes	8
+10 Conn went to the kitchen.
+11 Burnhard went back to the bedroom.
+12 Is Doud in the kitchen? 	no	8
+13 Conn moved to the bathroom.
+14 Colliani took the football there.
+15 Is Burnhard in the bedroom? 	yes	11
+1 Burnhard picked up the apple there.
+2 Burnhard picked up the milk there.
+3 Colliani went back to the garden.
+4 Burnhard journeyed to the bathroom.
+5 Is Burnhard in the bathroom? 	yes	4
+6 Burnhard moved to the office.
+7 Burnhard left the milk.
+8 Is Burnhard in the office? 	yes	6
+9 Doud went to the garden.
+10 Conn grabbed the milk there.
+11 Is Burnhard in the hallway? 	no	6
+12 Conn dropped the milk.
+13 Doud travelled to the hallway.
+14 Is Doud in the hallway? 	yes	13
+15 Burnhard journeyed to the garden.
+16 Burnhard journeyed to the bathroom.
+17 Is Doud in the hallway? 	yes	13
+1 Colliani travelled to the kitchen.
+2 Doud grabbed the milk there.
+3 Is Colliani in the kitchen? 	yes	1
+4 Burnhard went back to the hallway.
+5 Conn went back to the bathroom.
+6 Is Burnhard in the hallway? 	yes	4
+7 Doud discarded the milk.
+8 Conn went to the kitchen.
+9 Is Conn in the bathroom? 	no	8
+10 Burnhard went back to the kitchen.
+11 Burnhard journeyed to the bathroom.
+12 Is Conn in the garden? 	no	8
+13 Colliani went back to the garden.
+14 Burnhard journeyed to the hallway.
+15 Is Burnhard in the office? 	no	14
+1 Burnhard got the football there.
+2 Conn journeyed to the kitchen.
+3 Is Conn in the garden? 	no	2
+4 Doud went to the hallway.
+5 Doud took the apple there.
+6 Is Conn in the kitchen? 	yes	2
+7 Colliani moved to the hallway.
+8 Colliani moved to the garden.
+9 Is Conn in the kitchen? 	yes	2
+10 Colliani grabbed the milk there.
+11 Colliani moved to the bathroom.
+12 Is Colliani in the bathroom? 	yes	11
+13 Doud left the apple.
+14 Colliani went to the bedroom.
+15 Is Colliani in the office? 	no	14
+1 Burnhard travelled to the garden.
+2 Conn travelled to the garden.
+3 Is Burnhard in the bedroom? 	no	1
+4 Doud travelled to the office.
+5 Colliani travelled to the office.
+6 Is Doud in the office? 	yes	4
+7 Doud grabbed the apple there.
+8 Colliani went back to the hallway.
+9 Is Doud in the bedroom? 	no	4
+10 Doud discarded the apple.
+11 Doud grabbed the apple there.
+12 Is Colliani in the hallway? 	yes	8
+13 Burnhard moved to the hallway.
+14 Burnhard travelled to the bedroom.
+15 Is Burnhard in the bedroom? 	yes	14
+1 Conn got the milk there.
+2 Conn went back to the bathroom.
+3 Is Conn in the bathroom? 	yes	2
+4 Colliani travelled to the kitchen.
+5 Burnhard travelled to the office.
+6 Is Burnhard in the office? 	yes	5
+7 Burnhard journeyed to the garden.
+8 Burnhard went to the bedroom.
+9 Is Colliani in the bedroom? 	no	4
+10 Colliani journeyed to the garden.
+11 Conn left the milk.
+12 Is Burnhard in the bathroom? 	no	8
+13 Conn picked up the milk there.
+14 Burnhard journeyed to the hallway.
+15 Is Colliani in the garden? 	yes	10
+1 Doud went to the bathroom.
+2 Burnhard travelled to the office.
+3 Is Burnhard in the bedroom? 	no	2
+4 Burnhard picked up the football there.
+5 Burnhard left the football.
+6 Is Doud in the bedroom? 	no	1
+7 Doud went to the kitchen.
+8 Burnhard got the football there.
+9 Is Doud in the office? 	no	7
+10 Doud journeyed to the bedroom.
+11 Burnhard moved to the bathroom.
+12 Is Burnhard in the kitchen? 	no	11
+13 Burnhard discarded the football there.
+14 Burnhard grabbed the football there.
+15 Is Doud in the hallway? 	no	10
+1 Colliani moved to the kitchen.
+2 Doud moved to the garden.
+3 Is Colliani in the kitchen? 	yes	1
+4 Conn moved to the bathroom.
+5 Conn went back to the office.
+6 Is Colliani in the bedroom? 	no	1
+7 Conn went to the bedroom.
+8 Burnhard went to the garden.
+9 Is Conn in the bedroom? 	yes	7
+10 Conn went to the office.
+11 Conn got the apple there.
+12 Is Conn in the garden? 	no	10
+13 Colliani went back to the office.
+14 Doud went back to the bathroom.
+15 Is Conn in the kitchen? 	no	10
+1 Colliani went to the hallway.
+2 Burnhard went back to the bathroom.
+3 Is Colliani in the hallway? 	yes	1
+4 Burnhard took the apple there.
+5 Conn travelled to the bathroom.
+6 Is Colliani in the hallway? 	yes	1
+7 Doud journeyed to the garden.
+8 Conn got the milk there.
+9 Is Burnhard in the hallway? 	no	2
+10 Burnhard discarded the apple there.
+11 Burnhard grabbed the apple there.
+12 Is Conn in the bathroom? 	yes	5
+13 Burnhard journeyed to the bedroom.
+14 Burnhard went to the bathroom.
+15 Is Burnhard in the hallway? 	no	14
+1 Doud moved to the garden.
+2 Colliani journeyed to the bathroom.
+3 Is Doud in the garden? 	yes	1
+4 Colliani journeyed to the office.
+5 Colliani grabbed the milk there.
+6 Is Doud in the garden? 	yes	1
+7 Conn moved to the kitchen.
+8 Colliani took the football there.
+9 Is Conn in the kitchen? 	yes	7
+10 Burnhard journeyed to the bedroom.
+11 Colliani travelled to the bedroom.
+12 Is Colliani in the office? 	no	11
+13 Conn went back to the garden.
+14 Colliani journeyed to the hallway.
+15 Is Conn in the bedroom? 	no	13
+1 Colliani travelled to the garden.
+2 Conn moved to the kitchen.
+3 Is Conn in the kitchen? 	yes	2
+4 Conn went to the office.
+5 Doud got the apple there.
+6 Is Conn in the office? 	yes	4
+7 Burnhard journeyed to the bedroom.
+8 Doud put down the apple there.
+9 Is Burnhard in the bedroom? 	yes	7
+10 Doud went back to the garden.
+11 Conn journeyed to the bedroom.
+12 Is Doud in the bedroom? 	no	10
+13 Colliani moved to the kitchen.
+14 Doud journeyed to the office.
+15 Is Colliani in the kitchen? 	yes	13
+1 Burnhard picked up the apple there.
+2 Doud journeyed to the garden.
+3 Is Doud in the bedroom? 	no	2
+4 Burnhard took the milk there.
+5 Conn travelled to the garden.
+6 Is Conn in the garden? 	yes	5
+7 Doud moved to the bedroom.
+8 Doud moved to the kitchen.
+9 Is Doud in the kitchen? 	yes	8
+10 Burnhard put down the milk there.
+11 Burnhard took the milk there.
+12 Is Doud in the bedroom? 	no	8
+13 Conn went to the bedroom.
+14 Conn went to the office.
+15 Is Conn in the bedroom? 	no	14
+1 Doud went back to the bedroom.
+2 Doud went back to the bathroom.
+3 Is Doud in the kitchen? 	no	2
+4 Doud journeyed to the garden.
+5 Doud picked up the apple there.
+6 Is Doud in the garden? 	yes	4
+7 Colliani journeyed to the hallway.
+8 Conn travelled to the garden.
+9 Is Doud in the garden? 	yes	4
+10 Doud got the milk there.
+11 Colliani took the football there.
+12 Is Colliani in the hallway? 	yes	7
+13 Colliani travelled to the bedroom.
+14 Doud left the apple.
+15 Is Conn in the garden? 	yes	8
+1 Burnhard went back to the bathroom.
+2 Colliani moved to the garden.
+3 Is Colliani in the garden? 	yes	2
+4 Doud travelled to the office.
+5 Burnhard moved to the hallway.
+6 Is Colliani in the garden? 	yes	2
+7 Colliani went to the kitchen.
+8 Colliani took the milk there.
+9 Is Doud in the office? 	yes	4
+10 Colliani travelled to the bedroom.
+11 Doud got the football there.
+12 Is Burnhard in the hallway? 	yes	5
+13 Colliani dropped the milk.
+14 Burnhard journeyed to the garden.
+15 Is Colliani in the kitchen? 	no	10
+1 Burnhard got the apple there.
+2 Colliani moved to the bathroom.
+3 Is Colliani in the bedroom? 	no	2
+4 Conn went back to the hallway.
+5 Burnhard moved to the kitchen.
+6 Is Colliani in the office? 	no	2
+7 Burnhard travelled to the bathroom.
+8 Colliani went to the hallway.
+9 Is Burnhard in the office? 	no	7
+10 Burnhard went to the garden.
+11 Doud journeyed to the hallway.
+12 Is Burnhard in the kitchen? 	no	10
+13 Colliani went back to the bedroom.
+14 Colliani went back to the kitchen.
+15 Is Doud in the hallway? 	yes	11
+1 Conn took the football there.
+2 Conn discarded the football.
+3 Conn picked up the football there.
+4 Conn moved to the bedroom.
+5 Is Conn in the bedroom? 	yes	4
+6 Doud got the apple there.
+7 Burnhard moved to the bathroom.
+8 Is Burnhard in the hallway? 	no	7
+9 Conn discarded the football.
+10 Colliani travelled to the kitchen.
+11 Is Burnhard in the kitchen? 	no	7
+12 Burnhard went to the kitchen.
+13 Conn grabbed the football there.
+14 Is Burnhard in the bathroom? 	no	12
+15 Burnhard went to the garden.
+16 Doud put down the apple.
+17 Is Burnhard in the office? 	no	15
+1 Conn grabbed the milk there.
+2 Colliani went back to the bathroom.
+3 Is Colliani in the garden? 	no	2
+4 Doud travelled to the kitchen.
+5 Colliani moved to the hallway.
+6 Is Colliani in the hallway? 	yes	5
+7 Doud travelled to the hallway.
+8 Conn went to the bathroom.
+9 Is Colliani in the hallway? 	yes	5
+10 Conn picked up the apple there.
+11 Conn went to the bedroom.
+12 Is Colliani in the office? 	no	5
+13 Colliani went back to the garden.
+14 Conn dropped the apple.
+15 Is Conn in the bathroom? 	no	11
+1 Colliani grabbed the apple there.
+2 Doud went back to the kitchen.
+3 Is Doud in the kitchen? 	yes	2
+4 Doud took the milk there.
+5 Colliani dropped the apple.
+6 Is Doud in the kitchen? 	yes	2
+7 Doud left the milk.
+8 Colliani went back to the office.
+9 Is Colliani in the kitchen? 	no	8
+10 Burnhard moved to the kitchen.
+11 Doud moved to the office.
+12 Is Burnhard in the garden? 	no	10
+13 Doud travelled to the kitchen.
+14 Burnhard picked up the milk there.
+15 Is Burnhard in the kitchen? 	yes	10
+1 Colliani got the apple there.
+2 Doud got the milk there.
+3 Colliani left the apple.
+4 Conn journeyed to the kitchen.
+5 Is Conn in the office? 	no	4
+6 Conn moved to the bathroom.
+7 Doud left the milk.
+8 Is Conn in the office? 	no	6
+9 Burnhard moved to the bathroom.
+10 Doud moved to the office.
+11 Is Burnhard in the bedroom? 	no	9
+12 Colliani journeyed to the kitchen.
+13 Burnhard travelled to the hallway.
+14 Is Burnhard in the hallway? 	yes	13
+15 Colliani travelled to the bathroom.
+16 Colliani moved to the garden.
+17 Is Doud in the office? 	yes	10
+1 Conn journeyed to the office.
+2 Burnhard went back to the office.
+3 Is Conn in the garden? 	no	1
+4 Colliani moved to the bathroom.
+5 Colliani moved to the office.
+6 Is Burnhard in the office? 	yes	2
+7 Burnhard grabbed the football there.
+8 Doud went back to the garden.
+9 Is Doud in the bathroom? 	no	8
+10 Burnhard put down the football there.
+11 Burnhard went back to the bedroom.
+12 Is Colliani in the bedroom? 	no	5
+13 Doud went back to the kitchen.
+14 Doud got the apple there.
+15 Is Doud in the hallway? 	no	13
+1 Conn moved to the bathroom.
+2 Colliani moved to the office.
+3 Is Conn in the bathroom? 	yes	1
+4 Conn moved to the hallway.
+5 Burnhard got the football there.
+6 Is Colliani in the kitchen? 	no	2
+7 Colliani travelled to the hallway.
+8 Colliani journeyed to the bedroom.
+9 Is Colliani in the bedroom? 	yes	8
+10 Burnhard dropped the football.
+11 Conn went to the kitchen.
+12 Is Colliani in the bathroom? 	no	8
+13 Conn got the apple there.
+14 Conn went back to the hallway.
+15 Is Conn in the bedroom? 	no	14
+1 Colliani journeyed to the bedroom.
+2 Doud took the apple there.
+3 Is Colliani in the hallway? 	no	1
+4 Doud put down the apple there.
+5 Doud went back to the hallway.
+6 Is Doud in the garden? 	no	5
+7 Burnhard travelled to the bathroom.
+8 Conn moved to the kitchen.
+9 Is Conn in the kitchen? 	yes	8
+10 Burnhard went back to the garden.
+11 Doud journeyed to the bathroom.
+12 Is Burnhard in the bathroom? 	no	10
+13 Conn travelled to the office.
+14 Conn journeyed to the kitchen.
+15 Is Conn in the kitchen? 	yes	14
+1 Colliani moved to the office.
+2 Conn journeyed to the garden.
+3 Is Colliani in the office? 	yes	1
+4 Colliani picked up the milk there.
+5 Burnhard took the football there.
+6 Is Colliani in the office? 	yes	1
+7 Doud went back to the kitchen.
+8 Conn journeyed to the bedroom.
+9 Is Conn in the bedroom? 	yes	8
+10 Colliani left the milk.
+11 Doud journeyed to the bathroom.
+12 Is Doud in the bathroom? 	yes	11
+13 Doud moved to the bedroom.
+14 Conn went back to the office.
+15 Is Conn in the office? 	yes	14
+1 Colliani went back to the bathroom.
+2 Colliani travelled to the kitchen.
+3 Is Colliani in the office? 	no	2
+4 Doud journeyed to the garden.
+5 Burnhard travelled to the garden.
+6 Is Burnhard in the garden? 	yes	5
+7 Doud grabbed the apple there.
+8 Burnhard went back to the bathroom.
+9 Is Burnhard in the garden? 	no	8
+10 Doud dropped the apple.
+11 Burnhard journeyed to the kitchen.
+12 Is Burnhard in the kitchen? 	yes	11
+13 Doud got the apple there.
+14 Burnhard went back to the bathroom.
+15 Is Burnhard in the bathroom? 	yes	14
+1 Conn journeyed to the garden.
+2 Conn travelled to the office.
+3 Is Conn in the office? 	yes	2
+4 Colliani journeyed to the garden.
+5 Doud journeyed to the garden.
+6 Is Colliani in the office? 	no	4
+7 Colliani went to the office.
+8 Doud got the milk there.
+9 Is Colliani in the office? 	yes	7
+10 Burnhard travelled to the kitchen.
+11 Doud picked up the football there.
+12 Is Burnhard in the hallway? 	no	10
+13 Conn went back to the kitchen.
+14 Doud dropped the football.
+15 Is Burnhard in the kitchen? 	yes	10
+1 Conn travelled to the office.
+2 Conn travelled to the bathroom.
+3 Is Conn in the bathroom? 	yes	2
+4 Conn travelled to the garden.
+5 Burnhard travelled to the kitchen.
+6 Is Burnhard in the kitchen? 	yes	5
+7 Doud went back to the kitchen.
+8 Burnhard travelled to the garden.
+9 Is Conn in the garden? 	yes	4
+10 Burnhard picked up the football there.
+11 Conn journeyed to the bathroom.
+12 Is Conn in the bathroom? 	yes	11
+13 Colliani journeyed to the office.
+14 Conn moved to the garden.
+15 Is Conn in the garden? 	yes	14
+1 Burnhard grabbed the football there.
+2 Colliani journeyed to the hallway.
+3 Is Colliani in the hallway? 	yes	2
+4 Conn moved to the hallway.
+5 Doud moved to the kitchen.
+6 Is Conn in the hallway? 	yes	4
+7 Doud picked up the apple there.
+8 Colliani went back to the garden.
+9 Is Colliani in the garden? 	yes	8
+10 Burnhard journeyed to the hallway.
+11 Conn went back to the bedroom.
+12 Is Doud in the bedroom? 	no	5
+13 Doud went back to the bathroom.
+14 Burnhard discarded the football.
+15 Is Burnhard in the hallway? 	yes	10
+1 Colliani moved to the kitchen.
+2 Doud went to the office.
+3 Is Doud in the kitchen? 	no	2
+4 Burnhard moved to the office.
+5 Conn moved to the garden.
+6 Is Burnhard in the office? 	yes	4
+7 Conn took the football there.
+8 Doud journeyed to the garden.
+9 Is Doud in the kitchen? 	no	8
+10 Conn journeyed to the office.
+11 Doud travelled to the kitchen.
+12 Is Doud in the hallway? 	no	11
+13 Burnhard went back to the bathroom.
+14 Conn went back to the bedroom.
+15 Is Conn in the office? 	no	14
+1 Colliani went back to the bathroom.
+2 Colliani travelled to the hallway.
+3 Is Colliani in the kitchen? 	no	2
+4 Conn moved to the garden.
+5 Conn moved to the hallway.
+6 Is Conn in the bathroom? 	no	5
+7 Burnhard travelled to the office.
+8 Burnhard moved to the bedroom.
+9 Is Conn in the bedroom? 	no	5
+10 Colliani journeyed to the office.
+11 Conn journeyed to the bathroom.
+12 Is Conn in the kitchen? 	no	11
+13 Conn went to the bedroom.
+14 Conn moved to the kitchen.
+15 Is Burnhard in the bedroom? 	yes	8
+1 Burnhard grabbed the apple there.
+2 Doud journeyed to the bathroom.
+3 Is Doud in the garden? 	no	2
+4 Burnhard travelled to the bedroom.
+5 Conn travelled to the office.
+6 Is Burnhard in the bathroom? 	no	4
+7 Conn went back to the kitchen.
+8 Burnhard went back to the office.
+9 Is Conn in the kitchen? 	yes	7
+10 Colliani travelled to the garden.
+11 Burnhard journeyed to the bedroom.
+12 Is Conn in the bedroom? 	no	7
+13 Burnhard discarded the apple.
+14 Colliani took the milk there.
+15 Is Colliani in the garden? 	yes	10
+1 Doud grabbed the milk there.
+2 Doud discarded the milk.
+3 Doud took the milk there.
+4 Doud put down the milk.
+5 Doud moved to the kitchen.
+6 Doud travelled to the bedroom.
+7 Is Doud in the bedroom? 	yes	6
+8 Conn moved to the office.
+9 Burnhard journeyed to the bedroom.
+10 Is Doud in the bedroom? 	yes	6
+11 Conn picked up the milk there.
+12 Burnhard travelled to the garden.
+13 Is Burnhard in the garden? 	yes	12
+14 Conn put down the milk.
+15 Colliani moved to the bathroom.
+16 Is Colliani in the bedroom? 	no	15
+17 Colliani journeyed to the hallway.
+18 Conn took the milk there.
+19 Is Burnhard in the garden? 	yes	12
+1 Colliani got the milk there.
+2 Colliani travelled to the hallway.
+3 Is Colliani in the hallway? 	yes	2
+4 Colliani put down the milk.
+5 Conn went to the bedroom.
+6 Is Colliani in the office? 	no	2
+7 Conn got the apple there.
+8 Burnhard got the milk there.
+9 Is Colliani in the hallway? 	yes	2
+10 Conn went to the kitchen.
+11 Conn went back to the bathroom.
+12 Is Conn in the kitchen? 	no	11
+13 Conn dropped the apple there.
+14 Conn got the apple there.
+15 Is Conn in the kitchen? 	no	11
+1 Colliani went to the office.
+2 Burnhard grabbed the football there.
+3 Is Colliani in the office? 	yes	1
+4 Doud journeyed to the kitchen.
+5 Conn moved to the kitchen.
+6 Is Doud in the kitchen? 	yes	4
+7 Conn travelled to the bathroom.
+8 Burnhard discarded the football.
+9 Is Conn in the kitchen? 	no	7
+10 Colliani journeyed to the hallway.
+11 Burnhard picked up the football there.
+12 Is Conn in the kitchen? 	no	7
+13 Conn went to the bedroom.
+14 Conn took the apple there.
+15 Is Colliani in the hallway? 	yes	10
+1 Burnhard journeyed to the bathroom.
+2 Colliani moved to the kitchen.
+3 Is Colliani in the hallway? 	no	2
+4 Doud took the milk there.
+5 Conn travelled to the bathroom.
+6 Is Burnhard in the bedroom? 	no	1
+7 Conn moved to the hallway.
+8 Doud put down the milk.
+9 Is Conn in the office? 	no	7
+10 Colliani went to the hallway.
+11 Doud picked up the milk there.
+12 Is Colliani in the hallway? 	yes	10
+13 Conn took the apple there.
+14 Doud left the milk.
+15 Is Colliani in the hallway? 	yes	10
+1 Doud journeyed to the bedroom.
+2 Conn went to the hallway.
+3 Is Doud in the garden? 	no	1
+4 Doud moved to the bathroom.
+5 Colliani went back to the office.
+6 Is Colliani in the garden? 	no	5
+7 Conn travelled to the bedroom.
+8 Colliani travelled to the bathroom.
+9 Is Doud in the bedroom? 	no	4
+10 Conn travelled to the hallway.
+11 Conn travelled to the bedroom.
+12 Is Conn in the bedroom? 	yes	11
+13 Doud went back to the bedroom.
+14 Doud moved to the garden.
+15 Is Doud in the garden? 	yes	14
+1 Doud travelled to the garden.
+2 Burnhard journeyed to the hallway.
+3 Is Burnhard in the bathroom? 	no	2
+4 Conn journeyed to the garden.
+5 Colliani moved to the garden.
+6 Is Colliani in the bedroom? 	no	5
+7 Doud journeyed to the office.
+8 Burnhard grabbed the milk there.
+9 Is Doud in the garden? 	no	7
+10 Burnhard journeyed to the bathroom.
+11 Burnhard journeyed to the kitchen.
+12 Is Burnhard in the office? 	no	11
+13 Doud travelled to the bathroom.
+14 Burnhard journeyed to the office.
+15 Is Burnhard in the office? 	yes	14
+1 Colliani moved to the office.
+2 Doud went back to the hallway.
+3 Is Doud in the bathroom? 	no	2
+4 Conn went back to the bedroom.
+5 Colliani grabbed the milk there.
+6 Is Colliani in the office? 	yes	1
+7 Burnhard travelled to the kitchen.
+8 Colliani discarded the milk.
+9 Is Doud in the hallway? 	yes	2
+10 Doud moved to the office.
+11 Colliani picked up the milk there.
+12 Is Burnhard in the kitchen? 	yes	7
+13 Colliani travelled to the bedroom.
+14 Doud journeyed to the bedroom.
+15 Is Colliani in the kitchen? 	no	13
+1 Burnhard went back to the hallway.
+2 Burnhard journeyed to the bedroom.
+3 Is Burnhard in the bedroom? 	yes	2
+4 Conn travelled to the bedroom.
+5 Colliani journeyed to the office.
+6 Is Conn in the bedroom? 	yes	4
+7 Colliani went back to the bathroom.
+8 Burnhard journeyed to the kitchen.
+9 Is Colliani in the bathroom? 	yes	7
+10 Colliani moved to the kitchen.
+11 Burnhard grabbed the football there.
+12 Is Colliani in the garden? 	no	10
+13 Colliani picked up the milk there.
+14 Colliani went back to the hallway.
+15 Is Colliani in the office? 	no	14
+1 Conn got the football there.
+2 Burnhard grabbed the apple there.
+3 Conn journeyed to the bathroom.
+4 Burnhard dropped the apple.
+5 Is Conn in the hallway? 	no	3
+6 Conn discarded the football there.
+7 Doud got the football there.
+8 Is Conn in the bathroom? 	yes	3
+9 Doud moved to the kitchen.
+10 Burnhard travelled to the bathroom.
+11 Is Doud in the hallway? 	no	9
+12 Colliani travelled to the kitchen.
+13 Doud went back to the bathroom.
+14 Is Colliani in the garden? 	no	12
+15 Doud went back to the garden.
+16 Colliani went to the office.
+17 Is Colliani in the kitchen? 	no	16
+1 Conn moved to the bedroom.
+2 Conn grabbed the football there.
+3 Is Conn in the bedroom? 	yes	1
+4 Doud travelled to the hallway.
+5 Doud went to the bedroom.
+6 Is Doud in the bedroom? 	yes	5
+7 Burnhard picked up the apple there.
+8 Conn moved to the garden.
+9 Is Doud in the garden? 	no	5
+10 Burnhard put down the apple.
+11 Burnhard took the apple there.
+12 Is Conn in the garden? 	yes	8
+13 Burnhard put down the apple.
+14 Colliani went to the hallway.
+15 Is Conn in the office? 	no	8
+1 Colliani journeyed to the bedroom.
+2 Conn took the apple there.
+3 Is Colliani in the bedroom? 	yes	1
+4 Conn got the football there.
+5 Doud journeyed to the bathroom.
+6 Is Colliani in the bedroom? 	yes	1
+7 Doud went to the kitchen.
+8 Burnhard travelled to the hallway.
+9 Is Burnhard in the hallway? 	yes	8
+10 Colliani journeyed to the bathroom.
+11 Burnhard went back to the kitchen.
+12 Is Doud in the kitchen? 	yes	7
+13 Conn put down the apple there.
+14 Colliani went to the office.
+15 Is Colliani in the garden? 	no	14
+1 Conn moved to the kitchen.
+2 Burnhard journeyed to the bathroom.
+3 Is Burnhard in the bedroom? 	no	2
+4 Burnhard journeyed to the office.
+5 Doud went to the garden.
+6 Is Burnhard in the garden? 	no	4
+7 Colliani went back to the bedroom.
+8 Colliani travelled to the garden.
+9 Is Burnhard in the office? 	yes	4
+10 Colliani got the milk there.
+11 Conn travelled to the office.
+12 Is Colliani in the office? 	no	8
+13 Burnhard travelled to the hallway.
+14 Colliani went to the office.
+15 Is Colliani in the bathroom? 	no	14
+1 Conn travelled to the bedroom.
+2 Burnhard travelled to the garden.
+3 Is Burnhard in the garden? 	yes	2
+4 Conn picked up the milk there.
+5 Burnhard journeyed to the bedroom.
+6 Is Conn in the bedroom? 	yes	1
+7 Conn got the apple there.
+8 Colliani went back to the bedroom.
+9 Is Burnhard in the bedroom? 	yes	5
+10 Conn left the apple.
+11 Conn went back to the garden.
+12 Is Colliani in the bedroom? 	yes	8
+13 Burnhard travelled to the bathroom.
+14 Colliani moved to the bathroom.
+15 Is Burnhard in the bathroom? 	yes	13
+1 Burnhard picked up the apple there.
+2 Conn went back to the office.
+3 Is Conn in the garden? 	no	2
+4 Burnhard left the apple.
+5 Colliani went to the hallway.
+6 Is Conn in the office? 	yes	2
+7 Burnhard journeyed to the garden.
+8 Burnhard travelled to the office.
+9 Is Conn in the office? 	yes	2
+10 Conn grabbed the milk there.
+11 Conn went to the hallway.
+12 Is Colliani in the hallway? 	yes	5
+13 Colliani travelled to the garden.
+14 Colliani took the football there.
+15 Is Colliani in the garden? 	yes	13
+1 Doud went back to the garden.
+2 Conn journeyed to the hallway.
+3 Is Doud in the office? 	no	1
+4 Doud went to the bathroom.
+5 Conn went back to the bathroom.
+6 Is Conn in the kitchen? 	no	5
+7 Burnhard moved to the bathroom.
+8 Burnhard went to the bedroom.
+9 Is Conn in the bedroom? 	no	5
+10 Conn took the apple there.
+11 Burnhard got the football there.
+12 Is Burnhard in the bedroom? 	yes	8
+13 Conn travelled to the office.
+14 Burnhard grabbed the milk there.
+15 Is Burnhard in the bedroom? 	yes	8
+1 Burnhard journeyed to the hallway.
+2 Conn got the milk there.
+3 Is Burnhard in the hallway? 	yes	1
+4 Colliani went to the garden.
+5 Conn dropped the milk.
+6 Is Colliani in the bedroom? 	no	4
+7 Colliani moved to the bathroom.
+8 Conn took the milk there.
+9 Is Colliani in the garden? 	no	7
+10 Colliani went to the kitchen.
+11 Colliani moved to the garden.
+12 Is Colliani in the kitchen? 	no	11
+13 Conn dropped the milk.
+14 Burnhard took the milk there.
+15 Is Colliani in the garden? 	yes	11
+1 Burnhard took the football there.
+2 Conn journeyed to the office.
+3 Is Conn in the office? 	yes	2
+4 Conn journeyed to the bedroom.
+5 Burnhard put down the football.
+6 Is Conn in the bathroom? 	no	4
+7 Burnhard went back to the garden.
+8 Burnhard took the milk there.
+9 Is Burnhard in the garden? 	yes	7
+10 Conn journeyed to the garden.
+11 Burnhard dropped the milk there.
+12 Is Conn in the bathroom? 	no	10
+13 Burnhard travelled to the hallway.
+14 Colliani travelled to the bedroom.
+15 Is Colliani in the bedroom? 	yes	14
+1 Burnhard picked up the milk there.
+2 Conn got the apple there.
+3 Burnhard dropped the milk.
+4 Colliani went back to the bedroom.
+5 Is Colliani in the hallway? 	no	4
+6 Conn discarded the apple.
+7 Conn went to the bathroom.
+8 Is Conn in the kitchen? 	no	7
+9 Burnhard took the milk there.
+10 Conn travelled to the kitchen.
+11 Is Conn in the hallway? 	no	10
+12 Burnhard moved to the bathroom.
+13 Colliani went to the bathroom.
+14 Is Burnhard in the bathroom? 	yes	12
+15 Burnhard discarded the milk.
+16 Colliani got the milk there.
+17 Is Conn in the office? 	no	10
+1 Doud grabbed the football there.
+2 Doud got the milk there.
+3 Doud discarded the football.
+4 Conn went back to the garden.
+5 Is Conn in the kitchen? 	no	4
+6 Burnhard went back to the office.
+7 Burnhard went back to the kitchen.
+8 Is Burnhard in the hallway? 	no	7
+9 Doud left the milk.
+10 Doud went back to the hallway.
+11 Is Burnhard in the garden? 	no	7
+12 Colliani moved to the hallway.
+13 Conn journeyed to the office.
+14 Is Doud in the garden? 	no	10
+15 Burnhard picked up the apple there.
+16 Colliani went to the bathroom.
+17 Is Colliani in the kitchen? 	no	16
+1 Doud got the milk there.
+2 Colliani went back to the hallway.
+3 Is Colliani in the hallway? 	yes	2
+4 Burnhard journeyed to the kitchen.
+5 Colliani got the apple there.
+6 Is Burnhard in the kitchen? 	yes	4
+7 Burnhard moved to the hallway.
+8 Doud left the milk.
+9 Is Burnhard in the garden? 	no	7
+10 Burnhard went to the bathroom.
+11 Colliani dropped the apple.
+12 Is Burnhard in the bathroom? 	yes	10
+13 Conn travelled to the kitchen.
+14 Burnhard moved to the kitchen.
+15 Is Burnhard in the garden? 	no	14
+1 Conn got the milk there.
+2 Burnhard got the apple there.
+3 Conn moved to the garden.
+4 Doud moved to the kitchen.
+5 Is Doud in the kitchen? 	yes	4
+6 Burnhard went back to the garden.
+7 Conn travelled to the hallway.
+8 Is Doud in the kitchen? 	yes	4
+9 Doud went back to the office.
+10 Doud grabbed the football there.
+11 Is Burnhard in the garden? 	yes	6
+12 Burnhard moved to the bathroom.
+13 Doud discarded the football.
+14 Is Doud in the office? 	yes	9
+15 Burnhard went back to the bedroom.
+16 Conn dropped the milk there.
+17 Is Burnhard in the garden? 	no	15
+1 Doud went to the bedroom.
+2 Conn travelled to the bedroom.
+3 Is Conn in the kitchen? 	no	2
+4 Doud moved to the bathroom.
+5 Colliani went back to the hallway.
+6 Is Colliani in the office? 	no	5
+7 Burnhard went back to the garden.
+8 Doud went to the office.
+9 Is Burnhard in the garden? 	yes	7
+10 Doud got the apple there.
+11 Conn travelled to the bathroom.
+12 Is Burnhard in the garden? 	yes	7
+13 Burnhard went back to the bathroom.
+14 Conn went back to the hallway.
+15 Is Burnhard in the bathroom? 	yes	13
+1 Doud took the milk there.
+2 Conn went back to the hallway.
+3 Is Conn in the garden? 	no	2
+4 Doud put down the milk.
+5 Doud journeyed to the hallway.
+6 Is Conn in the hallway? 	yes	2
+7 Conn travelled to the bathroom.
+8 Doud went to the bathroom.
+9 Is Doud in the kitchen? 	no	8
+10 Burnhard got the milk there.
+11 Burnhard put down the milk.
+12 Is Doud in the bathroom? 	yes	8
+13 Doud moved to the garden.
+14 Doud journeyed to the hallway.
+15 Is Doud in the hallway? 	yes	14
+1 Colliani went to the office.
+2 Burnhard went to the bathroom.
+3 Is Burnhard in the kitchen? 	no	2
+4 Burnhard travelled to the garden.
+5 Burnhard went to the bedroom.
+6 Is Burnhard in the bedroom? 	yes	5
+7 Burnhard travelled to the garden.
+8 Doud went to the kitchen.
+9 Is Burnhard in the garden? 	yes	7
+10 Colliani grabbed the apple there.
+11 Conn journeyed to the bedroom.
+12 Is Burnhard in the bedroom? 	no	7
+13 Colliani picked up the football there.
+14 Colliani took the milk there.
+15 Is Doud in the bedroom? 	no	8
+1 Doud travelled to the kitchen.
+2 Colliani went to the bedroom.
+3 Is Colliani in the bedroom? 	yes	2
+4 Burnhard went to the office.
+5 Colliani picked up the football there.
+6 Is Burnhard in the office? 	yes	4
+7 Burnhard travelled to the kitchen.
+8 Burnhard went back to the office.
+9 Is Colliani in the kitchen? 	no	2
+10 Conn journeyed to the garden.
+11 Conn picked up the milk there.
+12 Is Burnhard in the hallway? 	no	8
+13 Conn travelled to the hallway.
+14 Conn picked up the apple there.
+15 Is Burnhard in the office? 	yes	8
+1 Doud journeyed to the office.
+2 Conn moved to the hallway.
+3 Is Conn in the kitchen? 	no	2
+4 Burnhard journeyed to the hallway.
+5 Burnhard went to the garden.
+6 Is Burnhard in the kitchen? 	no	5
+7 Conn moved to the kitchen.
+8 Doud journeyed to the kitchen.
+9 Is Burnhard in the kitchen? 	no	5
+10 Conn travelled to the bathroom.
+11 Conn picked up the football there.
+12 Is Burnhard in the garden? 	yes	5
+13 Burnhard took the milk there.
+14 Burnhard left the milk.
+15 Is Conn in the office? 	no	10
+1 Doud took the milk there.
+2 Burnhard went to the hallway.
+3 Is Burnhard in the office? 	no	2
+4 Doud went back to the bathroom.
+5 Colliani went to the garden.
+6 Is Colliani in the bedroom? 	no	5
+7 Doud picked up the football there.
+8 Doud travelled to the hallway.
+9 Is Burnhard in the office? 	no	2
+10 Burnhard moved to the office.
+11 Burnhard journeyed to the bathroom.
+12 Is Colliani in the bathroom? 	no	5
+13 Colliani moved to the hallway.
+14 Doud put down the football.
+15 Is Doud in the hallway? 	yes	8
+1 Conn moved to the garden.
+2 Colliani went to the kitchen.
+3 Is Colliani in the garden? 	no	2
+4 Conn moved to the office.
+5 Conn went back to the garden.
+6 Is Colliani in the bedroom? 	no	2
+7 Doud went back to the bathroom.
+8 Doud went back to the garden.
+9 Is Conn in the bedroom? 	no	5
+10 Burnhard moved to the office.
+11 Burnhard got the apple there.
+12 Is Conn in the bathroom? 	no	5
+13 Burnhard went to the bedroom.
+14 Doud moved to the bathroom.
+15 Is Doud in the bathroom? 	yes	14
+1 Colliani took the football there.
+2 Doud went to the garden.
+3 Is Doud in the bathroom? 	no	2
+4 Conn moved to the bedroom.
+5 Conn travelled to the kitchen.
+6 Is Conn in the bathroom? 	no	5
+7 Colliani journeyed to the bedroom.
+8 Burnhard moved to the kitchen.
+9 Is Burnhard in the kitchen? 	yes	8
+10 Colliani moved to the garden.
+11 Doud went back to the kitchen.
+12 Is Colliani in the garden? 	yes	10
+13 Colliani discarded the football.
+14 Doud went back to the bathroom.
+15 Is Burnhard in the garden? 	no	8
+1 Colliani moved to the bedroom.
+2 Colliani moved to the hallway.
+3 Is Colliani in the kitchen? 	no	2
+4 Colliani picked up the apple there.
+5 Colliani went back to the garden.
+6 Is Colliani in the bathroom? 	no	5
+7 Doud picked up the milk there.
+8 Doud went to the bedroom.
+9 Is Colliani in the garden? 	yes	5
+10 Conn went to the bathroom.
+11 Colliani took the football there.
+12 Is Doud in the bedroom? 	yes	8
+13 Burnhard travelled to the hallway.
+14 Doud put down the milk.
+15 Is Doud in the bedroom? 	yes	8
+1 Colliani went back to the bedroom.
+2 Doud travelled to the bathroom.
+3 Is Doud in the hallway? 	no	2
+4 Colliani picked up the apple there.
+5 Burnhard went to the bedroom.
+6 Is Burnhard in the bathroom? 	no	5
+7 Colliani travelled to the bathroom.
+8 Doud took the milk there.
+9 Is Doud in the bathroom? 	yes	2
+10 Colliani dropped the apple.
+11 Colliani grabbed the apple there.
+12 Is Colliani in the bathroom? 	yes	7
+13 Doud discarded the milk.
+14 Doud went to the office.
+15 Is Doud in the office? 	yes	14
+1 Burnhard picked up the milk there.
+2 Colliani took the apple there.
+3 Burnhard took the football there.
+4 Colliani dropped the apple.
+5 Conn travelled to the kitchen.
+6 Conn picked up the apple there.
+7 Is Conn in the kitchen? 	yes	5
+8 Burnhard discarded the milk.
+9 Colliani got the milk there.
+10 Is Conn in the bedroom? 	no	5
+11 Colliani went to the bathroom.
+12 Conn put down the apple.
+13 Is Colliani in the kitchen? 	no	11
+14 Conn picked up the apple there.
+15 Colliani journeyed to the office.
+16 Is Colliani in the bedroom? 	no	15
+17 Colliani left the milk.
+18 Burnhard left the football.
+19 Is Colliani in the garden? 	no	15
+1 Colliani moved to the office.
+2 Colliani travelled to the bathroom.
+3 Is Colliani in the office? 	no	2
+4 Burnhard went back to the office.
+5 Conn went to the bedroom.
+6 Is Conn in the garden? 	no	5
+7 Doud moved to the kitchen.
+8 Burnhard moved to the kitchen.
+9 Is Colliani in the hallway? 	no	2
+10 Colliani travelled to the bedroom.
+11 Colliani travelled to the kitchen.
+12 Is Burnhard in the kitchen? 	yes	8
+13 Burnhard journeyed to the garden.
+14 Burnhard moved to the bedroom.
+15 Is Burnhard in the bedroom? 	yes	14
+1 Colliani travelled to the kitchen.
+2 Doud picked up the apple there.
+3 Is Colliani in the kitchen? 	yes	1
+4 Burnhard travelled to the bedroom.
+5 Doud moved to the bathroom.
+6 Is Burnhard in the bedroom? 	yes	4
+7 Colliani moved to the bedroom.
+8 Burnhard went back to the garden.
+9 Is Doud in the bathroom? 	yes	5
+10 Doud travelled to the kitchen.
+11 Burnhard went back to the kitchen.
+12 Is Burnhard in the garden? 	no	11
+13 Colliani went back to the garden.
+14 Burnhard moved to the hallway.
+15 Is Colliani in the kitchen? 	no	13
+1 Conn got the milk there.
+2 Doud journeyed to the office.
+3 Is Doud in the office? 	yes	2
+4 Conn put down the milk there.
+5 Conn journeyed to the garden.
+6 Is Conn in the garden? 	yes	5
+7 Burnhard went back to the office.
+8 Conn went back to the bathroom.
+9 Is Conn in the bathroom? 	yes	8
+10 Burnhard journeyed to the kitchen.
+11 Doud travelled to the garden.
+12 Is Conn in the bathroom? 	yes	8
+13 Conn travelled to the garden.
+14 Burnhard journeyed to the bathroom.
+15 Is Conn in the office? 	no	13
+1 Colliani got the apple there.
+2 Colliani discarded the apple.
+3 Burnhard took the apple there.
+4 Doud moved to the bedroom.
+5 Is Doud in the office? 	no	4
+6 Colliani went back to the bathroom.
+7 Colliani took the football there.
+8 Is Doud in the bedroom? 	yes	4
+9 Colliani dropped the football.
+10 Colliani journeyed to the garden.
+11 Is Colliani in the garden? 	yes	10
+12 Doud journeyed to the office.
+13 Conn went to the hallway.
+14 Is Colliani in the garden? 	yes	10
+15 Conn moved to the bathroom.
+16 Colliani went to the kitchen.
+17 Is Doud in the hallway? 	no	12
+1 Burnhard journeyed to the bedroom.
+2 Conn picked up the milk there.
+3 Is Burnhard in the bedroom? 	yes	1
+4 Doud travelled to the bathroom.
+5 Burnhard took the football there.
+6 Is Burnhard in the kitchen? 	no	1
+7 Burnhard put down the football.
+8 Burnhard moved to the kitchen.
+9 Is Doud in the bathroom? 	yes	4
+10 Colliani went back to the bathroom.
+11 Doud travelled to the hallway.
+12 Is Doud in the office? 	no	11
+13 Colliani moved to the bedroom.
+14 Burnhard travelled to the garden.
+15 Is Burnhard in the garden? 	yes	14
+1 Doud went to the office.
+2 Conn picked up the football there.
+3 Is Doud in the office? 	yes	1
+4 Colliani went to the office.
+5 Doud went to the hallway.
+6 Is Doud in the kitchen? 	no	5
+7 Doud travelled to the bathroom.
+8 Conn went back to the office.
+9 Is Doud in the kitchen? 	no	7
+10 Colliani moved to the bathroom.
+11 Burnhard journeyed to the bathroom.
+12 Is Doud in the bathroom? 	yes	7
+13 Conn left the football there.
+14 Conn grabbed the football there.
+15 Is Burnhard in the garden? 	no	11
+1 Conn grabbed the milk there.
+2 Conn dropped the milk.
+3 Conn picked up the milk there.
+4 Doud grabbed the football there.
+5 Conn journeyed to the bedroom.
+6 Conn journeyed to the kitchen.
+7 Is Conn in the bedroom? 	no	6
+8 Doud left the football.
+9 Doud got the football there.
+10 Is Conn in the bathroom? 	no	6
+11 Doud put down the football.
+12 Burnhard moved to the kitchen.
+13 Is Conn in the bedroom? 	no	6
+14 Conn journeyed to the hallway.
+15 Colliani travelled to the office.
+16 Is Colliani in the hallway? 	no	15
+17 Conn grabbed the apple there.
+18 Doud went back to the hallway.
+19 Is Colliani in the office? 	yes	15
+1 Doud journeyed to the bathroom.
+2 Conn went back to the bedroom.
+3 Is Conn in the bathroom? 	no	2
+4 Doud got the apple there.
+5 Conn travelled to the office.
+6 Is Conn in the office? 	yes	5
+7 Doud discarded the apple.
+8 Burnhard picked up the apple there.
+9 Is Conn in the hallway? 	no	5
+10 Burnhard journeyed to the office.
+11 Doud went back to the office.
+12 Is Conn in the office? 	yes	5
+13 Colliani journeyed to the bedroom.
+14 Burnhard travelled to the hallway.
+15 Is Doud in the bedroom? 	no	11
+1 Doud went to the garden.
+2 Doud went to the bedroom.
+3 Is Doud in the bedroom? 	yes	2
+4 Burnhard went back to the garden.
+5 Conn grabbed the milk there.
+6 Is Doud in the bathroom? 	no	2
+7 Doud journeyed to the hallway.
+8 Colliani travelled to the kitchen.
+9 Is Colliani in the hallway? 	no	8
+10 Colliani went back to the garden.
+11 Burnhard went back to the bedroom.
+12 Is Colliani in the garden? 	yes	10
+13 Burnhard moved to the kitchen.
+14 Conn put down the milk.
+15 Is Burnhard in the kitchen? 	yes	13
+1 Doud picked up the milk there.
+2 Colliani travelled to the hallway.
+3 Is Colliani in the hallway? 	yes	2
+4 Colliani went back to the bedroom.
+5 Colliani moved to the hallway.
+6 Is Colliani in the bedroom? 	no	5
+7 Burnhard journeyed to the office.
+8 Colliani went to the office.
+9 Is Burnhard in the office? 	yes	7
+10 Conn went back to the garden.
+11 Doud went back to the kitchen.
+12 Is Colliani in the office? 	yes	8
+13 Doud journeyed to the garden.
+14 Conn went to the office.
+15 Is Conn in the office? 	yes	14
+1 Colliani journeyed to the hallway.
+2 Burnhard travelled to the bedroom.
+3 Is Colliani in the office? 	no	1
+4 Colliani took the football there.
+5 Burnhard travelled to the office.
+6 Is Burnhard in the office? 	yes	5
+7 Burnhard went to the bedroom.
+8 Conn went back to the kitchen.
+9 Is Burnhard in the bedroom? 	yes	7
+10 Colliani took the apple there.
+11 Doud got the milk there.
+12 Is Burnhard in the bedroom? 	yes	7
+13 Conn travelled to the bathroom.
+14 Doud dropped the milk.
+15 Is Conn in the bathroom? 	yes	13
+1 Colliani travelled to the kitchen.
+2 Doud grabbed the football there.
+3 Is Colliani in the office? 	no	1
+4 Burnhard went to the bedroom.
+5 Burnhard took the apple there.
+6 Is Colliani in the kitchen? 	yes	1
+7 Conn got the milk there.
+8 Conn discarded the milk there.
+9 Is Burnhard in the office? 	no	4
+10 Doud discarded the football.
+11 Burnhard travelled to the bathroom.
+12 Is Burnhard in the bathroom? 	yes	11
+13 Doud got the football there.
+14 Burnhard went back to the kitchen.
+15 Is Burnhard in the kitchen? 	yes	14
+1 Doud journeyed to the garden.
+2 Doud went back to the office.
+3 Is Doud in the office? 	yes	2
+4 Conn travelled to the kitchen.
+5 Burnhard moved to the bathroom.
+6 Is Doud in the office? 	yes	2
+7 Colliani grabbed the football there.
+8 Colliani discarded the football.
+9 Is Burnhard in the office? 	no	5
+10 Burnhard went back to the garden.
+11 Conn moved to the office.
+12 Is Burnhard in the bathroom? 	no	10
+13 Conn went to the bedroom.
+14 Colliani took the football there.
+15 Is Burnhard in the garden? 	yes	10
+1 Colliani went to the garden.
+2 Colliani went back to the kitchen.
+3 Is Colliani in the kitchen? 	yes	2
+4 Conn went to the office.
+5 Burnhard travelled to the bathroom.
+6 Is Colliani in the kitchen? 	yes	2
+7 Conn picked up the apple there.
+8 Conn put down the apple.
+9 Is Conn in the office? 	yes	4
+10 Colliani moved to the hallway.
+11 Burnhard moved to the office.
+12 Is Colliani in the hallway? 	yes	10
+13 Burnhard moved to the kitchen.
+14 Colliani moved to the office.
+15 Is Colliani in the bathroom? 	no	14
+1 Conn went to the kitchen.
+2 Doud journeyed to the bedroom.
+3 Is Doud in the hallway? 	no	2
+4 Burnhard travelled to the hallway.
+5 Colliani journeyed to the bathroom.
+6 Is Conn in the kitchen? 	yes	1
+7 Colliani went back to the garden.
+8 Burnhard went back to the garden.
+9 Is Burnhard in the kitchen? 	no	8
+10 Burnhard travelled to the bathroom.
+11 Colliani went back to the bathroom.
+12 Is Colliani in the bathroom? 	yes	11
+13 Burnhard got the apple there.
+14 Doud journeyed to the office.
+15 Is Burnhard in the garden? 	no	10
+1 Doud went back to the hallway.
+2 Burnhard travelled to the kitchen.
+3 Is Burnhard in the kitchen? 	yes	2
+4 Colliani journeyed to the garden.
+5 Burnhard journeyed to the bathroom.
+6 Is Colliani in the hallway? 	no	4
+7 Conn moved to the garden.
+8 Burnhard went back to the hallway.
+9 Is Conn in the garden? 	yes	7
+10 Burnhard travelled to the garden.
+11 Conn travelled to the hallway.
+12 Is Burnhard in the bathroom? 	no	10
+13 Colliani journeyed to the bedroom.
+14 Doud moved to the office.
+15 Is Doud in the office? 	yes	14
+1 Conn moved to the hallway.
+2 Conn picked up the football there.
+3 Is Conn in the hallway? 	yes	1
+4 Conn travelled to the garden.
+5 Conn journeyed to the hallway.
+6 Is Conn in the kitchen? 	no	5
+7 Conn went to the kitchen.
+8 Burnhard went to the office.
+9 Is Burnhard in the garden? 	no	8
+10 Burnhard journeyed to the bathroom.
+11 Conn moved to the bedroom.
+12 Is Burnhard in the bathroom? 	yes	10
+13 Conn dropped the football.
+14 Conn grabbed the football there.
+15 Is Burnhard in the bedroom? 	no	10
+1 Doud moved to the kitchen.
+2 Doud travelled to the office.
+3 Is Doud in the bedroom? 	no	2
+4 Conn picked up the milk there.
+5 Burnhard went to the garden.
+6 Is Burnhard in the kitchen? 	no	5
+7 Burnhard grabbed the apple there.
+8 Burnhard dropped the apple.
+9 Is Doud in the bedroom? 	no	2
+10 Conn dropped the milk.
+11 Doud went to the garden.
+12 Is Burnhard in the garden? 	yes	5
+13 Conn took the milk there.
+14 Doud picked up the apple there.
+15 Is Doud in the garden? 	yes	11

@@ -1,0 +1,3000 @@
+1 Mary is in the uranus.
+2 Bill is in the mars.
+3 Is Bill in the earth? 	no	2
+4 Bill journeyed to the earth.
+5 Fred travelled to the mercury.
+6 Is Bill in the earth? 	yes	4
+7 Fred went back to the saturn.
+8 Bill is either in the uranus or the jupiter.
+9 Is Bill in the saturn? 	no	8
+10 Mary went to the mercury.
+11 Julie is either in the uranus or the jupiter.
+12 Is Fred in the saturn? 	yes	7
+13 Julie is either in the saturn or the uranus.
+14 Bill went back to the jupiter.
+15 Is Bill in the jupiter? 	yes	14
+1 Fred journeyed to the jupiter.
+2 Fred went back to the mercury.
+3 Is Fred in the jupiter? 	no	2
+4 Julie is either in the uranus or the jupiter.
+5 Julie moved to the mercury.
+6 Is Julie in the mercury? 	yes	5
+7 Julie is either in the mars or the earth.
+8 Julie journeyed to the uranus.
+9 Is Julie in the uranus? 	yes	8
+10 Bill is either in the earth or the uranus.
+11 Bill went to the earth.
+12 Is Bill in the jupiter? 	no	11
+13 Julie journeyed to the saturn.
+14 Mary travelled to the uranus.
+15 Is Julie in the saturn? 	yes	13
+1 Bill is in the mars.
+2 Julie is either in the uranus or the mercury.
+3 Is Bill in the earth? 	no	1
+4 Fred is in the earth.
+5 Bill is in the uranus.
+6 Is Julie in the earth? 	no	2
+7 Julie is either in the earth or the jupiter.
+8 Fred is in the saturn.
+9 Is Julie in the earth? 	maybe	7
+10 Fred is either in the uranus or the earth.
+11 Mary went to the mars.
+12 Is Bill in the uranus? 	yes	5
+13 Julie is either in the mars or the earth.
+14 Julie is in the uranus.
+15 Is Julie in the uranus? 	yes	14
+1 Julie journeyed to the earth.
+2 Julie travelled to the saturn.
+3 Is Julie in the mars? 	no	2
+4 Fred is either in the jupiter or the mars.
+5 Julie travelled to the earth.
+6 Is Julie in the earth? 	yes	5
+7 Julie moved to the jupiter.
+8 Mary is either in the jupiter or the mars.
+9 Is Julie in the mars? 	no	7
+10 Bill is in the mars.
+11 Bill is either in the earth or the saturn.
+12 Is Mary in the mars? 	maybe	8
+13 Fred is either in the earth or the earth.
+14 Julie went to the earth.
+15 Is Mary in the mars? 	maybe	8
+1 Bill went to the mars.
+2 Fred is either in the jupiter or the saturn.
+3 Is Fred in the saturn? 	maybe	2
+4 Fred went to the earth.
+5 Mary is either in the uranus or the earth.
+6 Is Fred in the uranus? 	no	4
+7 Bill is either in the jupiter or the mars.
+8 Julie is either in the mars or the saturn.
+9 Is Fred in the earth? 	yes	4
+10 Mary is in the saturn.
+11 Mary went back to the jupiter.
+12 Is Mary in the mars? 	no	11
+13 Bill went back to the mars.
+14 Bill journeyed to the earth.
+15 Is Mary in the jupiter? 	yes	11
+1 Julie journeyed to the mercury.
+2 Fred is in the earth.
+3 Is Julie in the uranus? 	no	1
+4 Julie moved to the mars.
+5 Mary travelled to the saturn.
+6 Is Julie in the mars? 	yes	4
+7 Mary is in the earth.
+8 Fred is either in the mars or the mars.
+9 Is Mary in the jupiter? 	no	7
+10 Julie is either in the mercury or the saturn.
+11 Bill is either in the jupiter or the jupiter.
+12 Is Mary in the jupiter? 	no	7
+13 Bill is either in the saturn or the saturn.
+14 Julie is either in the earth or the uranus.
+15 Is Fred in the mercury? 	no	8
+1 Fred is in the mars.
+2 Bill moved to the earth.
+3 Is Fred in the mars? 	yes	1
+4 Fred is in the uranus.
+5 Bill went to the mercury.
+6 Is Bill in the uranus? 	no	5
+7 Julie travelled to the saturn.
+8 Julie is in the jupiter.
+9 Is Bill in the mercury? 	yes	5
+10 Julie journeyed to the mars.
+11 Fred went to the mars.
+12 Is Julie in the mars? 	yes	10
+13 Julie moved to the saturn.
+14 Fred moved to the mercury.
+15 Is Fred in the mars? 	no	14
+1 Mary went to the jupiter.
+2 Bill moved to the mars.
+3 Is Mary in the uranus? 	no	1
+4 Mary is in the saturn.
+5 Mary is in the jupiter.
+6 Is Mary in the jupiter? 	yes	5
+7 Fred went to the mars.
+8 Julie travelled to the earth.
+9 Is Mary in the jupiter? 	yes	5
+10 Mary moved to the mars.
+11 Mary is either in the uranus or the mars.
+12 Is Julie in the uranus? 	no	8
+13 Bill is either in the saturn or the earth.
+14 Bill is in the uranus.
+15 Is Mary in the uranus? 	maybe	11
+1 Bill is either in the uranus or the uranus.
+2 Mary is either in the jupiter or the mars.
+3 Is Bill in the mercury? 	no	1
+4 Mary travelled to the mercury.
+5 Mary journeyed to the mars.
+6 Is Bill in the uranus? 	maybe	1
+7 Julie journeyed to the jupiter.
+8 Mary moved to the mercury.
+9 Is Julie in the saturn? 	no	7
+10 Julie is either in the earth or the earth.
+11 Julie went back to the saturn.
+12 Is Julie in the jupiter? 	no	11
+13 Mary moved to the jupiter.
+14 Julie went back to the jupiter.
+15 Is Mary in the saturn? 	no	13
+1 Bill is in the earth.
+2 Fred is either in the earth or the jupiter.
+3 Is Fred in the saturn? 	no	2
+4 Bill is either in the mars or the mercury.
+5 Fred went to the jupiter.
+6 Is Bill in the saturn? 	no	4
+7 Mary travelled to the uranus.
+8 Fred went back to the mercury.
+9 Is Fred in the mercury? 	yes	8
+10 Mary is in the earth.
+11 Mary went to the mars.
+12 Is Fred in the mercury? 	yes	8
+13 Julie journeyed to the mars.
+14 Mary moved to the uranus.
+15 Is Mary in the earth? 	no	14
+1 Julie moved to the mars.
+2 Fred is either in the earth or the earth.
+3 Is Fred in the mercury? 	no	2
+4 Bill went to the earth.
+5 Bill moved to the jupiter.
+6 Is Fred in the earth? 	maybe	2
+7 Fred is in the mars.
+8 Fred is in the uranus.
+9 Is Fred in the uranus? 	yes	8
+10 Julie is either in the mercury or the jupiter.
+11 Mary went back to the mars.
+12 Is Mary in the mars? 	yes	11
+13 Julie journeyed to the mars.
+14 Julie moved to the uranus.
+15 Is Fred in the uranus? 	yes	8
+1 Bill went back to the uranus.
+2 Julie went to the uranus.
+3 Is Julie in the uranus? 	yes	2
+4 Fred travelled to the mercury.
+5 Bill is either in the mars or the saturn.
+6 Is Fred in the uranus? 	no	4
+7 Bill is in the jupiter.
+8 Fred moved to the mars.
+9 Is Fred in the uranus? 	no	8
+10 Fred moved to the jupiter.
+11 Mary went to the earth.
+12 Is Bill in the jupiter? 	yes	7
+13 Julie is in the saturn.
+14 Mary travelled to the mars.
+15 Is Mary in the mars? 	yes	14
+1 Mary is in the saturn.
+2 Julie is either in the uranus or the jupiter.
+3 Is Julie in the uranus? 	maybe	2
+4 Mary went to the mars.
+5 Fred is either in the saturn or the jupiter.
+6 Is Julie in the uranus? 	maybe	2
+7 Julie is in the earth.
+8 Fred journeyed to the mars.
+9 Is Mary in the earth? 	no	4
+10 Julie is either in the earth or the uranus.
+11 Bill went back to the saturn.
+12 Is Julie in the uranus? 	maybe	10
+13 Bill is either in the mercury or the mars.
+14 Bill is in the jupiter.
+15 Is Bill in the saturn? 	no	14
+1 Mary went back to the saturn.
+2 Fred is in the mercury.
+3 Is Mary in the saturn? 	yes	1
+4 Mary is either in the earth or the uranus.
+5 Julie is in the mars.
+6 Is Mary in the uranus? 	maybe	4
+7 Mary is in the jupiter.
+8 Julie is either in the uranus or the mercury.
+9 Is Mary in the jupiter? 	yes	7
+10 Mary journeyed to the mercury.
+11 Fred is in the mars.
+12 Is Julie in the earth? 	no	8
+13 Fred journeyed to the earth.
+14 Fred is either in the uranus or the mercury.
+15 Is Fred in the jupiter? 	no	14
+1 Bill travelled to the mars.
+2 Julie went to the uranus.
+3 Is Bill in the mars? 	yes	1
+4 Julie is either in the earth or the mercury.
+5 Julie went to the mars.
+6 Is Julie in the mars? 	yes	5
+7 Julie went back to the saturn.
+8 Bill journeyed to the earth.
+9 Is Julie in the mars? 	no	7
+10 Fred is in the uranus.
+11 Fred moved to the mars.
+12 Is Fred in the mars? 	yes	11
+13 Mary went to the uranus.
+14 Mary went to the saturn.
+15 Is Mary in the saturn? 	yes	14
+1 Julie is in the mercury.
+2 Julie went to the uranus.
+3 Is Julie in the uranus? 	yes	2
+4 Fred went back to the mercury.
+5 Julie went back to the saturn.
+6 Is Julie in the mars? 	no	5
+7 Julie is in the earth.
+8 Mary is either in the mars or the earth.
+9 Is Fred in the jupiter? 	no	4
+10 Mary is in the jupiter.
+11 Fred went to the uranus.
+12 Is Mary in the uranus? 	no	10
+13 Mary went to the saturn.
+14 Bill is either in the uranus or the saturn.
+15 Is Mary in the saturn? 	yes	13
+1 Julie is either in the mars or the jupiter.
+2 Mary travelled to the uranus.
+3 Is Julie in the mars? 	maybe	1
+4 Julie is either in the earth or the earth.
+5 Bill went to the uranus.
+6 Is Julie in the mars? 	no	4
+7 Fred moved to the earth.
+8 Fred is either in the jupiter or the mercury.
+9 Is Fred in the mercury? 	maybe	8
+10 Mary is in the mars.
+11 Julie is either in the mars or the jupiter.
+12 Is Fred in the uranus? 	no	8
+13 Mary is either in the uranus or the mars.
+14 Mary travelled to the earth.
+15 Is Mary in the uranus? 	no	14
+1 Fred is either in the uranus or the mercury.
+2 Mary moved to the uranus.
+3 Is Mary in the mercury? 	no	2
+4 Julie travelled to the jupiter.
+5 Fred journeyed to the jupiter.
+6 Is Mary in the uranus? 	yes	2
+7 Julie is in the uranus.
+8 Bill went back to the uranus.
+9 Is Fred in the jupiter? 	yes	5
+10 Julie is either in the mercury or the mercury.
+11 Mary is either in the saturn or the mars.
+12 Is Mary in the saturn? 	maybe	11
+13 Fred travelled to the mars.
+14 Fred is either in the mercury or the earth.
+15 Is Fred in the mercury? 	maybe	14
+1 Fred is either in the earth or the earth.
+2 Fred is in the mars.
+3 Is Fred in the mars? 	yes	2
+4 Mary travelled to the earth.
+5 Julie went to the jupiter.
+6 Is Mary in the earth? 	yes	4
+7 Bill is either in the saturn or the mars.
+8 Mary moved to the saturn.
+9 Is Julie in the mercury? 	no	5
+10 Mary journeyed to the uranus.
+11 Bill is in the earth.
+12 Is Julie in the jupiter? 	yes	5
+13 Fred went to the earth.
+14 Mary is in the saturn.
+15 Is Bill in the earth? 	yes	11
+1 Mary travelled to the saturn.
+2 Mary travelled to the uranus.
+3 Is Mary in the jupiter? 	no	2
+4 Julie is in the earth.
+5 Bill went to the uranus.
+6 Is Mary in the uranus? 	yes	2
+7 Fred went to the mercury.
+8 Bill is in the jupiter.
+9 Is Julie in the uranus? 	no	4
+10 Julie is in the mars.
+11 Fred journeyed to the earth.
+12 Is Julie in the mars? 	yes	10
+13 Julie is either in the uranus or the jupiter.
+14 Mary is either in the uranus or the saturn.
+15 Is Julie in the mercury? 	no	13
+1 Bill journeyed to the saturn.
+2 Fred is in the saturn.
+3 Is Fred in the saturn? 	yes	2
+4 Bill journeyed to the mercury.
+5 Mary is either in the saturn or the saturn.
+6 Is Bill in the saturn? 	no	4
+7 Mary is either in the uranus or the mercury.
+8 Fred is either in the earth or the jupiter.
+9 Is Mary in the mercury? 	maybe	7
+10 Bill is in the earth.
+11 Bill is in the jupiter.
+12 Is Bill in the jupiter? 	yes	11
+13 Julie travelled to the jupiter.
+14 Julie travelled to the mars.
+15 Is Julie in the jupiter? 	no	14
+1 Mary went back to the jupiter.
+2 Bill is either in the saturn or the mars.
+3 Is Mary in the earth? 	no	1
+4 Bill went to the earth.
+5 Julie is either in the saturn or the uranus.
+6 Is Bill in the uranus? 	no	4
+7 Mary went back to the mars.
+8 Fred travelled to the jupiter.
+9 Is Bill in the earth? 	yes	4
+10 Mary is in the earth.
+11 Bill is in the uranus.
+12 Is Mary in the uranus? 	no	10
+13 Mary is in the mars.
+14 Mary journeyed to the uranus.
+15 Is Mary in the mars? 	no	14
+1 Fred is in the earth.
+2 Fred is in the uranus.
+3 Is Fred in the uranus? 	yes	2
+4 Mary moved to the uranus.
+5 Mary travelled to the mars.
+6 Is Fred in the uranus? 	yes	2
+7 Mary travelled to the saturn.
+8 Fred is either in the mercury or the saturn.
+9 Is Mary in the saturn? 	yes	7
+10 Fred is in the earth.
+11 Julie went back to the uranus.
+12 Is Fred in the mars? 	no	10
+13 Julie went back to the saturn.
+14 Mary travelled to the mercury.
+15 Is Fred in the earth? 	yes	10
+1 Julie is in the mercury.
+2 Fred is in the earth.
+3 Is Julie in the mercury? 	yes	1
+4 Julie is in the saturn.
+5 Mary is in the uranus.
+6 Is Mary in the mercury? 	no	5
+7 Mary is either in the uranus or the saturn.
+8 Mary is in the uranus.
+9 Is Mary in the uranus? 	yes	8
+10 Mary travelled to the earth.
+11 Fred is either in the mercury or the jupiter.
+12 Is Mary in the uranus? 	no	10
+13 Bill is in the mercury.
+14 Bill is either in the uranus or the earth.
+15 Is Mary in the earth? 	yes	10
+1 Julie went to the mars.
+2 Julie is in the jupiter.
+3 Is Julie in the uranus? 	no	2
+4 Julie journeyed to the uranus.
+5 Mary is in the uranus.
+6 Is Mary in the uranus? 	yes	5
+7 Bill journeyed to the saturn.
+8 Mary went to the mercury.
+9 Is Julie in the uranus? 	yes	4
+10 Fred is in the uranus.
+11 Mary is either in the earth or the jupiter.
+12 Is Bill in the saturn? 	yes	7
+13 Julie is in the mars.
+14 Fred travelled to the earth.
+15 Is Julie in the saturn? 	no	13
+1 Bill moved to the mercury.
+2 Mary is in the jupiter.
+3 Is Mary in the jupiter? 	yes	2
+4 Julie moved to the uranus.
+5 Fred is in the jupiter.
+6 Is Julie in the saturn? 	no	4
+7 Mary travelled to the mars.
+8 Mary moved to the jupiter.
+9 Is Mary in the jupiter? 	yes	8
+10 Mary is in the uranus.
+11 Fred went back to the mars.
+12 Is Mary in the uranus? 	yes	10
+13 Fred moved to the jupiter.
+14 Mary is either in the earth or the jupiter.
+15 Is Fred in the mars? 	no	13
+1 Bill travelled to the mars.
+2 Bill is in the jupiter.
+3 Is Bill in the saturn? 	no	2
+4 Mary is in the uranus.
+5 Fred is in the uranus.
+6 Is Fred in the uranus? 	yes	5
+7 Fred journeyed to the jupiter.
+8 Julie is in the jupiter.
+9 Is Fred in the mars? 	no	7
+10 Fred moved to the earth.
+11 Fred is either in the mercury or the jupiter.
+12 Is Fred in the mercury? 	maybe	11
+13 Mary is either in the earth or the earth.
+14 Bill journeyed to the earth.
+15 Is Fred in the mercury? 	maybe	11
+1 Fred moved to the uranus.
+2 Fred is in the earth.
+3 Is Fred in the saturn? 	no	2
+4 Bill is either in the earth or the uranus.
+5 Julie is in the mars.
+6 Is Fred in the earth? 	yes	2
+7 Bill went to the jupiter.
+8 Julie is in the saturn.
+9 Is Fred in the uranus? 	no	2
+10 Bill went back to the uranus.
+11 Fred moved to the uranus.
+12 Is Bill in the mercury? 	no	10
+13 Bill is either in the saturn or the mars.
+14 Bill is either in the mercury or the mercury.
+15 Is Julie in the saturn? 	yes	8
+1 Mary journeyed to the saturn.
+2 Fred is either in the saturn or the saturn.
+3 Is Mary in the saturn? 	yes	1
+4 Bill went back to the earth.
+5 Fred went back to the earth.
+6 Is Fred in the earth? 	yes	5
+7 Julie went back to the saturn.
+8 Fred is either in the saturn or the uranus.
+9 Is Bill in the uranus? 	no	4
+10 Julie is in the jupiter.
+11 Mary travelled to the jupiter.
+12 Is Mary in the jupiter? 	yes	11
+13 Bill travelled to the uranus.
+14 Mary went back to the uranus.
+15 Is Bill in the mercury? 	no	13
+1 Fred went back to the earth.
+2 Mary moved to the mercury.
+3 Is Mary in the earth? 	no	2
+4 Bill is either in the saturn or the saturn.
+5 Fred is either in the mars or the jupiter.
+6 Is Fred in the mars? 	maybe	5
+7 Bill travelled to the mercury.
+8 Bill moved to the uranus.
+9 Is Fred in the mars? 	maybe	5
+10 Mary went back to the jupiter.
+11 Bill is in the mercury.
+12 Is Bill in the mercury? 	yes	11
+13 Mary went to the uranus.
+14 Julie is either in the saturn or the jupiter.
+15 Is Bill in the mercury? 	yes	11
+1 Mary went to the jupiter.
+2 Bill moved to the jupiter.
+3 Is Bill in the jupiter? 	yes	2
+4 Fred travelled to the saturn.
+5 Fred journeyed to the mars.
+6 Is Fred in the mars? 	yes	5
+7 Mary is in the earth.
+8 Bill journeyed to the mars.
+9 Is Bill in the mars? 	yes	8
+10 Mary is either in the jupiter or the mars.
+11 Fred is either in the earth or the mercury.
+12 Is Mary in the uranus? 	no	10
+13 Julie is in the mars.
+14 Fred is in the mercury.
+15 Is Mary in the uranus? 	no	10
+1 Mary is in the jupiter.
+2 Mary is in the uranus.
+3 Is Mary in the uranus? 	yes	2
+4 Mary is either in the uranus or the mercury.
+5 Fred went to the uranus.
+6 Is Mary in the jupiter? 	no	4
+7 Mary went back to the jupiter.
+8 Julie moved to the uranus.
+9 Is Mary in the earth? 	no	7
+10 Fred is either in the mars or the jupiter.
+11 Mary is in the saturn.
+12 Is Fred in the mars? 	maybe	10
+13 Mary went back to the jupiter.
+14 Bill is either in the mercury or the saturn.
+15 Is Bill in the mercury? 	maybe	14
+1 Julie is either in the mars or the uranus.
+2 Mary journeyed to the saturn.
+3 Is Mary in the mercury? 	no	2
+4 Julie journeyed to the mercury.
+5 Fred is either in the jupiter or the mars.
+6 Is Julie in the mars? 	no	4
+7 Fred is in the mercury.
+8 Fred is in the saturn.
+9 Is Fred in the saturn? 	yes	8
+10 Julie went to the earth.
+11 Julie went to the saturn.
+12 Is Julie in the saturn? 	yes	11
+13 Fred travelled to the mars.
+14 Bill is either in the mercury or the earth.
+15 Is Fred in the earth? 	no	13
+1 Fred is either in the mercury or the uranus.
+2 Julie travelled to the uranus.
+3 Is Fred in the uranus? 	maybe	1
+4 Fred moved to the uranus.
+5 Bill travelled to the mercury.
+6 Is Julie in the uranus? 	yes	2
+7 Julie is in the earth.
+8 Bill is in the uranus.
+9 Is Bill in the uranus? 	yes	8
+10 Mary journeyed to the jupiter.
+11 Bill went to the earth.
+12 Is Bill in the earth? 	yes	11
+13 Bill is in the saturn.
+14 Bill went back to the uranus.
+15 Is Bill in the saturn? 	no	14
+1 Julie is in the uranus.
+2 Bill moved to the uranus.
+3 Is Julie in the uranus? 	yes	1
+4 Fred is in the mercury.
+5 Julie went to the mars.
+6 Is Fred in the saturn? 	no	4
+7 Mary is either in the earth or the jupiter.
+8 Fred is either in the earth or the jupiter.
+9 Is Fred in the earth? 	maybe	8
+10 Mary went to the earth.
+11 Julie is in the mercury.
+12 Is Julie in the mercury? 	yes	11
+13 Julie went back to the saturn.
+14 Mary went back to the uranus.
+15 Is Julie in the uranus? 	no	13
+1 Mary moved to the mars.
+2 Fred moved to the mars.
+3 Is Fred in the mars? 	yes	2
+4 Mary travelled to the mercury.
+5 Bill is either in the earth or the mercury.
+6 Is Bill in the mercury? 	maybe	5
+7 Mary is in the jupiter.
+8 Mary travelled to the uranus.
+9 Is Mary in the uranus? 	yes	8
+10 Bill travelled to the earth.
+11 Fred is either in the mercury or the mercury.
+12 Is Mary in the jupiter? 	no	8
+13 Fred is either in the mercury or the uranus.
+14 Bill is in the mercury.
+15 Is Mary in the uranus? 	yes	8
+1 Mary went back to the earth.
+2 Julie is in the saturn.
+3 Is Mary in the earth? 	yes	1
+4 Mary went to the saturn.
+5 Bill is either in the uranus or the mercury.
+6 Is Julie in the jupiter? 	no	2
+7 Fred journeyed to the mars.
+8 Julie is either in the jupiter or the mercury.
+9 Is Fred in the mars? 	yes	7
+10 Bill is either in the earth or the earth.
+11 Fred went back to the earth.
+12 Is Bill in the earth? 	maybe	10
+13 Fred is either in the mercury or the saturn.
+14 Fred is in the mars.
+15 Is Bill in the mercury? 	no	10
+1 Fred is in the saturn.
+2 Mary journeyed to the mercury.
+3 Is Fred in the saturn? 	yes	1
+4 Julie is either in the earth or the mars.
+5 Bill is either in the jupiter or the saturn.
+6 Is Julie in the saturn? 	no	4
+7 Bill went back to the earth.
+8 Mary went to the earth.
+9 Is Julie in the jupiter? 	no	4
+10 Julie travelled to the uranus.
+11 Julie is either in the mars or the mars.
+12 Is Bill in the earth? 	yes	7
+13 Bill is in the jupiter.
+14 Julie went back to the uranus.
+15 Is Julie in the uranus? 	yes	14
+1 Fred travelled to the uranus.
+2 Fred is in the jupiter.
+3 Is Fred in the mercury? 	no	2
+4 Bill is in the earth.
+5 Bill is in the mars.
+6 Is Bill in the mars? 	yes	5
+7 Bill went to the earth.
+8 Julie travelled to the uranus.
+9 Is Julie in the uranus? 	yes	8
+10 Mary is in the mercury.
+11 Mary is in the earth.
+12 Is Julie in the uranus? 	yes	8
+13 Mary is in the mercury.
+14 Bill journeyed to the saturn.
+15 Is Bill in the mercury? 	no	14
+1 Fred moved to the earth.
+2 Julie is in the mars.
+3 Is Julie in the mars? 	yes	2
+4 Fred is either in the earth or the saturn.
+5 Fred is either in the jupiter or the earth.
+6 Is Fred in the mars? 	no	5
+7 Julie went back to the mercury.
+8 Mary moved to the saturn.
+9 Is Fred in the jupiter? 	maybe	5
+10 Fred is in the mercury.
+11 Mary went back to the mercury.
+12 Is Julie in the mercury? 	yes	7
+13 Bill is in the mercury.
+14 Mary went back to the jupiter.
+15 Is Mary in the jupiter? 	yes	14
+1 Bill is in the uranus.
+2 Mary travelled to the mars.
+3 Is Mary in the mercury? 	no	2
+4 Fred is in the saturn.
+5 Fred is in the uranus.
+6 Is Mary in the jupiter? 	no	2
+7 Bill is in the mercury.
+8 Bill is in the jupiter.
+9 Is Fred in the mercury? 	no	5
+10 Fred moved to the mars.
+11 Julie is in the earth.
+12 Is Bill in the jupiter? 	yes	8
+13 Fred is in the earth.
+14 Julie travelled to the mars.
+15 Is Fred in the earth? 	yes	13
+1 Mary is either in the earth or the saturn.
+2 Bill went to the saturn.
+3 Is Bill in the earth? 	no	2
+4 Mary went to the jupiter.
+5 Fred journeyed to the jupiter.
+6 Is Fred in the saturn? 	no	5
+7 Mary is in the earth.
+8 Mary is in the uranus.
+9 Is Mary in the uranus? 	yes	8
+10 Fred moved to the mars.
+11 Fred journeyed to the mercury.
+12 Is Mary in the earth? 	no	8
+13 Bill went to the mars.
+14 Bill is either in the uranus or the saturn.
+15 Is Fred in the uranus? 	no	11
+1 Julie went to the jupiter.
+2 Bill is in the saturn.
+3 Is Bill in the mercury? 	no	2
+4 Julie journeyed to the saturn.
+5 Bill journeyed to the mercury.
+6 Is Julie in the earth? 	no	4
+7 Mary moved to the mars.
+8 Mary is in the jupiter.
+9 Is Mary in the jupiter? 	yes	8
+10 Fred is in the mercury.
+11 Mary journeyed to the saturn.
+12 Is Bill in the mercury? 	yes	5
+13 Julie moved to the jupiter.
+14 Julie went to the earth.
+15 Is Julie in the jupiter? 	no	14
+1 Mary is either in the saturn or the earth.
+2 Fred travelled to the uranus.
+3 Is Mary in the jupiter? 	no	1
+4 Mary is in the earth.
+5 Julie is in the earth.
+6 Is Mary in the earth? 	yes	4
+7 Bill went to the mercury.
+8 Bill is either in the uranus or the jupiter.
+9 Is Mary in the mars? 	no	4
+10 Bill travelled to the mercury.
+11 Fred is either in the mercury or the mars.
+12 Is Fred in the mars? 	maybe	11
+13 Julie is either in the mercury or the jupiter.
+14 Fred travelled to the saturn.
+15 Is Bill in the mercury? 	yes	10
+1 Mary went to the saturn.
+2 Mary went to the mars.
+3 Is Mary in the mercury? 	no	2
+4 Bill is in the mercury.
+5 Bill went back to the jupiter.
+6 Is Bill in the mars? 	no	5
+7 Mary journeyed to the saturn.
+8 Mary journeyed to the mercury.
+9 Is Bill in the jupiter? 	yes	5
+10 Julie is either in the jupiter or the earth.
+11 Mary is in the saturn.
+12 Is Julie in the earth? 	maybe	10
+13 Julie is in the mercury.
+14 Julie is either in the mars or the uranus.
+15 Is Julie in the jupiter? 	no	14
+1 Mary journeyed to the jupiter.
+2 Bill is either in the uranus or the mars.
+3 Is Bill in the uranus? 	maybe	2
+4 Mary journeyed to the mercury.
+5 Julie is in the mercury.
+6 Is Mary in the mercury? 	yes	4
+7 Bill travelled to the mercury.
+8 Bill is either in the mars or the uranus.
+9 Is Bill in the mercury? 	no	8
+10 Bill is in the mercury.
+11 Bill is either in the uranus or the saturn.
+12 Is Bill in the jupiter? 	no	11
+13 Mary is in the earth.
+14 Mary is either in the jupiter or the earth.
+15 Is Bill in the saturn? 	maybe	11
+1 Julie journeyed to the saturn.
+2 Julie moved to the mars.
+3 Is Julie in the mars? 	yes	2
+4 Fred moved to the mars.
+5 Fred is either in the earth or the jupiter.
+6 Is Fred in the saturn? 	no	5
+7 Bill went back to the mars.
+8 Mary is in the mars.
+9 Is Mary in the earth? 	no	8
+10 Fred journeyed to the saturn.
+11 Julie journeyed to the earth.
+12 Is Fred in the uranus? 	no	10
+13 Julie is in the mercury.
+14 Julie travelled to the jupiter.
+15 Is Fred in the mars? 	no	10
+1 Mary went to the jupiter.
+2 Fred went back to the mars.
+3 Is Fred in the earth? 	no	2
+4 Bill travelled to the earth.
+5 Fred journeyed to the uranus.
+6 Is Fred in the mercury? 	no	5
+7 Mary is in the saturn.
+8 Fred travelled to the mercury.
+9 Is Bill in the jupiter? 	no	4
+10 Mary is in the mercury.
+11 Mary is either in the jupiter or the saturn.
+12 Is Fred in the mercury? 	yes	8
+13 Mary moved to the jupiter.
+14 Bill is either in the uranus or the uranus.
+15 Is Mary in the jupiter? 	yes	13
+1 Julie travelled to the mars.
+2 Julie is in the jupiter.
+3 Is Julie in the jupiter? 	yes	2
+4 Mary journeyed to the jupiter.
+5 Fred is either in the saturn or the saturn.
+6 Is Mary in the jupiter? 	yes	4
+7 Mary is in the earth.
+8 Fred went to the earth.
+9 Is Mary in the earth? 	yes	7
+10 Bill went to the mars.
+11 Bill travelled to the mercury.
+12 Is Bill in the mercury? 	yes	11
+13 Julie is either in the mercury or the saturn.
+14 Fred is in the mars.
+15 Is Bill in the mercury? 	yes	11
+1 Julie is either in the uranus or the earth.
+2 Bill journeyed to the mercury.
+3 Is Julie in the jupiter? 	no	1
+4 Bill went to the mars.
+5 Fred journeyed to the uranus.
+6 Is Julie in the earth? 	maybe	1
+7 Fred is in the earth.
+8 Bill journeyed to the earth.
+9 Is Bill in the earth? 	yes	8
+10 Mary is either in the saturn or the saturn.
+11 Fred is in the mercury.
+12 Is Mary in the jupiter? 	no	10
+13 Fred went back to the saturn.
+14 Bill is in the uranus.
+15 Is Bill in the uranus? 	yes	14
+1 Fred is either in the mars or the uranus.
+2 Julie is either in the uranus or the jupiter.
+3 Is Fred in the mercury? 	no	1
+4 Julie is in the saturn.
+5 Mary is in the mars.
+6 Is Julie in the mars? 	no	4
+7 Fred journeyed to the saturn.
+8 Bill went to the uranus.
+9 Is Fred in the saturn? 	yes	7
+10 Julie is in the mercury.
+11 Fred went back to the earth.
+12 Is Mary in the mars? 	yes	5
+13 Mary travelled to the jupiter.
+14 Fred is either in the saturn or the jupiter.
+15 Is Mary in the uranus? 	no	13
+1 Bill is either in the jupiter or the mars.
+2 Julie went to the uranus.
+3 Is Bill in the jupiter? 	maybe	1
+4 Julie travelled to the jupiter.
+5 Julie went to the mars.
+6 Is Bill in the earth? 	no	1
+7 Bill is in the uranus.
+8 Bill went back to the earth.
+9 Is Bill in the earth? 	yes	8
+10 Julie went to the uranus.
+11 Mary travelled to the mars.
+12 Is Bill in the earth? 	yes	8
+13 Bill is in the uranus.
+14 Bill went to the mars.
+15 Is Bill in the saturn? 	no	14
+1 Mary went back to the saturn.
+2 Fred is either in the earth or the mars.
+3 Is Fred in the mercury? 	no	2
+4 Julie travelled to the jupiter.
+5 Bill travelled to the mercury.
+6 Is Bill in the mars? 	no	5
+7 Bill is in the earth.
+8 Fred is either in the saturn or the jupiter.
+9 Is Julie in the uranus? 	no	4
+10 Bill travelled to the mercury.
+11 Bill went back to the uranus.
+12 Is Bill in the mars? 	no	11
+13 Bill travelled to the mars.
+14 Mary moved to the earth.
+15 Is Bill in the mars? 	yes	13
+1 Bill is either in the jupiter or the earth.
+2 Bill is either in the jupiter or the earth.
+3 Is Bill in the uranus? 	no	2
+4 Julie journeyed to the mercury.
+5 Bill is either in the earth or the mars.
+6 Is Bill in the earth? 	maybe	5
+7 Mary travelled to the earth.
+8 Mary journeyed to the mars.
+9 Is Bill in the earth? 	maybe	5
+10 Bill is in the jupiter.
+11 Fred journeyed to the saturn.
+12 Is Fred in the saturn? 	yes	11
+13 Fred went to the earth.
+14 Bill journeyed to the earth.
+15 Is Fred in the uranus? 	no	13
+1 Bill is either in the earth or the mercury.
+2 Mary travelled to the saturn.
+3 Is Mary in the saturn? 	yes	2
+4 Fred moved to the saturn.
+5 Mary journeyed to the jupiter.
+6 Is Bill in the mars? 	no	1
+7 Bill is either in the mercury or the uranus.
+8 Fred went to the jupiter.
+9 Is Bill in the uranus? 	maybe	7
+10 Bill is either in the mars or the mars.
+11 Mary is in the mars.
+12 Is Bill in the uranus? 	no	10
+13 Mary is either in the saturn or the mercury.
+14 Fred is in the uranus.
+15 Is Mary in the mars? 	no	13
+1 Fred is in the mars.
+2 Julie moved to the uranus.
+3 Is Fred in the uranus? 	no	1
+4 Bill moved to the saturn.
+5 Julie went back to the mercury.
+6 Is Julie in the mercury? 	yes	5
+7 Mary is in the jupiter.
+8 Fred journeyed to the uranus.
+9 Is Julie in the jupiter? 	no	5
+10 Mary went back to the mercury.
+11 Fred went to the mercury.
+12 Is Fred in the mercury? 	yes	11
+13 Bill moved to the jupiter.
+14 Bill journeyed to the mars.
+15 Is Fred in the mars? 	no	11
+1 Fred is either in the uranus or the uranus.
+2 Bill journeyed to the mars.
+3 Is Bill in the mars? 	yes	2
+4 Julie travelled to the saturn.
+5 Fred travelled to the saturn.
+6 Is Bill in the mercury? 	no	2
+7 Bill is either in the earth or the mercury.
+8 Julie moved to the earth.
+9 Is Bill in the mercury? 	maybe	7
+10 Mary went to the uranus.
+11 Mary is either in the saturn or the mercury.
+12 Is Mary in the mercury? 	maybe	11
+13 Bill went to the earth.
+14 Mary is in the jupiter.
+15 Is Mary in the jupiter? 	yes	14
+1 Fred is in the uranus.
+2 Bill went back to the mars.
+3 Is Bill in the mars? 	yes	2
+4 Bill is either in the mercury or the earth.
+5 Bill is in the uranus.
+6 Is Bill in the uranus? 	yes	5
+7 Julie travelled to the uranus.
+8 Fred went to the earth.
+9 Is Bill in the uranus? 	yes	5
+10 Bill journeyed to the jupiter.
+11 Julie is in the mars.
+12 Is Bill in the jupiter? 	yes	10
+13 Mary journeyed to the jupiter.
+14 Mary journeyed to the earth.
+15 Is Fred in the uranus? 	no	8
+1 Bill went back to the jupiter.
+2 Fred is either in the mercury or the mercury.
+3 Is Fred in the mercury? 	maybe	2
+4 Julie is either in the mercury or the earth.
+5 Bill travelled to the mars.
+6 Is Fred in the mercury? 	maybe	2
+7 Mary is either in the saturn or the mars.
+8 Julie is in the jupiter.
+9 Is Mary in the mercury? 	no	7
+10 Fred is in the saturn.
+11 Mary is in the earth.
+12 Is Mary in the earth? 	yes	11
+13 Bill is either in the uranus or the mercury.
+14 Fred is in the jupiter.
+15 Is Fred in the uranus? 	no	14
+1 Mary is either in the earth or the earth.
+2 Julie is either in the jupiter or the mercury.
+3 Is Mary in the mars? 	no	1
+4 Julie went back to the saturn.
+5 Mary moved to the uranus.
+6 Is Julie in the saturn? 	yes	4
+7 Bill moved to the saturn.
+8 Bill is either in the mars or the earth.
+9 Is Julie in the saturn? 	yes	4
+10 Mary went to the mars.
+11 Fred went back to the earth.
+12 Is Fred in the earth? 	yes	11
+13 Julie went back to the mercury.
+14 Bill is either in the mars or the mercury.
+15 Is Bill in the mars? 	maybe	14
+1 Mary moved to the mars.
+2 Mary is in the saturn.
+3 Is Mary in the saturn? 	yes	2
+4 Mary is either in the earth or the mercury.
+5 Bill is either in the mars or the uranus.
+6 Is Mary in the earth? 	maybe	4
+7 Fred is in the saturn.
+8 Mary is either in the jupiter or the jupiter.
+9 Is Fred in the saturn? 	yes	7
+10 Mary is in the earth.
+11 Julie journeyed to the mercury.
+12 Is Bill in the uranus? 	maybe	5
+13 Mary is in the mars.
+14 Julie travelled to the earth.
+15 Is Mary in the mars? 	yes	13
+1 Julie is in the mars.
+2 Mary is in the mercury.
+3 Is Julie in the jupiter? 	no	1
+4 Mary is in the earth.
+5 Mary is either in the uranus or the saturn.
+6 Is Julie in the uranus? 	no	1
+7 Mary went back to the mars.
+8 Mary journeyed to the mercury.
+9 Is Mary in the mercury? 	yes	8
+10 Bill is in the mercury.
+11 Julie is in the mercury.
+12 Is Mary in the saturn? 	no	8
+13 Bill went to the saturn.
+14 Mary journeyed to the jupiter.
+15 Is Bill in the saturn? 	yes	13
+1 Bill journeyed to the uranus.
+2 Fred went to the mars.
+3 Is Fred in the saturn? 	no	2
+4 Fred is in the saturn.
+5 Fred travelled to the mercury.
+6 Is Bill in the uranus? 	yes	1
+7 Fred is in the jupiter.
+8 Fred moved to the mercury.
+9 Is Fred in the mercury? 	yes	8
+10 Bill is either in the mercury or the jupiter.
+11 Mary moved to the earth.
+12 Is Mary in the uranus? 	no	11
+13 Julie journeyed to the mars.
+14 Mary is either in the jupiter or the jupiter.
+15 Is Bill in the saturn? 	no	10
+1 Fred is in the earth.
+2 Mary is either in the uranus or the mercury.
+3 Is Mary in the uranus? 	maybe	2
+4 Mary moved to the earth.
+5 Bill is either in the earth or the saturn.
+6 Is Mary in the earth? 	yes	4
+7 Julie travelled to the jupiter.
+8 Mary travelled to the mars.
+9 Is Bill in the earth? 	maybe	5
+10 Mary is either in the saturn or the earth.
+11 Bill travelled to the mercury.
+12 Is Julie in the earth? 	no	7
+13 Julie is either in the mars or the earth.
+14 Fred is in the uranus.
+15 Is Julie in the earth? 	maybe	13
+1 Fred went back to the saturn.
+2 Mary is in the uranus.
+3 Is Fred in the mercury? 	no	1
+4 Bill is either in the earth or the mercury.
+5 Fred is either in the saturn or the jupiter.
+6 Is Fred in the saturn? 	maybe	5
+7 Julie journeyed to the earth.
+8 Fred went to the earth.
+9 Is Julie in the earth? 	yes	7
+10 Mary is either in the jupiter or the saturn.
+11 Bill is either in the saturn or the jupiter.
+12 Is Mary in the mars? 	no	10
+13 Bill went to the mercury.
+14 Bill is either in the saturn or the jupiter.
+15 Is Bill in the mercury? 	no	14
+1 Julie is in the saturn.
+2 Bill travelled to the saturn.
+3 Is Bill in the earth? 	no	2
+4 Mary is either in the earth or the saturn.
+5 Fred moved to the mercury.
+6 Is Mary in the uranus? 	no	4
+7 Fred is either in the mars or the saturn.
+8 Bill moved to the mercury.
+9 Is Bill in the mercury? 	yes	8
+10 Bill went back to the earth.
+11 Mary journeyed to the earth.
+12 Is Fred in the uranus? 	no	7
+13 Julie went to the jupiter.
+14 Mary is in the saturn.
+15 Is Bill in the earth? 	yes	10
+1 Fred is in the uranus.
+2 Mary is in the mercury.
+3 Is Mary in the mercury? 	yes	2
+4 Bill went back to the jupiter.
+5 Mary is in the uranus.
+6 Is Fred in the jupiter? 	no	1
+7 Mary went back to the mercury.
+8 Julie journeyed to the jupiter.
+9 Is Mary in the mercury? 	yes	7
+10 Mary went to the saturn.
+11 Fred travelled to the earth.
+12 Is Julie in the jupiter? 	yes	8
+13 Mary is either in the earth or the saturn.
+14 Julie is in the earth.
+15 Is Mary in the uranus? 	no	13
+1 Mary travelled to the uranus.
+2 Mary is either in the saturn or the earth.
+3 Is Mary in the jupiter? 	no	2
+4 Mary went back to the jupiter.
+5 Julie moved to the mars.
+6 Is Mary in the earth? 	no	4
+7 Julie is either in the earth or the uranus.
+8 Fred is either in the mercury or the saturn.
+9 Is Julie in the mercury? 	no	7
+10 Fred went back to the saturn.
+11 Bill is either in the mercury or the mercury.
+12 Is Julie in the uranus? 	maybe	7
+13 Fred is either in the earth or the jupiter.
+14 Mary travelled to the saturn.
+15 Is Fred in the earth? 	maybe	13
+1 Fred travelled to the uranus.
+2 Fred journeyed to the earth.
+3 Is Fred in the earth? 	yes	2
+4 Bill is either in the jupiter or the mars.
+5 Julie travelled to the saturn.
+6 Is Fred in the earth? 	yes	2
+7 Bill moved to the uranus.
+8 Bill went back to the mercury.
+9 Is Bill in the uranus? 	no	8
+10 Julie travelled to the mercury.
+11 Fred went to the uranus.
+12 Is Fred in the mercury? 	no	11
+13 Mary travelled to the mars.
+14 Julie travelled to the saturn.
+15 Is Mary in the mars? 	yes	13
+1 Mary journeyed to the mercury.
+2 Mary moved to the saturn.
+3 Is Mary in the mars? 	no	2
+4 Julie moved to the mars.
+5 Mary travelled to the uranus.
+6 Is Mary in the earth? 	no	5
+7 Bill is either in the mars or the jupiter.
+8 Fred travelled to the earth.
+9 Is Fred in the earth? 	yes	8
+10 Fred is in the mars.
+11 Bill travelled to the earth.
+12 Is Mary in the mercury? 	no	5
+13 Julie is in the jupiter.
+14 Julie went to the saturn.
+15 Is Bill in the mercury? 	no	11
+1 Bill is either in the earth or the jupiter.
+2 Fred went back to the jupiter.
+3 Is Bill in the jupiter? 	maybe	1
+4 Bill went back to the mars.
+5 Bill is either in the saturn or the jupiter.
+6 Is Bill in the jupiter? 	maybe	5
+7 Mary journeyed to the mars.
+8 Fred went to the earth.
+9 Is Fred in the earth? 	yes	8
+10 Bill moved to the saturn.
+11 Bill is in the earth.
+12 Is Bill in the mars? 	no	11
+13 Fred is in the mars.
+14 Fred went back to the jupiter.
+15 Is Bill in the mars? 	no	11
+1 Julie is in the saturn.
+2 Fred is in the earth.
+3 Is Julie in the saturn? 	yes	1
+4 Mary went to the saturn.
+5 Bill travelled to the jupiter.
+6 Is Bill in the jupiter? 	yes	5
+7 Bill went to the saturn.
+8 Fred went to the jupiter.
+9 Is Fred in the jupiter? 	yes	8
+10 Mary is in the earth.
+11 Julie is either in the jupiter or the mercury.
+12 Is Julie in the jupiter? 	maybe	11
+13 Fred moved to the saturn.
+14 Julie is in the earth.
+15 Is Mary in the earth? 	yes	10
+1 Mary is in the mercury.
+2 Bill moved to the uranus.
+3 Is Bill in the mercury? 	no	2
+4 Bill is either in the earth or the uranus.
+5 Fred is either in the jupiter or the earth.
+6 Is Mary in the mercury? 	yes	1
+7 Bill is either in the jupiter or the uranus.
+8 Julie went back to the jupiter.
+9 Is Julie in the jupiter? 	yes	8
+10 Mary is in the jupiter.
+11 Fred went to the mars.
+12 Is Mary in the uranus? 	no	10
+13 Mary went back to the uranus.
+14 Mary is either in the saturn or the mars.
+15 Is Fred in the saturn? 	no	11
+1 Mary moved to the earth.
+2 Julie went back to the saturn.
+3 Is Mary in the uranus? 	no	1
+4 Julie is in the mars.
+5 Julie is either in the jupiter or the mercury.
+6 Is Julie in the uranus? 	no	5
+7 Fred travelled to the uranus.
+8 Bill journeyed to the uranus.
+9 Is Fred in the uranus? 	yes	7
+10 Mary went to the uranus.
+11 Fred is either in the earth or the jupiter.
+12 Is Fred in the mars? 	no	11
+13 Julie moved to the jupiter.
+14 Mary is either in the saturn or the mercury.
+15 Is Bill in the uranus? 	yes	8
+1 Julie is either in the uranus or the jupiter.
+2 Julie moved to the saturn.
+3 Is Julie in the saturn? 	yes	2
+4 Julie travelled to the uranus.
+5 Mary is either in the jupiter or the mercury.
+6 Is Julie in the uranus? 	yes	4
+7 Bill journeyed to the uranus.
+8 Mary is in the mercury.
+9 Is Julie in the uranus? 	yes	4
+10 Bill is in the earth.
+11 Bill is in the saturn.
+12 Is Bill in the earth? 	no	11
+13 Bill travelled to the uranus.
+14 Mary is in the mars.
+15 Is Bill in the mars? 	no	13
+1 Fred is in the jupiter.
+2 Mary went back to the mars.
+3 Is Fred in the saturn? 	no	1
+4 Bill travelled to the saturn.
+5 Mary is in the mercury.
+6 Is Mary in the mercury? 	yes	5
+7 Julie travelled to the uranus.
+8 Julie went back to the saturn.
+9 Is Julie in the saturn? 	yes	8
+10 Mary is in the uranus.
+11 Mary went to the mars.
+12 Is Mary in the mars? 	yes	11
+13 Bill is either in the mercury or the mercury.
+14 Fred travelled to the mercury.
+15 Is Mary in the uranus? 	no	11
+1 Bill went to the saturn.
+2 Bill is in the jupiter.
+3 Is Bill in the jupiter? 	yes	2
+4 Fred is in the uranus.
+5 Fred went to the mercury.
+6 Is Fred in the mercury? 	yes	5
+7 Julie travelled to the saturn.
+8 Fred is in the earth.
+9 Is Fred in the mercury? 	no	8
+10 Mary travelled to the jupiter.
+11 Mary moved to the earth.
+12 Is Mary in the mercury? 	no	11
+13 Mary is either in the jupiter or the mercury.
+14 Fred is either in the uranus or the earth.
+15 Is Fred in the saturn? 	no	14
+1 Fred is either in the earth or the earth.
+2 Julie went back to the uranus.
+3 Is Julie in the uranus? 	yes	2
+4 Julie journeyed to the mars.
+5 Julie is in the earth.
+6 Is Julie in the earth? 	yes	5
+7 Fred is either in the uranus or the earth.
+8 Julie is in the mars.
+9 Is Fred in the uranus? 	maybe	7
+10 Julie went to the jupiter.
+11 Bill is either in the uranus or the mars.
+12 Is Bill in the mercury? 	no	11
+13 Fred is in the jupiter.
+14 Fred travelled to the mars.
+15 Is Bill in the uranus? 	maybe	11
+1 Julie went to the saturn.
+2 Julie moved to the jupiter.
+3 Is Julie in the jupiter? 	yes	2
+4 Fred went to the mars.
+5 Mary is either in the earth or the saturn.
+6 Is Julie in the saturn? 	no	2
+7 Bill is either in the uranus or the earth.
+8 Mary travelled to the jupiter.
+9 Is Mary in the uranus? 	no	8
+10 Fred moved to the uranus.
+11 Bill is either in the saturn or the uranus.
+12 Is Fred in the uranus? 	yes	10
+13 Julie is in the mars.
+14 Julie moved to the uranus.
+15 Is Bill in the saturn? 	maybe	11
+1 Fred is in the saturn.
+2 Julie is in the earth.
+3 Is Julie in the mercury? 	no	2
+4 Bill travelled to the uranus.
+5 Mary went to the uranus.
+6 Is Mary in the mars? 	no	5
+7 Fred journeyed to the earth.
+8 Julie journeyed to the saturn.
+9 Is Julie in the saturn? 	yes	8
+10 Mary travelled to the mars.
+11 Fred is in the mars.
+12 Is Mary in the mars? 	yes	10
+13 Mary is in the mercury.
+14 Julie is in the mars.
+15 Is Julie in the mercury? 	no	14
+1 Fred went to the mars.
+2 Bill went to the saturn.
+3 Is Fred in the mars? 	yes	1
+4 Mary travelled to the mars.
+5 Fred is in the mercury.
+6 Is Fred in the mercury? 	yes	5
+7 Fred is either in the uranus or the uranus.
+8 Mary is in the uranus.
+9 Is Fred in the earth? 	no	7
+10 Mary is either in the saturn or the uranus.
+11 Fred is in the earth.
+12 Is Fred in the uranus? 	no	11
+13 Julie is either in the uranus or the mars.
+14 Mary journeyed to the mars.
+15 Is Mary in the mars? 	yes	14
+1 Fred is in the earth.
+2 Bill is in the jupiter.
+3 Is Fred in the saturn? 	no	1
+4 Julie is in the saturn.
+5 Bill is in the mercury.
+6 Is Fred in the mercury? 	no	1
+7 Julie moved to the uranus.
+8 Fred is either in the mars or the mars.
+9 Is Julie in the mercury? 	no	7
+10 Mary moved to the mercury.
+11 Mary is either in the saturn or the uranus.
+12 Is Mary in the mercury? 	no	11
+13 Mary is either in the jupiter or the saturn.
+14 Bill went to the jupiter.
+15 Is Mary in the jupiter? 	maybe	13
+1 Fred journeyed to the uranus.
+2 Bill is in the jupiter.
+3 Is Fred in the uranus? 	yes	1
+4 Fred travelled to the mercury.
+5 Julie went to the mars.
+6 Is Julie in the earth? 	no	5
+7 Fred went to the mars.
+8 Bill went to the saturn.
+9 Is Julie in the mars? 	yes	5
+10 Fred journeyed to the earth.
+11 Julie is in the saturn.
+12 Is Julie in the uranus? 	no	11
+13 Bill moved to the uranus.
+14 Julie moved to the jupiter.
+15 Is Fred in the earth? 	yes	10
+1 Julie is in the earth.
+2 Mary is in the mars.
+3 Is Julie in the earth? 	yes	1
+4 Fred is in the saturn.
+5 Fred moved to the mars.
+6 Is Fred in the jupiter? 	no	5
+7 Bill moved to the uranus.
+8 Fred is either in the jupiter or the jupiter.
+9 Is Fred in the jupiter? 	maybe	8
+10 Bill went to the jupiter.
+11 Julie moved to the mars.
+12 Is Fred in the jupiter? 	maybe	8
+13 Julie moved to the mercury.
+14 Mary went back to the uranus.
+15 Is Bill in the mercury? 	no	10
+1 Bill travelled to the earth.
+2 Fred is in the mars.
+3 Is Bill in the earth? 	yes	1
+4 Julie is in the saturn.
+5 Julie travelled to the mars.
+6 Is Bill in the mercury? 	no	1
+7 Julie is either in the uranus or the uranus.
+8 Bill went to the jupiter.
+9 Is Julie in the uranus? 	maybe	7
+10 Bill went to the uranus.
+11 Julie moved to the earth.
+12 Is Bill in the mars? 	no	10
+13 Fred went to the mercury.
+14 Mary is in the mercury.
+15 Is Mary in the mercury? 	yes	14
+1 Mary is in the uranus.
+2 Julie went to the earth.
+3 Is Julie in the earth? 	yes	2
+4 Julie is in the uranus.
+5 Fred went to the saturn.
+6 Is Julie in the mars? 	no	4
+7 Fred went to the jupiter.
+8 Fred is either in the uranus or the mercury.
+9 Is Fred in the uranus? 	maybe	8
+10 Julie moved to the saturn.
+11 Fred is in the mars.
+12 Is Julie in the uranus? 	no	10
+13 Bill went back to the earth.
+14 Fred is either in the jupiter or the jupiter.
+15 Is Fred in the jupiter? 	maybe	14
+1 Fred journeyed to the uranus.
+2 Bill is in the mercury.
+3 Is Fred in the earth? 	no	1
+4 Julie went back to the jupiter.
+5 Julie travelled to the saturn.
+6 Is Fred in the uranus? 	yes	1
+7 Fred travelled to the jupiter.
+8 Julie moved to the uranus.
+9 Is Julie in the uranus? 	yes	8
+10 Bill went to the uranus.
+11 Bill is either in the mercury or the uranus.
+12 Is Julie in the earth? 	no	8
+13 Fred went back to the earth.
+14 Mary travelled to the uranus.
+15 Is Mary in the uranus? 	yes	14
+1 Bill went back to the earth.
+2 Mary went back to the earth.
+3 Is Bill in the mercury? 	no	1
+4 Bill is in the saturn.
+5 Bill is in the mars.
+6 Is Bill in the mars? 	yes	5
+7 Bill is in the uranus.
+8 Fred moved to the jupiter.
+9 Is Fred in the mercury? 	no	8
+10 Bill is in the earth.
+11 Julie is either in the mercury or the mars.
+12 Is Bill in the saturn? 	no	10
+13 Mary is in the mercury.
+14 Julie journeyed to the mars.
+15 Is Mary in the jupiter? 	no	13
+1 Bill is either in the saturn or the mercury.
+2 Julie is in the mercury.
+3 Is Bill in the saturn? 	maybe	1
+4 Julie is in the mars.
+5 Mary is in the uranus.
+6 Is Bill in the mercury? 	maybe	1
+7 Julie is in the jupiter.
+8 Fred journeyed to the earth.
+9 Is Julie in the jupiter? 	yes	7
+10 Fred journeyed to the mars.
+11 Bill is in the uranus.
+12 Is Julie in the jupiter? 	yes	7
+13 Fred moved to the uranus.
+14 Fred moved to the mercury.
+15 Is Fred in the mercury? 	yes	14
+1 Bill went to the saturn.
+2 Fred is either in the uranus or the jupiter.
+3 Is Bill in the saturn? 	yes	1
+4 Bill travelled to the mercury.
+5 Bill is either in the jupiter or the uranus.
+6 Is Bill in the jupiter? 	maybe	5
+7 Bill went to the saturn.
+8 Mary is in the jupiter.
+9 Is Bill in the mercury? 	no	7
+10 Mary is either in the saturn or the uranus.
+11 Fred is either in the mercury or the earth.
+12 Is Mary in the saturn? 	maybe	10
+13 Bill is either in the mercury or the jupiter.
+14 Mary is either in the jupiter or the earth.
+15 Is Mary in the mars? 	no	14
+1 Bill went back to the mars.
+2 Julie is either in the uranus or the earth.
+3 Is Bill in the mars? 	yes	1
+4 Bill travelled to the jupiter.
+5 Bill is either in the uranus or the earth.
+6 Is Julie in the earth? 	maybe	2
+7 Mary is in the saturn.
+8 Julie journeyed to the jupiter.
+9 Is Julie in the jupiter? 	yes	8
+10 Fred went back to the jupiter.
+11 Bill is either in the uranus or the jupiter.
+12 Is Mary in the saturn? 	yes	7
+13 Mary went to the earth.
+14 Julie is either in the earth or the earth.
+15 Is Julie in the mercury? 	no	14
+1 Mary moved to the uranus.
+2 Bill went to the mercury.
+3 Is Mary in the uranus? 	yes	1
+4 Julie went back to the saturn.
+5 Julie is in the mercury.
+6 Is Bill in the uranus? 	no	2
+7 Bill is either in the uranus or the mars.
+8 Julie is in the jupiter.
+9 Is Bill in the uranus? 	maybe	7
+10 Bill went back to the jupiter.
+11 Julie is either in the mars or the earth.
+12 Is Julie in the mars? 	maybe	11
+13 Fred is either in the jupiter or the mercury.
+14 Mary is either in the mars or the mercury.
+15 Is Julie in the mars? 	maybe	11
+1 Bill is in the mercury.
+2 Bill is in the mars.
+3 Is Bill in the mars? 	yes	2
+4 Mary is either in the jupiter or the mars.
+5 Julie is either in the mercury or the uranus.
+6 Is Julie in the uranus? 	maybe	5
+7 Fred travelled to the earth.
+8 Julie went back to the saturn.
+9 Is Julie in the saturn? 	yes	8
+10 Julie went to the mars.
+11 Bill travelled to the mercury.
+12 Is Julie in the uranus? 	no	10
+13 Bill is either in the mars or the jupiter.
+14 Julie moved to the saturn.
+15 Is Bill in the earth? 	no	13
+1 Julie is either in the earth or the mercury.
+2 Bill journeyed to the mercury.
+3 Is Bill in the mercury? 	yes	2
+4 Bill is in the jupiter.
+5 Julie went to the uranus.
+6 Is Julie in the saturn? 	no	5
+7 Julie travelled to the jupiter.
+8 Mary is in the uranus.
+9 Is Bill in the saturn? 	no	4
+10 Mary is in the saturn.
+11 Bill is either in the jupiter or the mars.
+12 Is Mary in the mars? 	no	10
+13 Fred travelled to the jupiter.
+14 Mary went back to the mars.
+15 Is Mary in the mars? 	yes	14
+1 Fred moved to the jupiter.
+2 Julie journeyed to the saturn.
+3 Is Julie in the saturn? 	yes	2
+4 Mary is either in the jupiter or the earth.
+5 Mary is either in the jupiter or the mercury.
+6 Is Mary in the uranus? 	no	5
+7 Fred is in the saturn.
+8 Bill is in the mercury.
+9 Is Bill in the earth? 	no	8
+10 Julie travelled to the mercury.
+11 Bill is either in the jupiter or the uranus.
+12 Is Fred in the mercury? 	no	7
+13 Bill went to the mars.
+14 Bill travelled to the earth.
+15 Is Bill in the uranus? 	no	14
+1 Mary went to the uranus.
+2 Fred travelled to the uranus.
+3 Is Fred in the uranus? 	yes	2
+4 Julie travelled to the jupiter.
+5 Mary moved to the mars.
+6 Is Julie in the jupiter? 	yes	4
+7 Mary is either in the saturn or the earth.
+8 Fred moved to the mercury.
+9 Is Mary in the earth? 	maybe	7
+10 Fred is either in the uranus or the earth.
+11 Bill is in the mars.
+12 Is Bill in the mars? 	yes	11
+13 Julie is in the mercury.
+14 Fred is in the jupiter.
+15 Is Julie in the mercury? 	yes	13
+1 Bill went back to the mars.
+2 Bill is in the jupiter.
+3 Is Bill in the jupiter? 	yes	2
+4 Julie moved to the mars.
+5 Bill is either in the saturn or the mars.
+6 Is Julie in the saturn? 	no	4
+7 Fred went back to the saturn.
+8 Mary is either in the jupiter or the mars.
+9 Is Julie in the mars? 	yes	4
+10 Bill is either in the mercury or the earth.
+11 Julie went to the mercury.
+12 Is Bill in the mercury? 	maybe	10
+13 Fred is in the mercury.
+14 Mary journeyed to the uranus.
+15 Is Mary in the uranus? 	yes	14
+1 Fred moved to the uranus.
+2 Bill is either in the saturn or the mercury.
+3 Is Bill in the saturn? 	maybe	2
+4 Bill moved to the earth.
+5 Mary went back to the uranus.
+6 Is Bill in the saturn? 	no	4
+7 Bill is in the mercury.
+8 Julie moved to the jupiter.
+9 Is Bill in the mercury? 	yes	7
+10 Bill is either in the earth or the saturn.
+11 Bill moved to the mars.
+12 Is Bill in the earth? 	no	11
+13 Mary went to the jupiter.
+14 Fred is either in the saturn or the mars.
+15 Is Bill in the mars? 	yes	11
+1 Fred is either in the uranus or the saturn.
+2 Bill went to the mars.
+3 Is Fred in the saturn? 	maybe	1
+4 Fred is either in the earth or the jupiter.
+5 Bill is either in the jupiter or the mercury.
+6 Is Fred in the earth? 	maybe	4
+7 Mary is in the jupiter.
+8 Mary journeyed to the uranus.
+9 Is Bill in the mars? 	no	5
+10 Fred moved to the uranus.
+11 Bill is in the mars.
+12 Is Mary in the uranus? 	yes	8
+13 Fred went to the earth.
+14 Mary is either in the earth or the earth.
+15 Is Fred in the saturn? 	no	13
+1 Fred travelled to the mars.
+2 Bill is either in the jupiter or the uranus.
+3 Is Fred in the mars? 	yes	1
+4 Mary journeyed to the jupiter.
+5 Bill is either in the uranus or the jupiter.
+6 Is Mary in the jupiter? 	yes	4
+7 Julie moved to the mercury.
+8 Julie is in the saturn.
+9 Is Julie in the saturn? 	yes	8
+10 Fred is in the saturn.
+11 Mary went back to the saturn.
+12 Is Julie in the uranus? 	no	8
+13 Bill is either in the mars or the saturn.
+14 Julie travelled to the uranus.
+15 Is Mary in the mercury? 	no	11
+1 Bill is in the saturn.
+2 Julie went back to the saturn.
+3 Is Julie in the earth? 	no	2
+4 Bill moved to the uranus.
+5 Bill is either in the mars or the saturn.
+6 Is Bill in the saturn? 	maybe	5
+7 Bill is either in the earth or the mars.
+8 Julie travelled to the mercury.
+9 Is Julie in the mercury? 	yes	8
+10 Julie is either in the jupiter or the uranus.
+11 Julie went to the mars.
+12 Is Bill in the uranus? 	no	7
+13 Fred travelled to the mercury.
+14 Julie is either in the jupiter or the uranus.
+15 Is Julie in the earth? 	no	14
+1 Fred is either in the mercury or the earth.
+2 Mary is either in the uranus or the jupiter.
+3 Is Fred in the mercury? 	maybe	1
+4 Mary is in the mercury.
+5 Bill is either in the saturn or the jupiter.
+6 Is Fred in the mercury? 	maybe	1
+7 Bill travelled to the uranus.
+8 Mary went to the jupiter.
+9 Is Mary in the jupiter? 	yes	8
+10 Julie moved to the mars.
+11 Mary is in the uranus.
+12 Is Mary in the earth? 	no	11
+13 Fred is either in the jupiter or the jupiter.
+14 Julie is either in the mars or the saturn.
+15 Is Mary in the uranus? 	yes	11
+1 Julie travelled to the saturn.
+2 Bill went back to the mercury.
+3 Is Bill in the mercury? 	yes	2
+4 Bill journeyed to the uranus.
+5 Julie went to the mars.
+6 Is Bill in the uranus? 	yes	4
+7 Bill journeyed to the jupiter.
+8 Fred went back to the mercury.
+9 Is Julie in the mars? 	yes	5
+10 Bill travelled to the mars.
+11 Mary moved to the earth.
+12 Is Mary in the earth? 	yes	11
+13 Mary is in the saturn.
+14 Julie is in the jupiter.
+15 Is Bill in the uranus? 	no	10
+1 Bill is in the mars.
+2 Mary is in the uranus.
+3 Is Bill in the mars? 	yes	1
+4 Fred travelled to the mars.
+5 Fred went to the jupiter.
+6 Is Fred in the jupiter? 	yes	5
+7 Julie travelled to the saturn.
+8 Bill is either in the saturn or the mars.
+9 Is Fred in the jupiter? 	yes	5
+10 Julie travelled to the earth.
+11 Bill is either in the mars or the jupiter.
+12 Is Julie in the earth? 	yes	10
+13 Julie moved to the mars.
+14 Julie is either in the uranus or the saturn.
+15 Is Julie in the earth? 	no	14
+1 Bill went to the saturn.
+2 Mary is either in the mercury or the mercury.
+3 Is Mary in the mars? 	no	2
+4 Bill travelled to the uranus.
+5 Julie moved to the mercury.
+6 Is Bill in the saturn? 	no	4
+7 Julie is in the earth.
+8 Mary moved to the saturn.
+9 Is Julie in the earth? 	yes	7
+10 Julie travelled to the jupiter.
+11 Fred is either in the earth or the saturn.
+12 Is Julie in the jupiter? 	yes	10
+13 Julie is in the saturn.
+14 Fred is in the mercury.
+15 Is Mary in the saturn? 	yes	8
+1 Bill is either in the mars or the saturn.
+2 Julie went back to the saturn.
+3 Is Bill in the mars? 	maybe	1
+4 Fred journeyed to the earth.
+5 Mary travelled to the saturn.
+6 Is Mary in the saturn? 	yes	5
+7 Mary went to the earth.
+8 Bill is in the mars.
+9 Is Julie in the saturn? 	yes	2
+10 Mary travelled to the saturn.
+11 Bill is either in the uranus or the saturn.
+12 Is Bill in the saturn? 	maybe	11
+13 Mary is in the mercury.
+14 Fred went back to the saturn.
+15 Is Fred in the saturn? 	yes	14
+1 Bill journeyed to the mercury.
+2 Bill is in the earth.
+3 Is Bill in the mercury? 	no	2
+4 Julie went to the mercury.
+5 Julie is either in the saturn or the earth.
+6 Is Bill in the earth? 	yes	2
+7 Mary journeyed to the jupiter.
+8 Bill is either in the saturn or the saturn.
+9 Is Julie in the earth? 	maybe	5
+10 Fred is either in the jupiter or the earth.
+11 Mary is in the mercury.
+12 Is Julie in the jupiter? 	no	5
+13 Fred is either in the uranus or the saturn.
+14 Fred went to the jupiter.
+15 Is Fred in the jupiter? 	yes	14
+1 Mary journeyed to the saturn.
+2 Mary went back to the mars.
+3 Is Mary in the mercury? 	no	2
+4 Mary is in the earth.
+5 Bill is either in the uranus or the mars.
+6 Is Mary in the earth? 	yes	4
+7 Bill went back to the mercury.
+8 Julie is either in the jupiter or the mars.
+9 Is Bill in the mercury? 	yes	7
+10 Bill is either in the uranus or the earth.
+11 Bill is in the mars.
+12 Is Bill in the mars? 	yes	11
+13 Bill is in the jupiter.
+14 Mary is either in the mars or the jupiter.
+15 Is Bill in the mars? 	no	13
+1 Julie is either in the saturn or the uranus.
+2 Fred went back to the uranus.
+3 Is Julie in the saturn? 	maybe	1
+4 Julie went back to the mars.
+5 Bill is either in the earth or the earth.
+6 Is Julie in the mars? 	yes	4
+7 Fred is either in the mars or the earth.
+8 Fred is in the jupiter.
+9 Is Fred in the jupiter? 	yes	8
+10 Bill is in the jupiter.
+11 Fred is either in the earth or the jupiter.
+12 Is Fred in the earth? 	maybe	11
+13 Bill moved to the uranus.
+14 Mary is in the mars.
+15 Is Bill in the mercury? 	no	13
+1 Julie is either in the earth or the earth.
+2 Julie is either in the mars or the jupiter.
+3 Is Julie in the saturn? 	no	2
+4 Mary is in the earth.
+5 Fred is either in the jupiter or the saturn.
+6 Is Julie in the saturn? 	no	2
+7 Mary went to the jupiter.
+8 Mary journeyed to the uranus.
+9 Is Fred in the saturn? 	maybe	5
+10 Bill is either in the uranus or the earth.
+11 Julie is either in the uranus or the mercury.
+12 Is Mary in the mercury? 	no	8
+13 Mary is in the mercury.
+14 Fred is either in the mars or the saturn.
+15 Is Mary in the earth? 	no	13
+1 Mary journeyed to the jupiter.
+2 Bill is in the mars.
+3 Is Bill in the uranus? 	no	2
+4 Fred is in the mars.
+5 Julie is either in the uranus or the earth.
+6 Is Fred in the mars? 	yes	4
+7 Fred is in the saturn.
+8 Bill is in the saturn.
+9 Is Julie in the earth? 	maybe	5
+10 Julie travelled to the jupiter.
+11 Mary went to the earth.
+12 Is Julie in the jupiter? 	yes	10
+13 Fred travelled to the mars.
+14 Bill is either in the mars or the earth.
+15 Is Bill in the earth? 	maybe	14
+1 Fred is in the mars.
+2 Bill travelled to the mars.
+3 Is Fred in the uranus? 	no	1
+4 Mary is in the jupiter.
+5 Fred is either in the mercury or the saturn.
+6 Is Bill in the mars? 	yes	2
+7 Mary is in the saturn.
+8 Julie is either in the mercury or the uranus.
+9 Is Fred in the mars? 	no	5
+10 Julie is either in the jupiter or the earth.
+11 Julie is in the saturn.
+12 Is Fred in the jupiter? 	no	5
+13 Julie is either in the uranus or the earth.
+14 Mary is either in the uranus or the uranus.
+15 Is Julie in the earth? 	maybe	13
+1 Bill is in the jupiter.
+2 Bill journeyed to the uranus.
+3 Is Bill in the uranus? 	yes	2
+4 Fred travelled to the uranus.
+5 Fred is in the mercury.
+6 Is Fred in the mercury? 	yes	5
+7 Mary moved to the mercury.
+8 Bill travelled to the earth.
+9 Is Fred in the mercury? 	yes	5
+10 Fred went to the uranus.
+11 Mary is in the saturn.
+12 Is Bill in the uranus? 	no	8
+13 Julie is in the mercury.
+14 Fred journeyed to the jupiter.
+15 Is Fred in the earth? 	no	14
+1 Julie is either in the saturn or the earth.
+2 Fred travelled to the saturn.
+3 Is Julie in the earth? 	maybe	1
+4 Fred is in the jupiter.
+5 Julie is either in the mercury or the jupiter.
+6 Is Julie in the saturn? 	no	5
+7 Fred is in the saturn.
+8 Julie travelled to the jupiter.
+9 Is Fred in the uranus? 	no	7
+10 Bill is either in the saturn or the mars.
+11 Mary journeyed to the mercury.
+12 Is Fred in the saturn? 	yes	7
+13 Fred travelled to the jupiter.
+14 Julie is either in the mercury or the earth.
+15 Is Mary in the saturn? 	no	11
+1 Fred is in the uranus.
+2 Fred is either in the mars or the uranus.
+3 Is Fred in the mars? 	maybe	2
+4 Mary moved to the earth.
+5 Mary travelled to the mercury.
+6 Is Mary in the earth? 	no	5
+7 Julie journeyed to the jupiter.
+8 Bill is either in the uranus or the jupiter.
+9 Is Julie in the jupiter? 	yes	7
+10 Bill is in the mars.
+11 Mary is in the mars.
+12 Is Mary in the uranus? 	no	11
+13 Mary moved to the jupiter.
+14 Julie travelled to the mars.
+15 Is Mary in the mercury? 	no	13
+1 Julie is in the mars.
+2 Mary is either in the earth or the uranus.
+3 Is Mary in the saturn? 	no	2
+4 Mary is either in the jupiter or the uranus.
+5 Bill went back to the mars.
+6 Is Bill in the mars? 	yes	5
+7 Julie is in the mercury.
+8 Mary travelled to the earth.
+9 Is Mary in the earth? 	yes	8
+10 Mary is either in the jupiter or the saturn.
+11 Fred is either in the mercury or the mercury.
+12 Is Julie in the mercury? 	yes	7
+13 Julie went to the jupiter.
+14 Fred moved to the earth.
+15 Is Mary in the mars? 	no	10
+1 Fred is in the mercury.
+2 Bill is in the jupiter.
+3 Is Fred in the mars? 	no	1
+4 Mary went back to the uranus.
+5 Bill is in the mars.
+6 Is Fred in the earth? 	no	1
+7 Julie is either in the jupiter or the saturn.
+8 Fred went back to the saturn.
+9 Is Julie in the jupiter? 	maybe	7
+10 Bill went to the mercury.
+11 Fred is either in the uranus or the jupiter.
+12 Is Fred in the earth? 	no	11
+13 Bill is either in the saturn or the mars.
+14 Mary is either in the mars or the earth.
+15 Is Fred in the jupiter? 	maybe	11
+1 Bill is either in the mars or the earth.
+2 Julie journeyed to the saturn.
+3 Is Bill in the mars? 	maybe	1
+4 Julie is in the uranus.
+5 Bill is in the jupiter.
+6 Is Bill in the mars? 	no	5
+7 Mary moved to the mercury.
+8 Mary is in the mars.
+9 Is Mary in the mars? 	yes	8
+10 Bill is in the uranus.
+11 Bill is in the earth.
+12 Is Mary in the saturn? 	no	8
+13 Julie is in the jupiter.
+14 Mary went back to the mercury.
+15 Is Bill in the earth? 	yes	11
+1 Fred is in the earth.
+2 Mary moved to the saturn.
+3 Is Mary in the mercury? 	no	2
+4 Julie moved to the uranus.
+5 Fred journeyed to the uranus.
+6 Is Julie in the uranus? 	yes	4
+7 Mary is in the mercury.
+8 Julie is in the mercury.
+9 Is Mary in the mercury? 	yes	7
+10 Julie travelled to the uranus.
+11 Julie moved to the mercury.
+12 Is Julie in the mercury? 	yes	11
+13 Bill went to the saturn.
+14 Mary went back to the earth.
+15 Is Julie in the jupiter? 	no	11
+1 Mary went to the mercury.
+2 Fred is in the jupiter.
+3 Is Fred in the earth? 	no	2
+4 Julie travelled to the uranus.
+5 Julie went to the saturn.
+6 Is Fred in the jupiter? 	yes	2
+7 Julie is in the jupiter.
+8 Fred travelled to the mercury.
+9 Is Fred in the mercury? 	yes	8
+10 Fred moved to the mars.
+11 Fred journeyed to the uranus.
+12 Is Julie in the saturn? 	no	7
+13 Bill travelled to the uranus.
+14 Fred went to the saturn.
+15 Is Fred in the saturn? 	yes	14
+1 Fred went to the jupiter.
+2 Julie is either in the mars or the mercury.
+3 Is Fred in the earth? 	no	1
+4 Fred went to the mercury.
+5 Julie is in the saturn.
+6 Is Julie in the saturn? 	yes	5
+7 Julie is in the earth.
+8 Fred is either in the jupiter or the jupiter.
+9 Is Julie in the earth? 	yes	7
+10 Fred is in the earth.
+11 Mary journeyed to the uranus.
+12 Is Mary in the saturn? 	no	11
+13 Mary is either in the mars or the jupiter.
+14 Bill went to the uranus.
+15 Is Fred in the uranus? 	no	10
+1 Fred went to the uranus.
+2 Fred travelled to the mars.
+3 Is Fred in the mars? 	yes	2
+4 Fred went back to the uranus.
+5 Fred moved to the earth.
+6 Is Fred in the uranus? 	no	5
+7 Mary is in the jupiter.
+8 Mary is either in the mars or the mars.
+9 Is Mary in the uranus? 	no	8
+10 Julie went to the jupiter.
+11 Julie moved to the mercury.
+12 Is Mary in the mars? 	maybe	8
+13 Bill went back to the jupiter.
+14 Fred is in the mars.
+15 Is Mary in the mars? 	maybe	8
+1 Julie went back to the mercury.
+2 Bill travelled to the mars.
+3 Is Julie in the mercury? 	yes	1
+4 Fred moved to the earth.
+5 Julie went back to the mars.
+6 Is Julie in the saturn? 	no	5
+7 Mary is in the mars.
+8 Bill went back to the saturn.
+9 Is Mary in the mars? 	yes	7
+10 Mary is in the earth.
+11 Fred is either in the saturn or the jupiter.
+12 Is Fred in the jupiter? 	maybe	11
+13 Fred is in the saturn.
+14 Mary is either in the mercury or the mercury.
+15 Is Fred in the saturn? 	yes	13
+1 Fred is in the jupiter.
+2 Mary is in the saturn.
+3 Is Mary in the earth? 	no	2
+4 Fred went back to the earth.
+5 Mary is either in the jupiter or the uranus.
+6 Is Mary in the jupiter? 	maybe	5
+7 Fred went back to the uranus.
+8 Fred is either in the earth or the earth.
+9 Is Mary in the jupiter? 	maybe	5
+10 Bill journeyed to the uranus.
+11 Mary is either in the saturn or the mars.
+12 Is Mary in the saturn? 	maybe	11
+13 Fred is either in the mercury or the uranus.
+14 Bill is either in the mercury or the mercury.
+15 Is Fred in the uranus? 	maybe	13
+1 Bill is in the mars.
+2 Bill moved to the earth.
+3 Is Bill in the uranus? 	no	2
+4 Mary is in the saturn.
+5 Mary is either in the uranus or the mars.
+6 Is Bill in the earth? 	yes	2
+7 Julie travelled to the earth.
+8 Bill went to the jupiter.
+9 Is Mary in the mercury? 	no	5
+10 Julie moved to the mercury.
+11 Fred journeyed to the mercury.
+12 Is Bill in the jupiter? 	yes	8
+13 Fred is in the saturn.
+14 Mary is either in the jupiter or the earth.
+15 Is Bill in the jupiter? 	yes	8
+1 Julie moved to the mercury.
+2 Bill is either in the earth or the jupiter.
+3 Is Julie in the earth? 	no	1
+4 Bill moved to the jupiter.
+5 Fred is either in the uranus or the earth.
+6 Is Fred in the jupiter? 	no	5
+7 Julie is either in the mars or the saturn.
+8 Bill travelled to the uranus.
+9 Is Julie in the mars? 	maybe	7
+10 Mary is in the mercury.
+11 Mary is in the earth.
+12 Is Mary in the earth? 	yes	11
+13 Fred journeyed to the saturn.
+14 Bill is in the saturn.
+15 Is Mary in the uranus? 	no	11
+1 Mary is in the saturn.
+2 Julie travelled to the mars.
+3 Is Mary in the jupiter? 	no	1
+4 Julie is either in the earth or the earth.
+5 Bill travelled to the mercury.
+6 Is Julie in the saturn? 	no	4
+7 Julie journeyed to the saturn.
+8 Julie journeyed to the uranus.
+9 Is Julie in the uranus? 	yes	8
+10 Julie journeyed to the mars.
+11 Bill is in the uranus.
+12 Is Bill in the uranus? 	yes	11
+13 Bill is in the mars.
+14 Julie is in the jupiter.
+15 Is Bill in the uranus? 	no	13
+1 Bill is either in the earth or the earth.
+2 Fred travelled to the uranus.
+3 Is Fred in the uranus? 	yes	2
+4 Fred journeyed to the saturn.
+5 Julie journeyed to the mercury.
+6 Is Bill in the uranus? 	no	1
+7 Julie moved to the uranus.
+8 Bill travelled to the mercury.
+9 Is Julie in the uranus? 	yes	7
+10 Mary journeyed to the uranus.
+11 Bill went back to the jupiter.
+12 Is Julie in the uranus? 	yes	7
+13 Fred is either in the mars or the jupiter.
+14 Bill is in the uranus.
+15 Is Fred in the saturn? 	no	13
+1 Mary went to the saturn.
+2 Bill went to the mars.
+3 Is Bill in the earth? 	no	2
+4 Fred travelled to the mercury.
+5 Mary is in the mercury.
+6 Is Mary in the mercury? 	yes	5
+7 Mary moved to the earth.
+8 Mary journeyed to the mars.
+9 Is Fred in the mars? 	no	4
+10 Fred is in the jupiter.
+11 Julie is either in the mars or the saturn.
+12 Is Mary in the mars? 	yes	8
+13 Bill travelled to the earth.
+14 Bill moved to the uranus.
+15 Is Bill in the uranus? 	yes	14
+1 Mary is either in the mars or the jupiter.
+2 Bill moved to the mars.
+3 Is Mary in the jupiter? 	maybe	1
+4 Bill went back to the jupiter.
+5 Bill went back to the earth.
+6 Is Bill in the earth? 	yes	5
+7 Fred moved to the jupiter.
+8 Julie is either in the mercury or the mars.
+9 Is Bill in the mars? 	no	5
+10 Julie is in the uranus.
+11 Mary travelled to the mercury.
+12 Is Fred in the saturn? 	no	7
+13 Fred is in the mercury.
+14 Fred is in the uranus.
+15 Is Fred in the mercury? 	no	14
+1 Bill went to the mercury.
+2 Julie moved to the uranus.
+3 Is Bill in the mercury? 	yes	1
+4 Julie is either in the jupiter or the earth.
+5 Julie moved to the jupiter.
+6 Is Bill in the earth? 	no	1
+7 Bill went to the earth.
+8 Julie travelled to the mars.
+9 Is Bill in the jupiter? 	no	7
+10 Julie is in the mercury.
+11 Bill is either in the mars or the uranus.
+12 Is Bill in the jupiter? 	no	11
+13 Bill is in the jupiter.
+14 Fred went back to the jupiter.
+15 Is Julie in the mercury? 	yes	10
+1 Mary is in the mars.
+2 Mary went to the saturn.
+3 Is Mary in the mars? 	no	2
+4 Mary went back to the jupiter.
+5 Mary went to the mars.
+6 Is Mary in the uranus? 	no	5
+7 Mary is either in the jupiter or the earth.
+8 Mary is either in the mercury or the jupiter.
+9 Is Mary in the mercury? 	maybe	8
+10 Fred is in the jupiter.
+11 Mary went to the saturn.
+12 Is Mary in the jupiter? 	no	11
+13 Mary is in the mars.
+14 Julie moved to the mars.
+15 Is Mary in the mercury? 	no	13
+1 Julie is either in the earth or the mars.
+2 Fred is either in the mars or the earth.
+3 Is Julie in the uranus? 	no	1
+4 Mary travelled to the saturn.
+5 Bill is in the earth.
+6 Is Julie in the saturn? 	no	1
+7 Bill is in the uranus.
+8 Bill is either in the mars or the mars.
+9 Is Bill in the uranus? 	no	8
+10 Mary is either in the mercury or the mars.
+11 Mary is in the mars.
+12 Is Bill in the mars? 	maybe	8
+13 Mary is either in the mars or the saturn.
+14 Fred is in the uranus.
+15 Is Bill in the mars? 	maybe	8
+1 Mary went back to the mars.
+2 Julie is either in the mars or the mars.
+3 Is Mary in the earth? 	no	1
+4 Mary is either in the uranus or the jupiter.
+5 Julie travelled to the uranus.
+6 Is Mary in the saturn? 	no	4
+7 Fred is either in the saturn or the jupiter.
+8 Mary journeyed to the earth.
+9 Is Julie in the earth? 	no	5
+10 Julie is in the earth.
+11 Julie journeyed to the mars.
+12 Is Julie in the mars? 	yes	11
+13 Julie went back to the uranus.
+14 Julie moved to the earth.
+15 Is Julie in the uranus? 	no	14
+1 Fred is in the earth.
+2 Julie journeyed to the mars.
+3 Is Fred in the uranus? 	no	1
+4 Fred is either in the uranus or the saturn.
+5 Mary travelled to the mars.
+6 Is Mary in the mars? 	yes	5
+7 Bill is in the mercury.
+8 Fred travelled to the jupiter.
+9 Is Mary in the uranus? 	no	5
+10 Julie is in the mercury.
+11 Julie travelled to the mars.
+12 Is Mary in the mars? 	yes	5
+13 Julie journeyed to the jupiter.
+14 Bill is either in the mars or the mars.
+15 Is Julie in the jupiter? 	yes	13
+1 Fred moved to the mars.
+2 Bill moved to the mars.
+3 Is Fred in the mercury? 	no	1
+4 Fred journeyed to the saturn.
+5 Julie is either in the earth or the mercury.
+6 Is Fred in the mars? 	no	4
+7 Bill is either in the uranus or the saturn.
+8 Mary is in the mars.
+9 Is Bill in the mercury? 	no	7
+10 Bill went to the mercury.
+11 Bill is either in the saturn or the mars.
+12 Is Bill in the saturn? 	maybe	11
+13 Mary is in the uranus.
+14 Mary moved to the jupiter.
+15 Is Mary in the jupiter? 	yes	14
+1 Fred is in the mars.
+2 Mary went to the jupiter.
+3 Is Fred in the mars? 	yes	1
+4 Fred moved to the uranus.
+5 Mary moved to the mars.
+6 Is Mary in the mars? 	yes	5
+7 Bill is either in the saturn or the saturn.
+8 Bill is either in the uranus or the saturn.
+9 Is Fred in the mars? 	no	4
+10 Bill moved to the saturn.
+11 Fred moved to the earth.
+12 Is Fred in the mercury? 	no	11
+13 Fred moved to the mars.
+14 Fred is either in the saturn or the saturn.
+15 Is Fred in the mars? 	no	14
+1 Julie is in the saturn.
+2 Bill went to the mars.
+3 Is Julie in the mercury? 	no	1
+4 Mary is either in the mercury or the uranus.
+5 Fred is either in the uranus or the saturn.
+6 Is Fred in the uranus? 	maybe	5
+7 Fred is either in the saturn or the earth.
+8 Bill is either in the mars or the mercury.
+9 Is Fred in the mars? 	no	7
+10 Bill is in the earth.
+11 Fred is in the mars.
+12 Is Bill in the saturn? 	no	10
+13 Bill is in the mercury.
+14 Mary went back to the saturn.
+15 Is Fred in the mars? 	yes	11
+1 Bill journeyed to the mercury.
+2 Mary journeyed to the saturn.
+3 Is Bill in the mercury? 	yes	1
+4 Julie is in the earth.
+5 Mary moved to the uranus.
+6 Is Bill in the mercury? 	yes	1
+7 Bill moved to the earth.
+8 Julie moved to the uranus.
+9 Is Bill in the earth? 	yes	7
+10 Bill travelled to the mars.
+11 Julie is either in the earth or the jupiter.
+12 Is Julie in the earth? 	maybe	11
+13 Fred is either in the jupiter or the jupiter.
+14 Bill went back to the earth.
+15 Is Bill in the earth? 	yes	14
+1 Fred went back to the uranus.
+2 Bill journeyed to the jupiter.
+3 Is Fred in the uranus? 	yes	1
+4 Fred moved to the saturn.
+5 Julie journeyed to the jupiter.
+6 Is Fred in the saturn? 	yes	4
+7 Bill went to the earth.
+8 Mary moved to the mercury.
+9 Is Bill in the mercury? 	no	7
+10 Bill is either in the uranus or the uranus.
+11 Fred is in the uranus.
+12 Is Bill in the mars? 	no	10
+13 Bill is in the mars.
+14 Julie went back to the saturn.
+15 Is Julie in the saturn? 	yes	14
+1 Julie went to the uranus.
+2 Fred is in the uranus.
+3 Is Julie in the mercury? 	no	1
+4 Fred went to the saturn.
+5 Julie went to the jupiter.
+6 Is Julie in the earth? 	no	5
+7 Julie is either in the mars or the mercury.
+8 Bill went back to the mars.
+9 Is Fred in the earth? 	no	4
+10 Fred is in the mercury.
+11 Bill moved to the saturn.
+12 Is Bill in the saturn? 	yes	11
+13 Julie moved to the earth.
+14 Fred is in the earth.
+15 Is Fred in the earth? 	yes	14
+1 Fred went back to the jupiter.
+2 Mary moved to the mercury.
+3 Is Fred in the jupiter? 	yes	1
+4 Julie journeyed to the saturn.
+5 Julie is in the mars.
+6 Is Fred in the jupiter? 	yes	1
+7 Mary travelled to the saturn.
+8 Fred moved to the saturn.
+9 Is Mary in the mars? 	no	7
+10 Julie moved to the earth.
+11 Julie is in the mars.
+12 Is Julie in the uranus? 	no	11
+13 Julie moved to the earth.
+14 Julie is in the saturn.
+15 Is Julie in the saturn? 	yes	14
+1 Julie went back to the earth.
+2 Fred is in the saturn.
+3 Is Fred in the saturn? 	yes	2
+4 Julie is either in the mercury or the earth.
+5 Mary is in the uranus.
+6 Is Mary in the uranus? 	yes	5
+7 Mary is either in the mercury or the mercury.
+8 Mary is in the jupiter.
+9 Is Mary in the jupiter? 	yes	8
+10 Bill is either in the uranus or the jupiter.
+11 Bill is in the earth.
+12 Is Mary in the uranus? 	no	8
+13 Bill is either in the mercury or the uranus.
+14 Mary travelled to the saturn.
+15 Is Bill in the uranus? 	maybe	13
+1 Bill journeyed to the earth.
+2 Julie went back to the mercury.
+3 Is Bill in the earth? 	yes	1
+4 Fred went to the saturn.
+5 Fred is either in the earth or the mercury.
+6 Is Fred in the earth? 	maybe	5
+7 Fred is in the mercury.
+8 Bill is in the mars.
+9 Is Fred in the mars? 	no	7
+10 Mary is either in the mercury or the jupiter.
+11 Bill moved to the uranus.
+12 Is Fred in the mercury? 	yes	7
+13 Fred moved to the jupiter.
+14 Julie is either in the mercury or the mars.
+15 Is Mary in the mars? 	no	10
+1 Julie went to the saturn.
+2 Fred is in the mercury.
+3 Is Julie in the uranus? 	no	1
+4 Bill went back to the earth.
+5 Fred is in the earth.
+6 Is Julie in the jupiter? 	no	1
+7 Bill is either in the uranus or the uranus.
+8 Julie journeyed to the mars.
+9 Is Fred in the earth? 	yes	5
+10 Julie went to the jupiter.
+11 Fred journeyed to the jupiter.
+12 Is Fred in the jupiter? 	yes	11
+13 Bill is either in the earth or the jupiter.
+14 Fred is either in the mercury or the earth.
+15 Is Fred in the earth? 	maybe	14
+1 Bill moved to the saturn.
+2 Julie is in the uranus.
+3 Is Bill in the saturn? 	yes	1
+4 Mary went back to the uranus.
+5 Fred is either in the earth or the saturn.
+6 Is Julie in the saturn? 	no	2
+7 Bill is either in the saturn or the mercury.
+8 Fred went back to the jupiter.
+9 Is Fred in the jupiter? 	yes	8
+10 Fred is in the saturn.
+11 Fred travelled to the mercury.
+12 Is Fred in the jupiter? 	no	11
+13 Bill is either in the jupiter or the earth.
+14 Julie is in the earth.
+15 Is Bill in the uranus? 	no	13
+1 Mary journeyed to the uranus.
+2 Bill went back to the uranus.
+3 Is Mary in the uranus? 	yes	1
+4 Fred travelled to the jupiter.
+5 Julie travelled to the earth.
+6 Is Fred in the mercury? 	no	4
+7 Julie went to the jupiter.
+8 Fred is in the mars.
+9 Is Fred in the mars? 	yes	8
+10 Fred is in the jupiter.
+11 Fred is in the mercury.
+12 Is Julie in the earth? 	no	7
+13 Julie went to the earth.
+14 Bill is in the mars.
+15 Is Fred in the mercury? 	yes	11
+1 Fred is either in the saturn or the saturn.
+2 Mary is either in the jupiter or the mars.
+3 Is Fred in the saturn? 	maybe	1
+4 Fred is in the earth.
+5 Mary is in the saturn.
+6 Is Mary in the mercury? 	no	5
+7 Mary is in the mercury.
+8 Fred travelled to the mercury.
+9 Is Mary in the mercury? 	yes	7
+10 Bill is in the uranus.
+11 Mary journeyed to the earth.
+12 Is Fred in the mercury? 	yes	8
+13 Bill went back to the saturn.
+14 Bill is either in the earth or the earth.
+15 Is Mary in the mercury? 	no	11
+1 Mary journeyed to the mercury.
+2 Bill is in the uranus.
+3 Is Mary in the mercury? 	yes	1
+4 Bill is in the mars.
+5 Mary is in the saturn.
+6 Is Bill in the jupiter? 	no	4
+7 Julie is in the earth.
+8 Bill is in the uranus.
+9 Is Bill in the uranus? 	yes	8
+10 Fred went to the earth.
+11 Bill journeyed to the mars.
+12 Is Bill in the mars? 	yes	11
+13 Bill journeyed to the saturn.
+14 Mary is either in the uranus or the mars.
+15 Is Bill in the saturn? 	yes	13
+1 Fred went back to the mars.
+2 Fred travelled to the jupiter.
+3 Is Fred in the earth? 	no	2
+4 Fred is in the mars.
+5 Julie is either in the jupiter or the saturn.
+6 Is Fred in the mercury? 	no	4
+7 Bill went to the earth.
+8 Bill travelled to the jupiter.
+9 Is Fred in the uranus? 	no	4
+10 Fred journeyed to the mercury.
+11 Julie travelled to the saturn.
+12 Is Julie in the saturn? 	yes	11
+13 Mary is in the jupiter.
+14 Fred is in the jupiter.
+15 Is Bill in the saturn? 	no	8
+1 Fred is either in the jupiter or the saturn.
+2 Julie went back to the uranus.
+3 Is Fred in the jupiter? 	maybe	1
+4 Fred is either in the mars or the mercury.
+5 Julie is in the mercury.
+6 Is Julie in the earth? 	no	5
+7 Mary travelled to the mercury.
+8 Bill moved to the mars.
+9 Is Bill in the earth? 	no	8
+10 Fred journeyed to the saturn.
+11 Julie is in the earth.
+12 Is Mary in the mercury? 	yes	7
+13 Fred is in the jupiter.
+14 Fred is in the uranus.
+15 Is Fred in the uranus? 	yes	14
+1 Julie went to the uranus.
+2 Bill journeyed to the earth.
+3 Is Bill in the uranus? 	no	2
+4 Fred moved to the mars.
+5 Mary is in the mercury.
+6 Is Bill in the saturn? 	no	2
+7 Mary is in the jupiter.
+8 Mary journeyed to the mars.
+9 Is Mary in the mars? 	yes	8
+10 Mary is either in the jupiter or the jupiter.
+11 Bill is in the mercury.
+12 Is Mary in the jupiter? 	maybe	10
+13 Fred went back to the uranus.
+14 Bill is either in the saturn or the earth.
+15 Is Bill in the earth? 	maybe	14
+1 Fred is either in the mars or the mars.
+2 Mary is either in the mercury or the uranus.
+3 Is Fred in the mercury? 	no	1
+4 Julie is either in the jupiter or the uranus.
+5 Fred went back to the uranus.
+6 Is Fred in the uranus? 	yes	5
+7 Bill is either in the mars or the saturn.
+8 Mary is either in the earth or the saturn.
+9 Is Mary in the earth? 	maybe	8
+10 Mary travelled to the uranus.
+11 Fred went back to the jupiter.
+12 Is Fred in the saturn? 	no	11
+13 Bill went back to the jupiter.
+14 Bill went to the mars.
+15 Is Fred in the jupiter? 	yes	11
+1 Fred is either in the uranus or the mars.
+2 Julie is in the mars.
+3 Is Julie in the jupiter? 	no	2
+4 Fred is either in the uranus or the mercury.
+5 Mary went back to the jupiter.
+6 Is Mary in the mars? 	no	5
+7 Bill is either in the saturn or the mars.
+8 Fred went to the jupiter.
+9 Is Bill in the mars? 	maybe	7
+10 Mary is in the mercury.
+11 Fred went back to the mars.
+12 Is Fred in the mars? 	yes	11
+13 Bill went back to the uranus.
+14 Bill is in the earth.
+15 Is Bill in the earth? 	yes	14
+1 Fred is either in the mercury or the mars.
+2 Julie is in the jupiter.
+3 Is Fred in the uranus? 	no	1
+4 Mary is in the mars.
+5 Mary went to the jupiter.
+6 Is Mary in the mars? 	no	5
+7 Mary travelled to the mercury.
+8 Julie travelled to the mercury.
+9 Is Mary in the jupiter? 	no	7
+10 Fred went back to the jupiter.
+11 Fred journeyed to the saturn.
+12 Is Mary in the mercury? 	yes	7
+13 Mary moved to the jupiter.
+14 Fred went to the mars.
+15 Is Mary in the earth? 	no	13
+1 Bill is in the mars.
+2 Fred moved to the mercury.
+3 Is Fred in the mercury? 	yes	2
+4 Bill went to the mercury.
+5 Julie is either in the mercury or the saturn.
+6 Is Julie in the earth? 	no	5
+7 Mary journeyed to the mars.
+8 Julie moved to the jupiter.
+9 Is Fred in the mercury? 	yes	2
+10 Mary is in the mercury.
+11 Julie is in the saturn.
+12 Is Julie in the jupiter? 	no	11
+13 Bill moved to the mars.
+14 Fred is either in the saturn or the jupiter.
+15 Is Julie in the uranus? 	no	11
+1 Mary went to the saturn.
+2 Bill is either in the uranus or the jupiter.
+3 Is Mary in the saturn? 	yes	1
+4 Fred journeyed to the jupiter.
+5 Bill moved to the mercury.
+6 Is Bill in the uranus? 	no	5
+7 Mary travelled to the earth.
+8 Mary journeyed to the mercury.
+9 Is Bill in the uranus? 	no	5
+10 Julie is in the mars.
+11 Julie is either in the saturn or the saturn.
+12 Is Mary in the mercury? 	yes	8
+13 Fred journeyed to the uranus.
+14 Bill is either in the earth or the earth.
+15 Is Bill in the earth? 	maybe	14
+1 Bill is in the mars.
+2 Julie is in the mars.
+3 Is Julie in the mars? 	yes	2
+4 Bill is either in the earth or the saturn.
+5 Mary is in the uranus.
+6 Is Mary in the mercury? 	no	5
+7 Bill went to the jupiter.
+8 Mary is either in the mercury or the mercury.
+9 Is Bill in the mars? 	no	7
+10 Julie went back to the saturn.
+11 Fred went to the earth.
+12 Is Mary in the uranus? 	no	8
+13 Bill journeyed to the earth.
+14 Fred is either in the earth or the mercury.
+15 Is Fred in the mars? 	no	14
+1 Mary is either in the jupiter or the jupiter.
+2 Julie is either in the saturn or the mars.
+3 Is Julie in the mercury? 	no	2
+4 Bill journeyed to the earth.
+5 Fred is in the saturn.
+6 Is Fred in the saturn? 	yes	5
+7 Bill is in the mercury.
+8 Bill went back to the uranus.
+9 Is Bill in the uranus? 	yes	8
+10 Julie is either in the jupiter or the jupiter.
+11 Julie is either in the uranus or the earth.
+12 Is Julie in the mercury? 	no	11
+13 Mary went back to the uranus.
+14 Mary is in the earth.
+15 Is Julie in the earth? 	maybe	11
+1 Bill travelled to the earth.
+2 Mary is in the uranus.
+3 Is Mary in the uranus? 	yes	2
+4 Julie is in the jupiter.
+5 Mary went to the mercury.
+6 Is Bill in the earth? 	yes	1
+7 Julie is in the earth.
+8 Julie travelled to the mars.
+9 Is Julie in the mercury? 	no	8
+10 Julie journeyed to the earth.
+11 Mary is either in the jupiter or the saturn.
+12 Is Mary in the saturn? 	maybe	11
+13 Mary went back to the earth.
+14 Fred journeyed to the mars.
+15 Is Julie in the earth? 	yes	10
+1 Fred is in the jupiter.
+2 Fred journeyed to the mars.
+3 Is Fred in the saturn? 	no	2
+4 Fred is in the jupiter.
+5 Fred is in the uranus.
+6 Is Fred in the uranus? 	yes	5
+7 Bill travelled to the saturn.
+8 Mary travelled to the mars.
+9 Is Fred in the jupiter? 	no	5
+10 Fred moved to the mars.
+11 Mary went to the jupiter.
+12 Is Fred in the mars? 	yes	10
+13 Fred is either in the mercury or the uranus.
+14 Bill is in the uranus.
+15 Is Mary in the jupiter? 	yes	11
+1 Bill went to the saturn.
+2 Fred journeyed to the saturn.
+3 Is Fred in the saturn? 	yes	2
+4 Julie is in the saturn.
+5 Mary is in the earth.
+6 Is Fred in the saturn? 	yes	2
+7 Bill moved to the uranus.
+8 Julie went back to the mercury.
+9 Is Bill in the uranus? 	yes	7
+10 Bill journeyed to the mars.
+11 Mary went to the saturn.
+12 Is Bill in the mars? 	yes	10
+13 Fred moved to the uranus.
+14 Mary went to the uranus.
+15 Is Fred in the uranus? 	yes	13
+1 Bill travelled to the jupiter.
+2 Fred moved to the jupiter.
+3 Is Fred in the mars? 	no	2
+4 Julie moved to the jupiter.
+5 Julie travelled to the saturn.
+6 Is Bill in the uranus? 	no	1
+7 Fred is either in the jupiter or the saturn.
+8 Fred moved to the mars.
+9 Is Julie in the saturn? 	yes	5
+10 Bill is in the mars.
+11 Fred is either in the uranus or the saturn.
+12 Is Julie in the saturn? 	yes	5
+13 Fred is either in the jupiter or the earth.
+14 Fred is in the mercury.
+15 Is Fred in the saturn? 	no	14
+1 Fred is either in the uranus or the mars.
+2 Mary travelled to the earth.
+3 Is Fred in the uranus? 	maybe	1
+4 Bill moved to the mercury.
+5 Mary is in the uranus.
+6 Is Mary in the uranus? 	yes	5
+7 Fred is in the earth.
+8 Julie is either in the jupiter or the mars.
+9 Is Bill in the earth? 	no	4
+10 Julie is either in the saturn or the uranus.
+11 Bill moved to the mars.
+12 Is Julie in the jupiter? 	no	10
+13 Julie is either in the mercury or the saturn.
+14 Fred is either in the mercury or the jupiter.
+15 Is Julie in the mars? 	no	13
+1 Julie travelled to the jupiter.
+2 Julie journeyed to the mercury.
+3 Is Julie in the mercury? 	yes	2
+4 Julie is in the earth.
+5 Fred is either in the mercury or the jupiter.
+6 Is Fred in the uranus? 	no	5
+7 Mary went back to the mercury.
+8 Mary moved to the earth.
+9 Is Julie in the earth? 	yes	4
+10 Bill is either in the saturn or the mercury.
+11 Bill journeyed to the mars.
+12 Is Mary in the earth? 	yes	8
+13 Mary is in the uranus.
+14 Julie went to the mercury.
+15 Is Mary in the uranus? 	yes	13
+1 Julie travelled to the saturn.
+2 Fred is in the mercury.
+3 Is Fred in the jupiter? 	no	2
+4 Mary is either in the mercury or the jupiter.
+5 Mary is either in the mercury or the uranus.
+6 Is Mary in the mercury? 	maybe	5
+7 Julie travelled to the jupiter.
+8 Bill travelled to the earth.
+9 Is Julie in the jupiter? 	yes	7
+10 Julie travelled to the saturn.
+11 Bill went to the jupiter.
+12 Is Julie in the saturn? 	yes	10
+13 Fred is in the uranus.
+14 Fred is in the mercury.
+15 Is Bill in the uranus? 	no	11
+1 Bill is either in the uranus or the mars.
+2 Mary is either in the uranus or the earth.
+3 Is Bill in the saturn? 	no	1
+4 Bill is in the mars.
+5 Julie moved to the saturn.
+6 Is Bill in the mars? 	yes	4
+7 Fred is either in the jupiter or the uranus.
+8 Mary went to the jupiter.
+9 Is Bill in the mars? 	yes	4
+10 Fred moved to the jupiter.
+11 Bill is either in the earth or the mercury.
+12 Is Fred in the uranus? 	no	10
+13 Mary went back to the earth.
+14 Mary journeyed to the saturn.
+15 Is Mary in the saturn? 	yes	14
+1 Fred travelled to the saturn.
+2 Fred is in the mercury.
+3 Is Fred in the mercury? 	yes	2
+4 Bill travelled to the saturn.
+5 Fred went to the earth.
+6 Is Fred in the mars? 	no	5
+7 Bill moved to the jupiter.
+8 Mary travelled to the mercury.
+9 Is Fred in the saturn? 	no	5
+10 Fred is in the mercury.
+11 Mary journeyed to the uranus.
+12 Is Fred in the mercury? 	yes	10
+13 Julie is either in the earth or the jupiter.
+14 Julie is either in the jupiter or the mercury.
+15 Is Fred in the mercury? 	yes	10
+1 Fred is in the earth.
+2 Fred is in the mercury.
+3 Is Fred in the mars? 	no	2
+4 Bill moved to the uranus.
+5 Bill is in the mercury.
+6 Is Bill in the mars? 	no	5
+7 Bill is in the saturn.
+8 Mary is in the mercury.
+9 Is Bill in the saturn? 	yes	7
+10 Bill went back to the jupiter.
+11 Bill went to the mercury.
+12 Is Bill in the jupiter? 	no	11
+13 Mary is either in the saturn or the mars.
+14 Julie is in the mercury.
+15 Is Bill in the mercury? 	yes	11
+1 Fred is in the earth.
+2 Fred is either in the jupiter or the saturn.
+3 Is Fred in the jupiter? 	maybe	2
+4 Julie is either in the earth or the earth.
+5 Julie is either in the mercury or the mercury.
+6 Is Julie in the mars? 	no	5
+7 Fred is in the uranus.
+8 Fred is either in the saturn or the uranus.
+9 Is Fred in the mars? 	no	8
+10 Fred travelled to the uranus.
+11 Fred is in the earth.
+12 Is Fred in the earth? 	yes	11
+13 Fred is in the saturn.
+14 Mary is either in the mars or the earth.
+15 Is Fred in the saturn? 	yes	13
+1 Mary moved to the uranus.
+2 Bill journeyed to the jupiter.
+3 Is Mary in the saturn? 	no	1
+4 Fred is either in the jupiter or the earth.
+5 Fred is either in the uranus or the mercury.
+6 Is Mary in the uranus? 	yes	1
+7 Julie is in the uranus.
+8 Bill went back to the earth.
+9 Is Bill in the earth? 	yes	8
+10 Julie went back to the jupiter.
+11 Julie is in the earth.
+12 Is Julie in the earth? 	yes	11
+13 Fred journeyed to the saturn.
+14 Fred is either in the mars or the mars.
+15 Is Bill in the saturn? 	no	8
+1 Mary is in the uranus.
+2 Fred is in the uranus.
+3 Is Mary in the uranus? 	yes	1
+4 Mary is either in the earth or the uranus.
+5 Mary is either in the mercury or the mercury.
+6 Is Mary in the jupiter? 	no	5
+7 Mary is in the saturn.
+8 Mary travelled to the jupiter.
+9 Is Mary in the jupiter? 	yes	8
+10 Fred is in the mercury.
+11 Bill went to the saturn.
+12 Is Bill in the jupiter? 	no	11
+13 Bill journeyed to the uranus.
+14 Julie is in the earth.
+15 Is Bill in the mars? 	no	13
+1 Julie is in the uranus.
+2 Bill moved to the saturn.
+3 Is Bill in the jupiter? 	no	2
+4 Julie moved to the saturn.
+5 Bill went to the uranus.
+6 Is Julie in the uranus? 	no	4
+7 Julie journeyed to the uranus.
+8 Mary went to the mars.
+9 Is Julie in the uranus? 	yes	7
+10 Julie is either in the uranus or the mercury.
+11 Fred is either in the earth or the uranus.
+12 Is Julie in the mercury? 	maybe	10
+13 Fred went to the saturn.
+14 Julie travelled to the saturn.
+15 Is Mary in the saturn? 	no	8
+1 Mary is in the mercury.
+2 Fred is either in the uranus or the mars.
+3 Is Fred in the uranus? 	maybe	2
+4 Bill is in the uranus.
+5 Bill is either in the earth or the mars.
+6 Is Mary in the mercury? 	yes	1
+7 Bill is in the uranus.
+8 Fred is either in the mercury or the earth.
+9 Is Bill in the uranus? 	yes	7
+10 Mary moved to the jupiter.
+11 Mary is in the mars.
+12 Is Fred in the earth? 	maybe	8
+13 Julie moved to the mars.
+14 Fred is either in the saturn or the saturn.
+15 Is Mary in the earth? 	no	11
+1 Fred is in the saturn.
+2 Mary is either in the saturn or the jupiter.
+3 Is Mary in the saturn? 	maybe	2
+4 Julie went back to the saturn.
+5 Mary is either in the jupiter or the earth.
+6 Is Mary in the mars? 	no	5
+7 Mary went back to the mercury.
+8 Julie is either in the mars or the earth.
+9 Is Mary in the uranus? 	no	7
+10 Julie journeyed to the earth.
+11 Fred is either in the jupiter or the mars.
+12 Is Fred in the mars? 	maybe	11
+13 Mary travelled to the mars.
+14 Fred is either in the uranus or the saturn.
+15 Is Fred in the mars? 	no	14
+1 Julie is either in the earth or the mars.
+2 Mary journeyed to the uranus.
+3 Is Julie in the earth? 	maybe	1
+4 Julie is either in the earth or the mars.
+5 Fred is either in the saturn or the earth.
+6 Is Julie in the mars? 	maybe	4
+7 Julie went to the uranus.
+8 Bill is in the earth.
+9 Is Mary in the jupiter? 	no	2
+10 Mary went back to the saturn.
+11 Julie journeyed to the earth.
+12 Is Bill in the earth? 	yes	8
+13 Fred is either in the saturn or the jupiter.
+14 Bill journeyed to the saturn.
+15 Is Bill in the saturn? 	yes	14
+1 Mary is either in the jupiter or the uranus.
+2 Mary is in the earth.
+3 Is Mary in the jupiter? 	no	2
+4 Fred is in the mars.
+5 Fred travelled to the mercury.
+6 Is Fred in the mercury? 	yes	5
+7 Mary is in the mercury.
+8 Fred is either in the uranus or the mars.
+9 Is Mary in the mars? 	no	7
+10 Bill is in the mars.
+11 Mary is either in the saturn or the uranus.
+12 Is Fred in the mercury? 	no	8
+13 Fred is in the jupiter.
+14 Mary went back to the jupiter.
+15 Is Fred in the jupiter? 	yes	13
+1 Mary journeyed to the uranus.
+2 Mary journeyed to the mars.
+3 Is Mary in the jupiter? 	no	2
+4 Julie went to the jupiter.
+5 Bill journeyed to the earth.
+6 Is Mary in the mars? 	yes	2
+7 Bill is in the mercury.
+8 Bill is either in the mars or the uranus.
+9 Is Bill in the uranus? 	maybe	8
+10 Mary moved to the uranus.
+11 Fred went to the uranus.
+12 Is Mary in the saturn? 	no	10
+13 Mary went back to the saturn.
+14 Bill is either in the mercury or the mercury.
+15 Is Mary in the saturn? 	yes	13
+1 Julie is in the jupiter.
+2 Mary went back to the uranus.
+3 Is Mary in the jupiter? 	no	2
+4 Fred went to the uranus.
+5 Fred journeyed to the earth.
+6 Is Fred in the earth? 	yes	5
+7 Mary moved to the mars.
+8 Mary went back to the mercury.
+9 Is Fred in the earth? 	yes	5
+10 Bill travelled to the mercury.
+11 Julie travelled to the saturn.
+12 Is Julie in the uranus? 	no	11
+13 Julie is in the mercury.
+14 Fred travelled to the mercury.
+15 Is Julie in the mercury? 	yes	13
+1 Fred moved to the jupiter.
+2 Mary went to the saturn.
+3 Is Fred in the jupiter? 	yes	1
+4 Julie journeyed to the uranus.
+5 Julie went to the jupiter.
+6 Is Mary in the mars? 	no	2
+7 Bill moved to the uranus.
+8 Bill is in the mercury.
+9 Is Mary in the saturn? 	yes	2
+10 Julie is in the uranus.
+11 Bill went back to the uranus.
+12 Is Bill in the uranus? 	yes	11
+13 Fred is either in the mars or the earth.
+14 Fred journeyed to the earth.
+15 Is Bill in the jupiter? 	no	11
+1 Julie moved to the mercury.
+2 Fred is either in the mars or the mars.
+3 Is Fred in the mars? 	maybe	2
+4 Fred went to the mercury.
+5 Fred travelled to the mars.
+6 Is Fred in the mercury? 	no	5
+7 Fred is in the jupiter.
+8 Mary is either in the mars or the mercury.
+9 Is Fred in the saturn? 	no	7
+10 Fred journeyed to the uranus.
+11 Julie went back to the saturn.
+12 Is Fred in the mercury? 	no	10
+13 Fred is in the mars.
+14 Fred is in the saturn.
+15 Is Mary in the mars? 	maybe	8
+1 Mary is in the mercury.
+2 Julie travelled to the saturn.
+3 Is Julie in the earth? 	no	2
+4 Fred went to the saturn.
+5 Mary is either in the earth or the uranus.
+6 Is Julie in the saturn? 	yes	2
+7 Julie is either in the jupiter or the earth.
+8 Fred is either in the mars or the mars.
+9 Is Fred in the uranus? 	no	8
+10 Julie is either in the uranus or the saturn.
+11 Julie travelled to the jupiter.
+12 Is Mary in the earth? 	maybe	5
+13 Fred is either in the earth or the jupiter.
+14 Mary journeyed to the uranus.
+15 Is Julie in the jupiter? 	yes	11
+1 Bill is in the jupiter.
+2 Fred is either in the uranus or the mercury.
+3 Is Bill in the earth? 	no	1
+4 Bill journeyed to the uranus.
+5 Fred went back to the mars.
+6 Is Fred in the mercury? 	no	5
+7 Fred went to the jupiter.
+8 Bill is in the earth.
+9 Is Bill in the earth? 	yes	8
+10 Mary is either in the earth or the saturn.
+11 Fred is in the mars.
+12 Is Bill in the saturn? 	no	8
+13 Fred is either in the saturn or the uranus.
+14 Julie is in the uranus.
+15 Is Mary in the earth? 	maybe	10
+1 Fred travelled to the mars.
+2 Mary travelled to the uranus.
+3 Is Fred in the earth? 	no	1
+4 Bill went back to the earth.
+5 Bill is either in the saturn or the uranus.
+6 Is Mary in the jupiter? 	no	2
+7 Bill moved to the mars.
+8 Fred journeyed to the earth.
+9 Is Fred in the saturn? 	no	8
+10 Julie is either in the saturn or the earth.
+11 Bill is in the saturn.
+12 Is Bill in the mercury? 	no	11
+13 Mary journeyed to the mercury.
+14 Julie journeyed to the earth.
+15 Is Mary in the mercury? 	yes	13
+1 Mary is in the mars.
+2 Bill moved to the uranus.
+3 Is Mary in the mars? 	yes	1
+4 Julie is either in the mars or the jupiter.
+5 Mary moved to the earth.
+6 Is Mary in the saturn? 	no	5
+7 Mary is either in the mercury or the mercury.
+8 Bill went back to the earth.
+9 Is Bill in the earth? 	yes	8
+10 Bill is either in the jupiter or the saturn.
+11 Fred journeyed to the earth.
+12 Is Bill in the saturn? 	maybe	10
+13 Julie is in the earth.
+14 Fred is either in the mercury or the jupiter.
+15 Is Julie in the jupiter? 	no	13
+1 Julie journeyed to the mercury.
+2 Mary is in the mercury.
+3 Is Mary in the mercury? 	yes	2
+4 Julie went to the saturn.
+5 Mary went to the saturn.
+6 Is Julie in the mercury? 	no	4
+7 Fred is in the earth.
+8 Fred went to the jupiter.
+9 Is Mary in the mercury? 	no	5
+10 Julie went to the mars.
+11 Bill went to the uranus.
+12 Is Bill in the uranus? 	yes	11
+13 Bill is in the earth.
+14 Mary is either in the uranus or the mars.
+15 Is Fred in the mars? 	no	8
+1 Mary moved to the saturn.
+2 Bill is in the saturn.
+3 Is Bill in the saturn? 	yes	2
+4 Fred is in the earth.
+5 Julie journeyed to the mercury.
+6 Is Julie in the mercury? 	yes	5
+7 Julie is either in the uranus or the mercury.
+8 Julie is either in the mars or the jupiter.
+9 Is Julie in the uranus? 	no	8
+10 Fred is in the saturn.
+11 Bill went to the uranus.
+12 Is Julie in the jupiter? 	maybe	8
+13 Julie moved to the uranus.
+14 Bill is in the mars.
+15 Is Julie in the saturn? 	no	13
+1 Fred went to the earth.
+2 Mary is either in the uranus or the earth.
+3 Is Fred in the uranus? 	no	1
+4 Bill travelled to the earth.
+5 Fred went back to the jupiter.
+6 Is Fred in the mars? 	no	5
+7 Julie travelled to the earth.
+8 Mary is in the saturn.
+9 Is Mary in the saturn? 	yes	8
+10 Fred travelled to the mercury.
+11 Bill is either in the uranus or the saturn.
+12 Is Fred in the mercury? 	yes	10
+13 Fred is either in the earth or the uranus.
+14 Fred journeyed to the jupiter.
+15 Is Fred in the jupiter? 	yes	14
+1 Fred journeyed to the saturn.
+2 Bill is either in the earth or the saturn.
+3 Is Fred in the saturn? 	yes	1
+4 Bill travelled to the jupiter.
+5 Julie moved to the saturn.
+6 Is Bill in the mars? 	no	4
+7 Bill journeyed to the uranus.
+8 Fred journeyed to the uranus.
+9 Is Bill in the mars? 	no	7
+10 Fred went back to the mars.
+11 Julie is either in the uranus or the uranus.
+12 Is Julie in the jupiter? 	no	11
+13 Bill travelled to the saturn.
+14 Julie is in the saturn.
+15 Is Julie in the mercury? 	no	14
+1 Mary is in the saturn.
+2 Julie travelled to the jupiter.
+3 Is Julie in the mars? 	no	2
+4 Julie went back to the uranus.
+5 Mary went to the jupiter.
+6 Is Mary in the jupiter? 	yes	5
+7 Fred is in the mercury.
+8 Julie is either in the mars or the earth.
+9 Is Julie in the earth? 	maybe	8
+10 Fred is in the mars.
+11 Bill is in the mercury.
+12 Is Julie in the saturn? 	no	8
+13 Julie is either in the jupiter or the mercury.
+14 Julie went back to the mars.
+15 Is Julie in the mars? 	yes	14
+1 Mary is either in the uranus or the jupiter.
+2 Mary is either in the jupiter or the jupiter.
+3 Is Mary in the saturn? 	no	2
+4 Mary journeyed to the mars.
+5 Bill journeyed to the mercury.
+6 Is Mary in the jupiter? 	no	4
+7 Julie moved to the earth.
+8 Julie is either in the mars or the uranus.
+9 Is Bill in the mercury? 	yes	5
+10 Julie moved to the mercury.
+11 Mary travelled to the mercury.
+12 Is Bill in the mercury? 	yes	5
+13 Julie is either in the mars or the earth.
+14 Julie went to the mars.
+15 Is Julie in the earth? 	no	14
+1 Julie moved to the jupiter.
+2 Fred went to the earth.
+3 Is Fred in the earth? 	yes	2
+4 Fred travelled to the jupiter.
+5 Julie is in the saturn.
+6 Is Fred in the jupiter? 	yes	4
+7 Mary went to the mars.
+8 Fred journeyed to the mercury.
+9 Is Mary in the mercury? 	no	7
+10 Bill moved to the saturn.
+11 Mary is either in the saturn or the saturn.
+12 Is Julie in the mercury? 	no	5
+13 Mary is either in the earth or the uranus.
+14 Bill journeyed to the mars.
+15 Is Bill in the mars? 	yes	14
+1 Julie is either in the uranus or the earth.
+2 Julie is either in the mercury or the saturn.
+3 Is Julie in the saturn? 	maybe	2
+4 Bill is in the saturn.
+5 Bill is either in the jupiter or the jupiter.
+6 Is Bill in the jupiter? 	maybe	5
+7 Mary travelled to the saturn.
+8 Bill went to the uranus.
+9 Is Bill in the saturn? 	no	8
+10 Fred journeyed to the saturn.
+11 Julie moved to the mars.
+12 Is Fred in the saturn? 	yes	10
+13 Fred is either in the jupiter or the jupiter.
+14 Bill moved to the saturn.
+15 Is Bill in the saturn? 	yes	14
+1 Fred is either in the mars or the jupiter.
+2 Julie is in the mercury.
+3 Is Julie in the saturn? 	no	2
+4 Bill went back to the mars.
+5 Fred is either in the mercury or the mars.
+6 Is Fred in the mars? 	maybe	5
+7 Bill moved to the jupiter.
+8 Bill is in the mars.
+9 Is Bill in the mercury? 	no	8
+10 Julie is in the mars.
+11 Julie is in the jupiter.
+12 Is Fred in the mars? 	maybe	5
+13 Fred is either in the uranus or the uranus.
+14 Julie went back to the uranus.
+15 Is Julie in the uranus? 	yes	14
+1 Mary is either in the uranus or the jupiter.
+2 Julie is either in the uranus or the jupiter.
+3 Is Mary in the uranus? 	maybe	1
+4 Mary journeyed to the saturn.
+5 Mary is in the earth.
+6 Is Julie in the uranus? 	maybe	2
+7 Julie travelled to the saturn.
+8 Bill is either in the uranus or the saturn.
+9 Is Julie in the saturn? 	yes	7
+10 Bill moved to the uranus.
+11 Fred is in the saturn.
+12 Is Julie in the mars? 	no	7
+13 Mary is either in the mars or the uranus.
+14 Fred is in the mercury.
+15 Is Fred in the mercury? 	yes	14
+1 Bill went back to the jupiter.
+2 Julie journeyed to the mars.
+3 Is Julie in the mars? 	yes	2
+4 Mary went back to the mars.
+5 Julie is in the earth.
+6 Is Bill in the saturn? 	no	1
+7 Mary journeyed to the saturn.
+8 Bill went to the uranus.
+9 Is Julie in the earth? 	yes	5
+10 Fred is either in the mars or the saturn.
+11 Bill went to the earth.
+12 Is Fred in the saturn? 	maybe	10
+13 Mary is either in the mercury or the jupiter.
+14 Fred is either in the mars or the mars.
+15 Is Mary in the jupiter? 	maybe	13
+1 Mary is either in the saturn or the mercury.
+2 Fred is in the mars.
+3 Is Mary in the mars? 	no	1
+4 Bill moved to the uranus.
+5 Bill is either in the earth or the mars.
+6 Is Bill in the mars? 	maybe	5
+7 Bill is in the uranus.
+8 Fred is in the jupiter.
+9 Is Bill in the earth? 	no	7
+10 Julie is in the mars.
+11 Julie is in the earth.
+12 Is Bill in the uranus? 	yes	7
+13 Fred moved to the saturn.
+14 Mary went to the mars.
+15 Is Fred in the saturn? 	yes	13
+1 Julie is in the saturn.
+2 Bill went back to the jupiter.
+3 Is Bill in the jupiter? 	yes	2
+4 Fred is in the saturn.
+5 Mary went back to the earth.
+6 Is Bill in the jupiter? 	yes	2
+7 Julie went back to the uranus.
+8 Bill is in the saturn.
+9 Is Bill in the saturn? 	yes	8
+10 Fred is in the jupiter.
+11 Bill is in the mars.
+12 Is Bill in the saturn? 	no	11
+13 Mary went back to the mars.
+14 Fred is in the earth.
+15 Is Fred in the uranus? 	no	14
+1 Mary went back to the mars.
+2 Julie travelled to the jupiter.
+3 Is Julie in the jupiter? 	yes	2
+4 Mary is either in the earth or the uranus.
+5 Julie moved to the mars.
+6 Is Julie in the mercury? 	no	5
+7 Julie journeyed to the uranus.
+8 Julie is in the earth.
+9 Is Julie in the earth? 	yes	8
+10 Bill travelled to the mars.
+11 Bill is either in the uranus or the mars.
+12 Is Bill in the uranus? 	maybe	11
+13 Fred went to the uranus.
+14 Mary journeyed to the jupiter.
+15 Is Mary in the uranus? 	no	14
+1 Bill journeyed to the mars.
+2 Julie travelled to the uranus.
+3 Is Julie in the uranus? 	yes	2
+4 Fred is either in the saturn or the saturn.
+5 Fred is either in the mars or the saturn.
+6 Is Fred in the saturn? 	maybe	5
+7 Fred went back to the uranus.
+8 Julie is either in the saturn or the mercury.
+9 Is Julie in the mars? 	no	8
+10 Julie is either in the mars or the earth.
+11 Bill journeyed to the saturn.
+12 Is Julie in the mars? 	maybe	10
+13 Bill is in the earth.
+14 Bill is in the mars.
+15 Is Julie in the earth? 	maybe	10

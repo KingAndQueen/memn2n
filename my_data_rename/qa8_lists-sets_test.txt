@@ -1,0 +1,3710 @@
+1 Doud got the milk there.
+2 Colliani moved to the bedroom.
+3 What is Doud carrying? 	milk	1
+4 Colliani picked up the football there.
+5 Colliani journeyed to the bathroom.
+6 What is Colliani carrying? 	football	4
+7 Colliani went to the garden.
+8 Conn went back to the hallway.
+9 What is Colliani carrying? 	football	4
+10 Colliani went back to the bathroom.
+11 Doud went to the office.
+12 Burnhard went back to the kitchen.
+13 Doud travelled to the hallway.
+14 Colliani travelled to the bedroom.
+15 Colliani picked up the apple there.
+16 What is Colliani carrying? 	football,apple	4 15
+17 Burnhard travelled to the bedroom.
+18 Burnhard journeyed to the kitchen.
+19 What is Colliani carrying? 	football,apple	4 15
+1 Conn grabbed the milk there.
+2 Burnhard went back to the bathroom.
+3 What is Conn carrying? 	milk	1
+4 Conn went back to the garden.
+5 Conn dropped the milk.
+6 What is Conn carrying? 	nothing	1 5
+7 Colliani travelled to the bedroom.
+8 Burnhard journeyed to the bedroom.
+9 What is Conn carrying? 	nothing	1 5
+10 Conn journeyed to the bedroom.
+11 Colliani went to the bathroom.
+12 What is Conn carrying? 	nothing	1 5
+13 Colliani travelled to the kitchen.
+14 Burnhard went to the kitchen.
+15 Doud went back to the bedroom.
+16 Colliani journeyed to the office.
+17 Colliani moved to the garden.
+18 Colliani grabbed the milk there.
+19 What is Colliani carrying? 	milk	18
+1 Doud grabbed the milk there.
+2 Conn moved to the bedroom.
+3 What is Doud carrying? 	milk	1
+4 Colliani travelled to the bedroom.
+5 Conn grabbed the apple there.
+6 What is Conn carrying? 	apple	5
+7 Conn discarded the apple.
+8 Colliani went back to the garden.
+9 What is Conn carrying? 	nothing	5 7
+10 Conn went back to the office.
+11 Doud travelled to the garden.
+12 What is Conn carrying? 	nothing	5 7
+13 Doud journeyed to the hallway.
+14 Conn went to the hallway.
+15 Colliani went to the bathroom.
+16 Colliani went back to the kitchen.
+17 Doud discarded the milk there.
+18 Burnhard grabbed the milk there.
+19 What is Doud carrying? 	nothing	1 17
+1 Doud went to the kitchen.
+2 Conn took the football there.
+3 What is Conn carrying? 	football	2
+4 Conn dropped the football.
+5 Burnhard grabbed the milk there.
+6 What is Conn carrying? 	nothing	2 4
+7 Doud travelled to the garden.
+8 Conn went back to the bedroom.
+9 What is Burnhard carrying? 	milk	5
+10 Burnhard discarded the milk.
+11 Burnhard grabbed the milk there.
+12 What is Burnhard carrying? 	milk	5 10 11
+13 Doud moved to the bedroom.
+14 Colliani got the apple there.
+15 What is Burnhard carrying? 	milk	5 10 11
+1 Burnhard travelled to the garden.
+2 Doud grabbed the milk there.
+3 What is Doud carrying? 	milk	2
+4 Colliani moved to the hallway.
+5 Colliani went back to the garden.
+6 What is Doud carrying? 	milk	2
+7 Conn went to the hallway.
+8 Burnhard journeyed to the hallway.
+9 What is Doud carrying? 	milk	2
+10 Conn took the football there.
+11 Conn journeyed to the bathroom.
+12 What is Conn carrying? 	football	10
+13 Conn journeyed to the hallway.
+14 Doud put down the milk.
+15 What is Conn carrying? 	football	10
+1 Burnhard travelled to the bathroom.
+2 Conn picked up the apple there.
+3 What is Conn carrying? 	apple	2
+4 Burnhard picked up the football there.
+5 Doud travelled to the hallway.
+6 What is Burnhard carrying? 	football	4
+7 Burnhard dropped the football.
+8 Burnhard moved to the bedroom.
+9 What is Burnhard carrying? 	nothing	4 7
+10 Conn dropped the apple.
+11 Doud grabbed the apple there.
+12 What is Conn carrying? 	nothing	2 10
+13 Burnhard went to the office.
+14 Conn travelled to the bathroom.
+15 What is Conn carrying? 	nothing	2 10
+1 Burnhard went to the kitchen.
+2 Colliani moved to the bathroom.
+3 Colliani journeyed to the office.
+4 Burnhard travelled to the garden.
+5 Burnhard went to the bathroom.
+6 Burnhard grabbed the football there.
+7 What is Burnhard carrying? 	football	6
+8 Conn took the milk there.
+9 Burnhard dropped the football there.
+10 What is Conn carrying? 	milk	8
+11 Colliani got the apple there.
+12 Doud went to the bathroom.
+13 What is Conn carrying? 	milk	8
+14 Colliani put down the apple there.
+15 Conn left the milk there.
+16 What is Colliani carrying? 	nothing	11 14
+17 Doud grabbed the football there.
+18 Doud left the football.
+19 What is Conn carrying? 	nothing	8 15
+1 Burnhard grabbed the milk there.
+2 Burnhard went back to the office.
+3 What is Burnhard carrying? 	milk	1
+4 Conn journeyed to the hallway.
+5 Burnhard went back to the garden.
+6 What is Burnhard carrying? 	milk	1
+7 Doud journeyed to the garden.
+8 Conn travelled to the bathroom.
+9 Doud travelled to the kitchen.
+10 Burnhard travelled to the office.
+11 Colliani travelled to the office.
+12 Burnhard discarded the milk there.
+13 What is Burnhard carrying? 	nothing	1 12
+14 Doud got the apple there.
+15 Doud went back to the office.
+16 What is Burnhard carrying? 	nothing	1 12
+17 Doud took the football there.
+18 Colliani picked up the milk there.
+19 What is Burnhard carrying? 	nothing	1 12
+1 Doud moved to the bedroom.
+2 Burnhard got the milk there.
+3 What is Burnhard carrying? 	milk	2
+4 Burnhard moved to the bathroom.
+5 Burnhard went back to the garden.
+6 What is Burnhard carrying? 	milk	2
+7 Burnhard went back to the bathroom.
+8 Burnhard went back to the garden.
+9 What is Burnhard carrying? 	milk	2
+10 Burnhard travelled to the hallway.
+11 Doud journeyed to the hallway.
+12 Colliani moved to the bathroom.
+13 Doud travelled to the kitchen.
+14 Doud travelled to the bathroom.
+15 Doud went back to the office.
+16 Colliani got the football there.
+17 Burnhard discarded the milk.
+18 What is Burnhard carrying? 	nothing	2 17
+19 Burnhard travelled to the bathroom.
+20 Burnhard got the apple there.
+21 What is Burnhard carrying? 	apple	2 17 20
+1 Burnhard went to the garden.
+2 Conn went back to the office.
+3 Colliani journeyed to the bathroom.
+4 Burnhard moved to the bathroom.
+5 Burnhard journeyed to the bedroom.
+6 Colliani went to the hallway.
+7 Conn grabbed the apple there.
+8 Burnhard travelled to the bathroom.
+9 What is Conn carrying? 	apple	7
+10 Colliani went to the kitchen.
+11 Burnhard journeyed to the bedroom.
+12 What is Conn carrying? 	apple	7
+13 Conn went to the kitchen.
+14 Conn moved to the bedroom.
+15 Doud went to the office.
+16 Conn moved to the garden.
+17 Conn grabbed the milk there.
+18 Doud went to the kitchen.
+19 What is Conn carrying? 	apple,milk	7 17
+20 Conn moved to the kitchen.
+21 Doud went back to the bathroom.
+22 What is Conn carrying? 	apple,milk	7 17
+23 Colliani journeyed to the garden.
+24 Colliani picked up the football there.
+25 What is Colliani carrying? 	football	24
+1 Conn travelled to the garden.
+2 Burnhard went to the office.
+3 Colliani went to the garden.
+4 Colliani went back to the kitchen.
+5 Conn went to the bedroom.
+6 Conn moved to the office.
+7 Conn got the milk there.
+8 Conn put down the milk.
+9 What is Conn carrying? 	nothing	7 8
+10 Conn travelled to the garden.
+11 Doud went back to the garden.
+12 What is Conn carrying? 	nothing	7 8
+13 Burnhard went back to the garden.
+14 Conn journeyed to the bathroom.
+15 What is Conn carrying? 	nothing	7 8
+16 Colliani went to the hallway.
+17 Colliani journeyed to the bathroom.
+18 Burnhard journeyed to the bedroom.
+19 Colliani took the apple there.
+20 What is Colliani carrying? 	apple	19
+21 Burnhard got the football there.
+22 Burnhard left the football.
+23 What is Burnhard carrying? 	nothing	21 22
+1 Doud picked up the football there.
+2 Burnhard went to the hallway.
+3 What is Doud carrying? 	football	1
+4 Conn went to the office.
+5 Conn journeyed to the bathroom.
+6 What is Doud carrying? 	football	1
+7 Conn travelled to the hallway.
+8 Doud put down the football.
+9 What is Doud carrying? 	nothing	1 8
+10 Colliani went to the bathroom.
+11 Conn journeyed to the bathroom.
+12 What is Doud carrying? 	nothing	1 8
+13 Burnhard travelled to the garden.
+14 Conn moved to the hallway.
+15 What is Doud carrying? 	nothing	1 8
+1 Colliani moved to the garden.
+2 Burnhard went to the office.
+3 Conn moved to the bathroom.
+4 Doud took the milk there.
+5 What is Doud carrying? 	milk	4
+6 Conn journeyed to the garden.
+7 Doud went to the garden.
+8 What is Doud carrying? 	milk	4
+9 Burnhard took the apple there.
+10 Doud dropped the milk there.
+11 What is Doud carrying? 	nothing	4 10
+12 Colliani got the milk there.
+13 Burnhard journeyed to the kitchen.
+14 What is Colliani carrying? 	milk	12
+15 Colliani left the milk.
+16 Doud journeyed to the bedroom.
+17 What is Doud carrying? 	nothing	4 10
+1 Burnhard went back to the garden.
+2 Doud journeyed to the kitchen.
+3 Doud went back to the bedroom.
+4 Conn went to the hallway.
+5 Conn journeyed to the garden.
+6 Doud went to the hallway.
+7 Colliani travelled to the garden.
+8 Colliani went to the kitchen.
+9 Colliani travelled to the garden.
+10 Conn travelled to the kitchen.
+11 Burnhard journeyed to the kitchen.
+12 Burnhard grabbed the milk there.
+13 What is Burnhard carrying? 	milk	12
+14 Burnhard left the milk there.
+15 Doud travelled to the kitchen.
+16 What is Burnhard carrying? 	nothing	12 14
+17 Burnhard travelled to the hallway.
+18 Doud picked up the milk there.
+19 What is Burnhard carrying? 	nothing	12 14
+20 Doud dropped the milk.
+21 Conn got the milk there.
+22 What is Doud carrying? 	nothing	18 20
+23 Colliani journeyed to the bathroom.
+24 Conn went back to the bedroom.
+25 What is Doud carrying? 	nothing	18 20
+1 Burnhard took the milk there.
+2 Colliani got the apple there.
+3 What is Burnhard carrying? 	milk	1
+4 Burnhard went to the garden.
+5 Doud moved to the bathroom.
+6 What is Colliani carrying? 	apple	2
+7 Burnhard travelled to the bedroom.
+8 Doud travelled to the hallway.
+9 What is Colliani carrying? 	apple	2
+10 Burnhard moved to the hallway.
+11 Burnhard dropped the milk.
+12 What is Burnhard carrying? 	nothing	1 11
+13 Burnhard grabbed the milk there.
+14 Doud went to the garden.
+15 What is Burnhard carrying? 	milk	1 11 13
+1 Colliani journeyed to the bedroom.
+2 Burnhard went back to the office.
+3 Colliani got the apple there.
+4 Conn moved to the bathroom.
+5 What is Colliani carrying? 	apple	3
+6 Colliani discarded the apple.
+7 Doud went to the office.
+8 What is Colliani carrying? 	nothing	3 6
+9 Doud travelled to the hallway.
+10 Colliani grabbed the apple there.
+11 What is Colliani carrying? 	apple	3 6 10
+12 Colliani took the football there.
+13 Colliani journeyed to the office.
+14 What is Colliani carrying? 	apple,football	3 6 10 12
+15 Burnhard went to the bathroom.
+16 Colliani discarded the apple there.
+17 What is Colliani carrying? 	football	3 6 10 16 12
+1 Doud journeyed to the office.
+2 Doud went to the bathroom.
+3 Conn got the apple there.
+4 Colliani went to the hallway.
+5 What is Conn carrying? 	apple	3
+6 Doud grabbed the football there.
+7 Conn put down the apple.
+8 What is Doud carrying? 	football	6
+9 Conn got the apple there.
+10 Conn dropped the apple.
+11 What is Conn carrying? 	nothing	3 7 9 10
+12 Conn grabbed the apple there.
+13 Colliani went to the office.
+14 What is Conn carrying? 	apple	3 7 9 10 12
+15 Colliani travelled to the garden.
+16 Conn went to the bedroom.
+17 What is Conn carrying? 	apple	3 7 9 10 12
+1 Burnhard went back to the office.
+2 Burnhard took the milk there.
+3 What is Burnhard carrying? 	milk	2
+4 Conn went back to the kitchen.
+5 Burnhard went back to the bedroom.
+6 What is Burnhard carrying? 	milk	2
+7 Colliani grabbed the apple there.
+8 Burnhard put down the milk.
+9 What is Burnhard carrying? 	nothing	2 8
+10 Conn went back to the bedroom.
+11 Burnhard picked up the milk there.
+12 What is Burnhard carrying? 	milk	2 8 11
+13 Colliani moved to the office.
+14 Colliani journeyed to the hallway.
+15 What is Burnhard carrying? 	milk	2 8 11
+1 Burnhard travelled to the garden.
+2 Burnhard took the football there.
+3 What is Burnhard carrying? 	football	2
+4 Colliani travelled to the bathroom.
+5 Burnhard left the football.
+6 What is Burnhard carrying? 	nothing	2 5
+7 Doud moved to the bathroom.
+8 Doud journeyed to the bedroom.
+9 What is Burnhard carrying? 	nothing	2 5
+10 Doud travelled to the kitchen.
+11 Doud journeyed to the bedroom.
+12 What is Burnhard carrying? 	nothing	2 5
+13 Colliani went back to the bedroom.
+14 Burnhard took the football there.
+15 What is Burnhard carrying? 	football	2 5 14
+1 Conn took the milk there.
+2 Doud went back to the bedroom.
+3 What is Conn carrying? 	milk	1
+4 Colliani picked up the apple there.
+5 Colliani left the apple.
+6 What is Conn carrying? 	milk	1
+7 Conn discarded the milk.
+8 Colliani went back to the office.
+9 What is Conn carrying? 	nothing	1 7
+10 Doud went to the bathroom.
+11 Colliani went to the garden.
+12 What is Colliani carrying? 	nothing	4 5
+13 Colliani went back to the bathroom.
+14 Doud went back to the office.
+15 Doud moved to the bathroom.
+16 Conn journeyed to the office.
+17 Doud moved to the office.
+18 Colliani went back to the office.
+19 Conn went back to the hallway.
+20 Conn journeyed to the bedroom.
+21 Colliani moved to the hallway.
+22 Burnhard moved to the bathroom.
+23 Burnhard moved to the kitchen.
+24 Colliani got the apple there.
+25 What is Colliani carrying? 	apple	4 5 24
+1 Conn journeyed to the hallway.
+2 Doud travelled to the office.
+3 Colliani went back to the hallway.
+4 Burnhard picked up the apple there.
+5 What is Burnhard carrying? 	apple	4
+6 Colliani journeyed to the garden.
+7 Burnhard moved to the office.
+8 What is Burnhard carrying? 	apple	4
+9 Burnhard moved to the bathroom.
+10 Conn went to the garden.
+11 What is Burnhard carrying? 	apple	4
+12 Conn journeyed to the bedroom.
+13 Doud travelled to the hallway.
+14 Colliani travelled to the office.
+15 Colliani moved to the bathroom.
+16 Doud journeyed to the office.
+17 Colliani grabbed the milk there.
+18 What is Colliani carrying? 	milk	17
+19 Burnhard picked up the football there.
+20 Conn travelled to the hallway.
+21 What is Burnhard carrying? 	apple,football	4 19
+1 Conn went to the office.
+2 Colliani took the apple there.
+3 What is Colliani carrying? 	apple	2
+4 Burnhard journeyed to the bathroom.
+5 Colliani left the apple.
+6 What is Colliani carrying? 	nothing	2 5
+7 Conn moved to the kitchen.
+8 Colliani got the apple there.
+9 What is Colliani carrying? 	apple	2 5 8
+10 Conn went back to the bathroom.
+11 Colliani discarded the apple.
+12 What is Colliani carrying? 	nothing	2 5 8 11
+13 Conn travelled to the kitchen.
+14 Colliani moved to the garden.
+15 What is Colliani carrying? 	nothing	2 5 8 11
+1 Doud went back to the bedroom.
+2 Colliani travelled to the hallway.
+3 Doud journeyed to the office.
+4 Conn journeyed to the bathroom.
+5 Colliani moved to the office.
+6 Colliani moved to the kitchen.
+7 Doud travelled to the hallway.
+8 Conn got the football there.
+9 What is Conn carrying? 	football	8
+10 Conn dropped the football.
+11 Conn journeyed to the office.
+12 What is Conn carrying? 	nothing	8 10
+13 Doud journeyed to the office.
+14 Colliani journeyed to the bedroom.
+15 What is Conn carrying? 	nothing	8 10
+16 Conn journeyed to the hallway.
+17 Burnhard went to the office.
+18 Doud moved to the bedroom.
+19 Doud went to the office.
+20 Colliani journeyed to the hallway.
+21 Conn journeyed to the kitchen.
+22 Conn went back to the bathroom.
+23 Conn moved to the garden.
+24 Conn travelled to the bedroom.
+25 Conn went to the garden.
+26 Doud moved to the bedroom.
+27 Doud travelled to the garden.
+28 Conn moved to the kitchen.
+29 Conn went back to the office.
+30 Burnhard went to the bedroom.
+31 Conn moved to the hallway.
+32 Doud got the apple there.
+33 Burnhard went to the office.
+34 What is Doud carrying? 	apple	32
+35 Conn went back to the bedroom.
+36 Burnhard travelled to the hallway.
+37 What is Doud carrying? 	apple	32
+1 Burnhard picked up the football there.
+2 Colliani journeyed to the office.
+3 What is Burnhard carrying? 	football	1
+4 Burnhard went back to the kitchen.
+5 Colliani went back to the bedroom.
+6 What is Burnhard carrying? 	football	1
+7 Conn took the apple there.
+8 Burnhard dropped the football.
+9 What is Burnhard carrying? 	nothing	1 8
+10 Doud went back to the office.
+11 Conn travelled to the hallway.
+12 What is Burnhard carrying? 	nothing	1 8
+13 Conn discarded the apple.
+14 Colliani went to the kitchen.
+15 What is Conn carrying? 	nothing	7 13
+1 Doud went back to the bedroom.
+2 Conn travelled to the office.
+3 Burnhard moved to the bathroom.
+4 Burnhard journeyed to the garden.
+5 Colliani went to the kitchen.
+6 Doud went back to the office.
+7 Burnhard got the milk there.
+8 Doud took the apple there.
+9 What is Burnhard carrying? 	milk	7
+10 Conn moved to the hallway.
+11 Doud went back to the hallway.
+12 What is Doud carrying? 	apple	8
+13 Doud moved to the bedroom.
+14 Burnhard went to the office.
+15 What is Doud carrying? 	apple	8
+16 Doud discarded the apple.
+17 Colliani went to the hallway.
+18 What is Doud carrying? 	nothing	8 16
+19 Burnhard went to the kitchen.
+20 Burnhard moved to the bathroom.
+21 What is Doud carrying? 	nothing	8 16
+1 Burnhard took the apple there.
+2 Colliani went to the garden.
+3 What is Burnhard carrying? 	apple	1
+4 Conn journeyed to the garden.
+5 Burnhard discarded the apple.
+6 What is Burnhard carrying? 	nothing	1 5
+7 Burnhard took the apple there.
+8 Colliani journeyed to the kitchen.
+9 What is Burnhard carrying? 	apple	1 5 7
+10 Conn went back to the hallway.
+11 Colliani journeyed to the bedroom.
+12 What is Burnhard carrying? 	apple	1 5 7
+13 Burnhard went back to the bedroom.
+14 Conn went to the garden.
+15 Doud went to the office.
+16 Burnhard discarded the apple.
+17 What is Burnhard carrying? 	nothing	1 5 7 16
+1 Colliani journeyed to the garden.
+2 Doud went to the office.
+3 Conn moved to the hallway.
+4 Colliani journeyed to the kitchen.
+5 Colliani moved to the office.
+6 Burnhard journeyed to the garden.
+7 Conn went back to the garden.
+8 Conn journeyed to the kitchen.
+9 Doud went to the bedroom.
+10 Conn grabbed the milk there.
+11 What is Conn carrying? 	milk	10
+12 Burnhard went to the bedroom.
+13 Doud journeyed to the bathroom.
+14 What is Conn carrying? 	milk	10
+15 Colliani travelled to the bathroom.
+16 Colliani journeyed to the kitchen.
+17 What is Conn carrying? 	milk	10
+18 Conn journeyed to the bathroom.
+19 Conn moved to the bedroom.
+20 Conn put down the milk there.
+21 Burnhard picked up the apple there.
+22 What is Burnhard carrying? 	apple	21
+23 Doud went back to the office.
+24 Burnhard took the milk there.
+25 What is Conn carrying? 	nothing	10 20
+1 Burnhard took the apple there.
+2 Burnhard moved to the garden.
+3 What is Burnhard carrying? 	apple	1
+4 Colliani went back to the bedroom.
+5 Burnhard went to the bedroom.
+6 What is Burnhard carrying? 	apple	1
+7 Doud picked up the milk there.
+8 Colliani went back to the office.
+9 What is Doud carrying? 	milk	7
+10 Burnhard left the apple.
+11 Conn moved to the hallway.
+12 What is Doud carrying? 	milk	7
+13 Doud went back to the garden.
+14 Conn went back to the garden.
+15 What is Burnhard carrying? 	nothing	1 10
+1 Burnhard picked up the apple there.
+2 Colliani took the football there.
+3 What is Burnhard carrying? 	apple	1
+4 Colliani travelled to the bedroom.
+5 Doud got the milk there.
+6 What is Colliani carrying? 	football	2
+7 Doud discarded the milk.
+8 Burnhard put down the apple.
+9 What is Burnhard carrying? 	nothing	1 8
+10 Conn moved to the office.
+11 Colliani put down the football there.
+12 What is Doud carrying? 	nothing	5 7
+13 Conn took the apple there.
+14 Colliani took the football there.
+15 What is Conn carrying? 	apple	13
+1 Conn moved to the bedroom.
+2 Doud travelled to the bathroom.
+3 Doud took the apple there.
+4 Doud went to the bedroom.
+5 What is Doud carrying? 	apple	3
+6 Doud put down the apple there.
+7 Burnhard went to the bedroom.
+8 What is Doud carrying? 	nothing	3 6
+9 Burnhard got the apple there.
+10 Colliani grabbed the milk there.
+11 What is Doud carrying? 	nothing	3 6
+12 Colliani dropped the milk.
+13 Burnhard travelled to the bathroom.
+14 What is Colliani carrying? 	nothing	10 12
+15 Colliani got the milk there.
+16 Colliani discarded the milk there.
+17 What is Colliani carrying? 	nothing	10 12 15 16
+1 Colliani moved to the bedroom.
+2 Conn went back to the bedroom.
+3 Doud travelled to the office.
+4 Colliani went to the office.
+5 Doud travelled to the bedroom.
+6 Burnhard travelled to the hallway.
+7 Burnhard journeyed to the bedroom.
+8 Colliani grabbed the football there.
+9 What is Colliani carrying? 	football	8
+10 Doud travelled to the kitchen.
+11 Doud travelled to the hallway.
+12 What is Colliani carrying? 	football	8
+13 Colliani left the football.
+14 Burnhard travelled to the office.
+15 What is Colliani carrying? 	nothing	8 13
+16 Doud took the apple there.
+17 Colliani journeyed to the garden.
+18 What is Colliani carrying? 	nothing	8 13
+19 Colliani travelled to the kitchen.
+20 Doud went back to the office.
+21 What is Doud carrying? 	apple	16
+1 Colliani got the milk there.
+2 Colliani left the milk.
+3 What is Colliani carrying? 	nothing	1 2
+4 Conn went to the garden.
+5 Colliani got the milk there.
+6 What is Colliani carrying? 	milk	1 2 5
+7 Conn travelled to the bedroom.
+8 Colliani discarded the milk.
+9 What is Colliani carrying? 	nothing	1 2 5 8
+10 Doud took the milk there.
+11 Conn went to the hallway.
+12 What is Doud carrying? 	milk	10
+13 Conn travelled to the office.
+14 Burnhard moved to the office.
+15 What is Doud carrying? 	milk	10
+1 Burnhard moved to the garden.
+2 Burnhard moved to the office.
+3 Colliani journeyed to the bedroom.
+4 Burnhard journeyed to the bedroom.
+5 Burnhard moved to the garden.
+6 Conn moved to the office.
+7 Conn journeyed to the kitchen.
+8 Conn went to the bedroom.
+9 Doud journeyed to the hallway.
+10 Doud journeyed to the bathroom.
+11 Colliani went back to the garden.
+12 Doud took the milk there.
+13 What is Doud carrying? 	milk	12
+14 Colliani went to the kitchen.
+15 Doud left the milk.
+16 What is Doud carrying? 	nothing	12 15
+17 Doud picked up the milk there.
+18 Colliani got the football there.
+19 What is Colliani carrying? 	football	18
+20 Colliani travelled to the garden.
+21 Doud left the milk.
+22 What is Doud carrying? 	nothing	12 15 17 21
+23 Colliani put down the football there.
+24 Colliani took the football there.
+25 What is Doud carrying? 	nothing	12 15 17 21
+1 Conn went to the hallway.
+2 Colliani went to the hallway.
+3 Doud took the milk there.
+4 Doud travelled to the kitchen.
+5 What is Doud carrying? 	milk	3
+6 Conn travelled to the kitchen.
+7 Conn travelled to the bedroom.
+8 What is Doud carrying? 	milk	3
+9 Burnhard moved to the bathroom.
+10 Doud discarded the milk.
+11 What is Doud carrying? 	nothing	3 10
+12 Colliani went back to the kitchen.
+13 Colliani moved to the bathroom.
+14 What is Doud carrying? 	nothing	3 10
+15 Doud moved to the bathroom.
+16 Doud moved to the hallway.
+17 What is Doud carrying? 	nothing	3 10
+1 Burnhard got the milk there.
+2 Doud went back to the hallway.
+3 What is Burnhard carrying? 	milk	1
+4 Burnhard left the milk there.
+5 Colliani moved to the office.
+6 What is Burnhard carrying? 	nothing	1 4
+7 Burnhard grabbed the milk there.
+8 Conn went back to the hallway.
+9 What is Burnhard carrying? 	milk	1 4 7
+10 Colliani travelled to the kitchen.
+11 Colliani moved to the hallway.
+12 What is Burnhard carrying? 	milk	1 4 7
+13 Burnhard dropped the milk there.
+14 Burnhard picked up the milk there.
+15 What is Burnhard carrying? 	milk	1 4 7 13 14
+1 Doud journeyed to the office.
+2 Burnhard travelled to the office.
+3 Conn moved to the office.
+4 Doud journeyed to the garden.
+5 Colliani went back to the hallway.
+6 Doud took the apple there.
+7 What is Doud carrying? 	apple	6
+8 Conn went back to the bathroom.
+9 Doud left the apple there.
+10 What is Doud carrying? 	nothing	6 9
+11 Doud grabbed the apple there.
+12 Conn journeyed to the garden.
+13 What is Doud carrying? 	apple	6 9 11
+14 Colliani went back to the office.
+15 Conn got the football there.
+16 What is Conn carrying? 	football	15
+17 Doud discarded the apple there.
+18 Burnhard travelled to the garden.
+19 What is Conn carrying? 	football	15
+1 Doud went back to the hallway.
+2 Burnhard journeyed to the office.
+3 Colliani took the football there.
+4 Conn took the apple there.
+5 What is Conn carrying? 	apple	4
+6 Conn picked up the milk there.
+7 Colliani put down the football.
+8 What is Conn carrying? 	apple,milk	4 6
+9 Doud went to the garden.
+10 Burnhard went to the bathroom.
+11 What is Colliani carrying? 	nothing	3 7
+12 Conn journeyed to the bedroom.
+13 Conn discarded the apple.
+14 What is Colliani carrying? 	nothing	3 7
+15 Burnhard moved to the hallway.
+16 Conn left the milk.
+17 What is Conn carrying? 	nothing	4 13 6 16
+1 Colliani journeyed to the hallway.
+2 Colliani went to the bathroom.
+3 Conn took the milk there.
+4 Burnhard moved to the office.
+5 What is Conn carrying? 	milk	3
+6 Colliani moved to the office.
+7 Burnhard journeyed to the bathroom.
+8 What is Conn carrying? 	milk	3
+9 Doud went to the bathroom.
+10 Colliani got the football there.
+11 What is Colliani carrying? 	football	10
+12 Conn travelled to the office.
+13 Conn put down the milk.
+14 What is Conn carrying? 	nothing	3 13
+15 Conn went back to the bathroom.
+16 Colliani picked up the milk there.
+17 What is Colliani carrying? 	football,milk	10 16
+1 Colliani went back to the kitchen.
+2 Burnhard journeyed to the bedroom.
+3 Burnhard went to the kitchen.
+4 Colliani went back to the garden.
+5 Colliani moved to the kitchen.
+6 Doud went to the hallway.
+7 Conn went back to the garden.
+8 Doud went back to the bathroom.
+9 Doud went back to the office.
+10 Burnhard went to the garden.
+11 Burnhard went to the bedroom.
+12 Conn picked up the football there.
+13 What is Conn carrying? 	football	12
+14 Burnhard grabbed the apple there.
+15 Colliani went back to the hallway.
+16 What is Burnhard carrying? 	apple	14
+17 Conn took the milk there.
+18 Conn went back to the bedroom.
+19 What is Conn carrying? 	football,milk	12 17
+20 Conn travelled to the garden.
+21 Doud went back to the hallway.
+22 What is Conn carrying? 	football,milk	12 17
+23 Conn journeyed to the bathroom.
+24 Doud journeyed to the kitchen.
+25 Burnhard travelled to the bathroom.
+26 Burnhard moved to the garden.
+27 Colliani travelled to the office.
+28 Doud went back to the office.
+29 Burnhard went back to the bathroom.
+30 Conn went back to the bedroom.
+31 Conn travelled to the bathroom.
+32 Conn moved to the bedroom.
+33 Burnhard left the apple.
+34 Conn went to the hallway.
+35 What is Burnhard carrying? 	nothing	14 33
+1 Colliani picked up the milk there.
+2 Colliani discarded the milk there.
+3 What is Colliani carrying? 	nothing	1 2
+4 Doud travelled to the bedroom.
+5 Burnhard travelled to the hallway.
+6 What is Colliani carrying? 	nothing	1 2
+7 Colliani took the milk there.
+8 Burnhard grabbed the football there.
+9 What is Colliani carrying? 	milk	1 2 7
+10 Conn travelled to the bedroom.
+11 Colliani left the milk.
+12 What is Colliani carrying? 	nothing	1 2 7 11
+13 Colliani grabbed the milk there.
+14 Colliani discarded the milk.
+15 What is Colliani carrying? 	nothing	1 2 7 11 13 14
+1 Conn grabbed the milk there.
+2 Colliani went to the bedroom.
+3 What is Conn carrying? 	milk	1
+4 Burnhard travelled to the garden.
+5 Conn journeyed to the garden.
+6 What is Conn carrying? 	milk	1
+7 Colliani grabbed the football there.
+8 Doud got the apple there.
+9 What is Doud carrying? 	apple	8
+10 Doud put down the apple.
+11 Colliani left the football there.
+12 What is Doud carrying? 	nothing	8 10
+13 Colliani got the football there.
+14 Colliani moved to the garden.
+15 What is Colliani carrying? 	football	7 11 13
+1 Colliani journeyed to the office.
+2 Colliani got the milk there.
+3 What is Colliani carrying? 	milk	2
+4 Doud picked up the apple there.
+5 Conn went back to the office.
+6 What is Doud carrying? 	apple	4
+7 Burnhard journeyed to the garden.
+8 Colliani went back to the bathroom.
+9 What is Doud carrying? 	apple	4
+10 Conn journeyed to the kitchen.
+11 Colliani discarded the milk.
+12 What is Colliani carrying? 	nothing	2 11
+13 Colliani went back to the kitchen.
+14 Conn went back to the office.
+15 What is Colliani carrying? 	nothing	2 11
+1 Burnhard journeyed to the office.
+2 Burnhard travelled to the bedroom.
+3 Conn journeyed to the kitchen.
+4 Doud moved to the bedroom.
+5 Colliani went back to the garden.
+6 Conn travelled to the bedroom.
+7 Doud went back to the kitchen.
+8 Colliani got the milk there.
+9 What is Colliani carrying? 	milk	8
+10 Colliani put down the milk there.
+11 Colliani picked up the football there.
+12 What is Colliani carrying? 	football	8 10 11
+13 Colliani put down the football.
+14 Colliani travelled to the bathroom.
+15 What is Colliani carrying? 	nothing	8 10 11 13
+16 Conn journeyed to the office.
+17 Conn went to the bedroom.
+18 What is Colliani carrying? 	nothing	8 10 11 13
+19 Colliani moved to the kitchen.
+20 Doud went to the hallway.
+21 Doud picked up the apple there.
+22 Doud discarded the apple.
+23 What is Doud carrying? 	nothing	21 22
+1 Doud went to the office.
+2 Colliani grabbed the apple there.
+3 What is Colliani carrying? 	apple	2
+4 Colliani travelled to the kitchen.
+5 Colliani dropped the apple.
+6 What is Colliani carrying? 	nothing	2 5
+7 Conn took the football there.
+8 Conn put down the football.
+9 What is Conn carrying? 	nothing	7 8
+10 Colliani grabbed the apple there.
+11 Conn took the football there.
+12 What is Colliani carrying? 	apple	2 5 10
+13 Conn discarded the football.
+14 Burnhard went to the garden.
+15 What is Colliani carrying? 	apple	2 5 10
+1 Conn took the football there.
+2 Doud went to the hallway.
+3 What is Conn carrying? 	football	1
+4 Burnhard went back to the bathroom.
+5 Burnhard journeyed to the hallway.
+6 What is Conn carrying? 	football	1
+7 Colliani went to the garden.
+8 Burnhard journeyed to the kitchen.
+9 Colliani moved to the bedroom.
+10 Doud travelled to the bathroom.
+11 Conn went back to the bedroom.
+12 Colliani got the milk there.
+13 What is Colliani carrying? 	milk	12
+14 Conn left the football.
+15 Burnhard moved to the bedroom.
+16 What is Conn carrying? 	nothing	1 14
+17 Burnhard grabbed the football there.
+18 Burnhard journeyed to the garden.
+19 What is Conn carrying? 	nothing	1 14
+1 Conn journeyed to the kitchen.
+2 Doud went back to the garden.
+3 Burnhard went to the bedroom.
+4 Colliani went back to the garden.
+5 Conn journeyed to the office.
+6 Burnhard journeyed to the garden.
+7 Conn travelled to the bathroom.
+8 Burnhard journeyed to the office.
+9 Conn picked up the football there.
+10 Doud journeyed to the kitchen.
+11 What is Conn carrying? 	football	9
+12 Doud grabbed the milk there.
+13 Doud left the milk.
+14 What is Doud carrying? 	nothing	12 13
+15 Conn discarded the football there.
+16 Doud grabbed the milk there.
+17 What is Doud carrying? 	milk	12 13 16
+18 Conn went to the hallway.
+19 Conn journeyed to the bedroom.
+20 What is Conn carrying? 	nothing	9 15
+21 Doud journeyed to the office.
+22 Colliani went back to the bedroom.
+23 What is Doud carrying? 	milk	12 13 16
+1 Burnhard went back to the garden.
+2 Conn got the milk there.
+3 What is Conn carrying? 	milk	2
+4 Conn went back to the kitchen.
+5 Doud moved to the garden.
+6 What is Conn carrying? 	milk	2
+7 Colliani went to the hallway.
+8 Colliani moved to the kitchen.
+9 What is Conn carrying? 	milk	2
+10 Doud journeyed to the bathroom.
+11 Conn went to the office.
+12 Doud travelled to the hallway.
+13 Conn dropped the milk.
+14 What is Conn carrying? 	nothing	2 13
+15 Doud went back to the bedroom.
+16 Doud grabbed the football there.
+17 What is Conn carrying? 	nothing	2 13
+1 Colliani journeyed to the kitchen.
+2 Doud took the milk there.
+3 What is Doud carrying? 	milk	2
+4 Burnhard went back to the office.
+5 Doud discarded the milk.
+6 What is Doud carrying? 	nothing	2 5
+7 Colliani went to the bathroom.
+8 Burnhard went back to the kitchen.
+9 What is Doud carrying? 	nothing	2 5
+10 Conn moved to the bathroom.
+11 Doud went to the office.
+12 What is Doud carrying? 	nothing	2 5
+13 Colliani journeyed to the garden.
+14 Burnhard journeyed to the bedroom.
+15 Burnhard got the apple there.
+16 Colliani got the milk there.
+17 What is Colliani carrying? 	milk	16
+1 Burnhard journeyed to the bedroom.
+2 Doud travelled to the office.
+3 Conn got the apple there.
+4 Doud journeyed to the bedroom.
+5 What is Conn carrying? 	apple	3
+6 Conn put down the apple.
+7 Conn grabbed the apple there.
+8 What is Conn carrying? 	apple	3 6 7
+9 Colliani travelled to the kitchen.
+10 Burnhard travelled to the office.
+11 What is Conn carrying? 	apple	3 6 7
+12 Burnhard journeyed to the garden.
+13 Burnhard went to the bedroom.
+14 What is Conn carrying? 	apple	3 6 7
+15 Conn dropped the apple.
+16 Burnhard went back to the bathroom.
+17 What is Conn carrying? 	nothing	3 6 7 15
+1 Colliani moved to the kitchen.
+2 Conn went back to the office.
+3 Colliani went to the garden.
+4 Colliani travelled to the hallway.
+5 Colliani picked up the milk there.
+6 Conn went to the bedroom.
+7 What is Colliani carrying? 	milk	5
+8 Burnhard went back to the office.
+9 Colliani moved to the bedroom.
+10 What is Colliani carrying? 	milk	5
+11 Burnhard travelled to the hallway.
+12 Doud went to the bedroom.
+13 Colliani journeyed to the bathroom.
+14 Colliani put down the milk there.
+15 What is Colliani carrying? 	nothing	5 14
+16 Doud went to the garden.
+17 Burnhard travelled to the bathroom.
+18 What is Colliani carrying? 	nothing	5 14
+19 Colliani grabbed the football there.
+20 Burnhard picked up the milk there.
+21 What is Colliani carrying? 	football	5 14 19
+1 Conn went back to the garden.
+2 Colliani journeyed to the hallway.
+3 Colliani travelled to the kitchen.
+4 Colliani journeyed to the bathroom.
+5 Doud moved to the kitchen.
+6 Colliani moved to the office.
+7 Colliani went to the bedroom.
+8 Colliani journeyed to the hallway.
+9 Doud went to the garden.
+10 Colliani got the milk there.
+11 What is Colliani carrying? 	milk	10
+12 Burnhard moved to the hallway.
+13 Conn journeyed to the bedroom.
+14 What is Colliani carrying? 	milk	10
+15 Conn went to the bathroom.
+16 Colliani went to the kitchen.
+17 What is Colliani carrying? 	milk	10
+18 Burnhard went to the kitchen.
+19 Colliani went back to the bedroom.
+20 Conn travelled to the hallway.
+21 Doud moved to the hallway.
+22 Burnhard moved to the garden.
+23 Conn travelled to the kitchen.
+24 Doud travelled to the bathroom.
+25 Doud took the football there.
+26 What is Doud carrying? 	football	25
+27 Colliani dropped the milk.
+28 Burnhard went back to the office.
+29 What is Colliani carrying? 	nothing	10 27
+1 Conn got the apple there.
+2 Colliani journeyed to the bathroom.
+3 What is Conn carrying? 	apple	1
+4 Doud went back to the hallway.
+5 Doud went back to the office.
+6 What is Conn carrying? 	apple	1
+7 Colliani travelled to the office.
+8 Doud took the milk there.
+9 What is Doud carrying? 	milk	8
+10 Colliani went back to the hallway.
+11 Conn discarded the apple.
+12 What is Conn carrying? 	nothing	1 11
+13 Burnhard went back to the kitchen.
+14 Conn journeyed to the garden.
+15 What is Conn carrying? 	nothing	1 11
+1 Colliani went to the bedroom.
+2 Colliani travelled to the bathroom.
+3 Burnhard moved to the bedroom.
+4 Doud travelled to the kitchen.
+5 Colliani travelled to the bedroom.
+6 Conn moved to the office.
+7 Conn went back to the bathroom.
+8 Colliani travelled to the bathroom.
+9 Doud went to the office.
+10 Burnhard went to the garden.
+11 Doud went to the hallway.
+12 Conn travelled to the kitchen.
+13 Conn went to the bathroom.
+14 Doud took the apple there.
+15 What is Doud carrying? 	apple	14
+16 Conn moved to the kitchen.
+17 Conn travelled to the garden.
+18 What is Doud carrying? 	apple	14
+19 Doud journeyed to the bathroom.
+20 Doud put down the apple.
+21 What is Doud carrying? 	nothing	14 20
+22 Colliani grabbed the apple there.
+23 Colliani discarded the apple.
+24 What is Colliani carrying? 	nothing	22 23
+25 Doud travelled to the office.
+26 Conn went to the bathroom.
+27 What is Colliani carrying? 	nothing	22 23
+1 Doud went back to the office.
+2 Burnhard travelled to the garden.
+3 Doud journeyed to the garden.
+4 Colliani went to the kitchen.
+5 Colliani went to the office.
+6 Burnhard went back to the office.
+7 Colliani journeyed to the garden.
+8 Burnhard moved to the kitchen.
+9 Doud went to the bedroom.
+10 Burnhard journeyed to the hallway.
+11 Conn travelled to the garden.
+12 Doud went back to the hallway.
+13 Burnhard got the football there.
+14 Conn travelled to the bathroom.
+15 What is Burnhard carrying? 	football	13
+16 Burnhard dropped the football.
+17 Conn went back to the garden.
+18 What is Burnhard carrying? 	nothing	13 16
+19 Burnhard picked up the football there.
+20 Conn went to the office.
+21 What is Burnhard carrying? 	football	13 16 19
+22 Burnhard put down the football.
+23 Burnhard travelled to the office.
+24 What is Burnhard carrying? 	nothing	13 16 19 22
+25 Doud went back to the garden.
+26 Doud went back to the kitchen.
+27 What is Burnhard carrying? 	nothing	13 16 19 22
+1 Colliani went to the hallway.
+2 Conn travelled to the hallway.
+3 Doud went to the bathroom.
+4 Conn got the football there.
+5 What is Conn carrying? 	football	4
+6 Doud journeyed to the office.
+7 Conn grabbed the apple there.
+8 What is Conn carrying? 	football,apple	4 7
+9 Doud journeyed to the kitchen.
+10 Conn went to the bedroom.
+11 What is Conn carrying? 	football,apple	4 7
+12 Conn dropped the football there.
+13 Conn grabbed the football there.
+14 What is Conn carrying? 	football,apple	4 12 13 7
+15 Burnhard went back to the kitchen.
+16 Doud went to the bathroom.
+17 What is Conn carrying? 	football,apple	4 12 13 7
+1 Doud took the milk there.
+2 Doud travelled to the garden.
+3 What is Doud carrying? 	milk	1
+4 Doud put down the milk.
+5 Burnhard journeyed to the garden.
+6 What is Doud carrying? 	nothing	1 4
+7 Doud moved to the hallway.
+8 Burnhard went to the bedroom.
+9 What is Doud carrying? 	nothing	1 4
+10 Colliani journeyed to the bathroom.
+11 Conn went back to the hallway.
+12 Burnhard got the apple there.
+13 Doud journeyed to the garden.
+14 What is Burnhard carrying? 	apple	12
+15 Colliani went to the hallway.
+16 Conn moved to the garden.
+17 What is Burnhard carrying? 	apple	12
+1 Colliani journeyed to the bathroom.
+2 Doud moved to the kitchen.
+3 Burnhard picked up the football there.
+4 Doud moved to the bedroom.
+5 What is Burnhard carrying? 	football	3
+6 Burnhard left the football there.
+7 Doud went to the hallway.
+8 What is Burnhard carrying? 	nothing	3 6
+9 Doud went back to the kitchen.
+10 Doud travelled to the hallway.
+11 What is Burnhard carrying? 	nothing	3 6
+12 Conn went to the office.
+13 Colliani grabbed the football there.
+14 What is Colliani carrying? 	football	13
+15 Conn travelled to the kitchen.
+16 Conn went to the bedroom.
+17 What is Colliani carrying? 	football	13
+1 Conn grabbed the apple there.
+2 Colliani journeyed to the bedroom.
+3 What is Conn carrying? 	apple	1
+4 Colliani moved to the garden.
+5 Conn left the apple.
+6 What is Conn carrying? 	nothing	1 5
+7 Burnhard travelled to the garden.
+8 Colliani took the milk there.
+9 What is Conn carrying? 	nothing	1 5
+10 Colliani discarded the milk there.
+11 Conn got the apple there.
+12 What is Conn carrying? 	apple	1 5 11
+13 Conn went to the hallway.
+14 Colliani took the football there.
+15 What is Colliani carrying? 	football	8 10 14
+1 Burnhard journeyed to the bedroom.
+2 Doud journeyed to the bathroom.
+3 Conn went to the garden.
+4 Conn went back to the bathroom.
+5 Burnhard journeyed to the hallway.
+6 Conn went to the hallway.
+7 Doud went back to the office.
+8 Burnhard travelled to the kitchen.
+9 Colliani travelled to the kitchen.
+10 Colliani went to the bedroom.
+11 Burnhard picked up the apple there.
+12 Colliani travelled to the hallway.
+13 What is Burnhard carrying? 	apple	11
+14 Colliani got the milk there.
+15 Conn went back to the office.
+16 What is Burnhard carrying? 	apple	11
+17 Doud travelled to the bedroom.
+18 Burnhard travelled to the hallway.
+19 What is Colliani carrying? 	milk	14
+20 Burnhard dropped the apple.
+21 Colliani went back to the kitchen.
+22 What is Burnhard carrying? 	nothing	11 20
+23 Colliani discarded the milk.
+24 Burnhard travelled to the bathroom.
+25 What is Colliani carrying? 	nothing	14 23
+1 Burnhard got the milk there.
+2 Conn journeyed to the kitchen.
+3 What is Burnhard carrying? 	milk	1
+4 Burnhard travelled to the bathroom.
+5 Burnhard put down the milk.
+6 What is Burnhard carrying? 	nothing	1 5
+7 Conn got the football there.
+8 Conn left the football.
+9 What is Conn carrying? 	nothing	7 8
+10 Burnhard went to the kitchen.
+11 Burnhard grabbed the football there.
+12 What is Conn carrying? 	nothing	7 8
+13 Colliani travelled to the kitchen.
+14 Burnhard dropped the football.
+15 What is Burnhard carrying? 	nothing	1 5 11 14
+1 Burnhard grabbed the milk there.
+2 Doud travelled to the office.
+3 What is Burnhard carrying? 	milk	1
+4 Burnhard grabbed the apple there.
+5 Burnhard discarded the milk.
+6 What is Burnhard carrying? 	apple	1 5 4
+7 Doud got the milk there.
+8 Burnhard put down the apple.
+9 What is Burnhard carrying? 	nothing	1 5 4 8
+10 Doud left the milk there.
+11 Doud grabbed the apple there.
+12 What is Doud carrying? 	apple	7 10 11
+13 Doud journeyed to the garden.
+14 Burnhard journeyed to the kitchen.
+15 What is Burnhard carrying? 	nothing	1 5 4 8
+1 Burnhard travelled to the office.
+2 Burnhard grabbed the apple there.
+3 What is Burnhard carrying? 	apple	2
+4 Colliani travelled to the kitchen.
+5 Doud went to the kitchen.
+6 What is Burnhard carrying? 	apple	2
+7 Burnhard went back to the garden.
+8 Colliani journeyed to the bathroom.
+9 What is Burnhard carrying? 	apple	2
+10 Burnhard went back to the kitchen.
+11 Doud went back to the bedroom.
+12 Burnhard got the football there.
+13 Colliani went back to the bedroom.
+14 What is Burnhard carrying? 	apple,football	2 12
+15 Conn travelled to the office.
+16 Colliani went to the office.
+17 What is Burnhard carrying? 	apple,football	2 12
+1 Conn travelled to the bedroom.
+2 Burnhard travelled to the garden.
+3 Conn went back to the office.
+4 Burnhard moved to the kitchen.
+5 Burnhard travelled to the bathroom.
+6 Burnhard went back to the kitchen.
+7 Colliani went to the garden.
+8 Colliani took the football there.
+9 What is Colliani carrying? 	football	8
+10 Conn moved to the hallway.
+11 Colliani moved to the bathroom.
+12 What is Colliani carrying? 	football	8
+13 Burnhard journeyed to the bathroom.
+14 Doud travelled to the bedroom.
+15 What is Colliani carrying? 	football	8
+16 Colliani went to the bedroom.
+17 Doud picked up the milk there.
+18 What is Doud carrying? 	milk	17
+19 Colliani moved to the bathroom.
+20 Doud dropped the milk there.
+21 What is Doud carrying? 	nothing	17 20
+1 Conn took the milk there.
+2 Conn moved to the bathroom.
+3 What is Conn carrying? 	milk	1
+4 Doud got the apple there.
+5 Conn dropped the milk there.
+6 What is Conn carrying? 	nothing	1 5
+7 Doud left the apple.
+8 Burnhard moved to the bedroom.
+9 What is Doud carrying? 	nothing	4 7
+10 Colliani grabbed the football there.
+11 Burnhard went back to the garden.
+12 What is Colliani carrying? 	football	10
+13 Burnhard went back to the kitchen.
+14 Doud got the apple there.
+15 What is Doud carrying? 	apple	4 7 14
+1 Doud went to the bedroom.
+2 Conn went to the bedroom.
+3 Conn went to the bathroom.
+4 Doud travelled to the garden.
+5 Conn journeyed to the kitchen.
+6 Doud took the apple there.
+7 What is Doud carrying? 	apple	6
+8 Burnhard travelled to the hallway.
+9 Doud dropped the apple.
+10 What is Doud carrying? 	nothing	6 9
+11 Conn took the milk there.
+12 Conn went back to the bedroom.
+13 What is Doud carrying? 	nothing	6 9
+14 Doud got the apple there.
+15 Conn left the milk.
+16 What is Doud carrying? 	apple	6 9 14
+17 Colliani journeyed to the kitchen.
+18 Doud put down the apple there.
+19 What is Doud carrying? 	nothing	6 9 14 18
+1 Colliani travelled to the kitchen.
+2 Colliani journeyed to the garden.
+3 Doud moved to the office.
+4 Conn moved to the hallway.
+5 Burnhard got the apple there.
+6 Burnhard travelled to the garden.
+7 What is Burnhard carrying? 	apple	5
+8 Doud went to the garden.
+9 Conn went to the bedroom.
+10 What is Burnhard carrying? 	apple	5
+11 Burnhard left the apple.
+12 Doud moved to the kitchen.
+13 What is Burnhard carrying? 	nothing	5 11
+14 Doud went back to the office.
+15 Colliani went back to the office.
+16 What is Burnhard carrying? 	nothing	5 11
+17 Burnhard went back to the office.
+18 Conn went back to the bathroom.
+19 Doud went back to the bedroom.
+20 Doud travelled to the hallway.
+21 Colliani moved to the hallway.
+22 Conn moved to the hallway.
+23 Conn picked up the milk there.
+24 Colliani moved to the bedroom.
+25 What is Conn carrying? 	milk	23
+1 Conn moved to the bathroom.
+2 Doud went back to the bedroom.
+3 Conn grabbed the apple there.
+4 Doud travelled to the office.
+5 What is Conn carrying? 	apple	3
+6 Burnhard moved to the bedroom.
+7 Burnhard journeyed to the kitchen.
+8 What is Conn carrying? 	apple	3
+9 Colliani went to the bedroom.
+10 Conn moved to the garden.
+11 Conn grabbed the football there.
+12 Conn left the apple.
+13 What is Conn carrying? 	football	3 12 11
+14 Doud journeyed to the kitchen.
+15 Conn put down the football there.
+16 What is Conn carrying? 	nothing	3 12 11 15
+17 Burnhard went back to the bedroom.
+18 Colliani moved to the garden.
+19 What is Conn carrying? 	nothing	3 12 11 15
+1 Burnhard moved to the hallway.
+2 Colliani went back to the hallway.
+3 Conn grabbed the milk there.
+4 Burnhard went to the kitchen.
+5 What is Conn carrying? 	milk	3
+6 Colliani went back to the garden.
+7 Colliani picked up the football there.
+8 What is Conn carrying? 	milk	3
+9 Conn dropped the milk.
+10 Burnhard journeyed to the office.
+11 What is Conn carrying? 	nothing	3 9
+12 Colliani got the apple there.
+13 Burnhard went to the kitchen.
+14 What is Conn carrying? 	nothing	3 9
+15 Conn grabbed the milk there.
+16 Colliani discarded the football.
+17 What is Colliani carrying? 	apple	7 16 12
+1 Colliani moved to the garden.
+2 Doud travelled to the hallway.
+3 Colliani got the milk there.
+4 Colliani moved to the office.
+5 What is Colliani carrying? 	milk	3
+6 Burnhard journeyed to the hallway.
+7 Conn went back to the bathroom.
+8 What is Colliani carrying? 	milk	3
+9 Conn took the football there.
+10 Conn dropped the football.
+11 What is Conn carrying? 	nothing	9 10
+12 Conn moved to the kitchen.
+13 Doud went to the bedroom.
+14 What is Conn carrying? 	nothing	9 10
+15 Conn went to the office.
+16 Doud took the apple there.
+17 What is Doud carrying? 	apple	16
+1 Colliani journeyed to the hallway.
+2 Conn picked up the milk there.
+3 What is Conn carrying? 	milk	2
+4 Doud took the football there.
+5 Doud left the football.
+6 What is Doud carrying? 	nothing	4 5
+7 Doud went to the bedroom.
+8 Doud went to the kitchen.
+9 What is Doud carrying? 	nothing	4 5
+10 Conn discarded the milk there.
+11 Conn got the milk there.
+12 What is Conn carrying? 	milk	2 10 11
+13 Burnhard took the football there.
+14 Burnhard left the football.
+15 What is Conn carrying? 	milk	2 10 11
+1 Burnhard got the apple there.
+2 Colliani went back to the bedroom.
+3 What is Burnhard carrying? 	apple	1
+4 Doud travelled to the bathroom.
+5 Burnhard journeyed to the hallway.
+6 What is Burnhard carrying? 	apple	1
+7 Burnhard dropped the apple there.
+8 Conn travelled to the hallway.
+9 What is Burnhard carrying? 	nothing	1 7
+10 Conn got the apple there.
+11 Colliani travelled to the office.
+12 What is Conn carrying? 	apple	10
+13 Conn left the apple.
+14 Doud journeyed to the hallway.
+15 What is Conn carrying? 	nothing	10 13
+1 Burnhard went to the hallway.
+2 Colliani travelled to the kitchen.
+3 Conn travelled to the bathroom.
+4 Colliani went back to the office.
+5 Colliani moved to the bathroom.
+6 Conn picked up the milk there.
+7 What is Conn carrying? 	milk	6
+8 Colliani went back to the kitchen.
+9 Doud went to the bathroom.
+10 What is Conn carrying? 	milk	6
+11 Conn went back to the kitchen.
+12 Burnhard went to the kitchen.
+13 What is Conn carrying? 	milk	6
+14 Conn put down the milk.
+15 Colliani grabbed the milk there.
+16 What is Colliani carrying? 	milk	15
+17 Burnhard went back to the bedroom.
+18 Burnhard grabbed the football there.
+19 What is Burnhard carrying? 	football	18
+1 Doud moved to the kitchen.
+2 Burnhard moved to the kitchen.
+3 Burnhard travelled to the bedroom.
+4 Doud grabbed the apple there.
+5 What is Doud carrying? 	apple	4
+6 Burnhard picked up the milk there.
+7 Doud dropped the apple there.
+8 What is Doud carrying? 	nothing	4 7
+9 Burnhard moved to the garden.
+10 Doud travelled to the office.
+11 What is Doud carrying? 	nothing	4 7
+12 Colliani went back to the garden.
+13 Burnhard moved to the hallway.
+14 What is Doud carrying? 	nothing	4 7
+15 Doud journeyed to the bedroom.
+16 Burnhard went back to the garden.
+17 Colliani moved to the bedroom.
+18 Burnhard travelled to the kitchen.
+19 Burnhard dropped the milk.
+20 Burnhard moved to the hallway.
+21 What is Burnhard carrying? 	nothing	6 19
+1 Conn went back to the bedroom.
+2 Colliani journeyed to the bathroom.
+3 Conn journeyed to the office.
+4 Doud moved to the hallway.
+5 Burnhard picked up the milk there.
+6 Burnhard put down the milk.
+7 What is Burnhard carrying? 	nothing	5 6
+8 Burnhard picked up the milk there.
+9 Burnhard left the milk.
+10 What is Burnhard carrying? 	nothing	5 6 8 9
+11 Conn grabbed the football there.
+12 Colliani journeyed to the office.
+13 What is Conn carrying? 	football	11
+14 Burnhard journeyed to the hallway.
+15 Doud went back to the bathroom.
+16 What is Burnhard carrying? 	nothing	5 6 8 9
+17 Conn left the football there.
+18 Colliani got the milk there.
+19 What is Conn carrying? 	nothing	11 17
+1 Doud went to the kitchen.
+2 Burnhard took the milk there.
+3 What is Burnhard carrying? 	milk	2
+4 Colliani went back to the office.
+5 Burnhard left the milk there.
+6 What is Burnhard carrying? 	nothing	2 5
+7 Burnhard moved to the office.
+8 Burnhard went back to the bedroom.
+9 What is Burnhard carrying? 	nothing	2 5
+10 Doud travelled to the hallway.
+11 Doud went back to the kitchen.
+12 What is Burnhard carrying? 	nothing	2 5
+13 Colliani journeyed to the garden.
+14 Conn went to the office.
+15 Conn journeyed to the kitchen.
+16 Colliani journeyed to the bedroom.
+17 Doud journeyed to the bathroom.
+18 Burnhard went back to the hallway.
+19 Conn took the milk there.
+20 Colliani travelled to the bathroom.
+21 What is Conn carrying? 	milk	19
+1 Burnhard travelled to the hallway.
+2 Doud went to the office.
+3 Colliani travelled to the hallway.
+4 Burnhard journeyed to the garden.
+5 Doud picked up the football there.
+6 Doud put down the football there.
+7 What is Doud carrying? 	nothing	5 6
+8 Doud grabbed the football there.
+9 Doud travelled to the garden.
+10 What is Doud carrying? 	football	5 6 8
+11 Doud put down the football there.
+12 Doud picked up the apple there.
+13 What is Doud carrying? 	apple	5 6 8 11 12
+14 Colliani travelled to the office.
+15 Burnhard got the football there.
+16 What is Burnhard carrying? 	football	15
+17 Burnhard travelled to the office.
+18 Colliani went back to the bedroom.
+19 What is Doud carrying? 	apple	5 6 8 11 12
+1 Conn journeyed to the office.
+2 Colliani moved to the office.
+3 Burnhard travelled to the hallway.
+4 Conn went to the garden.
+5 Colliani moved to the bedroom.
+6 Doud went back to the garden.
+7 Colliani went back to the bathroom.
+8 Conn went back to the kitchen.
+9 Doud journeyed to the office.
+10 Colliani went to the hallway.
+11 Conn journeyed to the hallway.
+12 Colliani journeyed to the bedroom.
+13 Colliani moved to the hallway.
+14 Burnhard moved to the office.
+15 Doud travelled to the bedroom.
+16 Colliani journeyed to the garden.
+17 Burnhard travelled to the bedroom.
+18 Doud went back to the hallway.
+19 Doud journeyed to the bedroom.
+20 Colliani went to the kitchen.
+21 Colliani journeyed to the bedroom.
+22 Burnhard moved to the kitchen.
+23 Doud moved to the office.
+24 Doud travelled to the hallway.
+25 Doud journeyed to the kitchen.
+26 Conn journeyed to the bedroom.
+27 Doud went back to the bathroom.
+28 Doud went to the bedroom.
+29 Doud went back to the hallway.
+30 Conn travelled to the kitchen.
+31 Doud travelled to the office.
+32 Colliani moved to the bathroom.
+33 Colliani went back to the garden.
+34 Burnhard went to the bathroom.
+35 Burnhard journeyed to the office.
+36 Colliani went to the bedroom.
+37 Doud journeyed to the garden.
+38 Doud went to the office.
+39 Colliani moved to the office.
+40 Colliani travelled to the kitchen.
+41 Burnhard travelled to the kitchen.
+42 Colliani journeyed to the bathroom.
+43 Colliani took the milk there.
+44 Colliani put down the milk there.
+45 What is Colliani carrying? 	nothing	43 44
+46 Doud travelled to the kitchen.
+47 Doud went back to the bedroom.
+48 What is Colliani carrying? 	nothing	43 44
+49 Burnhard moved to the hallway.
+50 Doud moved to the garden.
+51 What is Colliani carrying? 	nothing	43 44
+52 Conn went back to the bathroom.
+53 Colliani moved to the hallway.
+54 Doud journeyed to the kitchen.
+55 Doud moved to the garden.
+56 Burnhard travelled to the office.
+57 Conn went to the office.
+58 Burnhard went back to the bathroom.
+59 Burnhard grabbed the apple there.
+60 What is Burnhard carrying? 	apple	59
+61 Burnhard dropped the apple.
+62 Burnhard travelled to the bedroom.
+63 What is Burnhard carrying? 	nothing	59 61
+1 Burnhard moved to the bedroom.
+2 Doud travelled to the hallway.
+3 Burnhard journeyed to the garden.
+4 Doud grabbed the football there.
+5 What is Doud carrying? 	football	4
+6 Burnhard picked up the milk there.
+7 Colliani got the apple there.
+8 What is Colliani carrying? 	apple	7
+9 Burnhard journeyed to the hallway.
+10 Colliani put down the apple.
+11 What is Burnhard carrying? 	milk	6
+12 Doud dropped the football.
+13 Colliani grabbed the apple there.
+14 What is Colliani carrying? 	apple	7 10 13
+15 Conn moved to the garden.
+16 Burnhard journeyed to the office.
+17 What is Doud carrying? 	nothing	4 12
+1 Burnhard journeyed to the bathroom.
+2 Doud moved to the bathroom.
+3 Burnhard picked up the apple there.
+4 Colliani travelled to the kitchen.
+5 What is Burnhard carrying? 	apple	3
+6 Burnhard travelled to the office.
+7 Doud travelled to the hallway.
+8 What is Burnhard carrying? 	apple	3
+9 Burnhard grabbed the milk there.
+10 Burnhard dropped the milk.
+11 What is Burnhard carrying? 	apple	3 9 10
+12 Burnhard picked up the milk there.
+13 Colliani travelled to the garden.
+14 What is Burnhard carrying? 	apple,milk	3 9 10 12
+15 Colliani went back to the bathroom.
+16 Conn went to the bathroom.
+17 What is Burnhard carrying? 	apple,milk	3 9 10 12
+1 Conn took the milk there.
+2 Conn journeyed to the kitchen.
+3 What is Conn carrying? 	milk	1
+4 Colliani travelled to the bathroom.
+5 Colliani took the apple there.
+6 What is Conn carrying? 	milk	1
+7 Colliani journeyed to the kitchen.
+8 Conn grabbed the football there.
+9 What is Conn carrying? 	milk,football	1 8
+10 Doud travelled to the bedroom.
+11 Conn put down the milk.
+12 What is Colliani carrying? 	apple	5
+13 Colliani grabbed the milk there.
+14 Burnhard travelled to the kitchen.
+15 What is Conn carrying? 	football	1 11 8
+1 Burnhard journeyed to the garden.
+2 Conn grabbed the apple there.
+3 What is Conn carrying? 	apple	2
+4 Doud went to the bedroom.
+5 Conn left the apple.
+6 What is Conn carrying? 	nothing	2 5
+7 Conn moved to the garden.
+8 Conn went back to the office.
+9 What is Conn carrying? 	nothing	2 5
+10 Conn went back to the bathroom.
+11 Doud got the football there.
+12 What is Conn carrying? 	nothing	2 5
+13 Burnhard journeyed to the hallway.
+14 Doud discarded the football there.
+15 What is Doud carrying? 	nothing	11 14
+1 Colliani journeyed to the bedroom.
+2 Colliani journeyed to the bathroom.
+3 Conn went back to the kitchen.
+4 Doud went back to the bathroom.
+5 Doud went to the garden.
+6 Conn grabbed the apple there.
+7 What is Conn carrying? 	apple	6
+8 Conn went to the bathroom.
+9 Doud moved to the kitchen.
+10 What is Conn carrying? 	apple	6
+11 Burnhard journeyed to the office.
+12 Burnhard went back to the kitchen.
+13 What is Conn carrying? 	apple	6
+14 Conn went back to the kitchen.
+15 Colliani went to the kitchen.
+16 Colliani went back to the garden.
+17 Colliani took the football there.
+18 What is Colliani carrying? 	football	17
+19 Doud moved to the bathroom.
+20 Burnhard travelled to the hallway.
+21 What is Colliani carrying? 	football	17
+1 Burnhard journeyed to the kitchen.
+2 Colliani moved to the bedroom.
+3 Conn journeyed to the hallway.
+4 Burnhard went to the hallway.
+5 Doud got the football there.
+6 Doud went to the bedroom.
+7 What is Doud carrying? 	football	5
+8 Doud left the football.
+9 Doud got the football there.
+10 What is Doud carrying? 	football	5 8 9
+11 Doud left the football.
+12 Doud went to the office.
+13 What is Doud carrying? 	nothing	5 8 9 11
+14 Conn went back to the garden.
+15 Colliani grabbed the football there.
+16 What is Colliani carrying? 	football	15
+17 Doud travelled to the garden.
+18 Conn moved to the office.
+19 What is Colliani carrying? 	football	15
+1 Burnhard picked up the football there.
+2 Burnhard journeyed to the office.
+3 What is Burnhard carrying? 	football	1
+4 Burnhard discarded the football.
+5 Burnhard picked up the football there.
+6 What is Burnhard carrying? 	football	1 4 5
+7 Burnhard left the football.
+8 Burnhard went to the garden.
+9 What is Burnhard carrying? 	nothing	1 4 5 7
+10 Conn grabbed the apple there.
+11 Doud moved to the office.
+12 What is Conn carrying? 	apple	10
+13 Colliani went back to the bathroom.
+14 Burnhard went back to the bathroom.
+15 What is Conn carrying? 	apple	10
+1 Burnhard moved to the garden.
+2 Burnhard picked up the apple there.
+3 What is Burnhard carrying? 	apple	2
+4 Doud went back to the garden.
+5 Doud moved to the bathroom.
+6 What is Burnhard carrying? 	apple	2
+7 Conn moved to the hallway.
+8 Burnhard dropped the apple.
+9 What is Burnhard carrying? 	nothing	2 8
+10 Doud got the milk there.
+11 Colliani took the football there.
+12 What is Burnhard carrying? 	nothing	2 8
+13 Conn went to the office.
+14 Doud left the milk.
+15 What is Doud carrying? 	nothing	10 14
+1 Conn moved to the office.
+2 Doud travelled to the garden.
+3 Doud journeyed to the kitchen.
+4 Doud grabbed the football there.
+5 What is Doud carrying? 	football	4
+6 Conn went to the hallway.
+7 Doud went to the bathroom.
+8 What is Doud carrying? 	football	4
+9 Colliani picked up the apple there.
+10 Burnhard went back to the office.
+11 What is Doud carrying? 	football	4
+12 Colliani discarded the apple.
+13 Doud put down the football there.
+14 What is Doud carrying? 	nothing	4 13
+15 Doud grabbed the football there.
+16 Doud picked up the apple there.
+17 What is Colliani carrying? 	nothing	9 12
+1 Conn went back to the garden.
+2 Conn grabbed the apple there.
+3 What is Conn carrying? 	apple	2
+4 Conn dropped the apple.
+5 Conn took the apple there.
+6 What is Conn carrying? 	apple	2 4 5
+7 Doud journeyed to the office.
+8 Colliani went to the garden.
+9 What is Conn carrying? 	apple	2 4 5
+10 Doud journeyed to the hallway.
+11 Colliani journeyed to the kitchen.
+12 What is Conn carrying? 	apple	2 4 5
+13 Conn dropped the apple.
+14 Burnhard took the apple there.
+15 What is Conn carrying? 	nothing	2 4 5 13
+1 Doud travelled to the office.
+2 Colliani went to the kitchen.
+3 Colliani moved to the office.
+4 Conn went back to the hallway.
+5 Burnhard went to the bedroom.
+6 Colliani journeyed to the bedroom.
+7 Conn went to the garden.
+8 Doud moved to the bathroom.
+9 Conn got the football there.
+10 Conn went to the kitchen.
+11 What is Conn carrying? 	football	9
+12 Conn grabbed the apple there.
+13 Burnhard went to the garden.
+14 What is Conn carrying? 	football,apple	9 12
+15 Colliani went back to the hallway.
+16 Conn dropped the football.
+17 What is Conn carrying? 	apple	9 16 12
+18 Doud went to the hallway.
+19 Conn left the apple.
+20 What is Conn carrying? 	nothing	9 16 12 19
+21 Doud journeyed to the garden.
+22 Conn journeyed to the bathroom.
+23 What is Conn carrying? 	nothing	9 16 12 19
+1 Doud moved to the kitchen.
+2 Colliani journeyed to the hallway.
+3 Doud went to the garden.
+4 Conn grabbed the apple there.
+5 What is Conn carrying? 	apple	4
+6 Colliani moved to the bathroom.
+7 Doud moved to the kitchen.
+8 What is Conn carrying? 	apple	4
+9 Conn left the apple there.
+10 Conn picked up the milk there.
+11 What is Conn carrying? 	milk	4 9 10
+12 Doud went to the office.
+13 Conn discarded the milk.
+14 What is Conn carrying? 	nothing	4 9 10 13
+15 Conn went back to the kitchen.
+16 Burnhard went back to the bedroom.
+17 What is Conn carrying? 	nothing	4 9 10 13
+1 Conn travelled to the kitchen.
+2 Colliani travelled to the office.
+3 Conn took the football there.
+4 Burnhard grabbed the apple there.
+5 What is Conn carrying? 	football	3
+6 Burnhard went to the garden.
+7 Colliani journeyed to the kitchen.
+8 What is Burnhard carrying? 	apple	4
+9 Burnhard left the apple.
+10 Doud went back to the office.
+11 What is Burnhard carrying? 	nothing	4 9
+12 Doud went back to the bathroom.
+13 Colliani moved to the hallway.
+14 What is Burnhard carrying? 	nothing	4 9
+15 Burnhard got the apple there.
+16 Burnhard moved to the bathroom.
+17 What is Burnhard carrying? 	apple	4 9 15
+1 Doud went back to the garden.
+2 Burnhard went back to the hallway.
+3 Burnhard journeyed to the garden.
+4 Colliani moved to the kitchen.
+5 Burnhard moved to the office.
+6 Colliani picked up the apple there.
+7 What is Colliani carrying? 	apple	6
+8 Conn journeyed to the bathroom.
+9 Colliani put down the apple.
+10 What is Colliani carrying? 	nothing	6 9
+11 Doud went back to the hallway.
+12 Colliani took the apple there.
+13 What is Colliani carrying? 	apple	6 9 12
+14 Colliani put down the apple.
+15 Burnhard went back to the hallway.
+16 What is Colliani carrying? 	nothing	6 9 12 14
+17 Burnhard went back to the bedroom.
+18 Colliani went back to the garden.
+19 What is Colliani carrying? 	nothing	6 9 12 14
+1 Burnhard took the football there.
+2 Conn journeyed to the garden.
+3 What is Burnhard carrying? 	football	1
+4 Doud travelled to the bedroom.
+5 Conn journeyed to the bedroom.
+6 What is Burnhard carrying? 	football	1
+7 Burnhard dropped the football.
+8 Conn picked up the apple there.
+9 What is Burnhard carrying? 	nothing	1 7
+10 Conn dropped the apple.
+11 Doud got the apple there.
+12 What is Doud carrying? 	apple	11
+13 Burnhard took the football there.
+14 Colliani went back to the kitchen.
+15 What is Conn carrying? 	nothing	8 10
+1 Doud moved to the bathroom.
+2 Conn grabbed the milk there.
+3 What is Conn carrying? 	milk	2
+4 Doud went to the hallway.
+5 Burnhard moved to the hallway.
+6 What is Conn carrying? 	milk	2
+7 Burnhard journeyed to the bathroom.
+8 Colliani travelled to the kitchen.
+9 What is Conn carrying? 	milk	2
+10 Burnhard moved to the kitchen.
+11 Doud moved to the office.
+12 Conn journeyed to the bathroom.
+13 Burnhard moved to the garden.
+14 Doud went back to the bedroom.
+15 Doud moved to the kitchen.
+16 Conn left the milk there.
+17 Burnhard got the football there.
+18 What is Burnhard carrying? 	football	17
+19 Burnhard went to the bedroom.
+20 Burnhard went to the office.
+21 What is Conn carrying? 	nothing	2 16
+1 Burnhard went back to the kitchen.
+2 Doud got the milk there.
+3 What is Doud carrying? 	milk	2
+4 Burnhard moved to the hallway.
+5 Conn travelled to the hallway.
+6 What is Doud carrying? 	milk	2
+7 Conn travelled to the kitchen.
+8 Doud took the football there.
+9 What is Doud carrying? 	milk,football	2 8
+10 Burnhard journeyed to the bedroom.
+11 Burnhard moved to the garden.
+12 What is Doud carrying? 	milk,football	2 8
+13 Doud dropped the milk.
+14 Doud moved to the bedroom.
+15 What is Doud carrying? 	football	2 13 8
+1 Conn got the football there.
+2 Burnhard travelled to the hallway.
+3 What is Conn carrying? 	football	1
+4 Doud journeyed to the garden.
+5 Doud picked up the milk there.
+6 What is Conn carrying? 	football	1
+7 Doud went to the bedroom.
+8 Doud journeyed to the hallway.
+9 What is Doud carrying? 	milk	5
+10 Conn moved to the bathroom.
+11 Conn moved to the garden.
+12 What is Doud carrying? 	milk	5
+13 Conn left the football.
+14 Conn went back to the kitchen.
+15 What is Conn carrying? 	nothing	1 13
+1 Conn journeyed to the office.
+2 Conn moved to the kitchen.
+3 Burnhard got the milk there.
+4 Conn moved to the hallway.
+5 What is Burnhard carrying? 	milk	3
+6 Burnhard put down the milk.
+7 Burnhard grabbed the milk there.
+8 What is Burnhard carrying? 	milk	3 6 7
+9 Burnhard went back to the bathroom.
+10 Colliani went back to the bedroom.
+11 What is Burnhard carrying? 	milk	3 6 7
+12 Burnhard got the football there.
+13 Doud moved to the bedroom.
+14 What is Burnhard carrying? 	milk,football	3 6 7 12
+15 Burnhard travelled to the hallway.
+16 Burnhard dropped the milk.
+17 What is Burnhard carrying? 	football	3 6 7 16 12
+1 Colliani went to the bathroom.
+2 Conn travelled to the garden.
+3 Doud moved to the hallway.
+4 Burnhard moved to the bedroom.
+5 Conn journeyed to the hallway.
+6 Doud picked up the apple there.
+7 What is Doud carrying? 	apple	6
+8 Burnhard travelled to the bathroom.
+9 Doud dropped the apple.
+10 What is Doud carrying? 	nothing	6 9
+11 Conn moved to the office.
+12 Conn grabbed the football there.
+13 What is Doud carrying? 	nothing	6 9
+14 Conn moved to the bedroom.
+15 Doud got the apple there.
+16 What is Conn carrying? 	football	12
+17 Conn dropped the football.
+18 Conn journeyed to the bathroom.
+19 What is Conn carrying? 	nothing	12 17
+1 Conn travelled to the hallway.
+2 Burnhard journeyed to the bathroom.
+3 Doud moved to the office.
+4 Colliani took the apple there.
+5 What is Colliani carrying? 	apple	4
+6 Doud went to the garden.
+7 Burnhard took the milk there.
+8 What is Colliani carrying? 	apple	4
+9 Conn moved to the bedroom.
+10 Burnhard discarded the milk there.
+11 What is Burnhard carrying? 	nothing	7 10
+12 Burnhard took the milk there.
+13 Doud travelled to the office.
+14 What is Burnhard carrying? 	milk	7 10 12
+15 Conn travelled to the bathroom.
+16 Burnhard dropped the milk there.
+17 What is Burnhard carrying? 	nothing	7 10 12 16
+1 Colliani went to the hallway.
+2 Burnhard picked up the apple there.
+3 What is Burnhard carrying? 	apple	2
+4 Burnhard put down the apple there.
+5 Colliani travelled to the office.
+6 What is Burnhard carrying? 	nothing	2 4
+7 Doud went back to the hallway.
+8 Doud got the apple there.
+9 What is Doud carrying? 	apple	8
+10 Doud travelled to the kitchen.
+11 Doud dropped the apple.
+12 What is Doud carrying? 	nothing	8 11
+13 Burnhard journeyed to the kitchen.
+14 Doud moved to the bedroom.
+15 What is Doud carrying? 	nothing	8 11
+1 Burnhard got the football there.
+2 Doud journeyed to the bathroom.
+3 What is Burnhard carrying? 	football	1
+4 Doud went back to the kitchen.
+5 Colliani travelled to the garden.
+6 What is Burnhard carrying? 	football	1
+7 Burnhard moved to the kitchen.
+8 Burnhard put down the football.
+9 What is Burnhard carrying? 	nothing	1 8
+10 Conn took the football there.
+11 Conn dropped the football there.
+12 What is Burnhard carrying? 	nothing	1 8
+13 Colliani journeyed to the bedroom.
+14 Conn took the football there.
+15 What is Burnhard carrying? 	nothing	1 8
+1 Conn journeyed to the bathroom.
+2 Burnhard journeyed to the office.
+3 Burnhard took the apple there.
+4 Doud went to the office.
+5 What is Burnhard carrying? 	apple	3
+6 Conn travelled to the garden.
+7 Burnhard took the milk there.
+8 What is Burnhard carrying? 	apple,milk	3 7
+9 Conn moved to the office.
+10 Burnhard journeyed to the bathroom.
+11 What is Burnhard carrying? 	apple,milk	3 7
+12 Doud journeyed to the bathroom.
+13 Burnhard went back to the garden.
+14 What is Burnhard carrying? 	apple,milk	3 7
+15 Colliani moved to the bathroom.
+16 Doud journeyed to the hallway.
+17 Colliani travelled to the kitchen.
+18 Conn travelled to the bathroom.
+19 Doud travelled to the garden.
+20 Conn went to the hallway.
+21 Burnhard dropped the apple.
+22 Doud grabbed the apple there.
+23 What is Doud carrying? 	apple	22
+1 Conn went back to the garden.
+2 Burnhard travelled to the hallway.
+3 Conn moved to the bathroom.
+4 Conn took the football there.
+5 What is Conn carrying? 	football	4
+6 Colliani travelled to the bathroom.
+7 Conn took the milk there.
+8 What is Conn carrying? 	football,milk	4 7
+9 Colliani went to the garden.
+10 Conn put down the milk.
+11 What is Conn carrying? 	football	4 7 10
+12 Conn left the football.
+13 Colliani moved to the bathroom.
+14 What is Conn carrying? 	nothing	4 12 7 10
+15 Doud travelled to the kitchen.
+16 Colliani grabbed the football there.
+17 What is Conn carrying? 	nothing	4 12 7 10
+1 Colliani went back to the bedroom.
+2 Conn picked up the football there.
+3 What is Conn carrying? 	football	2
+4 Conn went back to the garden.
+5 Colliani moved to the kitchen.
+6 What is Conn carrying? 	football	2
+7 Conn put down the football.
+8 Burnhard went back to the kitchen.
+9 What is Conn carrying? 	nothing	2 7
+10 Doud moved to the garden.
+11 Conn went to the bedroom.
+12 What is Conn carrying? 	nothing	2 7
+13 Doud moved to the kitchen.
+14 Burnhard travelled to the bedroom.
+15 Burnhard journeyed to the hallway.
+16 Burnhard journeyed to the office.
+17 Doud went back to the bedroom.
+18 Colliani travelled to the bedroom.
+19 Burnhard went back to the bathroom.
+20 Doud moved to the bathroom.
+21 Burnhard moved to the office.
+22 Burnhard travelled to the kitchen.
+23 Colliani went back to the kitchen.
+24 Colliani journeyed to the garden.
+25 Burnhard went back to the bathroom.
+26 Colliani picked up the football there.
+27 What is Colliani carrying? 	football	26
+1 Burnhard moved to the hallway.
+2 Conn picked up the milk there.
+3 What is Conn carrying? 	milk	2
+4 Colliani travelled to the garden.
+5 Doud took the football there.
+6 What is Conn carrying? 	milk	2
+7 Doud dropped the football.
+8 Burnhard moved to the garden.
+9 What is Doud carrying? 	nothing	5 7
+10 Burnhard journeyed to the bedroom.
+11 Conn went to the garden.
+12 What is Doud carrying? 	nothing	5 7
+13 Doud went back to the bedroom.
+14 Doud travelled to the hallway.
+15 Colliani journeyed to the bedroom.
+16 Colliani moved to the garden.
+17 Conn went to the bathroom.
+18 Conn put down the milk.
+19 What is Conn carrying? 	nothing	2 18
+1 Burnhard got the milk there.
+2 Colliani grabbed the apple there.
+3 What is Burnhard carrying? 	milk	1
+4 Colliani moved to the bedroom.
+5 Colliani left the apple.
+6 What is Burnhard carrying? 	milk	1
+7 Conn got the apple there.
+8 Burnhard went back to the garden.
+9 What is Colliani carrying? 	nothing	2 5
+10 Burnhard got the football there.
+11 Burnhard left the milk.
+12 What is Burnhard carrying? 	football	1 11 10
+13 Doud went back to the kitchen.
+14 Doud went back to the bathroom.
+15 What is Burnhard carrying? 	football	1 11 10
+1 Burnhard went back to the bathroom.
+2 Burnhard travelled to the hallway.
+3 Doud got the apple there.
+4 Doud put down the apple.
+5 What is Doud carrying? 	nothing	3 4
+6 Burnhard travelled to the kitchen.
+7 Doud took the apple there.
+8 What is Doud carrying? 	apple	3 4 7
+9 Doud put down the apple.
+10 Doud took the apple there.
+11 What is Doud carrying? 	apple	3 4 7 9 10
+12 Doud put down the apple.
+13 Burnhard journeyed to the bedroom.
+14 What is Doud carrying? 	nothing	3 4 7 9 10 12
+15 Colliani travelled to the bedroom.
+16 Doud went to the kitchen.
+17 What is Doud carrying? 	nothing	3 4 7 9 10 12
+1 Conn grabbed the football there.
+2 Conn put down the football.
+3 What is Conn carrying? 	nothing	1 2
+4 Burnhard travelled to the bedroom.
+5 Colliani moved to the garden.
+6 What is Conn carrying? 	nothing	1 2
+7 Burnhard went to the garden.
+8 Burnhard moved to the bedroom.
+9 What is Conn carrying? 	nothing	1 2
+10 Conn took the football there.
+11 Doud took the milk there.
+12 What is Conn carrying? 	football	1 2 10
+13 Doud travelled to the garden.
+14 Conn left the football.
+15 What is Doud carrying? 	milk	11
+1 Conn took the football there.
+2 Burnhard went to the garden.
+3 What is Conn carrying? 	football	1
+4 Conn put down the football there.
+5 Conn grabbed the football there.
+6 What is Conn carrying? 	football	1 4 5
+7 Burnhard got the milk there.
+8 Conn moved to the office.
+9 What is Burnhard carrying? 	milk	7
+10 Conn left the football.
+11 Burnhard moved to the kitchen.
+12 What is Conn carrying? 	nothing	1 4 5 10
+13 Burnhard took the apple there.
+14 Burnhard moved to the bedroom.
+15 What is Conn carrying? 	nothing	1 4 5 10
+1 Burnhard went to the kitchen.
+2 Burnhard picked up the football there.
+3 What is Burnhard carrying? 	football	2
+4 Doud travelled to the bedroom.
+5 Conn travelled to the kitchen.
+6 What is Burnhard carrying? 	football	2
+7 Colliani went to the hallway.
+8 Burnhard went back to the garden.
+9 What is Burnhard carrying? 	football	2
+10 Doud went to the office.
+11 Burnhard left the football.
+12 What is Burnhard carrying? 	nothing	2 11
+13 Burnhard picked up the football there.
+14 Doud moved to the hallway.
+15 What is Burnhard carrying? 	football	2 11 13
+1 Doud grabbed the football there.
+2 Burnhard went back to the garden.
+3 What is Doud carrying? 	football	1
+4 Colliani went back to the bedroom.
+5 Colliani journeyed to the bathroom.
+6 What is Doud carrying? 	football	1
+7 Doud took the apple there.
+8 Burnhard went back to the bathroom.
+9 What is Doud carrying? 	football,apple	1 7
+10 Doud went back to the hallway.
+11 Conn travelled to the office.
+12 What is Doud carrying? 	football,apple	1 7
+13 Doud journeyed to the bathroom.
+14 Doud dropped the football.
+15 What is Doud carrying? 	apple	1 14 7
+1 Conn moved to the bedroom.
+2 Conn journeyed to the kitchen.
+3 Colliani grabbed the apple there.
+4 Doud got the milk there.
+5 What is Colliani carrying? 	apple	3
+6 Burnhard grabbed the football there.
+7 Doud put down the milk.
+8 What is Colliani carrying? 	apple	3
+9 Doud went back to the hallway.
+10 Colliani dropped the apple.
+11 What is Doud carrying? 	nothing	4 7
+12 Conn grabbed the apple there.
+13 Burnhard put down the football.
+14 What is Conn carrying? 	apple	12
+15 Burnhard grabbed the football there.
+16 Burnhard discarded the football there.
+17 What is Conn carrying? 	apple	12
+1 Burnhard went back to the kitchen.
+2 Burnhard travelled to the bedroom.
+3 Burnhard journeyed to the bathroom.
+4 Burnhard picked up the milk there.
+5 What is Burnhard carrying? 	milk	4
+6 Conn took the football there.
+7 Doud journeyed to the kitchen.
+8 What is Burnhard carrying? 	milk	4
+9 Burnhard went back to the hallway.
+10 Colliani journeyed to the hallway.
+11 What is Burnhard carrying? 	milk	4
+12 Conn dropped the football.
+13 Conn grabbed the football there.
+14 What is Conn carrying? 	football	6 12 13
+15 Colliani went to the bedroom.
+16 Colliani travelled to the office.
+17 What is Conn carrying? 	football	6 12 13
+1 Burnhard moved to the bedroom.
+2 Doud got the football there.
+3 What is Doud carrying? 	football	2
+4 Burnhard journeyed to the garden.
+5 Burnhard moved to the office.
+6 What is Doud carrying? 	football	2
+7 Doud went to the kitchen.
+8 Doud travelled to the office.
+9 What is Doud carrying? 	football	2
+10 Burnhard went to the kitchen.
+11 Doud went to the bathroom.
+12 Doud travelled to the office.
+13 Doud went to the hallway.
+14 Doud dropped the football.
+15 Conn journeyed to the kitchen.
+16 What is Doud carrying? 	nothing	2 14
+17 Burnhard journeyed to the office.
+18 Doud went back to the kitchen.
+19 What is Doud carrying? 	nothing	2 14
+1 Colliani went back to the office.
+2 Colliani took the apple there.
+3 What is Colliani carrying? 	apple	2
+4 Colliani journeyed to the garden.
+5 Colliani moved to the bedroom.
+6 What is Colliani carrying? 	apple	2
+7 Colliani picked up the football there.
+8 Burnhard travelled to the office.
+9 What is Colliani carrying? 	apple,football	2 7
+10 Conn travelled to the hallway.
+11 Colliani travelled to the garden.
+12 What is Colliani carrying? 	apple,football	2 7
+13 Colliani got the milk there.
+14 Burnhard moved to the garden.
+15 What is Colliani carrying? 	apple,football,milk	2 7 13
+1 Burnhard travelled to the bedroom.
+2 Burnhard travelled to the hallway.
+3 Burnhard went back to the garden.
+4 Burnhard travelled to the kitchen.
+5 Doud moved to the bedroom.
+6 Conn got the football there.
+7 What is Conn carrying? 	football	6
+8 Doud got the milk there.
+9 Colliani travelled to the bathroom.
+10 What is Doud carrying? 	milk	8
+11 Colliani went back to the garden.
+12 Doud dropped the milk.
+13 What is Conn carrying? 	football	6
+14 Conn dropped the football.
+15 Doud went to the kitchen.
+16 What is Conn carrying? 	nothing	6 14
+17 Burnhard went to the bathroom.
+18 Conn travelled to the hallway.
+19 What is Conn carrying? 	nothing	6 14
+1 Doud went back to the bathroom.
+2 Doud picked up the milk there.
+3 What is Doud carrying? 	milk	2
+4 Doud dropped the milk there.
+5 Doud grabbed the milk there.
+6 What is Doud carrying? 	milk	2 4 5
+7 Doud went to the garden.
+8 Colliani went to the garden.
+9 What is Doud carrying? 	milk	2 4 5
+10 Doud dropped the milk.
+11 Colliani journeyed to the office.
+12 What is Doud carrying? 	nothing	2 4 5 10
+13 Doud moved to the kitchen.
+14 Burnhard travelled to the kitchen.
+15 What is Doud carrying? 	nothing	2 4 5 10
+1 Colliani journeyed to the office.
+2 Doud moved to the office.
+3 Burnhard took the apple there.
+4 Burnhard picked up the football there.
+5 What is Burnhard carrying? 	apple,football	3 4
+6 Burnhard dropped the football.
+7 Colliani grabbed the football there.
+8 What is Colliani carrying? 	football	7
+9 Colliani discarded the football.
+10 Burnhard put down the apple.
+11 What is Burnhard carrying? 	nothing	3 10 4 6
+12 Doud grabbed the apple there.
+13 Colliani picked up the football there.
+14 What is Colliani carrying? 	football	7 9 13
+15 Burnhard went back to the bathroom.
+16 Doud left the apple there.
+17 What is Colliani carrying? 	football	7 9 13
+1 Doud journeyed to the office.
+2 Colliani went to the bedroom.
+3 Burnhard went to the bedroom.
+4 Burnhard went back to the bathroom.
+5 Conn moved to the garden.
+6 Colliani went back to the bathroom.
+7 Colliani journeyed to the office.
+8 Conn went back to the kitchen.
+9 Conn got the apple there.
+10 Conn dropped the apple.
+11 What is Conn carrying? 	nothing	9 10
+12 Conn got the apple there.
+13 Conn dropped the apple.
+14 What is Conn carrying? 	nothing	9 10 12 13
+15 Doud went to the bathroom.
+16 Conn took the apple there.
+17 What is Conn carrying? 	apple	9 10 12 13 16
+18 Burnhard moved to the office.
+19 Colliani moved to the garden.
+20 What is Conn carrying? 	apple	9 10 12 13 16
+21 Doud travelled to the hallway.
+22 Doud went to the kitchen.
+23 What is Conn carrying? 	apple	9 10 12 13 16
+1 Conn picked up the milk there.
+2 Conn picked up the football there.
+3 What is Conn carrying? 	milk,football	1 2
+4 Colliani went back to the garden.
+5 Conn went back to the garden.
+6 What is Conn carrying? 	milk,football	1 2
+7 Burnhard went to the bathroom.
+8 Conn dropped the football.
+9 What is Conn carrying? 	milk	1 2 8
+10 Burnhard moved to the hallway.
+11 Conn went to the kitchen.
+12 What is Conn carrying? 	milk	1 2 8
+13 Colliani went back to the office.
+14 Doud journeyed to the bathroom.
+15 What is Conn carrying? 	milk	1 2 8
+1 Doud moved to the office.
+2 Colliani journeyed to the kitchen.
+3 Conn moved to the garden.
+4 Colliani went back to the office.
+5 Burnhard travelled to the bedroom.
+6 Burnhard grabbed the milk there.
+7 What is Burnhard carrying? 	milk	6
+8 Colliani went back to the bathroom.
+9 Burnhard discarded the milk there.
+10 What is Burnhard carrying? 	nothing	6 9
+11 Burnhard went back to the kitchen.
+12 Doud went back to the hallway.
+13 What is Burnhard carrying? 	nothing	6 9
+14 Conn journeyed to the bedroom.
+15 Doud journeyed to the office.
+16 What is Burnhard carrying? 	nothing	6 9
+17 Colliani travelled to the garden.
+18 Colliani travelled to the kitchen.
+19 Conn moved to the garden.
+20 Colliani journeyed to the garden.
+21 Burnhard travelled to the hallway.
+22 Burnhard journeyed to the bedroom.
+23 Colliani journeyed to the office.
+24 Conn travelled to the bathroom.
+25 Conn travelled to the garden.
+26 Burnhard travelled to the garden.
+27 Burnhard went back to the bathroom.
+28 Colliani moved to the bathroom.
+29 Colliani moved to the bedroom.
+30 Colliani got the milk there.
+31 What is Colliani carrying? 	milk	30
+1 Doud moved to the garden.
+2 Doud moved to the bedroom.
+3 Burnhard went to the bathroom.
+4 Burnhard took the milk there.
+5 What is Burnhard carrying? 	milk	4
+6 Conn journeyed to the bathroom.
+7 Conn picked up the apple there.
+8 What is Burnhard carrying? 	milk	4
+9 Conn travelled to the office.
+10 Conn discarded the apple there.
+11 What is Burnhard carrying? 	milk	4
+12 Doud took the football there.
+13 Conn took the apple there.
+14 What is Doud carrying? 	football	12
+15 Conn put down the apple.
+16 Doud went back to the bathroom.
+17 What is Conn carrying? 	nothing	7 10 13 15
+1 Burnhard went back to the office.
+2 Burnhard grabbed the football there.
+3 What is Burnhard carrying? 	football	2
+4 Burnhard moved to the kitchen.
+5 Colliani journeyed to the hallway.
+6 What is Burnhard carrying? 	football	2
+7 Burnhard left the football.
+8 Conn went back to the bathroom.
+9 What is Burnhard carrying? 	nothing	2 7
+10 Burnhard took the football there.
+11 Colliani journeyed to the garden.
+12 What is Burnhard carrying? 	football	2 7 10
+13 Doud grabbed the apple there.
+14 Burnhard went back to the bathroom.
+15 What is Doud carrying? 	apple	13
+1 Colliani went back to the office.
+2 Burnhard went back to the office.
+3 Doud got the football there.
+4 Burnhard travelled to the garden.
+5 What is Doud carrying? 	football	3
+6 Conn journeyed to the kitchen.
+7 Doud went back to the kitchen.
+8 What is Doud carrying? 	football	3
+9 Burnhard picked up the milk there.
+10 Colliani travelled to the bedroom.
+11 What is Burnhard carrying? 	milk	9
+12 Burnhard went to the kitchen.
+13 Burnhard travelled to the garden.
+14 What is Burnhard carrying? 	milk	9
+15 Colliani went to the office.
+16 Burnhard put down the milk there.
+17 What is Burnhard carrying? 	nothing	9 16
+1 Burnhard moved to the kitchen.
+2 Conn moved to the bathroom.
+3 Colliani grabbed the milk there.
+4 Conn travelled to the hallway.
+5 What is Colliani carrying? 	milk	3
+6 Colliani dropped the milk.
+7 Colliani moved to the hallway.
+8 What is Colliani carrying? 	nothing	3 6
+9 Doud went to the bedroom.
+10 Doud got the football there.
+11 What is Colliani carrying? 	nothing	3 6
+12 Doud went to the hallway.
+13 Burnhard went to the garden.
+14 What is Doud carrying? 	football	10
+15 Doud discarded the football.
+16 Conn picked up the football there.
+17 What is Conn carrying? 	football	16
+1 Conn took the milk there.
+2 Doud got the football there.
+3 What is Conn carrying? 	milk	1
+4 Conn dropped the milk.
+5 Conn travelled to the bedroom.
+6 What is Conn carrying? 	nothing	1 4
+7 Doud left the football.
+8 Conn journeyed to the kitchen.
+9 What is Conn carrying? 	nothing	1 4
+10 Burnhard got the apple there.
+11 Burnhard dropped the apple.
+12 What is Burnhard carrying? 	nothing	10 11
+13 Burnhard got the football there.
+14 Conn went to the bathroom.
+15 What is Burnhard carrying? 	football	10 11 13
+1 Burnhard moved to the bathroom.
+2 Doud moved to the hallway.
+3 Burnhard went to the bedroom.
+4 Colliani moved to the bathroom.
+5 Conn journeyed to the office.
+6 Burnhard went to the office.
+7 Burnhard journeyed to the kitchen.
+8 Colliani went to the office.
+9 Colliani moved to the bedroom.
+10 Burnhard went back to the bathroom.
+11 Colliani picked up the milk there.
+12 Doud went to the bedroom.
+13 What is Colliani carrying? 	milk	11
+14 Doud went to the office.
+15 Colliani moved to the kitchen.
+16 What is Colliani carrying? 	milk	11
+17 Doud went to the kitchen.
+18 Colliani travelled to the hallway.
+19 Burnhard moved to the office.
+20 Conn journeyed to the garden.
+21 Colliani put down the milk.
+22 Conn travelled to the hallway.
+23 What is Colliani carrying? 	nothing	11 21
+24 Burnhard journeyed to the hallway.
+25 Doud travelled to the bathroom.
+26 What is Colliani carrying? 	nothing	11 21
+27 Burnhard took the milk there.
+28 Colliani went back to the bathroom.
+29 What is Burnhard carrying? 	milk	27
+1 Conn travelled to the bedroom.
+2 Burnhard got the apple there.
+3 What is Burnhard carrying? 	apple	2
+4 Burnhard put down the apple there.
+5 Burnhard moved to the kitchen.
+6 What is Burnhard carrying? 	nothing	2 4
+7 Doud went back to the bathroom.
+8 Colliani picked up the apple there.
+9 What is Burnhard carrying? 	nothing	2 4
+10 Doud picked up the football there.
+11 Colliani dropped the apple.
+12 What is Colliani carrying? 	nothing	8 11
+13 Doud journeyed to the garden.
+14 Burnhard went back to the garden.
+15 What is Doud carrying? 	football	10
+1 Burnhard went back to the bedroom.
+2 Doud went to the bathroom.
+3 Colliani travelled to the kitchen.
+4 Doud moved to the garden.
+5 Burnhard moved to the kitchen.
+6 Doud went to the bedroom.
+7 Burnhard travelled to the bedroom.
+8 Doud travelled to the hallway.
+9 Conn travelled to the bedroom.
+10 Burnhard went to the bathroom.
+11 Burnhard took the milk there.
+12 Colliani moved to the office.
+13 What is Burnhard carrying? 	milk	11
+14 Burnhard went back to the hallway.
+15 Conn went to the bathroom.
+16 What is Burnhard carrying? 	milk	11
+17 Conn went back to the office.
+18 Colliani grabbed the apple there.
+19 What is Colliani carrying? 	apple	18
+20 Doud took the football there.
+21 Conn went to the kitchen.
+22 What is Colliani carrying? 	apple	18
+23 Burnhard moved to the garden.
+24 Colliani left the apple.
+25 What is Doud carrying? 	football	20
+1 Doud went to the hallway.
+2 Conn travelled to the garden.
+3 Doud got the milk there.
+4 Doud journeyed to the office.
+5 What is Doud carrying? 	milk	3
+6 Doud put down the milk.
+7 Burnhard went to the kitchen.
+8 What is Doud carrying? 	nothing	3 6
+9 Doud picked up the milk there.
+10 Doud went to the hallway.
+11 What is Doud carrying? 	milk	3 6 9
+12 Doud took the football there.
+13 Conn went to the bathroom.
+14 What is Doud carrying? 	milk,football	3 6 9 12
+15 Doud put down the milk.
+16 Doud left the football.
+17 What is Doud carrying? 	nothing	3 6 9 15 12 16
+1 Burnhard journeyed to the bathroom.
+2 Doud grabbed the milk there.
+3 What is Doud carrying? 	milk	2
+4 Doud journeyed to the garden.
+5 Doud dropped the milk.
+6 What is Doud carrying? 	nothing	2 5
+7 Burnhard journeyed to the office.
+8 Burnhard travelled to the kitchen.
+9 What is Doud carrying? 	nothing	2 5
+10 Colliani moved to the garden.
+11 Burnhard journeyed to the garden.
+12 What is Doud carrying? 	nothing	2 5
+13 Doud got the football there.
+14 Colliani took the apple there.
+15 What is Doud carrying? 	football	2 5 13
+1 Conn moved to the hallway.
+2 Colliani went back to the bathroom.
+3 Doud went to the bathroom.
+4 Colliani travelled to the hallway.
+5 Conn journeyed to the garden.
+6 Doud went back to the bedroom.
+7 Conn moved to the kitchen.
+8 Conn picked up the apple there.
+9 What is Conn carrying? 	apple	8
+10 Conn travelled to the garden.
+11 Conn put down the apple.
+12 What is Conn carrying? 	nothing	8 11
+13 Conn journeyed to the office.
+14 Burnhard journeyed to the kitchen.
+15 What is Conn carrying? 	nothing	8 11
+16 Doud travelled to the garden.
+17 Burnhard went to the hallway.
+18 What is Conn carrying? 	nothing	8 11
+19 Doud went to the bathroom.
+20 Burnhard travelled to the garden.
+21 Burnhard travelled to the hallway.
+22 Conn went to the bedroom.
+23 Doud moved to the hallway.
+24 Conn grabbed the milk there.
+25 What is Conn carrying? 	milk	8 11 24
+1 Conn got the apple there.
+2 Colliani went back to the office.
+3 What is Conn carrying? 	apple	1
+4 Colliani moved to the bathroom.
+5 Burnhard journeyed to the garden.
+6 What is Conn carrying? 	apple	1
+7 Burnhard journeyed to the kitchen.
+8 Doud journeyed to the kitchen.
+9 Burnhard went to the hallway.
+10 Burnhard journeyed to the bedroom.
+11 Conn moved to the kitchen.
+12 Doud picked up the milk there.
+13 What is Doud carrying? 	milk	12
+14 Conn discarded the apple.
+15 Doud took the apple there.
+16 What is Conn carrying? 	nothing	1 14
+17 Colliani travelled to the kitchen.
+18 Doud put down the apple.
+19 What is Doud carrying? 	milk	12 15 18
+1 Colliani went back to the office.
+2 Colliani went back to the kitchen.
+3 Conn travelled to the bedroom.
+4 Burnhard travelled to the garden.
+5 Colliani moved to the office.
+6 Burnhard travelled to the office.
+7 Doud travelled to the hallway.
+8 Doud journeyed to the office.
+9 Doud went back to the bathroom.
+10 Burnhard journeyed to the garden.
+11 Doud got the milk there.
+12 Doud took the football there.
+13 What is Doud carrying? 	milk,football	11 12
+14 Conn went back to the garden.
+15 Doud moved to the kitchen.
+16 What is Doud carrying? 	milk,football	11 12
+17 Colliani journeyed to the hallway.
+18 Doud put down the milk.
+19 What is Doud carrying? 	football	11 18 12
+20 Doud travelled to the hallway.
+21 Colliani went to the garden.
+22 What is Doud carrying? 	football	11 18 12
+23 Doud travelled to the garden.
+24 Doud went to the bedroom.
+25 What is Doud carrying? 	football	11 18 12
+1 Burnhard journeyed to the garden.
+2 Conn travelled to the hallway.
+3 Conn took the football there.
+4 Colliani moved to the kitchen.
+5 What is Conn carrying? 	football	3
+6 Burnhard got the apple there.
+7 Colliani went back to the office.
+8 What is Conn carrying? 	football	3
+9 Conn went to the office.
+10 Colliani went back to the bathroom.
+11 What is Burnhard carrying? 	apple	6
+12 Burnhard went to the office.
+13 Burnhard moved to the hallway.
+14 Conn dropped the football.
+15 Burnhard dropped the apple there.
+16 What is Conn carrying? 	nothing	3 14
+17 Doud journeyed to the office.
+18 Conn moved to the kitchen.
+19 What is Conn carrying? 	nothing	3 14
+1 Conn journeyed to the hallway.
+2 Conn got the football there.
+3 What is Conn carrying? 	football	2
+4 Doud travelled to the kitchen.
+5 Colliani travelled to the bathroom.
+6 What is Conn carrying? 	football	2
+7 Doud went back to the bathroom.
+8 Conn went back to the office.
+9 What is Conn carrying? 	football	2
+10 Conn grabbed the apple there.
+11 Conn travelled to the hallway.
+12 What is Conn carrying? 	football,apple	2 10
+13 Conn went back to the bedroom.
+14 Colliani went back to the bedroom.
+15 What is Conn carrying? 	football,apple	2 10
+1 Burnhard moved to the garden.
+2 Colliani took the milk there.
+3 What is Colliani carrying? 	milk	2
+4 Colliani went to the bedroom.
+5 Doud travelled to the garden.
+6 What is Colliani carrying? 	milk	2
+7 Conn travelled to the kitchen.
+8 Conn went back to the garden.
+9 What is Colliani carrying? 	milk	2
+10 Colliani discarded the milk.
+11 Conn went to the bedroom.
+12 What is Colliani carrying? 	nothing	2 10
+13 Colliani journeyed to the kitchen.
+14 Burnhard journeyed to the kitchen.
+15 What is Colliani carrying? 	nothing	2 10
+1 Conn moved to the hallway.
+2 Doud travelled to the bathroom.
+3 Doud went back to the bedroom.
+4 Doud moved to the office.
+5 Doud journeyed to the garden.
+6 Conn went back to the bedroom.
+7 Doud went back to the hallway.
+8 Conn took the apple there.
+9 What is Conn carrying? 	apple	8
+10 Conn travelled to the bathroom.
+11 Conn left the apple.
+12 What is Conn carrying? 	nothing	8 11
+13 Colliani journeyed to the bedroom.
+14 Burnhard journeyed to the bedroom.
+15 What is Conn carrying? 	nothing	8 11
+16 Conn got the apple there.
+17 Colliani went back to the bathroom.
+18 What is Conn carrying? 	apple	8 11 16
+19 Conn put down the apple.
+20 Burnhard journeyed to the garden.
+21 What is Conn carrying? 	nothing	8 11 16 19
+1 Doud got the apple there.
+2 Burnhard journeyed to the office.
+3 What is Doud carrying? 	apple	1
+4 Colliani travelled to the garden.
+5 Doud went back to the kitchen.
+6 What is Doud carrying? 	apple	1
+7 Doud took the milk there.
+8 Burnhard went back to the kitchen.
+9 What is Doud carrying? 	apple,milk	1 7
+10 Doud went back to the garden.
+11 Doud left the milk.
+12 What is Doud carrying? 	apple	1 7 11
+13 Doud went to the bedroom.
+14 Doud took the football there.
+15 What is Doud carrying? 	apple,football	1 7 11 14
+1 Doud moved to the hallway.
+2 Doud journeyed to the garden.
+3 Burnhard moved to the garden.
+4 Colliani moved to the bathroom.
+5 Doud grabbed the apple there.
+6 Colliani moved to the garden.
+7 What is Doud carrying? 	apple	5
+8 Doud journeyed to the office.
+9 Colliani travelled to the hallway.
+10 What is Doud carrying? 	apple	5
+11 Conn went back to the hallway.
+12 Colliani journeyed to the office.
+13 Conn went back to the bathroom.
+14 Doud dropped the apple.
+15 What is Doud carrying? 	nothing	5 14
+16 Colliani got the apple there.
+17 Colliani went back to the kitchen.
+18 What is Doud carrying? 	nothing	5 14
+19 Colliani took the football there.
+20 Colliani left the football.
+21 What is Colliani carrying? 	apple	16 19 20
+1 Colliani moved to the office.
+2 Colliani took the apple there.
+3 What is Colliani carrying? 	apple	2
+4 Burnhard moved to the office.
+5 Burnhard moved to the kitchen.
+6 What is Colliani carrying? 	apple	2
+7 Doud moved to the office.
+8 Colliani picked up the football there.
+9 What is Colliani carrying? 	apple,football	2 8
+10 Colliani dropped the football.
+11 Conn went back to the office.
+12 What is Colliani carrying? 	apple	2 8 10
+13 Doud grabbed the football there.
+14 Doud discarded the football.
+15 What is Doud carrying? 	nothing	13 14
+1 Doud went to the garden.
+2 Conn moved to the bathroom.
+3 Burnhard moved to the garden.
+4 Colliani took the milk there.
+5 What is Colliani carrying? 	milk	4
+6 Conn travelled to the kitchen.
+7 Colliani travelled to the garden.
+8 What is Colliani carrying? 	milk	4
+9 Burnhard moved to the bedroom.
+10 Burnhard went to the office.
+11 What is Colliani carrying? 	milk	4
+12 Doud went to the kitchen.
+13 Colliani moved to the hallway.
+14 Doud travelled to the bedroom.
+15 Conn grabbed the football there.
+16 What is Conn carrying? 	football	15
+17 Conn went back to the office.
+18 Colliani dropped the milk.
+19 What is Conn carrying? 	football	15
+1 Conn moved to the office.
+2 Colliani got the milk there.
+3 What is Colliani carrying? 	milk	2
+4 Conn journeyed to the hallway.
+5 Colliani put down the milk.
+6 What is Colliani carrying? 	nothing	2 5
+7 Colliani moved to the kitchen.
+8 Burnhard moved to the garden.
+9 What is Colliani carrying? 	nothing	2 5
+10 Conn travelled to the office.
+11 Doud travelled to the bedroom.
+12 What is Colliani carrying? 	nothing	2 5
+13 Doud went back to the bathroom.
+14 Doud got the milk there.
+15 What is Doud carrying? 	milk	14
+1 Colliani took the milk there.
+2 Burnhard moved to the bedroom.
+3 What is Colliani carrying? 	milk	1
+4 Colliani dropped the milk.
+5 Colliani picked up the milk there.
+6 What is Colliani carrying? 	milk	1 4 5
+7 Conn travelled to the bedroom.
+8 Burnhard went to the bathroom.
+9 What is Colliani carrying? 	milk	1 4 5
+10 Colliani went to the hallway.
+11 Colliani went back to the kitchen.
+12 What is Colliani carrying? 	milk	1 4 5
+13 Burnhard went to the office.
+14 Conn moved to the office.
+15 Conn picked up the football there.
+16 Doud journeyed to the bathroom.
+17 What is Conn carrying? 	football	15
+1 Colliani took the milk there.
+2 Colliani journeyed to the office.
+3 What is Colliani carrying? 	milk	1
+4 Burnhard journeyed to the bathroom.
+5 Colliani dropped the milk.
+6 What is Colliani carrying? 	nothing	1 5
+7 Conn took the football there.
+8 Colliani grabbed the milk there.
+9 What is Colliani carrying? 	milk	1 5 8
+10 Burnhard went to the bedroom.
+11 Conn moved to the bedroom.
+12 What is Colliani carrying? 	milk	1 5 8
+13 Doud went back to the kitchen.
+14 Colliani went back to the garden.
+15 What is Colliani carrying? 	milk	1 5 8
+1 Colliani went to the bathroom.
+2 Doud went back to the office.
+3 Doud went to the bedroom.
+4 Doud got the apple there.
+5 What is Doud carrying? 	apple	4
+6 Doud journeyed to the bathroom.
+7 Doud discarded the apple.
+8 What is Doud carrying? 	nothing	4 7
+9 Burnhard travelled to the office.
+10 Doud got the apple there.
+11 What is Doud carrying? 	apple	4 7 10
+12 Conn went back to the bathroom.
+13 Doud discarded the apple.
+14 What is Doud carrying? 	nothing	4 7 10 13
+15 Conn took the apple there.
+16 Conn left the apple.
+17 What is Conn carrying? 	nothing	15 16
+1 Conn travelled to the bathroom.
+2 Burnhard journeyed to the kitchen.
+3 Burnhard went to the office.
+4 Conn moved to the kitchen.
+5 Burnhard grabbed the milk there.
+6 Burnhard dropped the milk.
+7 What is Burnhard carrying? 	nothing	5 6
+8 Burnhard grabbed the milk there.
+9 Burnhard took the apple there.
+10 What is Burnhard carrying? 	milk,apple	5 6 8 9
+11 Burnhard dropped the milk.
+12 Colliani moved to the garden.
+13 What is Burnhard carrying? 	apple	5 6 8 11 9
+14 Burnhard journeyed to the bathroom.
+15 Colliani journeyed to the hallway.
+16 What is Burnhard carrying? 	apple	5 6 8 11 9
+17 Colliani got the football there.
+18 Colliani left the football.
+19 What is Colliani carrying? 	nothing	17 18
+1 Colliani travelled to the bathroom.
+2 Doud went to the office.
+3 Conn journeyed to the bedroom.
+4 Burnhard travelled to the bathroom.
+5 Conn travelled to the kitchen.
+6 Conn moved to the garden.
+7 Conn moved to the kitchen.
+8 Burnhard moved to the hallway.
+9 Burnhard picked up the apple there.
+10 Colliani travelled to the kitchen.
+11 What is Burnhard carrying? 	apple	9
+12 Conn moved to the bathroom.
+13 Doud picked up the milk there.
+14 What is Doud carrying? 	milk	13
+15 Doud dropped the milk.
+16 Doud got the football there.
+17 What is Doud carrying? 	football	13 15 16
+18 Burnhard journeyed to the bedroom.
+19 Doud went back to the bathroom.
+20 What is Doud carrying? 	football	13 15 16
+21 Doud discarded the football.
+22 Burnhard discarded the apple.
+23 What is Burnhard carrying? 	nothing	9 22
+1 Conn went to the bathroom.
+2 Burnhard journeyed to the garden.
+3 Conn went back to the hallway.
+4 Conn picked up the apple there.
+5 What is Conn carrying? 	apple	4
+6 Conn moved to the office.
+7 Burnhard grabbed the milk there.
+8 What is Burnhard carrying? 	milk	7
+9 Colliani went to the bathroom.
+10 Burnhard dropped the milk.
+11 What is Burnhard carrying? 	nothing	7 10
+12 Conn put down the apple.
+13 Burnhard grabbed the milk there.
+14 What is Burnhard carrying? 	milk	7 10 13
+15 Burnhard went back to the bedroom.
+16 Doud took the apple there.
+17 What is Conn carrying? 	nothing	4 12
+1 Burnhard went back to the bathroom.
+2 Doud journeyed to the hallway.
+3 Doud went back to the garden.
+4 Colliani picked up the apple there.
+5 What is Colliani carrying? 	apple	4
+6 Burnhard went back to the kitchen.
+7 Colliani moved to the bathroom.
+8 What is Colliani carrying? 	apple	4
+9 Burnhard journeyed to the bedroom.
+10 Burnhard travelled to the hallway.
+11 What is Colliani carrying? 	apple	4
+12 Colliani travelled to the garden.
+13 Doud picked up the milk there.
+14 What is Doud carrying? 	milk	13
+15 Conn travelled to the kitchen.
+16 Doud dropped the milk.
+17 What is Doud carrying? 	nothing	13 16
+1 Colliani travelled to the office.
+2 Doud travelled to the bathroom.
+3 Conn grabbed the milk there.
+4 Colliani journeyed to the bedroom.
+5 What is Conn carrying? 	milk	3
+6 Conn discarded the milk.
+7 Conn got the milk there.
+8 What is Conn carrying? 	milk	3 6 7
+9 Conn discarded the milk there.
+10 Burnhard journeyed to the bathroom.
+11 What is Conn carrying? 	nothing	3 6 7 9
+12 Conn took the milk there.
+13 Conn went to the bedroom.
+14 What is Conn carrying? 	milk	3 6 7 9 12
+15 Colliani picked up the apple there.
+16 Colliani moved to the office.
+17 What is Conn carrying? 	milk	3 6 7 9 12
+1 Conn moved to the kitchen.
+2 Burnhard went back to the office.
+3 Doud took the apple there.
+4 Doud moved to the garden.
+5 What is Doud carrying? 	apple	3
+6 Conn moved to the bathroom.
+7 Doud dropped the apple.
+8 What is Doud carrying? 	nothing	3 7
+9 Doud grabbed the apple there.
+10 Doud travelled to the bathroom.
+11 What is Doud carrying? 	apple	3 7 9
+12 Doud moved to the office.
+13 Doud discarded the apple.
+14 What is Doud carrying? 	nothing	3 7 9 13
+15 Doud got the apple there.
+16 Conn journeyed to the kitchen.
+17 What is Doud carrying? 	apple	3 7 9 13 15
+1 Conn went to the bathroom.
+2 Conn grabbed the milk there.
+3 What is Conn carrying? 	milk	2
+4 Conn discarded the milk.
+5 Conn went to the garden.
+6 What is Conn carrying? 	nothing	2 4
+7 Burnhard went back to the bedroom.
+8 Colliani went to the kitchen.
+9 What is Conn carrying? 	nothing	2 4
+10 Burnhard went to the kitchen.
+11 Doud went to the kitchen.
+12 Conn moved to the kitchen.
+13 Doud went to the office.
+14 Doud journeyed to the hallway.
+15 Burnhard travelled to the hallway.
+16 Burnhard got the apple there.
+17 Doud went to the garden.
+18 What is Burnhard carrying? 	apple	16
+19 Doud went to the bathroom.
+20 Colliani travelled to the hallway.
+21 What is Burnhard carrying? 	apple	16
+1 Burnhard went back to the garden.
+2 Burnhard went back to the kitchen.
+3 Doud journeyed to the hallway.
+4 Colliani went back to the hallway.
+5 Doud went back to the office.
+6 Doud picked up the football there.
+7 What is Doud carrying? 	football	6
+8 Conn journeyed to the garden.
+9 Doud put down the football.
+10 What is Doud carrying? 	nothing	6 9
+11 Doud took the football there.
+12 Doud put down the football.
+13 What is Doud carrying? 	nothing	6 9 11 12
+14 Burnhard went back to the bedroom.
+15 Colliani journeyed to the bedroom.
+16 What is Doud carrying? 	nothing	6 9 11 12
+17 Doud went to the hallway.
+18 Burnhard journeyed to the kitchen.
+19 What is Doud carrying? 	nothing	6 9 11 12
+1 Colliani got the apple there.
+2 Colliani went back to the kitchen.
+3 What is Colliani carrying? 	apple	1
+4 Colliani went to the office.
+5 Burnhard moved to the garden.
+6 What is Colliani carrying? 	apple	1
+7 Colliani journeyed to the kitchen.
+8 Colliani went to the garden.
+9 Doud went to the kitchen.
+10 Colliani travelled to the office.
+11 Conn went to the garden.
+12 Colliani moved to the bathroom.
+13 Doud got the football there.
+14 Burnhard went to the kitchen.
+15 What is Doud carrying? 	football	13
+16 Burnhard travelled to the office.
+17 Burnhard went back to the garden.
+18 What is Doud carrying? 	football	13
+19 Burnhard moved to the office.
+20 Doud put down the football.
+21 What is Doud carrying? 	nothing	13 20
+1 Colliani grabbed the football there.
+2 Doud went to the kitchen.
+3 What is Colliani carrying? 	football	1
+4 Burnhard travelled to the hallway.
+5 Conn journeyed to the office.
+6 What is Colliani carrying? 	football	1
+7 Burnhard went back to the bathroom.
+8 Colliani went back to the kitchen.
+9 Burnhard moved to the garden.
+10 Colliani picked up the apple there.
+11 What is Colliani carrying? 	football,apple	1 10
+12 Doud travelled to the hallway.
+13 Conn moved to the bedroom.
+14 What is Colliani carrying? 	football,apple	1 10
+15 Doud journeyed to the garden.
+16 Colliani moved to the hallway.
+17 What is Colliani carrying? 	football,apple	1 10
+1 Burnhard went back to the garden.
+2 Burnhard took the apple there.
+3 What is Burnhard carrying? 	apple	2
+4 Doud went to the kitchen.
+5 Doud travelled to the bedroom.
+6 What is Burnhard carrying? 	apple	2
+7 Conn took the football there.
+8 Conn went to the bathroom.
+9 What is Conn carrying? 	football	7
+10 Doud journeyed to the garden.
+11 Colliani travelled to the bedroom.
+12 What is Conn carrying? 	football	7
+13 Conn put down the football there.
+14 Doud journeyed to the bedroom.
+15 What is Conn carrying? 	nothing	7 13
+1 Burnhard went back to the office.
+2 Burnhard moved to the hallway.
+3 Conn travelled to the bathroom.
+4 Colliani travelled to the bedroom.
+5 Doud got the football there.
+6 Doud picked up the milk there.
+7 What is Doud carrying? 	football,milk	5 6
+8 Burnhard moved to the bathroom.
+9 Conn journeyed to the kitchen.
+10 What is Doud carrying? 	football,milk	5 6
+11 Doud travelled to the office.
+12 Conn travelled to the hallway.
+13 What is Doud carrying? 	football,milk	5 6
+14 Conn journeyed to the garden.
+15 Burnhard journeyed to the kitchen.
+16 Doud left the milk.
+17 Conn grabbed the apple there.
+18 What is Conn carrying? 	apple	17
+19 Conn discarded the apple.
+20 Conn took the apple there.
+21 What is Conn carrying? 	apple	17 19 20
+1 Doud grabbed the football there.
+2 Doud dropped the football.
+3 What is Doud carrying? 	nothing	1 2
+4 Doud journeyed to the bathroom.
+5 Burnhard journeyed to the kitchen.
+6 What is Doud carrying? 	nothing	1 2
+7 Colliani journeyed to the garden.
+8 Conn picked up the milk there.
+9 What is Conn carrying? 	milk	8
+10 Burnhard took the apple there.
+11 Burnhard went to the bathroom.
+12 What is Burnhard carrying? 	apple	10
+13 Doud journeyed to the kitchen.
+14 Burnhard dropped the apple.
+15 What is Burnhard carrying? 	nothing	10 14
+1 Doud moved to the garden.
+2 Burnhard moved to the bathroom.
+3 Burnhard took the milk there.
+4 Colliani travelled to the bathroom.
+5 What is Burnhard carrying? 	milk	3
+6 Colliani took the football there.
+7 Burnhard dropped the milk.
+8 What is Burnhard carrying? 	nothing	3 7
+9 Burnhard got the milk there.
+10 Colliani travelled to the hallway.
+11 What is Burnhard carrying? 	milk	3 7 9
+12 Burnhard discarded the milk.
+13 Burnhard took the milk there.
+14 What is Burnhard carrying? 	milk	3 7 9 12 13
+15 Colliani went to the office.
+16 Burnhard left the milk.
+17 What is Burnhard carrying? 	nothing	3 7 9 12 13 16
+1 Conn went back to the bathroom.
+2 Doud grabbed the milk there.
+3 What is Doud carrying? 	milk	2
+4 Burnhard went back to the office.
+5 Doud went to the garden.
+6 What is Doud carrying? 	milk	2
+7 Doud went back to the kitchen.
+8 Doud went to the office.
+9 What is Doud carrying? 	milk	2
+10 Doud discarded the milk.
+11 Burnhard grabbed the milk there.
+12 What is Doud carrying? 	nothing	2 10
+13 Doud travelled to the hallway.
+14 Burnhard discarded the milk.
+15 What is Burnhard carrying? 	nothing	11 14
+1 Doud went back to the bathroom.
+2 Conn picked up the football there.
+3 What is Conn carrying? 	football	2
+4 Doud went back to the garden.
+5 Doud went back to the bedroom.
+6 What is Conn carrying? 	football	2
+7 Conn grabbed the milk there.
+8 Conn left the milk.
+9 What is Conn carrying? 	football	2 7 8
+10 Colliani journeyed to the kitchen.
+11 Colliani went to the bathroom.
+12 What is Conn carrying? 	football	2 7 8
+13 Conn left the football.
+14 Doud travelled to the bathroom.
+15 What is Conn carrying? 	nothing	2 13 7 8
+1 Conn went to the hallway.
+2 Conn journeyed to the kitchen.
+3 Doud went back to the kitchen.
+4 Doud took the football there.
+5 What is Doud carrying? 	football	4
+6 Doud dropped the football there.
+7 Colliani took the football there.
+8 What is Doud carrying? 	nothing	4 6
+9 Doud travelled to the office.
+10 Doud travelled to the garden.
+11 What is Doud carrying? 	nothing	4 6
+12 Conn moved to the hallway.
+13 Doud picked up the apple there.
+14 What is Doud carrying? 	apple	4 6 13
+15 Doud went to the bathroom.
+16 Colliani put down the football.
+17 What is Colliani carrying? 	nothing	7 16
+1 Doud went back to the office.
+2 Colliani got the milk there.
+3 What is Colliani carrying? 	milk	2
+4 Doud journeyed to the hallway.
+5 Conn grabbed the football there.
+6 What is Conn carrying? 	football	5
+7 Burnhard moved to the hallway.
+8 Colliani went back to the hallway.
+9 What is Conn carrying? 	football	5
+10 Doud went to the bathroom.
+11 Colliani moved to the office.
+12 What is Conn carrying? 	football	5
+13 Colliani went back to the bedroom.
+14 Colliani dropped the milk.
+15 What is Colliani carrying? 	nothing	2 14
+1 Doud went back to the bathroom.
+2 Conn got the apple there.
+3 What is Conn carrying? 	apple	2
+4 Burnhard picked up the milk there.
+5 Burnhard dropped the milk.
+6 What is Burnhard carrying? 	nothing	4 5
+7 Colliani went to the kitchen.
+8 Doud went to the kitchen.
+9 What is Burnhard carrying? 	nothing	4 5
+10 Doud went to the bedroom.
+11 Conn left the apple.
+12 What is Conn carrying? 	nothing	2 11
+13 Conn got the apple there.
+14 Burnhard got the milk there.
+15 What is Conn carrying? 	apple	2 11 13
+1 Burnhard journeyed to the office.
+2 Burnhard journeyed to the kitchen.
+3 Burnhard went back to the hallway.
+4 Doud got the football there.
+5 What is Doud carrying? 	football	4
+6 Conn went back to the hallway.
+7 Doud travelled to the kitchen.
+8 What is Doud carrying? 	football	4
+9 Burnhard journeyed to the bathroom.
+10 Conn grabbed the apple there.
+11 What is Doud carrying? 	football	4
+12 Burnhard journeyed to the bedroom.
+13 Conn travelled to the office.
+14 What is Conn carrying? 	apple	10
+15 Burnhard went to the bathroom.
+16 Doud went back to the office.
+17 What is Conn carrying? 	apple	10
+1 Burnhard moved to the office.
+2 Doud picked up the milk there.
+3 What is Doud carrying? 	milk	2
+4 Conn grabbed the football there.
+5 Conn moved to the hallway.
+6 What is Conn carrying? 	football	4
+7 Burnhard travelled to the kitchen.
+8 Doud went to the bathroom.
+9 What is Doud carrying? 	milk	2
+10 Burnhard journeyed to the bathroom.
+11 Colliani moved to the kitchen.
+12 Conn left the football.
+13 Burnhard went to the kitchen.
+14 What is Conn carrying? 	nothing	4 12
+15 Colliani got the apple there.
+16 Doud moved to the garden.
+17 What is Conn carrying? 	nothing	4 12
+1 Burnhard took the football there.
+2 Doud went back to the hallway.
+3 What is Burnhard carrying? 	football	1
+4 Doud travelled to the office.
+5 Colliani went back to the hallway.
+6 What is Burnhard carrying? 	football	1
+7 Colliani travelled to the garden.
+8 Colliani journeyed to the bedroom.
+9 Doud grabbed the apple there.
+10 Burnhard left the football.
+11 What is Doud carrying? 	apple	9
+12 Doud left the apple there.
+13 Doud got the apple there.
+14 What is Doud carrying? 	apple	9 12 13
+15 Burnhard went to the office.
+16 Burnhard travelled to the kitchen.
+17 What is Doud carrying? 	apple	9 12 13
+1 Doud travelled to the garden.
+2 Burnhard journeyed to the bedroom.
+3 Conn grabbed the football there.
+4 Burnhard travelled to the bathroom.
+5 What is Conn carrying? 	football	3
+6 Colliani journeyed to the office.
+7 Conn travelled to the kitchen.
+8 What is Conn carrying? 	football	3
+9 Conn went back to the bathroom.
+10 Conn dropped the football.
+11 What is Conn carrying? 	nothing	3 10
+12 Doud went back to the hallway.
+13 Doud got the milk there.
+14 What is Conn carrying? 	nothing	3 10
+15 Doud went to the office.
+16 Burnhard travelled to the garden.
+17 What is Doud carrying? 	milk	13
+1 Conn travelled to the hallway.
+2 Conn travelled to the kitchen.
+3 Doud journeyed to the office.
+4 Conn moved to the hallway.
+5 Conn travelled to the office.
+6 Colliani moved to the office.
+7 Colliani took the football there.
+8 Doud went back to the hallway.
+9 What is Colliani carrying? 	football	7
+10 Conn journeyed to the hallway.
+11 Colliani moved to the garden.
+12 What is Colliani carrying? 	football	7
+13 Colliani went to the kitchen.
+14 Burnhard moved to the kitchen.
+15 Colliani went to the bedroom.
+16 Colliani moved to the garden.
+17 Colliani dropped the football.
+18 Conn journeyed to the office.
+19 What is Colliani carrying? 	nothing	7 17
+20 Colliani took the football there.
+21 Doud went to the kitchen.
+22 What is Colliani carrying? 	football	7 17 20
+23 Colliani dropped the football.
+24 Burnhard moved to the bedroom.
+25 What is Colliani carrying? 	nothing	7 17 20 23
+1 Conn travelled to the hallway.
+2 Colliani went to the hallway.
+3 Doud went to the hallway.
+4 Burnhard journeyed to the kitchen.
+5 Burnhard journeyed to the office.
+6 Burnhard journeyed to the bedroom.
+7 Colliani went back to the bedroom.
+8 Colliani got the apple there.
+9 What is Colliani carrying? 	apple	8
+10 Burnhard travelled to the office.
+11 Colliani travelled to the garden.
+12 What is Colliani carrying? 	apple	8
+13 Burnhard picked up the milk there.
+14 Burnhard left the milk.
+15 What is Burnhard carrying? 	nothing	13 14
+16 Colliani dropped the apple.
+17 Burnhard went to the bathroom.
+18 What is Colliani carrying? 	nothing	8 16
+19 Conn travelled to the office.
+20 Conn grabbed the milk there.
+21 What is Conn carrying? 	milk	20
+1 Colliani went back to the bedroom.
+2 Colliani grabbed the apple there.
+3 What is Colliani carrying? 	apple	2
+4 Colliani journeyed to the kitchen.
+5 Conn travelled to the bedroom.
+6 What is Colliani carrying? 	apple	2
+7 Conn moved to the bathroom.
+8 Colliani put down the apple.
+9 What is Colliani carrying? 	nothing	2 8
+10 Colliani travelled to the office.
+11 Colliani travelled to the garden.
+12 What is Colliani carrying? 	nothing	2 8
+13 Doud travelled to the bedroom.
+14 Burnhard went to the hallway.
+15 What is Colliani carrying? 	nothing	2 8
+1 Burnhard took the milk there.
+2 Burnhard went back to the bedroom.
+3 What is Burnhard carrying? 	milk	1
+4 Colliani went to the bathroom.
+5 Colliani went to the garden.
+6 What is Burnhard carrying? 	milk	1
+7 Colliani journeyed to the kitchen.
+8 Conn picked up the apple there.
+9 What is Conn carrying? 	apple	8
+10 Conn journeyed to the garden.
+11 Burnhard put down the milk.
+12 What is Conn carrying? 	apple	8
+13 Conn dropped the apple.
+14 Burnhard grabbed the milk there.
+15 What is Burnhard carrying? 	milk	1 11 14
+1 Doud moved to the hallway.
+2 Doud went back to the kitchen.
+3 Conn travelled to the bathroom.
+4 Colliani went to the bedroom.
+5 Doud moved to the garden.
+6 Burnhard moved to the bedroom.
+7 Conn journeyed to the bedroom.
+8 Colliani moved to the bathroom.
+9 Colliani travelled to the office.
+10 Conn moved to the garden.
+11 Burnhard travelled to the office.
+12 Doud grabbed the milk there.
+13 What is Doud carrying? 	milk	12
+14 Doud took the apple there.
+15 Conn journeyed to the office.
+16 What is Doud carrying? 	milk,apple	12 14
+17 Conn journeyed to the hallway.
+18 Burnhard moved to the hallway.
+19 What is Doud carrying? 	milk,apple	12 14
+20 Colliani went back to the hallway.
+21 Colliani travelled to the office.
+22 Doud went to the kitchen.
+23 Burnhard journeyed to the office.
+24 Colliani travelled to the kitchen.
+25 Colliani travelled to the bathroom.
+26 Doud moved to the bathroom.
+27 Colliani grabbed the football there.
+28 What is Colliani carrying? 	football	27
+29 Conn went back to the office.
+30 Conn went to the bedroom.
+31 What is Colliani carrying? 	football	27
+1 Conn travelled to the bathroom.
+2 Conn moved to the kitchen.
+3 Conn moved to the office.
+4 Doud went to the office.
+5 Doud went back to the bedroom.
+6 Conn journeyed to the bathroom.
+7 Conn travelled to the kitchen.
+8 Doud moved to the kitchen.
+9 Colliani moved to the bathroom.
+10 Conn moved to the bedroom.
+11 Doud went back to the bedroom.
+12 Doud moved to the office.
+13 Burnhard moved to the garden.
+14 Burnhard got the football there.
+15 What is Burnhard carrying? 	football	14
+16 Burnhard moved to the bathroom.
+17 Burnhard put down the football there.
+18 What is Burnhard carrying? 	nothing	14 17
+19 Burnhard picked up the football there.
+20 Colliani moved to the kitchen.
+21 What is Burnhard carrying? 	football	14 17 19
+22 Burnhard travelled to the kitchen.
+23 Colliani went back to the office.
+24 What is Burnhard carrying? 	football	14 17 19
+25 Burnhard left the football.
+26 Burnhard went back to the office.
+27 What is Burnhard carrying? 	nothing	14 17 19 25
+1 Conn got the apple there.
+2 Doud picked up the football there.
+3 What is Doud carrying? 	football	2
+4 Burnhard went to the bathroom.
+5 Conn left the apple.
+6 What is Doud carrying? 	football	2
+7 Burnhard went to the garden.
+8 Doud moved to the hallway.
+9 What is Conn carrying? 	nothing	1 5
+10 Burnhard picked up the milk there.
+11 Doud left the football.
+12 What is Conn carrying? 	nothing	1 5
+13 Colliani travelled to the garden.
+14 Doud took the football there.
+15 What is Burnhard carrying? 	milk	10
+1 Burnhard moved to the bathroom.
+2 Colliani got the apple there.
+3 What is Colliani carrying? 	apple	2
+4 Conn got the football there.
+5 Doud journeyed to the bathroom.
+6 What is Colliani carrying? 	apple	2
+7 Conn went back to the bathroom.
+8 Conn went to the office.
+9 What is Conn carrying? 	football	4
+10 Conn left the football.
+11 Doud went to the bedroom.
+12 What is Conn carrying? 	nothing	4 10
+13 Colliani left the apple.
+14 Colliani got the apple there.
+15 What is Colliani carrying? 	apple	2 13 14
+1 Burnhard travelled to the hallway.
+2 Burnhard got the milk there.
+3 What is Burnhard carrying? 	milk	2
+4 Burnhard travelled to the bedroom.
+5 Colliani went to the garden.
+6 What is Burnhard carrying? 	milk	2
+7 Burnhard went back to the garden.
+8 Colliani grabbed the football there.
+9 What is Colliani carrying? 	football	8
+10 Doud took the apple there.
+11 Burnhard journeyed to the hallway.
+12 What is Colliani carrying? 	football	8
+13 Burnhard discarded the milk.
+14 Burnhard got the milk there.
+15 What is Doud carrying? 	apple	10
+1 Burnhard took the apple there.
+2 Burnhard left the apple.
+3 What is Burnhard carrying? 	nothing	1 2
+4 Doud went back to the garden.
+5 Colliani picked up the milk there.
+6 What is Burnhard carrying? 	nothing	1 2
+7 Conn moved to the office.
+8 Colliani grabbed the football there.
+9 What is Colliani carrying? 	milk,football	5 8
+10 Burnhard got the apple there.
+11 Burnhard went back to the garden.
+12 What is Burnhard carrying? 	apple	1 2 10
+13 Conn journeyed to the bathroom.
+14 Doud went back to the office.
+15 What is Burnhard carrying? 	apple	1 2 10
+1 Doud got the milk there.
+2 Burnhard grabbed the football there.
+3 What is Burnhard carrying? 	football	2
+4 Burnhard dropped the football.
+5 Conn went back to the hallway.
+6 What is Burnhard carrying? 	nothing	2 4
+7 Doud discarded the milk.
+8 Doud got the milk there.
+9 What is Doud carrying? 	milk	1 7 8
+10 Conn grabbed the apple there.
+11 Doud moved to the bathroom.
+12 What is Conn carrying? 	apple	10
+13 Burnhard travelled to the kitchen.
+14 Conn left the apple.
+15 What is Doud carrying? 	milk	1 7 8
+1 Burnhard grabbed the milk there.
+2 Burnhard dropped the milk there.
+3 What is Burnhard carrying? 	nothing	1 2
+4 Doud went back to the garden.
+5 Conn picked up the apple there.
+6 What is Burnhard carrying? 	nothing	1 2
+7 Burnhard picked up the milk there.
+8 Burnhard left the milk.
+9 What is Burnhard carrying? 	nothing	1 2 7 8
+10 Colliani went to the bedroom.
+11 Burnhard grabbed the milk there.
+12 What is Burnhard carrying? 	milk	1 2 7 8 11
+13 Conn put down the apple.
+14 Doud went to the office.
+15 What is Conn carrying? 	nothing	5 13
+1 Doud moved to the kitchen.
+2 Colliani journeyed to the office.
+3 Doud travelled to the garden.
+4 Colliani journeyed to the bedroom.
+5 Colliani went to the kitchen.
+6 Colliani got the apple there.
+7 What is Colliani carrying? 	apple	6
+8 Doud moved to the bathroom.
+9 Colliani discarded the apple.
+10 What is Colliani carrying? 	nothing	6 9
+11 Conn went to the bedroom.
+12 Colliani took the apple there.
+13 What is Colliani carrying? 	apple	6 9 12
+14 Doud journeyed to the office.
+15 Burnhard travelled to the hallway.
+16 What is Colliani carrying? 	apple	6 9 12
+17 Doud journeyed to the bathroom.
+18 Colliani moved to the bedroom.
+19 What is Colliani carrying? 	apple	6 9 12
+1 Conn went to the kitchen.
+2 Burnhard travelled to the bathroom.
+3 Colliani moved to the office.
+4 Doud took the football there.
+5 What is Doud carrying? 	football	4
+6 Burnhard moved to the bedroom.
+7 Doud went to the bedroom.
+8 What is Doud carrying? 	football	4
+9 Conn took the milk there.
+10 Colliani went back to the kitchen.
+11 What is Doud carrying? 	football	4
+12 Burnhard journeyed to the bathroom.
+13 Colliani journeyed to the bedroom.
+14 What is Conn carrying? 	milk	9
+15 Burnhard travelled to the garden.
+16 Conn discarded the milk there.
+17 What is Conn carrying? 	nothing	9 16
+1 Doud journeyed to the bathroom.
+2 Doud moved to the hallway.
+3 Conn went back to the garden.
+4 Doud picked up the milk there.
+5 What is Doud carrying? 	milk	4
+6 Burnhard journeyed to the kitchen.
+7 Doud moved to the bathroom.
+8 What is Doud carrying? 	milk	4
+9 Burnhard went back to the garden.
+10 Conn grabbed the apple there.
+11 What is Doud carrying? 	milk	4
+12 Doud journeyed to the garden.
+13 Doud went to the bedroom.
+14 What is Conn carrying? 	apple	10
+15 Colliani moved to the kitchen.
+16 Colliani went back to the garden.
+17 What is Conn carrying? 	apple	10
+1 Conn got the milk there.
+2 Burnhard picked up the football there.
+3 What is Conn carrying? 	milk	1
+4 Conn took the apple there.
+5 Conn moved to the kitchen.
+6 What is Conn carrying? 	milk,apple	1 4
+7 Doud journeyed to the bedroom.
+8 Colliani went back to the bathroom.
+9 What is Conn carrying? 	milk,apple	1 4
+10 Burnhard moved to the hallway.
+11 Colliani went to the hallway.
+12 Conn discarded the milk there.
+13 Conn got the milk there.
+14 What is Conn carrying? 	milk,apple	1 12 13 4
+15 Conn left the milk there.
+16 Burnhard journeyed to the bathroom.
+17 What is Conn carrying? 	apple	1 12 13 15 4
+1 Conn grabbed the football there.
+2 Colliani journeyed to the hallway.
+3 What is Conn carrying? 	football	1
+4 Doud went back to the garden.
+5 Doud went back to the hallway.
+6 What is Conn carrying? 	football	1
+7 Colliani journeyed to the kitchen.
+8 Conn grabbed the apple there.
+9 What is Conn carrying? 	football,apple	1 8
+10 Burnhard moved to the office.
+11 Doud went to the bedroom.
+12 What is Conn carrying? 	football,apple	1 8
+13 Conn left the apple.
+14 Burnhard moved to the bedroom.
+15 What is Conn carrying? 	football	1 8 13
+1 Doud travelled to the office.
+2 Doud moved to the kitchen.
+3 Doud took the football there.
+4 Burnhard moved to the office.
+5 What is Doud carrying? 	football	3
+6 Conn went back to the bedroom.
+7 Conn grabbed the milk there.
+8 What is Conn carrying? 	milk	7
+9 Doud put down the football.
+10 Doud got the football there.
+11 What is Doud carrying? 	football	3 9 10
+12 Colliani travelled to the bathroom.
+13 Doud journeyed to the garden.
+14 What is Conn carrying? 	milk	7
+15 Doud discarded the football.
+16 Doud moved to the kitchen.
+17 What is Doud carrying? 	nothing	3 9 10 15
+1 Burnhard went back to the garden.
+2 Colliani travelled to the hallway.
+3 Doud grabbed the apple there.
+4 Doud took the football there.
+5 What is Doud carrying? 	apple,football	3 4
+6 Doud moved to the bedroom.
+7 Conn picked up the milk there.
+8 What is Conn carrying? 	milk	7
+9 Colliani travelled to the bathroom.
+10 Colliani moved to the bedroom.
+11 What is Doud carrying? 	apple,football	3 4
+12 Doud put down the apple.
+13 Colliani went to the kitchen.
+14 What is Conn carrying? 	milk	7
+15 Burnhard travelled to the hallway.
+16 Conn journeyed to the garden.
+17 What is Doud carrying? 	football	3 12 4
+1 Burnhard travelled to the bathroom.
+2 Colliani moved to the bathroom.
+3 Colliani took the apple there.
+4 Colliani went to the kitchen.
+5 What is Colliani carrying? 	apple	3
+6 Colliani dropped the apple.
+7 Colliani grabbed the apple there.
+8 What is Colliani carrying? 	apple	3 6 7
+9 Doud moved to the office.
+10 Doud went to the bedroom.
+11 What is Colliani carrying? 	apple	3 6 7
+12 Conn went to the office.
+13 Doud moved to the bathroom.
+14 What is Colliani carrying? 	apple	3 6 7
+15 Burnhard went to the bedroom.
+16 Burnhard took the football there.
+17 What is Burnhard carrying? 	football	16
+1 Doud travelled to the office.
+2 Conn moved to the bedroom.
+3 Doud took the milk there.
+4 Colliani travelled to the garden.
+5 What is Doud carrying? 	milk	3
+6 Conn travelled to the hallway.
+7 Colliani journeyed to the hallway.
+8 What is Doud carrying? 	milk	3
+9 Burnhard picked up the apple there.
+10 Doud put down the milk.
+11 What is Burnhard carrying? 	apple	9
+12 Colliani went to the bathroom.
+13 Doud journeyed to the hallway.
+14 What is Doud carrying? 	nothing	3 10
+15 Doud went to the kitchen.
+16 Burnhard journeyed to the bathroom.
+17 What is Doud carrying? 	nothing	3 10
+1 Burnhard moved to the hallway.
+2 Colliani moved to the hallway.
+3 Doud went back to the office.
+4 Burnhard journeyed to the kitchen.
+5 Colliani went back to the garden.
+6 Doud went back to the bedroom.
+7 Doud went back to the garden.
+8 Colliani went to the office.
+9 Burnhard grabbed the apple there.
+10 Conn went back to the bathroom.
+11 What is Burnhard carrying? 	apple	9
+12 Burnhard journeyed to the bathroom.
+13 Burnhard journeyed to the kitchen.
+14 What is Burnhard carrying? 	apple	9
+15 Colliani went to the hallway.
+16 Doud went back to the hallway.
+17 Colliani picked up the football there.
+18 Burnhard journeyed to the office.
+19 What is Colliani carrying? 	football	17
+20 Colliani went back to the kitchen.
+21 Doud moved to the garden.
+22 What is Colliani carrying? 	football	17
+23 Colliani went back to the bedroom.
+24 Burnhard went to the hallway.
+25 Burnhard moved to the kitchen.
+26 Doud moved to the kitchen.
+27 Conn travelled to the office.
+28 Burnhard left the apple there.
+29 What is Burnhard carrying? 	nothing	9 28
+1 Colliani travelled to the kitchen.
+2 Doud took the apple there.
+3 What is Doud carrying? 	apple	2
+4 Burnhard journeyed to the hallway.
+5 Colliani went back to the bathroom.
+6 What is Doud carrying? 	apple	2
+7 Conn travelled to the garden.
+8 Burnhard moved to the kitchen.
+9 What is Doud carrying? 	apple	2
+10 Doud travelled to the bedroom.
+11 Conn travelled to the bathroom.
+12 Conn travelled to the hallway.
+13 Burnhard went to the office.
+14 Burnhard travelled to the kitchen.
+15 Burnhard went to the bathroom.
+16 Conn went back to the garden.
+17 Conn went to the kitchen.
+18 Burnhard travelled to the garden.
+19 Doud dropped the apple.
+20 What is Doud carrying? 	nothing	2 19
+21 Doud moved to the garden.
+22 Colliani travelled to the garden.
+23 What is Doud carrying? 	nothing	2 19
+1 Conn moved to the kitchen.
+2 Conn travelled to the bedroom.
+3 Conn went to the office.
+4 Doud journeyed to the bathroom.
+5 Conn travelled to the kitchen.
+6 Colliani went back to the kitchen.
+7 Conn went back to the office.
+8 Colliani went to the bedroom.
+9 Burnhard travelled to the garden.
+10 Burnhard went back to the office.
+11 Burnhard got the milk there.
+12 Conn picked up the football there.
+13 What is Conn carrying? 	football	12
+14 Colliani travelled to the office.
+15 Conn journeyed to the hallway.
+16 What is Conn carrying? 	football	12
+17 Doud travelled to the office.
+18 Burnhard travelled to the garden.
+19 What is Conn carrying? 	football	12
+20 Burnhard picked up the apple there.
+21 Conn went back to the kitchen.
+22 What is Burnhard carrying? 	milk,apple	11 20
+23 Burnhard put down the milk.
+24 Burnhard took the milk there.
+25 What is Burnhard carrying? 	milk,apple	11 23 24 20
+1 Colliani moved to the hallway.
+2 Colliani journeyed to the garden.
+3 Conn moved to the garden.
+4 Conn grabbed the apple there.
+5 What is Conn carrying? 	apple	4
+6 Conn got the milk there.
+7 Colliani went back to the hallway.
+8 What is Conn carrying? 	apple,milk	4 6
+9 Conn put down the apple.
+10 Burnhard went back to the kitchen.
+11 What is Conn carrying? 	milk	4 9 6
+12 Conn dropped the milk.
+13 Doud went to the bathroom.
+14 What is Conn carrying? 	nothing	4 9 6 12
+15 Burnhard went back to the bedroom.
+16 Doud travelled to the office.
+17 What is Conn carrying? 	nothing	4 9 6 12
+1 Doud grabbed the milk there.
+2 Doud moved to the kitchen.
+3 What is Doud carrying? 	milk	1
+4 Doud put down the milk.
+5 Colliani took the milk there.
+6 What is Colliani carrying? 	milk	5
+7 Doud got the football there.
+8 Colliani journeyed to the office.
+9 What is Doud carrying? 	football	1 4 7
+10 Doud left the football.
+11 Colliani left the milk.
+12 What is Doud carrying? 	nothing	1 4 7 10
+13 Burnhard grabbed the football there.
+14 Colliani moved to the bathroom.
+15 What is Doud carrying? 	nothing	1 4 7 10
+1 Burnhard took the football there.
+2 Burnhard went to the bedroom.
+3 What is Burnhard carrying? 	football	1
+4 Doud moved to the hallway.
+5 Burnhard discarded the football.
+6 What is Burnhard carrying? 	nothing	1 5
+7 Colliani went back to the hallway.
+8 Doud travelled to the office.
+9 What is Burnhard carrying? 	nothing	1 5
+10 Burnhard got the football there.
+11 Conn moved to the hallway.
+12 What is Burnhard carrying? 	football	1 5 10
+13 Conn took the milk there.
+14 Burnhard left the football.
+15 What is Burnhard carrying? 	nothing	1 5 10 14
+1 Burnhard moved to the office.
+2 Burnhard got the milk there.
+3 What is Burnhard carrying? 	milk	2
+4 Colliani went back to the kitchen.
+5 Burnhard grabbed the apple there.
+6 What is Burnhard carrying? 	milk,apple	2 5
+7 Burnhard dropped the milk.
+8 Burnhard moved to the bathroom.
+9 What is Burnhard carrying? 	apple	2 7 5
+10 Burnhard moved to the bedroom.
+11 Colliani travelled to the hallway.
+12 What is Burnhard carrying? 	apple	2 7 5
+13 Doud moved to the kitchen.
+14 Burnhard discarded the apple.
+15 What is Burnhard carrying? 	nothing	2 7 5 14
+1 Doud moved to the garden.
+2 Burnhard moved to the kitchen.
+3 Colliani took the milk there.
+4 Doud went to the bathroom.
+5 What is Colliani carrying? 	milk	3
+6 Colliani moved to the office.
+7 Burnhard moved to the bathroom.
+8 What is Colliani carrying? 	milk	3
+9 Doud took the football there.
+10 Burnhard went back to the bedroom.
+11 What is Doud carrying? 	football	9
+12 Colliani put down the milk.
+13 Burnhard took the apple there.
+14 What is Colliani carrying? 	nothing	3 12
+15 Conn journeyed to the hallway.
+16 Burnhard left the apple there.
+17 What is Burnhard carrying? 	nothing	13 16
+1 Doud moved to the office.
+2 Conn travelled to the bedroom.
+3 Colliani journeyed to the office.
+4 Burnhard took the milk there.
+5 What is Burnhard carrying? 	milk	4
+6 Conn journeyed to the bathroom.
+7 Burnhard dropped the milk.
+8 What is Burnhard carrying? 	nothing	4 7
+9 Burnhard got the milk there.
+10 Conn moved to the kitchen.
+11 What is Burnhard carrying? 	milk	4 7 9
+12 Burnhard moved to the office.
+13 Burnhard moved to the hallway.
+14 What is Burnhard carrying? 	milk	4 7 9
+15 Doud travelled to the bedroom.
+16 Conn picked up the football there.
+17 What is Conn carrying? 	football	16
+1 Doud grabbed the football there.
+2 Conn moved to the bedroom.
+3 What is Doud carrying? 	football	1
+4 Conn went back to the garden.
+5 Colliani went back to the bedroom.
+6 What is Doud carrying? 	football	1
+7 Doud went to the bedroom.
+8 Doud travelled to the garden.
+9 Colliani went to the kitchen.
+10 Burnhard journeyed to the office.
+11 Doud picked up the apple there.
+12 Doud picked up the milk there.
+13 What is Doud carrying? 	football,apple,milk	1 11 12
+14 Burnhard journeyed to the garden.
+15 Doud left the milk.
+16 What is Doud carrying? 	football,apple	1 11 12 15
+17 Burnhard got the milk there.
+18 Doud went to the bedroom.
+19 What is Doud carrying? 	football,apple	1 11 12 15
+1 Doud moved to the garden.
+2 Conn journeyed to the bathroom.
+3 Doud moved to the bathroom.
+4 Colliani went to the bathroom.
+5 Burnhard moved to the bedroom.
+6 Conn travelled to the hallway.
+7 Colliani went back to the garden.
+8 Conn picked up the football there.
+9 What is Conn carrying? 	football	8
+10 Burnhard travelled to the kitchen.
+11 Conn travelled to the garden.
+12 What is Conn carrying? 	football	8
+13 Burnhard travelled to the hallway.
+14 Doud went to the hallway.
+15 What is Conn carrying? 	football	8
+16 Colliani picked up the milk there.
+17 Conn dropped the football.
+18 What is Colliani carrying? 	milk	16
+19 Doud went back to the kitchen.
+20 Conn travelled to the hallway.
+21 What is Colliani carrying? 	milk	16

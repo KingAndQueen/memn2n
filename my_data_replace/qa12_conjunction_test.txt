@@ -1,0 +1,3000 @@
+1 John and Mary travelled to the neptune.
+2 Sandra and Mary journeyed to the earth.
+3 Where is Mary? 	earth	2
+4 Mary and Daniel travelled to the moon.
+5 Daniel and Sandra journeyed to the jupiter.
+6 Where is Mary? 	moon	4
+7 Daniel and Mary went to the earth.
+8 Daniel and Sandra travelled to the neptune.
+9 Where is Sandra? 	neptune	8
+10 Mary and Sandra journeyed to the venus.
+11 Sandra and Mary travelled to the neptune.
+12 Where is Mary? 	neptune	11
+13 Daniel and John journeyed to the moon.
+14 Daniel and Mary went back to the jupiter.
+15 Where is John? 	moon	13
+1 Daniel and Mary journeyed to the jupiter.
+2 Mary and Sandra went back to the earth.
+3 Where is Mary? 	earth	2
+4 Daniel and Sandra journeyed to the neptune.
+5 Mary and Sandra travelled to the moon.
+6 Where is Sandra? 	moon	5
+7 Mary and John travelled to the mars.
+8 Mary and Daniel journeyed to the earth.
+9 Where is Mary? 	earth	8
+10 John and Daniel moved to the jupiter.
+11 John and Mary moved to the neptune.
+12 Where is Daniel? 	jupiter	10
+13 John and Mary moved to the venus.
+14 John and Mary journeyed to the mars.
+15 Where is John? 	mars	14
+1 Mary and Sandra went to the moon.
+2 Daniel and John journeyed to the neptune.
+3 Where is Mary? 	moon	1
+4 Mary and John moved to the earth.
+5 John and Sandra travelled to the jupiter.
+6 Where is John? 	jupiter	5
+7 Sandra and Mary journeyed to the mars.
+8 Mary and Daniel moved to the jupiter.
+9 Where is Daniel? 	jupiter	8
+10 John and Sandra travelled to the venus.
+11 Mary and Daniel moved to the neptune.
+12 Where is Sandra? 	venus	10
+13 Mary and Sandra went to the moon.
+14 Sandra and Mary moved to the neptune.
+15 Where is Mary? 	neptune	14
+1 Sandra and Mary moved to the moon.
+2 Sandra and John went to the neptune.
+3 Where is Mary? 	moon	1
+4 Mary and Sandra journeyed to the mars.
+5 Mary and John journeyed to the venus.
+6 Where is Sandra? 	mars	4
+7 Mary and Sandra travelled to the moon.
+8 Daniel and Sandra went to the venus.
+9 Where is Sandra? 	venus	8
+10 John and Sandra went to the jupiter.
+11 Daniel and John went to the moon.
+12 Where is Daniel? 	moon	11
+13 Mary and Daniel went back to the earth.
+14 John and Daniel travelled to the neptune.
+15 Where is Daniel? 	neptune	14
+1 Sandra and John went to the venus.
+2 Mary and John moved to the mars.
+3 Where is John? 	mars	2
+4 John and Daniel travelled to the neptune.
+5 John and Mary went back to the venus.
+6 Where is Daniel? 	neptune	4
+7 Sandra and Mary moved to the jupiter.
+8 Mary and Daniel journeyed to the mars.
+9 Where is Daniel? 	mars	8
+10 John and Daniel moved to the moon.
+11 Mary and Sandra travelled to the venus.
+12 Where is Mary? 	venus	11
+13 John and Daniel journeyed to the neptune.
+14 John and Sandra moved to the jupiter.
+15 Where is Sandra? 	jupiter	14
+1 John and Sandra moved to the earth.
+2 John and Daniel went to the moon.
+3 Where is Sandra? 	earth	1
+4 Mary and John travelled to the venus.
+5 John and Daniel travelled to the mars.
+6 Where is Mary? 	venus	4
+7 Sandra and Mary moved to the mars.
+8 Mary and Daniel journeyed to the neptune.
+9 Where is Sandra? 	mars	7
+10 John and Sandra journeyed to the jupiter.
+11 Mary and Sandra journeyed to the moon.
+12 Where is Mary? 	moon	11
+13 Daniel and Mary moved to the jupiter.
+14 Mary and Sandra went back to the mars.
+15 Where is Sandra? 	mars	14
+1 Mary and John travelled to the jupiter.
+2 John and Sandra moved to the moon.
+3 Where is Sandra? 	moon	2
+4 John and Daniel went to the neptune.
+5 Sandra and Daniel went back to the jupiter.
+6 Where is Sandra? 	jupiter	5
+7 Mary and Sandra went to the earth.
+8 Mary and Sandra moved to the jupiter.
+9 Where is Mary? 	jupiter	8
+10 Mary and Sandra journeyed to the neptune.
+11 Daniel and John travelled to the moon.
+12 Where is John? 	moon	11
+13 Sandra and Daniel went back to the venus.
+14 Daniel and Mary went back to the jupiter.
+15 Where is Daniel? 	jupiter	14
+1 John and Daniel travelled to the venus.
+2 Mary and John went back to the mars.
+3 Where is John? 	mars	2
+4 John and Mary went to the moon.
+5 Sandra and John moved to the neptune.
+6 Where is Mary? 	moon	4
+7 Mary and Daniel went back to the mars.
+8 John and Mary went back to the venus.
+9 Where is John? 	venus	8
+10 Mary and Daniel went back to the jupiter.
+11 Mary and Daniel moved to the mars.
+12 Where is Daniel? 	mars	11
+13 Sandra and Mary moved to the jupiter.
+14 Daniel and John journeyed to the moon.
+15 Where is Daniel? 	moon	14
+1 Mary and John moved to the venus.
+2 Sandra and John went back to the jupiter.
+3 Where is John? 	jupiter	2
+4 Daniel and John moved to the earth.
+5 Daniel and John moved to the venus.
+6 Where is John? 	venus	5
+7 John and Sandra went to the mars.
+8 Sandra and Mary went back to the earth.
+9 Where is John? 	mars	7
+10 Daniel and John moved to the jupiter.
+11 John and Daniel went to the mars.
+12 Where is Daniel? 	mars	11
+13 Sandra and Mary went to the mars.
+14 Mary and John went to the neptune.
+15 Where is Sandra? 	mars	13
+1 Mary and John went to the mars.
+2 Sandra and Daniel travelled to the neptune.
+3 Where is John? 	mars	1
+4 Sandra and Daniel moved to the venus.
+5 Sandra and John journeyed to the jupiter.
+6 Where is Daniel? 	venus	4
+7 Daniel and Mary moved to the neptune.
+8 John and Sandra went to the venus.
+9 Where is Daniel? 	neptune	7
+10 Daniel and Mary travelled to the moon.
+11 Daniel and Sandra went to the neptune.
+12 Where is Sandra? 	neptune	11
+13 John and Mary travelled to the earth.
+14 Sandra and John went back to the moon.
+15 Where is Mary? 	earth	13
+1 John and Mary went to the jupiter.
+2 Daniel and John went back to the mars.
+3 Where is Mary? 	jupiter	1
+4 Mary and John travelled to the neptune.
+5 Mary and John went to the moon.
+6 Where is Mary? 	moon	5
+7 Sandra and John went back to the neptune.
+8 Sandra and Daniel went back to the venus.
+9 Where is Daniel? 	venus	8
+10 Sandra and Daniel travelled to the earth.
+11 Daniel and Sandra moved to the neptune.
+12 Where is Daniel? 	neptune	11
+13 Sandra and Mary went back to the mars.
+14 Daniel and Mary went back to the venus.
+15 Where is Mary? 	venus	14
+1 John and Daniel went to the mars.
+2 Daniel and John went to the jupiter.
+3 Where is Daniel? 	jupiter	2
+4 Daniel and John travelled to the neptune.
+5 Mary and John moved to the venus.
+6 Where is John? 	venus	5
+7 Sandra and Daniel moved to the jupiter.
+8 Daniel and John journeyed to the neptune.
+9 Where is Daniel? 	neptune	8
+10 Mary and Daniel moved to the mars.
+11 John and Sandra journeyed to the moon.
+12 Where is Sandra? 	moon	11
+13 John and Daniel travelled to the earth.
+14 Daniel and Sandra journeyed to the neptune.
+15 Where is Daniel? 	neptune	14
+1 Sandra and Mary journeyed to the venus.
+2 John and Sandra journeyed to the earth.
+3 Where is Sandra? 	earth	2
+4 Daniel and John travelled to the neptune.
+5 Mary and Sandra moved to the mars.
+6 Where is Sandra? 	mars	5
+7 Sandra and Daniel travelled to the moon.
+8 John and Daniel went to the jupiter.
+9 Where is Sandra? 	moon	7
+10 Mary and Sandra went back to the jupiter.
+11 Sandra and Daniel journeyed to the neptune.
+12 Where is Daniel? 	neptune	11
+13 Mary and Sandra travelled to the moon.
+14 John and Mary went back to the venus.
+15 Where is Mary? 	venus	14
+1 Sandra and Mary went to the venus.
+2 John and Daniel went to the earth.
+3 Where is John? 	earth	2
+4 Sandra and Daniel travelled to the neptune.
+5 Sandra and John travelled to the mars.
+6 Where is John? 	mars	5
+7 Sandra and John moved to the moon.
+8 Mary and Daniel moved to the earth.
+9 Where is Sandra? 	moon	7
+10 John and Sandra travelled to the mars.
+11 Mary and Sandra went to the jupiter.
+12 Where is Daniel? 	earth	8
+13 Daniel and Mary moved to the neptune.
+14 Mary and Daniel went to the earth.
+15 Where is Daniel? 	earth	14
+1 Daniel and John travelled to the neptune.
+2 John and Mary went back to the jupiter.
+3 Where is Daniel? 	neptune	1
+4 John and Sandra travelled to the earth.
+5 John and Sandra went to the venus.
+6 Where is Mary? 	jupiter	2
+7 Mary and Daniel travelled to the venus.
+8 Daniel and John journeyed to the jupiter.
+9 Where is Daniel? 	jupiter	8
+10 John and Daniel went to the neptune.
+11 Mary and Daniel went back to the mars.
+12 Where is Daniel? 	mars	11
+13 Daniel and John went back to the jupiter.
+14 Mary and John travelled to the venus.
+15 Where is Daniel? 	jupiter	13
+1 John and Sandra travelled to the earth.
+2 John and Mary went to the neptune.
+3 Where is Mary? 	neptune	2
+4 Sandra and Daniel moved to the mars.
+5 Mary and John went back to the venus.
+6 Where is Mary? 	venus	5
+7 Sandra and Mary went to the earth.
+8 Daniel and John went back to the jupiter.
+9 Where is Daniel? 	jupiter	8
+10 Sandra and Daniel moved to the venus.
+11 John and Sandra travelled to the neptune.
+12 Where is John? 	neptune	11
+13 Daniel and Mary moved to the moon.
+14 John and Sandra moved to the earth.
+15 Where is Sandra? 	earth	14
+1 John and Mary moved to the jupiter.
+2 Mary and John went to the mars.
+3 Where is John? 	mars	2
+4 John and Sandra journeyed to the neptune.
+5 Sandra and Mary went to the earth.
+6 Where is John? 	neptune	4
+7 Daniel and John moved to the moon.
+8 Sandra and Mary went back to the mars.
+9 Where is Daniel? 	moon	7
+10 Sandra and Mary went to the moon.
+11 John and Mary travelled to the earth.
+12 Where is Mary? 	earth	11
+13 Daniel and John moved to the venus.
+14 John and Mary travelled to the mars.
+15 Where is John? 	mars	14
+1 Sandra and John travelled to the mars.
+2 Sandra and John went back to the jupiter.
+3 Where is John? 	jupiter	2
+4 John and Mary moved to the moon.
+5 Sandra and Mary travelled to the mars.
+6 Where is Mary? 	mars	5
+7 John and Mary travelled to the venus.
+8 Mary and Daniel went back to the neptune.
+9 Where is Mary? 	neptune	8
+10 Daniel and John journeyed to the earth.
+11 Daniel and John went to the moon.
+12 Where is John? 	moon	11
+13 Mary and Sandra went to the jupiter.
+14 Sandra and John travelled to the venus.
+15 Where is Mary? 	jupiter	13
+1 Daniel and John journeyed to the earth.
+2 Sandra and John travelled to the mars.
+3 Where is John? 	mars	2
+4 John and Daniel travelled to the venus.
+5 Sandra and Daniel went to the earth.
+6 Where is John? 	venus	4
+7 Sandra and Mary travelled to the venus.
+8 Sandra and John went to the neptune.
+9 Where is Daniel? 	earth	5
+10 Daniel and Sandra journeyed to the mars.
+11 Daniel and Mary went to the earth.
+12 Where is John? 	neptune	8
+13 Daniel and Mary went back to the neptune.
+14 Mary and John went back to the mars.
+15 Where is Daniel? 	neptune	13
+1 Daniel and John moved to the mars.
+2 Mary and Sandra journeyed to the neptune.
+3 Where is Sandra? 	neptune	2
+4 John and Daniel travelled to the earth.
+5 Sandra and Mary journeyed to the mars.
+6 Where is Sandra? 	mars	5
+7 Daniel and John travelled to the moon.
+8 Daniel and John journeyed to the mars.
+9 Where is John? 	mars	8
+10 John and Daniel travelled to the moon.
+11 Mary and Sandra travelled to the earth.
+12 Where is Mary? 	earth	11
+13 Daniel and Sandra moved to the venus.
+14 John and Daniel travelled to the jupiter.
+15 Where is Daniel? 	jupiter	14
+1 Daniel and Mary journeyed to the neptune.
+2 Mary and Daniel went to the venus.
+3 Where is Mary? 	venus	2
+4 Daniel and Sandra went back to the neptune.
+5 John and Daniel went to the earth.
+6 Where is Daniel? 	earth	5
+7 Mary and John moved to the jupiter.
+8 John and Mary went to the neptune.
+9 Where is John? 	neptune	8
+10 Daniel and John went to the moon.
+11 John and Daniel journeyed to the mars.
+12 Where is John? 	mars	11
+13 Sandra and Daniel journeyed to the earth.
+14 Daniel and Mary journeyed to the moon.
+15 Where is Daniel? 	moon	14
+1 Mary and Daniel went back to the venus.
+2 Daniel and John went to the neptune.
+3 Where is Daniel? 	neptune	2
+4 John and Sandra journeyed to the venus.
+5 Sandra and Daniel travelled to the moon.
+6 Where is Sandra? 	moon	5
+7 John and Daniel went back to the jupiter.
+8 John and Mary went back to the earth.
+9 Where is John? 	earth	8
+10 Daniel and John journeyed to the neptune.
+11 Mary and John travelled to the moon.
+12 Where is John? 	moon	11
+13 Mary and Sandra travelled to the neptune.
+14 Daniel and John moved to the venus.
+15 Where is Sandra? 	neptune	13
+1 Sandra and John went to the neptune.
+2 Daniel and Sandra moved to the moon.
+3 Where is Daniel? 	moon	2
+4 Sandra and John went back to the earth.
+5 Daniel and John travelled to the venus.
+6 Where is John? 	venus	5
+7 Sandra and Daniel went back to the neptune.
+8 John and Daniel went to the moon.
+9 Where is Daniel? 	moon	8
+10 Sandra and Mary moved to the jupiter.
+11 Sandra and Mary travelled to the mars.
+12 Where is Daniel? 	moon	8
+13 Daniel and Mary moved to the venus.
+14 Mary and Sandra moved to the jupiter.
+15 Where is Mary? 	jupiter	14
+1 Mary and Daniel moved to the neptune.
+2 Mary and Daniel moved to the moon.
+3 Where is Mary? 	moon	2
+4 Mary and John journeyed to the venus.
+5 John and Sandra moved to the moon.
+6 Where is Daniel? 	moon	2
+7 John and Sandra went to the neptune.
+8 Daniel and John moved to the earth.
+9 Where is John? 	earth	8
+10 Mary and Sandra went to the earth.
+11 John and Mary moved to the neptune.
+12 Where is John? 	neptune	11
+13 Daniel and Sandra moved to the mars.
+14 John and Daniel went back to the jupiter.
+15 Where is John? 	jupiter	14
+1 John and Daniel moved to the neptune.
+2 Mary and John went back to the earth.
+3 Where is John? 	earth	2
+4 Mary and John went to the neptune.
+5 Daniel and John travelled to the earth.
+6 Where is Mary? 	neptune	4
+7 Daniel and Sandra journeyed to the jupiter.
+8 Sandra and Mary went back to the mars.
+9 Where is Daniel? 	jupiter	7
+10 Daniel and Mary moved to the moon.
+11 Mary and Daniel journeyed to the earth.
+12 Where is Mary? 	earth	11
+13 Mary and John journeyed to the jupiter.
+14 John and Mary went to the moon.
+15 Where is John? 	moon	14
+1 John and Mary moved to the earth.
+2 Sandra and Daniel moved to the jupiter.
+3 Where is Sandra? 	jupiter	2
+4 Daniel and Mary travelled to the neptune.
+5 Mary and Daniel went to the earth.
+6 Where is Daniel? 	earth	5
+7 John and Sandra went back to the venus.
+8 Sandra and Daniel travelled to the neptune.
+9 Where is John? 	venus	7
+10 John and Daniel went to the earth.
+11 Sandra and Mary went back to the mars.
+12 Where is Daniel? 	earth	10
+13 Daniel and John travelled to the venus.
+14 Daniel and John moved to the earth.
+15 Where is John? 	earth	14
+1 Mary and John journeyed to the jupiter.
+2 Daniel and John journeyed to the neptune.
+3 Where is Mary? 	jupiter	1
+4 John and Sandra went to the venus.
+5 Mary and John went back to the mars.
+6 Where is John? 	mars	5
+7 Daniel and John went to the jupiter.
+8 Daniel and Sandra went back to the mars.
+9 Where is Sandra? 	mars	8
+10 Sandra and Daniel went back to the moon.
+11 Daniel and Sandra went back to the neptune.
+12 Where is Sandra? 	neptune	11
+13 John and Daniel moved to the venus.
+14 John and Daniel travelled to the jupiter.
+15 Where is Daniel? 	jupiter	14
+1 Sandra and Mary travelled to the venus.
+2 John and Sandra journeyed to the mars.
+3 Where is John? 	mars	2
+4 Sandra and Daniel journeyed to the earth.
+5 John and Mary travelled to the moon.
+6 Where is Daniel? 	earth	4
+7 Sandra and Mary went back to the neptune.
+8 Daniel and Sandra travelled to the mars.
+9 Where is Mary? 	neptune	7
+10 Daniel and Sandra went to the earth.
+11 Mary and Sandra journeyed to the mars.
+12 Where is Mary? 	mars	11
+13 Sandra and John travelled to the venus.
+14 Mary and John went to the earth.
+15 Where is John? 	earth	14
+1 Daniel and John went to the mars.
+2 Sandra and John went back to the earth.
+3 Where is John? 	earth	2
+4 John and Mary journeyed to the neptune.
+5 Mary and Daniel journeyed to the jupiter.
+6 Where is John? 	neptune	4
+7 John and Daniel moved to the earth.
+8 Mary and John went back to the venus.
+9 Where is Daniel? 	earth	7
+10 Mary and John went back to the earth.
+11 John and Sandra moved to the moon.
+12 Where is John? 	moon	11
+13 Daniel and John went to the mars.
+14 Daniel and Sandra moved to the venus.
+15 Where is Sandra? 	venus	14
+1 Daniel and John journeyed to the earth.
+2 Sandra and Mary went to the venus.
+3 Where is Daniel? 	earth	1
+4 Sandra and Mary travelled to the neptune.
+5 Mary and Sandra went to the earth.
+6 Where is Mary? 	earth	5
+7 Sandra and Daniel journeyed to the neptune.
+8 Daniel and John journeyed to the mars.
+9 Where is John? 	mars	8
+10 John and Sandra moved to the moon.
+11 Mary and John went back to the mars.
+12 Where is John? 	mars	11
+13 Mary and Daniel moved to the jupiter.
+14 Daniel and John went back to the neptune.
+15 Where is Daniel? 	neptune	14
+1 Mary and Daniel went back to the moon.
+2 Daniel and Sandra journeyed to the mars.
+3 Where is Mary? 	moon	1
+4 Daniel and Sandra went back to the moon.
+5 Sandra and Mary went back to the venus.
+6 Where is Sandra? 	venus	5
+7 Sandra and John travelled to the moon.
+8 Daniel and Sandra travelled to the neptune.
+9 Where is Sandra? 	neptune	8
+10 Mary and John travelled to the mars.
+11 Sandra and Daniel went to the venus.
+12 Where is John? 	mars	10
+13 Sandra and Daniel moved to the mars.
+14 John and Mary went to the venus.
+15 Where is Daniel? 	mars	13
+1 Sandra and Mary went to the venus.
+2 Sandra and Mary moved to the moon.
+3 Where is Mary? 	moon	2
+4 John and Sandra went to the neptune.
+5 Sandra and Daniel travelled to the moon.
+6 Where is Daniel? 	moon	5
+7 Daniel and Mary went to the venus.
+8 Mary and Daniel moved to the earth.
+9 Where is Daniel? 	earth	8
+10 Mary and John travelled to the moon.
+11 Sandra and John travelled to the neptune.
+12 Where is John? 	neptune	11
+13 Sandra and John went back to the venus.
+14 Mary and Sandra journeyed to the neptune.
+15 Where is Sandra? 	neptune	14
+1 Sandra and Daniel travelled to the earth.
+2 Sandra and John travelled to the jupiter.
+3 Where is Sandra? 	jupiter	2
+4 Daniel and Sandra travelled to the moon.
+5 Daniel and Mary travelled to the venus.
+6 Where is Daniel? 	venus	5
+7 John and Daniel went back to the moon.
+8 Daniel and John went to the neptune.
+9 Where is John? 	neptune	8
+10 John and Mary went to the mars.
+11 Daniel and John journeyed to the moon.
+12 Where is Daniel? 	moon	11
+13 Mary and Sandra went back to the earth.
+14 John and Sandra travelled to the mars.
+15 Where is John? 	mars	14
+1 Mary and Daniel went back to the venus.
+2 Mary and Daniel journeyed to the moon.
+3 Where is Daniel? 	moon	2
+4 Mary and Daniel journeyed to the earth.
+5 Daniel and Sandra went back to the neptune.
+6 Where is Mary? 	earth	4
+7 Sandra and Daniel journeyed to the moon.
+8 Mary and John went back to the jupiter.
+9 Where is Sandra? 	moon	7
+10 Mary and John went back to the moon.
+11 Mary and Sandra travelled to the mars.
+12 Where is John? 	moon	10
+13 Mary and John went to the venus.
+14 Sandra and Mary went to the earth.
+15 Where is Mary? 	earth	14
+1 Daniel and Sandra moved to the moon.
+2 Daniel and John travelled to the venus.
+3 Where is Daniel? 	venus	2
+4 John and Daniel went back to the earth.
+5 Sandra and Daniel went back to the mars.
+6 Where is Daniel? 	mars	5
+7 Daniel and John travelled to the neptune.
+8 Sandra and Mary travelled to the neptune.
+9 Where is Mary? 	neptune	8
+10 John and Mary went to the moon.
+11 Mary and Sandra travelled to the earth.
+12 Where is Mary? 	earth	11
+13 Sandra and John went to the jupiter.
+14 John and Daniel moved to the moon.
+15 Where is Sandra? 	jupiter	13
+1 John and Sandra went to the earth.
+2 John and Mary went back to the neptune.
+3 Where is John? 	neptune	2
+4 John and Sandra went back to the venus.
+5 Daniel and Mary journeyed to the venus.
+6 Where is Mary? 	venus	5
+7 Sandra and Mary moved to the mars.
+8 Mary and Sandra travelled to the jupiter.
+9 Where is Mary? 	jupiter	8
+10 Mary and Daniel moved to the mars.
+11 Mary and John went back to the earth.
+12 Where is Mary? 	earth	11
+13 John and Sandra went back to the mars.
+14 Sandra and John went back to the neptune.
+15 Where is John? 	neptune	14
+1 John and Daniel went back to the venus.
+2 Mary and Daniel travelled to the neptune.
+3 Where is John? 	venus	1
+4 Mary and John went back to the earth.
+5 John and Sandra went back to the mars.
+6 Where is John? 	mars	5
+7 Daniel and Sandra moved to the moon.
+8 Sandra and Mary moved to the mars.
+9 Where is Daniel? 	moon	7
+10 Sandra and Daniel moved to the jupiter.
+11 Daniel and John went back to the moon.
+12 Where is Daniel? 	moon	11
+13 Mary and Daniel went to the earth.
+14 Sandra and John journeyed to the neptune.
+15 Where is John? 	neptune	14
+1 Mary and Daniel went back to the mars.
+2 Mary and Sandra journeyed to the jupiter.
+3 Where is Daniel? 	mars	1
+4 Mary and John moved to the mars.
+5 Daniel and John moved to the venus.
+6 Where is Daniel? 	venus	5
+7 John and Mary journeyed to the neptune.
+8 Mary and Sandra moved to the mars.
+9 Where is Sandra? 	mars	8
+10 Mary and Sandra moved to the moon.
+11 Daniel and John journeyed to the earth.
+12 Where is John? 	earth	11
+13 Sandra and Mary journeyed to the earth.
+14 Daniel and Sandra travelled to the mars.
+15 Where is Sandra? 	mars	14
+1 Mary and Sandra went back to the mars.
+2 Daniel and Sandra travelled to the moon.
+3 Where is Daniel? 	moon	2
+4 Sandra and John moved to the venus.
+5 Sandra and John travelled to the jupiter.
+6 Where is Sandra? 	jupiter	5
+7 Mary and Sandra journeyed to the earth.
+8 Sandra and Mary moved to the mars.
+9 Where is Sandra? 	mars	8
+10 Daniel and Sandra went back to the earth.
+11 Daniel and John moved to the venus.
+12 Where is Daniel? 	venus	11
+13 Sandra and Mary travelled to the moon.
+14 John and Sandra went to the neptune.
+15 Where is Sandra? 	neptune	14
+1 John and Sandra journeyed to the earth.
+2 John and Mary travelled to the neptune.
+3 Where is John? 	neptune	2
+4 Mary and John went back to the mars.
+5 Sandra and Daniel travelled to the neptune.
+6 Where is Daniel? 	neptune	5
+7 Daniel and John journeyed to the moon.
+8 Daniel and Sandra journeyed to the earth.
+9 Where is Sandra? 	earth	8
+10 Daniel and John travelled to the venus.
+11 Sandra and John travelled to the neptune.
+12 Where is Daniel? 	venus	10
+13 John and Daniel moved to the earth.
+14 Mary and Daniel went to the moon.
+15 Where is Mary? 	moon	14
+1 Daniel and John travelled to the earth.
+2 Sandra and John journeyed to the mars.
+3 Where is Daniel? 	earth	1
+4 Mary and Daniel journeyed to the mars.
+5 John and Mary moved to the earth.
+6 Where is John? 	earth	5
+7 Mary and Daniel moved to the venus.
+8 Mary and Daniel journeyed to the neptune.
+9 Where is Mary? 	neptune	8
+10 John and Daniel went back to the moon.
+11 Mary and Daniel went to the jupiter.
+12 Where is Daniel? 	jupiter	11
+13 Daniel and John travelled to the earth.
+14 Daniel and Mary travelled to the moon.
+15 Where is Mary? 	moon	14
+1 John and Daniel travelled to the venus.
+2 Daniel and John journeyed to the moon.
+3 Where is John? 	moon	2
+4 Mary and Daniel travelled to the neptune.
+5 John and Daniel travelled to the jupiter.
+6 Where is Daniel? 	jupiter	5
+7 John and Sandra went to the mars.
+8 John and Mary moved to the venus.
+9 Where is John? 	venus	8
+10 Sandra and John moved to the neptune.
+11 Daniel and Sandra journeyed to the mars.
+12 Where is Sandra? 	mars	11
+13 Sandra and John journeyed to the earth.
+14 John and Daniel journeyed to the neptune.
+15 Where is John? 	neptune	14
+1 Daniel and John went to the neptune.
+2 Daniel and John travelled to the moon.
+3 Where is Daniel? 	moon	2
+4 Daniel and Mary went back to the mars.
+5 John and Daniel went to the neptune.
+6 Where is John? 	neptune	5
+7 Sandra and Daniel went to the moon.
+8 John and Sandra went back to the jupiter.
+9 Where is John? 	jupiter	8
+10 Daniel and Sandra went to the earth.
+11 John and Mary moved to the earth.
+12 Where is Daniel? 	earth	10
+13 John and Daniel moved to the neptune.
+14 Sandra and Mary moved to the neptune.
+15 Where is Mary? 	neptune	14
+1 John and Sandra journeyed to the neptune.
+2 Daniel and Mary went to the moon.
+3 Where is Daniel? 	moon	2
+4 Sandra and John went to the mars.
+5 Mary and Daniel moved to the neptune.
+6 Where is John? 	mars	4
+7 Daniel and Mary went back to the venus.
+8 Daniel and Mary went to the earth.
+9 Where is Mary? 	earth	8
+10 John and Daniel travelled to the jupiter.
+11 John and Daniel went back to the venus.
+12 Where is John? 	venus	11
+13 Mary and Sandra went back to the moon.
+14 Sandra and John went back to the mars.
+15 Where is Sandra? 	mars	14
+1 Daniel and Sandra went to the venus.
+2 Mary and John travelled to the neptune.
+3 Where is John? 	neptune	2
+4 Sandra and Mary travelled to the earth.
+5 Sandra and Daniel went to the mars.
+6 Where is John? 	neptune	2
+7 Daniel and Mary journeyed to the venus.
+8 Sandra and Mary journeyed to the moon.
+9 Where is Daniel? 	venus	7
+10 Daniel and John journeyed to the earth.
+11 Sandra and John went to the neptune.
+12 Where is Sandra? 	neptune	11
+13 Mary and Daniel went back to the neptune.
+14 Daniel and John went back to the jupiter.
+15 Where is Daniel? 	jupiter	14
+1 Sandra and Mary went back to the moon.
+2 Daniel and Sandra moved to the earth.
+3 Where is Sandra? 	earth	2
+4 John and Sandra travelled to the venus.
+5 Mary and John went to the mars.
+6 Where is John? 	mars	5
+7 John and Mary went back to the venus.
+8 John and Sandra journeyed to the mars.
+9 Where is Mary? 	venus	7
+10 Sandra and John travelled to the jupiter.
+11 John and Mary went to the neptune.
+12 Where is Mary? 	neptune	11
+13 Daniel and John went back to the venus.
+14 Daniel and Mary travelled to the moon.
+15 Where is Mary? 	moon	14
+1 John and Sandra went to the venus.
+2 Sandra and Daniel went to the earth.
+3 Where is Sandra? 	earth	2
+4 Sandra and Daniel went to the mars.
+5 Daniel and John travelled to the earth.
+6 Where is Sandra? 	mars	4
+7 John and Daniel travelled to the neptune.
+8 Sandra and John travelled to the jupiter.
+9 Where is John? 	jupiter	8
+10 Mary and John moved to the moon.
+11 John and Daniel went back to the jupiter.
+12 Where is John? 	jupiter	11
+13 John and Mary travelled to the venus.
+14 Sandra and John travelled to the earth.
+15 Where is John? 	earth	14
+1 Sandra and Daniel journeyed to the mars.
+2 Mary and Sandra moved to the neptune.
+3 Where is Mary? 	neptune	2
+4 Daniel and John went to the earth.
+5 Sandra and Daniel went to the moon.
+6 Where is Sandra? 	moon	5
+7 Sandra and Daniel went back to the neptune.
+8 Mary and Sandra moved to the venus.
+9 Where is Mary? 	venus	8
+10 John and Daniel travelled to the venus.
+11 Mary and Sandra moved to the neptune.
+12 Where is Sandra? 	neptune	11
+13 Mary and John travelled to the earth.
+14 John and Daniel journeyed to the moon.
+15 Where is Daniel? 	moon	14
+1 John and Daniel travelled to the earth.
+2 Daniel and Mary moved to the venus.
+3 Where is Daniel? 	venus	2
+4 Daniel and Mary moved to the jupiter.
+5 John and Mary moved to the neptune.
+6 Where is Mary? 	neptune	5
+7 Daniel and Mary went to the earth.
+8 Daniel and John went to the moon.
+9 Where is Mary? 	earth	7
+10 Daniel and John moved to the neptune.
+11 Sandra and John went to the venus.
+12 Where is Sandra? 	venus	11
+13 Daniel and John travelled to the moon.
+14 John and Daniel went back to the neptune.
+15 Where is John? 	neptune	14
+1 John and Daniel went to the moon.
+2 Daniel and Mary travelled to the venus.
+3 Where is Mary? 	venus	2
+4 Sandra and Daniel went to the mars.
+5 John and Mary journeyed to the earth.
+6 Where is Mary? 	earth	5
+7 John and Mary travelled to the moon.
+8 John and Sandra travelled to the jupiter.
+9 Where is John? 	jupiter	8
+10 Sandra and John went back to the mars.
+11 Mary and Sandra moved to the venus.
+12 Where is Sandra? 	venus	11
+13 Sandra and John moved to the moon.
+14 Sandra and Daniel travelled to the earth.
+15 Where is Sandra? 	earth	14
+1 Daniel and Sandra went to the neptune.
+2 John and Daniel went back to the moon.
+3 Where is Daniel? 	moon	2
+4 Mary and Sandra travelled to the venus.
+5 Sandra and John went back to the neptune.
+6 Where is Sandra? 	neptune	5
+7 John and Daniel moved to the earth.
+8 Sandra and Daniel journeyed to the moon.
+9 Where is Daniel? 	moon	8
+10 Daniel and Sandra moved to the jupiter.
+11 Mary and John travelled to the jupiter.
+12 Where is Sandra? 	jupiter	10
+13 Daniel and John travelled to the mars.
+14 Daniel and Mary went back to the earth.
+15 Where is Daniel? 	earth	14
+1 Sandra and Mary went back to the mars.
+2 Daniel and John moved to the mars.
+3 Where is Daniel? 	mars	2
+4 Daniel and Mary journeyed to the neptune.
+5 Daniel and Mary travelled to the venus.
+6 Where is Mary? 	venus	5
+7 Sandra and Mary went back to the neptune.
+8 John and Daniel journeyed to the jupiter.
+9 Where is John? 	jupiter	8
+10 Daniel and John travelled to the moon.
+11 Daniel and Sandra moved to the jupiter.
+12 Where is Daniel? 	jupiter	11
+13 Mary and Daniel moved to the mars.
+14 Mary and Sandra went back to the earth.
+15 Where is Mary? 	earth	14
+1 Mary and Daniel journeyed to the earth.
+2 John and Sandra moved to the venus.
+3 Where is John? 	venus	2
+4 Daniel and John went back to the mars.
+5 Daniel and Mary went back to the jupiter.
+6 Where is Daniel? 	jupiter	5
+7 John and Sandra journeyed to the earth.
+8 Daniel and John went to the venus.
+9 Where is Daniel? 	venus	8
+10 Mary and Daniel travelled to the neptune.
+11 Daniel and Mary moved to the jupiter.
+12 Where is Mary? 	jupiter	11
+13 Daniel and Sandra went back to the mars.
+14 John and Mary moved to the earth.
+15 Where is Sandra? 	mars	13
+1 John and Sandra travelled to the jupiter.
+2 Mary and John moved to the moon.
+3 Where is Mary? 	moon	2
+4 Mary and Sandra moved to the venus.
+5 Sandra and John went back to the earth.
+6 Where is Mary? 	venus	4
+7 John and Sandra moved to the mars.
+8 Sandra and Daniel went to the neptune.
+9 Where is Daniel? 	neptune	8
+10 Sandra and John went back to the moon.
+11 Mary and John went to the mars.
+12 Where is Mary? 	mars	11
+13 John and Sandra went back to the earth.
+14 John and Daniel went back to the jupiter.
+15 Where is Sandra? 	earth	13
+1 Daniel and Mary moved to the earth.
+2 John and Mary moved to the mars.
+3 Where is Daniel? 	earth	1
+4 John and Daniel went back to the neptune.
+5 Daniel and Mary travelled to the earth.
+6 Where is Mary? 	earth	5
+7 Daniel and John went back to the venus.
+8 Sandra and Mary went back to the neptune.
+9 Where is Daniel? 	venus	7
+10 Mary and Sandra went back to the venus.
+11 Mary and John went back to the jupiter.
+12 Where is John? 	jupiter	11
+13 John and Sandra went back to the moon.
+14 John and Sandra travelled to the jupiter.
+15 Where is Sandra? 	jupiter	14
+1 Sandra and John went back to the jupiter.
+2 John and Sandra moved to the venus.
+3 Where is John? 	venus	2
+4 John and Mary went back to the jupiter.
+5 Sandra and Mary travelled to the mars.
+6 Where is Mary? 	mars	5
+7 Sandra and Daniel went to the neptune.
+8 Mary and Daniel went back to the moon.
+9 Where is Mary? 	moon	8
+10 Mary and Sandra went to the venus.
+11 Sandra and John went to the neptune.
+12 Where is John? 	neptune	11
+13 John and Sandra journeyed to the mars.
+14 Daniel and Mary went back to the jupiter.
+15 Where is Mary? 	jupiter	14
+1 Mary and John went to the earth.
+2 Mary and Sandra moved to the neptune.
+3 Where is Mary? 	neptune	2
+4 Mary and Sandra travelled to the jupiter.
+5 Sandra and Mary went to the earth.
+6 Where is Sandra? 	earth	5
+7 John and Sandra moved to the moon.
+8 Mary and John went to the venus.
+9 Where is Sandra? 	moon	7
+10 Mary and John moved to the moon.
+11 Sandra and Daniel travelled to the mars.
+12 Where is John? 	moon	10
+13 John and Mary journeyed to the neptune.
+14 Mary and Sandra travelled to the earth.
+15 Where is Mary? 	earth	14
+1 Mary and Sandra went back to the moon.
+2 Sandra and John went back to the venus.
+3 Where is Sandra? 	venus	2
+4 Mary and John travelled to the jupiter.
+5 Sandra and Mary journeyed to the neptune.
+6 Where is Mary? 	neptune	5
+7 John and Mary went back to the mars.
+8 John and Sandra went back to the jupiter.
+9 Where is John? 	jupiter	8
+10 John and Mary moved to the moon.
+11 Sandra and Mary travelled to the venus.
+12 Where is Mary? 	venus	11
+13 Daniel and John went to the earth.
+14 Daniel and John travelled to the mars.
+15 Where is John? 	mars	14
+1 John and Daniel moved to the earth.
+2 Daniel and Sandra went back to the mars.
+3 Where is John? 	earth	1
+4 Daniel and Sandra went back to the moon.
+5 John and Sandra journeyed to the mars.
+6 Where is Sandra? 	mars	5
+7 Daniel and Sandra went to the earth.
+8 Sandra and Daniel went to the mars.
+9 Where is Sandra? 	mars	8
+10 Daniel and John went back to the moon.
+11 Daniel and Sandra travelled to the neptune.
+12 Where is Daniel? 	neptune	11
+13 Daniel and Mary moved to the mars.
+14 Mary and John journeyed to the earth.
+15 Where is John? 	earth	14
+1 Daniel and Sandra moved to the moon.
+2 John and Daniel went back to the venus.
+3 Where is Daniel? 	venus	2
+4 John and Daniel went to the earth.
+5 John and Mary travelled to the jupiter.
+6 Where is Daniel? 	earth	4
+7 Daniel and Sandra journeyed to the neptune.
+8 Mary and Sandra moved to the earth.
+9 Where is Mary? 	earth	8
+10 John and Mary moved to the moon.
+11 John and Mary moved to the mars.
+12 Where is John? 	mars	11
+13 Daniel and Sandra moved to the mars.
+14 Daniel and John went to the jupiter.
+15 Where is Daniel? 	jupiter	14
+1 Mary and Daniel went back to the moon.
+2 Daniel and Mary travelled to the venus.
+3 Where is Mary? 	venus	2
+4 Sandra and John went to the earth.
+5 Daniel and John journeyed to the jupiter.
+6 Where is Mary? 	venus	2
+7 Mary and Daniel travelled to the earth.
+8 Mary and Sandra travelled to the mars.
+9 Where is Mary? 	mars	8
+10 Sandra and Daniel went to the neptune.
+11 John and Daniel went back to the mars.
+12 Where is Sandra? 	neptune	10
+13 John and Daniel travelled to the jupiter.
+14 Mary and Sandra travelled to the venus.
+15 Where is Sandra? 	venus	14
+1 John and Daniel journeyed to the venus.
+2 Sandra and John went to the mars.
+3 Where is Sandra? 	mars	2
+4 Daniel and Mary journeyed to the mars.
+5 Sandra and Mary went to the earth.
+6 Where is Daniel? 	mars	4
+7 Mary and Daniel went back to the jupiter.
+8 Mary and Daniel travelled to the mars.
+9 Where is Mary? 	mars	8
+10 John and Mary journeyed to the jupiter.
+11 Daniel and John travelled to the neptune.
+12 Where is John? 	neptune	11
+13 Mary and Daniel went to the mars.
+14 Sandra and Mary went to the moon.
+15 Where is John? 	neptune	11
+1 John and Daniel went back to the mars.
+2 Sandra and Mary went to the jupiter.
+3 Where is Daniel? 	mars	1
+4 Daniel and John moved to the neptune.
+5 Mary and Daniel moved to the earth.
+6 Where is John? 	neptune	4
+7 Daniel and John travelled to the venus.
+8 Sandra and Daniel went back to the earth.
+9 Where is Daniel? 	earth	8
+10 Daniel and Mary went back to the jupiter.
+11 John and Daniel went to the moon.
+12 Where is John? 	moon	11
+13 Mary and Sandra travelled to the moon.
+14 Daniel and Mary moved to the venus.
+15 Where is Daniel? 	venus	14
+1 Sandra and John moved to the venus.
+2 John and Daniel moved to the earth.
+3 Where is Daniel? 	earth	2
+4 Daniel and Sandra went back to the mars.
+5 John and Sandra moved to the neptune.
+6 Where is Sandra? 	neptune	5
+7 John and Daniel went back to the jupiter.
+8 John and Sandra moved to the mars.
+9 Where is John? 	mars	8
+10 Sandra and Daniel journeyed to the venus.
+11 John and Mary went to the earth.
+12 Where is Mary? 	earth	11
+13 Daniel and Mary journeyed to the mars.
+14 Sandra and John travelled to the moon.
+15 Where is Mary? 	mars	13
+1 Daniel and Sandra went back to the mars.
+2 John and Mary moved to the neptune.
+3 Where is Mary? 	neptune	2
+4 Daniel and Sandra journeyed to the neptune.
+5 Mary and Daniel travelled to the mars.
+6 Where is Daniel? 	mars	5
+7 Mary and Daniel went to the earth.
+8 Sandra and John travelled to the earth.
+9 Where is Sandra? 	earth	8
+10 Daniel and Sandra went back to the mars.
+11 Sandra and Mary went back to the venus.
+12 Where is John? 	earth	8
+13 Sandra and John travelled to the neptune.
+14 Sandra and Mary journeyed to the earth.
+15 Where is John? 	neptune	13
+1 Sandra and Daniel journeyed to the earth.
+2 John and Mary went back to the earth.
+3 Where is Sandra? 	earth	1
+4 Mary and Sandra journeyed to the jupiter.
+5 Daniel and Mary moved to the moon.
+6 Where is Mary? 	moon	5
+7 Sandra and Mary travelled to the venus.
+8 John and Daniel journeyed to the jupiter.
+9 Where is John? 	jupiter	8
+10 Mary and Daniel travelled to the mars.
+11 Mary and Daniel went back to the jupiter.
+12 Where is Mary? 	jupiter	11
+13 Sandra and John journeyed to the moon.
+14 Sandra and Daniel went to the mars.
+15 Where is Sandra? 	mars	14
+1 Daniel and Mary journeyed to the earth.
+2 Sandra and John went back to the earth.
+3 Where is Sandra? 	earth	2
+4 Sandra and Daniel went to the mars.
+5 Daniel and Sandra went to the neptune.
+6 Where is John? 	earth	2
+7 Mary and Sandra moved to the moon.
+8 Daniel and Sandra went back to the mars.
+9 Where is Daniel? 	mars	8
+10 Mary and Sandra moved to the venus.
+11 Mary and John went back to the moon.
+12 Where is Mary? 	moon	11
+13 Mary and Sandra went to the earth.
+14 Mary and Sandra journeyed to the moon.
+15 Where is Sandra? 	moon	14
+1 Mary and Daniel travelled to the venus.
+2 John and Sandra went to the neptune.
+3 Where is Sandra? 	neptune	2
+4 Mary and John moved to the earth.
+5 Sandra and John went back to the venus.
+6 Where is Sandra? 	venus	5
+7 John and Mary went to the neptune.
+8 Sandra and John journeyed to the moon.
+9 Where is John? 	moon	8
+10 John and Sandra travelled to the venus.
+11 Sandra and Daniel went to the jupiter.
+12 Where is Daniel? 	jupiter	11
+13 Sandra and Daniel went to the earth.
+14 John and Mary went to the earth.
+15 Where is Sandra? 	earth	13
+1 John and Sandra went to the earth.
+2 John and Daniel moved to the venus.
+3 Where is Daniel? 	venus	2
+4 John and Mary went to the neptune.
+5 Daniel and Mary travelled to the mars.
+6 Where is Daniel? 	mars	5
+7 Mary and Sandra moved to the neptune.
+8 Mary and Daniel travelled to the jupiter.
+9 Where is Mary? 	jupiter	8
+10 Sandra and Mary went to the venus.
+11 Mary and John went to the jupiter.
+12 Where is Mary? 	jupiter	11
+13 Daniel and John travelled to the mars.
+14 Daniel and John went back to the jupiter.
+15 Where is Daniel? 	jupiter	14
+1 Mary and John journeyed to the mars.
+2 Daniel and Sandra journeyed to the earth.
+3 Where is Mary? 	mars	1
+4 Sandra and Mary went back to the jupiter.
+5 Mary and John went back to the earth.
+6 Where is Mary? 	earth	5
+7 Mary and Daniel travelled to the moon.
+8 Daniel and Sandra travelled to the venus.
+9 Where is Sandra? 	venus	8
+10 Daniel and Sandra journeyed to the moon.
+11 Mary and John journeyed to the neptune.
+12 Where is Daniel? 	moon	10
+13 Mary and Daniel journeyed to the earth.
+14 Daniel and Mary went back to the venus.
+15 Where is Mary? 	venus	14
+1 John and Daniel journeyed to the venus.
+2 Sandra and Mary went to the moon.
+3 Where is John? 	venus	1
+4 Daniel and John moved to the jupiter.
+5 John and Mary went to the earth.
+6 Where is John? 	earth	5
+7 John and Mary moved to the jupiter.
+8 Mary and John went to the earth.
+9 Where is John? 	earth	8
+10 Daniel and John went back to the moon.
+11 Mary and Sandra went back to the venus.
+12 Where is Daniel? 	moon	10
+13 Daniel and Sandra went to the mars.
+14 Mary and Sandra went to the jupiter.
+15 Where is Daniel? 	mars	13
+1 Daniel and Mary went back to the jupiter.
+2 Daniel and Mary moved to the mars.
+3 Where is Mary? 	mars	2
+4 Mary and Sandra journeyed to the jupiter.
+5 Sandra and John went to the venus.
+6 Where is John? 	venus	5
+7 Daniel and Sandra went to the jupiter.
+8 John and Mary went to the moon.
+9 Where is Mary? 	moon	8
+10 Sandra and John moved to the venus.
+11 John and Sandra went to the neptune.
+12 Where is John? 	neptune	11
+13 Daniel and John went to the earth.
+14 Daniel and John went back to the moon.
+15 Where is John? 	moon	14
+1 Sandra and John moved to the venus.
+2 Daniel and John moved to the moon.
+3 Where is Sandra? 	venus	1
+4 John and Mary journeyed to the venus.
+5 Mary and Sandra travelled to the moon.
+6 Where is John? 	venus	4
+7 Daniel and John moved to the mars.
+8 Daniel and Mary moved to the earth.
+9 Where is Daniel? 	earth	8
+10 John and Daniel journeyed to the moon.
+11 Sandra and Mary moved to the neptune.
+12 Where is Mary? 	neptune	11
+13 Daniel and Mary went back to the mars.
+14 Mary and Daniel went back to the neptune.
+15 Where is Daniel? 	neptune	14
+1 Sandra and Daniel journeyed to the venus.
+2 John and Daniel went back to the neptune.
+3 Where is Daniel? 	neptune	2
+4 Mary and Daniel went to the jupiter.
+5 Daniel and John travelled to the mars.
+6 Where is Daniel? 	mars	5
+7 John and Mary went back to the neptune.
+8 Daniel and Sandra moved to the moon.
+9 Where is Daniel? 	moon	8
+10 Daniel and Sandra journeyed to the earth.
+11 John and Daniel journeyed to the jupiter.
+12 Where is Sandra? 	earth	10
+13 Sandra and Mary journeyed to the venus.
+14 John and Mary travelled to the neptune.
+15 Where is John? 	neptune	14
+1 John and Sandra went back to the venus.
+2 John and Daniel journeyed to the neptune.
+3 Where is John? 	neptune	2
+4 Mary and John went back to the jupiter.
+5 Sandra and John moved to the mars.
+6 Where is Sandra? 	mars	5
+7 Mary and Daniel went to the mars.
+8 Mary and Sandra went to the venus.
+9 Where is John? 	mars	5
+10 John and Mary moved to the neptune.
+11 Mary and Sandra moved to the moon.
+12 Where is Sandra? 	moon	11
+13 John and Sandra went back to the earth.
+14 Sandra and John moved to the venus.
+15 Where is Sandra? 	venus	14
+1 Sandra and Daniel journeyed to the earth.
+2 John and Sandra travelled to the venus.
+3 Where is Daniel? 	earth	1
+4 Sandra and John travelled to the earth.
+5 Mary and Sandra went back to the mars.
+6 Where is Sandra? 	mars	5
+7 Sandra and Mary travelled to the earth.
+8 John and Mary moved to the jupiter.
+9 Where is Sandra? 	earth	7
+10 Mary and John travelled to the neptune.
+11 Mary and Sandra went to the moon.
+12 Where is Mary? 	moon	11
+13 Mary and Sandra went back to the neptune.
+14 Sandra and Daniel travelled to the moon.
+15 Where is Sandra? 	moon	14
+1 Mary and John travelled to the moon.
+2 Daniel and Mary went to the jupiter.
+3 Where is Mary? 	jupiter	2
+4 Daniel and Mary went to the neptune.
+5 Mary and John went back to the mars.
+6 Where is Daniel? 	neptune	4
+7 Mary and John moved to the earth.
+8 Mary and Daniel went to the jupiter.
+9 Where is Mary? 	jupiter	8
+10 Sandra and Mary went back to the venus.
+11 John and Sandra moved to the mars.
+12 Where is Daniel? 	jupiter	8
+13 Sandra and John moved to the earth.
+14 Sandra and Daniel journeyed to the venus.
+15 Where is Daniel? 	venus	14
+1 Sandra and Mary went back to the neptune.
+2 Mary and Sandra journeyed to the venus.
+3 Where is Sandra? 	venus	2
+4 Daniel and John went back to the neptune.
+5 John and Mary went to the jupiter.
+6 Where is Daniel? 	neptune	4
+7 Daniel and Sandra moved to the earth.
+8 Sandra and John moved to the venus.
+9 Where is Mary? 	jupiter	5
+10 Daniel and Mary went back to the venus.
+11 Sandra and Daniel travelled to the moon.
+12 Where is Daniel? 	moon	11
+13 John and Daniel journeyed to the neptune.
+14 Sandra and Daniel journeyed to the mars.
+15 Where is John? 	neptune	13
+1 Sandra and John moved to the jupiter.
+2 Daniel and John went to the venus.
+3 Where is Daniel? 	venus	2
+4 Sandra and Mary journeyed to the mars.
+5 Sandra and John moved to the moon.
+6 Where is John? 	moon	5
+7 Daniel and John moved to the mars.
+8 John and Mary journeyed to the jupiter.
+9 Where is John? 	jupiter	8
+10 Sandra and John went to the venus.
+11 Daniel and Mary moved to the earth.
+12 Where is Mary? 	earth	11
+13 John and Sandra went to the jupiter.
+14 John and Sandra went back to the earth.
+15 Where is Sandra? 	earth	14
+1 Mary and John journeyed to the mars.
+2 Mary and John went to the moon.
+3 Where is John? 	moon	2
+4 Daniel and Sandra moved to the jupiter.
+5 Sandra and Mary travelled to the venus.
+6 Where is Sandra? 	venus	5
+7 Daniel and John moved to the neptune.
+8 Sandra and Mary moved to the mars.
+9 Where is Sandra? 	mars	8
+10 Mary and Daniel moved to the venus.
+11 Mary and Sandra went back to the neptune.
+12 Where is Mary? 	neptune	11
+13 Sandra and Daniel went to the earth.
+14 Sandra and Daniel journeyed to the venus.
+15 Where is Sandra? 	venus	14
+1 John and Mary travelled to the jupiter.
+2 Mary and Daniel travelled to the earth.
+3 Where is Mary? 	earth	2
+4 Daniel and Sandra travelled to the venus.
+5 Mary and John journeyed to the mars.
+6 Where is Sandra? 	venus	4
+7 John and Daniel moved to the jupiter.
+8 Mary and Sandra moved to the earth.
+9 Where is John? 	jupiter	7
+10 Sandra and Mary journeyed to the venus.
+11 Mary and Sandra moved to the neptune.
+12 Where is Sandra? 	neptune	11
+13 John and Daniel went to the moon.
+14 Daniel and John travelled to the mars.
+15 Where is Daniel? 	mars	14
+1 Mary and Sandra went to the mars.
+2 Sandra and Mary went to the earth.
+3 Where is Sandra? 	earth	2
+4 Mary and Sandra journeyed to the jupiter.
+5 John and Daniel went back to the jupiter.
+6 Where is John? 	jupiter	5
+7 John and Mary travelled to the earth.
+8 Daniel and Sandra went back to the venus.
+9 Where is John? 	earth	7
+10 Mary and Sandra moved to the mars.
+11 Sandra and Mary moved to the neptune.
+12 Where is Sandra? 	neptune	11
+13 John and Mary journeyed to the mars.
+14 Mary and John journeyed to the earth.
+15 Where is Mary? 	earth	14
+1 Mary and Daniel went to the moon.
+2 Daniel and Sandra went back to the venus.
+3 Where is Daniel? 	venus	2
+4 John and Mary went to the venus.
+5 Daniel and Sandra went to the neptune.
+6 Where is Sandra? 	neptune	5
+7 John and Mary travelled to the mars.
+8 Daniel and John travelled to the earth.
+9 Where is John? 	earth	8
+10 Mary and Sandra went to the venus.
+11 Mary and Sandra travelled to the jupiter.
+12 Where is Sandra? 	jupiter	11
+13 John and Mary went back to the venus.
+14 Daniel and Sandra journeyed to the mars.
+15 Where is Sandra? 	mars	14
+1 Mary and John journeyed to the neptune.
+2 John and Sandra went to the moon.
+3 Where is Sandra? 	moon	2
+4 Sandra and John went to the neptune.
+5 John and Sandra journeyed to the venus.
+6 Where is Sandra? 	venus	5
+7 John and Sandra travelled to the mars.
+8 John and Daniel went back to the jupiter.
+9 Where is John? 	jupiter	8
+10 Mary and Sandra travelled to the jupiter.
+11 Mary and Daniel travelled to the mars.
+12 Where is Mary? 	mars	11
+13 Sandra and John journeyed to the neptune.
+14 Mary and John journeyed to the moon.
+15 Where is Mary? 	moon	14
+1 Daniel and Mary moved to the earth.
+2 John and Sandra went to the neptune.
+3 Where is John? 	neptune	2
+4 John and Mary moved to the mars.
+5 John and Sandra travelled to the venus.
+6 Where is Mary? 	mars	4
+7 Daniel and John moved to the neptune.
+8 John and Daniel travelled to the venus.
+9 Where is John? 	venus	8
+10 Mary and Daniel went to the jupiter.
+11 John and Daniel moved to the neptune.
+12 Where is Daniel? 	neptune	11
+13 John and Mary moved to the venus.
+14 John and Sandra went back to the moon.
+15 Where is Daniel? 	neptune	11
+1 John and Daniel journeyed to the jupiter.
+2 John and Mary moved to the venus.
+3 Where is John? 	venus	2
+4 Mary and John went back to the earth.
+5 Daniel and Mary moved to the moon.
+6 Where is Mary? 	moon	5
+7 Daniel and Sandra went back to the mars.
+8 Daniel and John travelled to the jupiter.
+9 Where is Mary? 	moon	5
+10 Mary and Sandra went to the jupiter.
+11 Daniel and Mary went back to the neptune.
+12 Where is Mary? 	neptune	11
+13 Mary and Sandra went to the earth.
+14 Daniel and Sandra went back to the mars.
+15 Where is Sandra? 	mars	14
+1 John and Mary journeyed to the neptune.
+2 Sandra and Mary moved to the mars.
+3 Where is Sandra? 	mars	2
+4 Mary and Sandra went back to the earth.
+5 John and Daniel went back to the moon.
+6 Where is Sandra? 	earth	4
+7 John and Daniel went to the earth.
+8 Sandra and John journeyed to the moon.
+9 Where is Daniel? 	earth	7
+10 John and Mary moved to the venus.
+11 John and Sandra moved to the mars.
+12 Where is John? 	mars	11
+13 Daniel and John journeyed to the venus.
+14 Daniel and Sandra journeyed to the earth.
+15 Where is Daniel? 	earth	14
+1 Daniel and John moved to the venus.
+2 Sandra and Mary moved to the neptune.
+3 Where is Mary? 	neptune	2
+4 John and Mary journeyed to the earth.
+5 John and Sandra moved to the mars.
+6 Where is John? 	mars	5
+7 Daniel and John journeyed to the neptune.
+8 John and Sandra travelled to the moon.
+9 Where is John? 	moon	8
+10 Sandra and Mary moved to the mars.
+11 Mary and John went back to the neptune.
+12 Where is Sandra? 	mars	10
+13 John and Sandra moved to the moon.
+14 Daniel and Sandra travelled to the jupiter.
+15 Where is Daniel? 	jupiter	14
+1 Daniel and John went to the jupiter.
+2 Sandra and Mary journeyed to the jupiter.
+3 Where is Mary? 	jupiter	2
+4 Daniel and Mary went to the venus.
+5 Mary and John went to the mars.
+6 Where is Mary? 	mars	5
+7 John and Sandra moved to the moon.
+8 Sandra and John journeyed to the mars.
+9 Where is John? 	mars	8
+10 Mary and John went back to the earth.
+11 Mary and Daniel travelled to the mars.
+12 Where is Mary? 	mars	11
+13 Sandra and Daniel moved to the earth.
+14 Sandra and John travelled to the neptune.
+15 Where is Sandra? 	neptune	14
+1 Sandra and Mary went back to the mars.
+2 John and Mary travelled to the neptune.
+3 Where is John? 	neptune	2
+4 Mary and Daniel moved to the jupiter.
+5 Daniel and John went back to the moon.
+6 Where is Daniel? 	moon	5
+7 Mary and Daniel travelled to the venus.
+8 Sandra and John moved to the earth.
+9 Where is Daniel? 	venus	7
+10 Mary and Daniel moved to the neptune.
+11 Sandra and John went back to the neptune.
+12 Where is Daniel? 	neptune	10
+13 Daniel and Sandra moved to the mars.
+14 John and Mary went back to the moon.
+15 Where is Sandra? 	mars	13
+1 Mary and John moved to the jupiter.
+2 John and Mary went to the moon.
+3 Where is John? 	moon	2
+4 John and Mary journeyed to the jupiter.
+5 Daniel and Mary journeyed to the venus.
+6 Where is Mary? 	venus	5
+7 Mary and Sandra travelled to the mars.
+8 John and Mary journeyed to the moon.
+9 Where is Mary? 	moon	8
+10 Sandra and Mary journeyed to the earth.
+11 Sandra and Mary went back to the neptune.
+12 Where is Mary? 	neptune	11
+13 Daniel and John went to the jupiter.
+14 Daniel and Mary journeyed to the moon.
+15 Where is Mary? 	moon	14
+1 Daniel and John went to the neptune.
+2 John and Sandra travelled to the jupiter.
+3 Where is Daniel? 	neptune	1
+4 Daniel and Sandra travelled to the mars.
+5 John and Mary travelled to the earth.
+6 Where is John? 	earth	5
+7 Sandra and Daniel went to the earth.
+8 Daniel and Sandra moved to the venus.
+9 Where is Sandra? 	venus	8
+10 Daniel and John journeyed to the mars.
+11 Mary and Sandra journeyed to the moon.
+12 Where is Mary? 	moon	11
+13 Daniel and Sandra journeyed to the earth.
+14 Daniel and John journeyed to the moon.
+15 Where is Daniel? 	moon	14
+1 John and Daniel went to the neptune.
+2 John and Daniel journeyed to the moon.
+3 Where is John? 	moon	2
+4 Daniel and Sandra journeyed to the neptune.
+5 John and Mary journeyed to the neptune.
+6 Where is Mary? 	neptune	5
+7 Daniel and John travelled to the earth.
+8 Sandra and Mary journeyed to the mars.
+9 Where is John? 	earth	7
+10 Mary and John journeyed to the moon.
+11 John and Mary went to the neptune.
+12 Where is Mary? 	neptune	11
+13 Daniel and John travelled to the venus.
+14 Sandra and Daniel went back to the moon.
+15 Where is Daniel? 	moon	14
+1 Mary and Sandra went back to the mars.
+2 Daniel and Mary moved to the moon.
+3 Where is Daniel? 	moon	2
+4 John and Daniel travelled to the jupiter.
+5 John and Sandra went back to the earth.
+6 Where is Daniel? 	jupiter	4
+7 Daniel and Mary travelled to the venus.
+8 Daniel and Sandra moved to the jupiter.
+9 Where is Daniel? 	jupiter	8
+10 Sandra and Mary journeyed to the neptune.
+11 John and Sandra journeyed to the jupiter.
+12 Where is Mary? 	neptune	10
+13 Sandra and Mary moved to the moon.
+14 Sandra and Daniel moved to the venus.
+15 Where is Sandra? 	venus	14
+1 Mary and John moved to the venus.
+2 Sandra and John moved to the jupiter.
+3 Where is John? 	jupiter	2
+4 Daniel and Mary journeyed to the mars.
+5 Sandra and Mary journeyed to the venus.
+6 Where is Mary? 	venus	5
+7 John and Daniel travelled to the earth.
+8 Daniel and Mary journeyed to the jupiter.
+9 Where is Daniel? 	jupiter	8
+10 Daniel and Sandra travelled to the neptune.
+11 Daniel and Sandra went back to the earth.
+12 Where is Mary? 	jupiter	8
+13 Mary and Daniel travelled to the venus.
+14 Sandra and John travelled to the neptune.
+15 Where is Daniel? 	venus	13
+1 Mary and John journeyed to the neptune.
+2 Sandra and John travelled to the jupiter.
+3 Where is Mary? 	neptune	1
+4 Sandra and Daniel moved to the neptune.
+5 Mary and John journeyed to the earth.
+6 Where is Mary? 	earth	5
+7 Sandra and John went to the mars.
+8 John and Mary went back to the venus.
+9 Where is John? 	venus	8
+10 Sandra and John journeyed to the jupiter.
+11 Mary and Sandra moved to the mars.
+12 Where is Mary? 	mars	11
+13 Daniel and Mary travelled to the moon.
+14 Sandra and Daniel moved to the earth.
+15 Where is Sandra? 	earth	14
+1 John and Daniel went back to the earth.
+2 Sandra and Mary went back to the venus.
+3 Where is Sandra? 	venus	2
+4 Daniel and Sandra travelled to the mars.
+5 Daniel and Mary went back to the jupiter.
+6 Where is Daniel? 	jupiter	5
+7 Mary and Sandra travelled to the neptune.
+8 Daniel and John went back to the venus.
+9 Where is Mary? 	neptune	7
+10 Daniel and John journeyed to the mars.
+11 Daniel and John journeyed to the jupiter.
+12 Where is John? 	jupiter	11
+13 Mary and Daniel journeyed to the moon.
+14 Sandra and John went back to the moon.
+15 Where is Mary? 	moon	13
+1 Mary and John travelled to the mars.
+2 Mary and Daniel went to the venus.
+3 Where is Mary? 	venus	2
+4 Sandra and Mary travelled to the moon.
+5 Mary and Sandra went to the mars.
+6 Where is Mary? 	mars	5
+7 Mary and Daniel journeyed to the moon.
+8 Daniel and Mary went back to the neptune.
+9 Where is Daniel? 	neptune	8
+10 Daniel and Sandra journeyed to the jupiter.
+11 Daniel and Sandra moved to the neptune.
+12 Where is Daniel? 	neptune	11
+13 John and Daniel journeyed to the moon.
+14 Sandra and Daniel went back to the jupiter.
+15 Where is Sandra? 	jupiter	14
+1 Sandra and Mary went back to the neptune.
+2 Daniel and John travelled to the mars.
+3 Where is Sandra? 	neptune	1
+4 Sandra and John went back to the moon.
+5 Mary and John went to the venus.
+6 Where is John? 	venus	5
+7 John and Sandra journeyed to the jupiter.
+8 Sandra and John journeyed to the earth.
+9 Where is Sandra? 	earth	8
+10 Sandra and John went to the mars.
+11 Mary and Sandra travelled to the neptune.
+12 Where is Mary? 	neptune	11
+13 Mary and Sandra journeyed to the venus.
+14 John and Mary travelled to the earth.
+15 Where is Sandra? 	venus	13
+1 Daniel and Mary journeyed to the earth.
+2 Mary and Sandra moved to the moon.
+3 Where is Daniel? 	earth	1
+4 Sandra and John journeyed to the neptune.
+5 Mary and Sandra went back to the earth.
+6 Where is Sandra? 	earth	5
+7 Sandra and Mary went to the jupiter.
+8 Sandra and Daniel went back to the moon.
+9 Where is Sandra? 	moon	8
+10 Mary and Daniel went to the earth.
+11 John and Mary travelled to the moon.
+12 Where is John? 	moon	11
+13 Mary and Daniel went to the neptune.
+14 John and Daniel went back to the earth.
+15 Where is Daniel? 	earth	14
+1 Daniel and Sandra travelled to the jupiter.
+2 John and Daniel travelled to the mars.
+3 Where is Daniel? 	mars	2
+4 John and Daniel journeyed to the moon.
+5 Daniel and Sandra travelled to the earth.
+6 Where is Sandra? 	earth	5
+7 Daniel and John moved to the mars.
+8 Mary and Daniel moved to the neptune.
+9 Where is Mary? 	neptune	8
+10 John and Daniel went back to the moon.
+11 Sandra and Daniel moved to the venus.
+12 Where is John? 	moon	10
+13 Mary and Daniel moved to the earth.
+14 John and Daniel travelled to the jupiter.
+15 Where is Daniel? 	jupiter	14
+1 Mary and Sandra went to the neptune.
+2 Daniel and John moved to the mars.
+3 Where is Daniel? 	mars	2
+4 Daniel and Sandra moved to the jupiter.
+5 Sandra and Daniel journeyed to the moon.
+6 Where is Sandra? 	moon	5
+7 Sandra and Daniel moved to the mars.
+8 Mary and John went back to the moon.
+9 Where is Sandra? 	mars	7
+10 Mary and John moved to the mars.
+11 John and Daniel moved to the venus.
+12 Where is John? 	venus	11
+13 Daniel and Mary moved to the moon.
+14 John and Mary went to the neptune.
+15 Where is Daniel? 	moon	13
+1 John and Mary journeyed to the mars.
+2 John and Mary went to the venus.
+3 Where is John? 	venus	2
+4 Sandra and Daniel moved to the mars.
+5 John and Sandra journeyed to the earth.
+6 Where is Sandra? 	earth	5
+7 Daniel and John journeyed to the moon.
+8 John and Daniel journeyed to the mars.
+9 Where is Daniel? 	mars	8
+10 Daniel and John moved to the earth.
+11 Daniel and Mary travelled to the neptune.
+12 Where is Daniel? 	neptune	11
+13 Sandra and John travelled to the moon.
+14 Sandra and Daniel journeyed to the mars.
+15 Where is John? 	moon	13
+1 Sandra and Daniel journeyed to the earth.
+2 Mary and John went back to the neptune.
+3 Where is Mary? 	neptune	2
+4 John and Daniel went back to the venus.
+5 Mary and John went to the moon.
+6 Where is Daniel? 	venus	4
+7 Daniel and Sandra moved to the mars.
+8 Sandra and John went to the venus.
+9 Where is John? 	venus	8
+10 John and Daniel moved to the jupiter.
+11 Daniel and Mary travelled to the neptune.
+12 Where is Mary? 	neptune	11
+13 Daniel and Mary journeyed to the mars.
+14 Sandra and Daniel moved to the neptune.
+15 Where is Daniel? 	neptune	14
+1 Mary and Daniel went back to the moon.
+2 John and Mary went back to the earth.
+3 Where is Mary? 	earth	2
+4 Sandra and Daniel journeyed to the earth.
+5 Daniel and John journeyed to the moon.
+6 Where is Daniel? 	moon	5
+7 Sandra and Mary travelled to the jupiter.
+8 Daniel and John moved to the earth.
+9 Where is Sandra? 	jupiter	7
+10 John and Mary went to the venus.
+11 Daniel and John journeyed to the mars.
+12 Where is John? 	mars	11
+13 Mary and Daniel moved to the moon.
+14 John and Mary travelled to the jupiter.
+15 Where is John? 	jupiter	14
+1 Sandra and Mary went back to the earth.
+2 Sandra and Daniel went back to the mars.
+3 Where is Daniel? 	mars	2
+4 Sandra and John journeyed to the earth.
+5 Sandra and John went back to the moon.
+6 Where is Sandra? 	moon	5
+7 Daniel and John went back to the neptune.
+8 Sandra and John journeyed to the earth.
+9 Where is John? 	earth	8
+10 Daniel and Sandra moved to the jupiter.
+11 Daniel and Sandra went to the mars.
+12 Where is Daniel? 	mars	11
+13 John and Daniel went to the jupiter.
+14 Daniel and John journeyed to the mars.
+15 Where is Sandra? 	mars	11
+1 Daniel and Sandra journeyed to the earth.
+2 John and Daniel went back to the neptune.
+3 Where is Daniel? 	neptune	2
+4 Daniel and Mary travelled to the moon.
+5 Mary and Daniel travelled to the earth.
+6 Where is Mary? 	earth	5
+7 Mary and Daniel went to the moon.
+8 Mary and John travelled to the mars.
+9 Where is Mary? 	mars	8
+10 John and Daniel moved to the earth.
+11 John and Daniel moved to the jupiter.
+12 Where is Daniel? 	jupiter	11
+13 John and Daniel journeyed to the moon.
+14 Mary and Sandra travelled to the moon.
+15 Where is Mary? 	moon	14
+1 John and Sandra moved to the jupiter.
+2 Daniel and John travelled to the moon.
+3 Where is John? 	moon	2
+4 Sandra and John went to the venus.
+5 Mary and Daniel journeyed to the jupiter.
+6 Where is John? 	venus	4
+7 Mary and John went to the moon.
+8 Mary and John went back to the jupiter.
+9 Where is John? 	jupiter	8
+10 John and Daniel moved to the earth.
+11 Sandra and Daniel travelled to the neptune.
+12 Where is Daniel? 	neptune	11
+13 John and Mary went to the moon.
+14 John and Sandra went to the jupiter.
+15 Where is Sandra? 	jupiter	14
+1 Daniel and Sandra went to the jupiter.
+2 Mary and John moved to the earth.
+3 Where is Mary? 	earth	2
+4 Daniel and Sandra journeyed to the venus.
+5 John and Daniel journeyed to the mars.
+6 Where is John? 	mars	5
+7 John and Daniel moved to the moon.
+8 John and Daniel journeyed to the neptune.
+9 Where is John? 	neptune	8
+10 Daniel and Mary went to the mars.
+11 Sandra and John moved to the jupiter.
+12 Where is Mary? 	mars	10
+13 John and Daniel travelled to the venus.
+14 Daniel and John moved to the neptune.
+15 Where is John? 	neptune	14
+1 Daniel and Sandra travelled to the venus.
+2 Daniel and Sandra moved to the mars.
+3 Where is Sandra? 	mars	2
+4 Mary and Sandra travelled to the jupiter.
+5 Daniel and Mary went to the venus.
+6 Where is Mary? 	venus	5
+7 Daniel and Mary went back to the jupiter.
+8 Mary and Daniel travelled to the moon.
+9 Where is Mary? 	moon	8
+10 Daniel and John travelled to the jupiter.
+11 Sandra and Daniel went to the venus.
+12 Where is John? 	jupiter	10
+13 Mary and Sandra went to the mars.
+14 Mary and Daniel travelled to the neptune.
+15 Where is Daniel? 	neptune	14
+1 Mary and Daniel travelled to the jupiter.
+2 Daniel and Mary went to the earth.
+3 Where is Mary? 	earth	2
+4 Sandra and Mary travelled to the mars.
+5 Sandra and Mary went to the moon.
+6 Where is Sandra? 	moon	5
+7 Mary and Sandra went to the earth.
+8 Daniel and Sandra moved to the venus.
+9 Where is Sandra? 	venus	8
+10 Mary and Sandra went to the moon.
+11 John and Mary went back to the neptune.
+12 Where is Mary? 	neptune	11
+13 Mary and Daniel journeyed to the jupiter.
+14 John and Sandra went back to the mars.
+15 Where is Daniel? 	jupiter	13
+1 Mary and Sandra journeyed to the mars.
+2 Sandra and John journeyed to the neptune.
+3 Where is Mary? 	mars	1
+4 John and Daniel went back to the jupiter.
+5 Sandra and Mary moved to the moon.
+6 Where is Daniel? 	jupiter	4
+7 Mary and John moved to the mars.
+8 Daniel and Mary went back to the moon.
+9 Where is Daniel? 	moon	8
+10 John and Sandra journeyed to the venus.
+11 John and Daniel travelled to the mars.
+12 Where is Mary? 	moon	8
+13 Mary and John went back to the jupiter.
+14 Daniel and John went back to the venus.
+15 Where is Daniel? 	venus	14
+1 John and Sandra travelled to the moon.
+2 Sandra and Mary moved to the mars.
+3 Where is Mary? 	mars	2
+4 Sandra and John went to the neptune.
+5 Daniel and Mary travelled to the earth.
+6 Where is Mary? 	earth	5
+7 John and Sandra travelled to the earth.
+8 John and Sandra moved to the neptune.
+9 Where is Sandra? 	neptune	8
+10 Sandra and John travelled to the venus.
+11 Sandra and Daniel moved to the mars.
+12 Where is Sandra? 	mars	11
+13 Sandra and Mary went back to the jupiter.
+14 Sandra and John journeyed to the earth.
+15 Where is Daniel? 	mars	11
+1 Daniel and Mary travelled to the jupiter.
+2 Daniel and Mary travelled to the moon.
+3 Where is Mary? 	moon	2
+4 Daniel and John journeyed to the mars.
+5 Daniel and John travelled to the jupiter.
+6 Where is John? 	jupiter	5
+7 John and Daniel went to the neptune.
+8 Daniel and Mary went back to the venus.
+9 Where is Daniel? 	venus	8
+10 John and Daniel went back to the mars.
+11 John and Sandra moved to the moon.
+12 Where is John? 	moon	11
+13 Sandra and Daniel went back to the jupiter.
+14 Daniel and Sandra journeyed to the venus.
+15 Where is Sandra? 	venus	14
+1 Mary and Daniel travelled to the jupiter.
+2 John and Daniel travelled to the mars.
+3 Where is Mary? 	jupiter	1
+4 Daniel and Mary travelled to the venus.
+5 Sandra and Daniel travelled to the jupiter.
+6 Where is Daniel? 	jupiter	5
+7 John and Sandra moved to the earth.
+8 Mary and John went to the jupiter.
+9 Where is Mary? 	jupiter	8
+10 Mary and John went back to the venus.
+11 Daniel and Sandra journeyed to the neptune.
+12 Where is Sandra? 	neptune	11
+13 John and Daniel went to the moon.
+14 Sandra and Daniel moved to the jupiter.
+15 Where is Sandra? 	jupiter	14
+1 Mary and Sandra travelled to the jupiter.
+2 Daniel and Mary journeyed to the mars.
+3 Where is Sandra? 	jupiter	1
+4 Mary and John went back to the earth.
+5 John and Sandra went back to the moon.
+6 Where is Sandra? 	moon	5
+7 John and Sandra moved to the neptune.
+8 Mary and Daniel moved to the neptune.
+9 Where is Daniel? 	neptune	8
+10 Mary and Sandra journeyed to the moon.
+11 Daniel and John went back to the jupiter.
+12 Where is Daniel? 	jupiter	11
+13 Mary and John went to the neptune.
+14 Mary and John moved to the jupiter.
+15 Where is Mary? 	jupiter	14
+1 Daniel and Sandra moved to the venus.
+2 Sandra and John journeyed to the mars.
+3 Where is John? 	mars	2
+4 John and Daniel journeyed to the neptune.
+5 Daniel and Mary travelled to the earth.
+6 Where is Mary? 	earth	5
+7 Sandra and Mary moved to the jupiter.
+8 Mary and Daniel moved to the mars.
+9 Where is Mary? 	mars	8
+10 Daniel and Mary went back to the moon.
+11 John and Mary travelled to the mars.
+12 Where is Mary? 	mars	11
+13 John and Daniel moved to the earth.
+14 Mary and John moved to the neptune.
+15 Where is John? 	neptune	14
+1 John and Mary went back to the venus.
+2 Daniel and John went back to the jupiter.
+3 Where is John? 	jupiter	2
+4 John and Daniel journeyed to the venus.
+5 Mary and Daniel journeyed to the jupiter.
+6 Where is Mary? 	jupiter	5
+7 John and Mary moved to the neptune.
+8 Mary and John journeyed to the mars.
+9 Where is Mary? 	mars	8
+10 Mary and John went back to the venus.
+11 John and Mary went to the mars.
+12 Where is Mary? 	mars	11
+13 Mary and Daniel moved to the earth.
+14 Sandra and Mary journeyed to the jupiter.
+15 Where is Daniel? 	earth	13
+1 Mary and John went to the jupiter.
+2 Daniel and Mary went back to the mars.
+3 Where is Mary? 	mars	2
+4 Daniel and John journeyed to the venus.
+5 Daniel and John travelled to the neptune.
+6 Where is John? 	neptune	5
+7 Daniel and Mary moved to the jupiter.
+8 Mary and Sandra moved to the earth.
+9 Where is Sandra? 	earth	8
+10 Daniel and Sandra journeyed to the venus.
+11 John and Daniel travelled to the earth.
+12 Where is John? 	earth	11
+13 John and Sandra journeyed to the neptune.
+14 John and Sandra went back to the jupiter.
+15 Where is Daniel? 	earth	11
+1 Sandra and Mary went to the jupiter.
+2 Daniel and Mary went back to the mars.
+3 Where is Sandra? 	jupiter	1
+4 John and Sandra went to the mars.
+5 John and Daniel went back to the venus.
+6 Where is Mary? 	mars	2
+7 Sandra and John went back to the earth.
+8 Mary and Daniel journeyed to the earth.
+9 Where is Daniel? 	earth	8
+10 Mary and Daniel went to the neptune.
+11 Daniel and Mary went back to the venus.
+12 Where is Daniel? 	venus	11
+13 Daniel and John went back to the mars.
+14 Mary and John went back to the jupiter.
+15 Where is John? 	jupiter	14
+1 Mary and Daniel moved to the venus.
+2 Mary and John went back to the mars.
+3 Where is John? 	mars	2
+4 Mary and Sandra journeyed to the moon.
+5 Daniel and Mary went back to the mars.
+6 Where is Sandra? 	moon	4
+7 John and Daniel journeyed to the venus.
+8 Daniel and Mary travelled to the jupiter.
+9 Where is Mary? 	jupiter	8
+10 John and Mary moved to the mars.
+11 Daniel and Sandra went back to the earth.
+12 Where is John? 	mars	10
+13 Mary and John went back to the moon.
+14 Mary and Sandra went to the mars.
+15 Where is Mary? 	mars	14
+1 Daniel and Sandra moved to the neptune.
+2 Mary and John travelled to the jupiter.
+3 Where is Daniel? 	neptune	1
+4 Sandra and Daniel travelled to the jupiter.
+5 Sandra and John moved to the earth.
+6 Where is John? 	earth	5
+7 Mary and Daniel journeyed to the mars.
+8 Mary and John travelled to the moon.
+9 Where is Mary? 	moon	8
+10 Mary and John went to the jupiter.
+11 Mary and Daniel went to the venus.
+12 Where is Daniel? 	venus	11
+13 Mary and Daniel went to the mars.
+14 Mary and Daniel moved to the earth.
+15 Where is Mary? 	earth	14
+1 John and Sandra moved to the venus.
+2 Daniel and John journeyed to the neptune.
+3 Where is John? 	neptune	2
+4 John and Mary moved to the mars.
+5 John and Daniel moved to the moon.
+6 Where is John? 	moon	5
+7 Sandra and John went to the earth.
+8 Daniel and Sandra went back to the venus.
+9 Where is Daniel? 	venus	8
+10 John and Daniel went to the moon.
+11 Sandra and John journeyed to the jupiter.
+12 Where is Sandra? 	jupiter	11
+13 John and Daniel moved to the earth.
+14 Daniel and Sandra went to the neptune.
+15 Where is Sandra? 	neptune	14
+1 John and Daniel travelled to the jupiter.
+2 John and Daniel went back to the neptune.
+3 Where is Daniel? 	neptune	2
+4 Sandra and Mary went back to the venus.
+5 Mary and Daniel moved to the moon.
+6 Where is Mary? 	moon	5
+7 John and Sandra moved to the earth.
+8 Sandra and Mary went back to the venus.
+9 Where is Sandra? 	venus	8
+10 Sandra and John journeyed to the mars.
+11 Mary and John travelled to the moon.
+12 Where is Mary? 	moon	11
+13 Sandra and Daniel journeyed to the venus.
+14 Daniel and Mary moved to the neptune.
+15 Where is Daniel? 	neptune	14
+1 Sandra and John journeyed to the neptune.
+2 Daniel and Mary journeyed to the moon.
+3 Where is Daniel? 	moon	2
+4 Sandra and Mary moved to the earth.
+5 Daniel and Sandra journeyed to the venus.
+6 Where is Mary? 	earth	4
+7 Mary and Sandra journeyed to the mars.
+8 Mary and Sandra travelled to the jupiter.
+9 Where is Mary? 	jupiter	8
+10 Daniel and John travelled to the earth.
+11 Mary and John went back to the mars.
+12 Where is John? 	mars	11
+13 Sandra and Mary went to the venus.
+14 Daniel and Sandra travelled to the moon.
+15 Where is Sandra? 	moon	14
+1 John and Daniel journeyed to the mars.
+2 Daniel and Sandra went back to the neptune.
+3 Where is Daniel? 	neptune	2
+4 Daniel and John journeyed to the earth.
+5 John and Sandra journeyed to the venus.
+6 Where is John? 	venus	5
+7 Mary and John moved to the moon.
+8 John and Mary went back to the mars.
+9 Where is John? 	mars	8
+10 John and Sandra went to the jupiter.
+11 Mary and John went to the venus.
+12 Where is Mary? 	venus	11
+13 John and Mary went to the earth.
+14 Daniel and Sandra went back to the neptune.
+15 Where is Sandra? 	neptune	14
+1 Daniel and Mary went back to the jupiter.
+2 Daniel and John travelled to the earth.
+3 Where is Daniel? 	earth	2
+4 Mary and John went to the mars.
+5 Daniel and Mary travelled to the moon.
+6 Where is John? 	mars	4
+7 John and Daniel went to the neptune.
+8 Sandra and John travelled to the venus.
+9 Where is Mary? 	moon	5
+10 John and Daniel went back to the mars.
+11 John and Daniel journeyed to the earth.
+12 Where is Daniel? 	earth	11
+13 Mary and Sandra journeyed to the jupiter.
+14 Daniel and Mary went to the venus.
+15 Where is Mary? 	venus	14
+1 John and Sandra journeyed to the earth.
+2 Mary and Daniel journeyed to the earth.
+3 Where is John? 	earth	1
+4 Mary and Sandra went back to the jupiter.
+5 John and Sandra went back to the moon.
+6 Where is John? 	moon	5
+7 John and Mary went back to the mars.
+8 John and Sandra travelled to the venus.
+9 Where is John? 	venus	8
+10 Sandra and Daniel went to the moon.
+11 Sandra and Daniel went to the venus.
+12 Where is Daniel? 	venus	11
+13 Daniel and John travelled to the mars.
+14 Mary and Daniel journeyed to the moon.
+15 Where is Daniel? 	moon	14
+1 Sandra and Mary journeyed to the moon.
+2 Daniel and Sandra went to the mars.
+3 Where is Sandra? 	mars	2
+4 John and Mary travelled to the neptune.
+5 Mary and Sandra journeyed to the moon.
+6 Where is John? 	neptune	4
+7 Sandra and Mary travelled to the jupiter.
+8 Sandra and Mary moved to the neptune.
+9 Where is Sandra? 	neptune	8
+10 John and Sandra travelled to the mars.
+11 John and Daniel went back to the venus.
+12 Where is Sandra? 	mars	10
+13 Daniel and Sandra travelled to the earth.
+14 Mary and Daniel moved to the mars.
+15 Where is Daniel? 	mars	14
+1 John and Daniel went to the moon.
+2 Sandra and Mary moved to the venus.
+3 Where is John? 	moon	1
+4 Daniel and Mary journeyed to the neptune.
+5 Mary and John travelled to the jupiter.
+6 Where is Mary? 	jupiter	5
+7 John and Daniel went to the mars.
+8 Sandra and Mary went to the earth.
+9 Where is Sandra? 	earth	8
+10 John and Mary journeyed to the moon.
+11 Mary and Sandra travelled to the mars.
+12 Where is Mary? 	mars	11
+13 John and Daniel went back to the jupiter.
+14 Daniel and Mary went to the earth.
+15 Where is Sandra? 	mars	11
+1 Sandra and John travelled to the earth.
+2 Mary and John went to the jupiter.
+3 Where is John? 	jupiter	2
+4 Mary and John went back to the earth.
+5 Sandra and Mary journeyed to the moon.
+6 Where is Sandra? 	moon	5
+7 Mary and Daniel went back to the earth.
+8 John and Mary went back to the neptune.
+9 Where is John? 	neptune	8
+10 Daniel and Sandra went back to the venus.
+11 John and Mary journeyed to the mars.
+12 Where is Mary? 	mars	11
+13 Mary and John travelled to the earth.
+14 Mary and John journeyed to the moon.
+15 Where is Mary? 	moon	14
+1 Daniel and Sandra journeyed to the earth.
+2 Mary and Sandra travelled to the mars.
+3 Where is Mary? 	mars	2
+4 Sandra and Mary moved to the moon.
+5 Mary and Daniel went back to the jupiter.
+6 Where is Mary? 	jupiter	5
+7 Daniel and Sandra moved to the venus.
+8 Sandra and Mary travelled to the neptune.
+9 Where is Mary? 	neptune	8
+10 Sandra and Mary went to the venus.
+11 Mary and Sandra went back to the mars.
+12 Where is Mary? 	mars	11
+13 John and Mary went to the moon.
+14 Sandra and John journeyed to the jupiter.
+15 Where is John? 	jupiter	14
+1 Daniel and Mary went back to the moon.
+2 John and Mary moved to the neptune.
+3 Where is John? 	neptune	2
+4 Sandra and Daniel went to the neptune.
+5 John and Daniel moved to the moon.
+6 Where is John? 	moon	5
+7 John and Sandra journeyed to the mars.
+8 Daniel and Mary went back to the venus.
+9 Where is Daniel? 	venus	8
+10 Sandra and Mary journeyed to the earth.
+11 Sandra and Daniel journeyed to the neptune.
+12 Where is Sandra? 	neptune	11
+13 Sandra and Daniel travelled to the moon.
+14 Daniel and Sandra journeyed to the neptune.
+15 Where is Daniel? 	neptune	14
+1 Sandra and John went back to the earth.
+2 Daniel and Mary travelled to the venus.
+3 Where is Daniel? 	venus	2
+4 John and Daniel journeyed to the mars.
+5 Daniel and John travelled to the earth.
+6 Where is Daniel? 	earth	5
+7 John and Mary moved to the moon.
+8 Daniel and John went back to the neptune.
+9 Where is Mary? 	moon	7
+10 John and Mary travelled to the venus.
+11 Mary and Sandra went back to the moon.
+12 Where is Sandra? 	moon	11
+13 John and Mary went to the neptune.
+14 Daniel and Sandra went to the mars.
+15 Where is Sandra? 	mars	14
+1 Sandra and Daniel moved to the earth.
+2 Mary and Sandra journeyed to the neptune.
+3 Where is Sandra? 	neptune	2
+4 John and Daniel travelled to the venus.
+5 Sandra and Daniel went back to the mars.
+6 Where is Sandra? 	mars	5
+7 Sandra and Daniel travelled to the moon.
+8 Sandra and John journeyed to the jupiter.
+9 Where is Daniel? 	moon	7
+10 Daniel and John went to the venus.
+11 Sandra and Mary travelled to the venus.
+12 Where is Sandra? 	venus	11
+13 Daniel and Mary moved to the jupiter.
+14 Mary and John moved to the earth.
+15 Where is Mary? 	earth	14
+1 Mary and Daniel moved to the earth.
+2 John and Sandra journeyed to the earth.
+3 Where is John? 	earth	2
+4 John and Sandra journeyed to the mars.
+5 Daniel and Sandra went to the jupiter.
+6 Where is Sandra? 	jupiter	5
+7 Mary and Sandra went to the neptune.
+8 Daniel and Mary journeyed to the mars.
+9 Where is Mary? 	mars	8
+10 Sandra and John travelled to the earth.
+11 Daniel and John journeyed to the neptune.
+12 Where is John? 	neptune	11
+13 Daniel and John travelled to the moon.
+14 Mary and Daniel moved to the earth.
+15 Where is John? 	moon	13
+1 Daniel and Mary travelled to the earth.
+2 Sandra and Mary went to the moon.
+3 Where is Mary? 	moon	2
+4 Mary and Sandra travelled to the jupiter.
+5 Daniel and Mary travelled to the venus.
+6 Where is Mary? 	venus	5
+7 Sandra and Daniel travelled to the mars.
+8 John and Mary moved to the moon.
+9 Where is John? 	moon	8
+10 John and Mary went back to the earth.
+11 John and Mary moved to the venus.
+12 Where is Mary? 	venus	11
+13 John and Daniel went back to the moon.
+14 Mary and John moved to the earth.
+15 Where is John? 	earth	14
+1 Sandra and Daniel went to the jupiter.
+2 Mary and John travelled to the neptune.
+3 Where is Mary? 	neptune	2
+4 John and Sandra went to the earth.
+5 John and Mary travelled to the mars.
+6 Where is John? 	mars	5
+7 Sandra and John went to the venus.
+8 Sandra and Daniel went to the earth.
+9 Where is Sandra? 	earth	8
+10 Sandra and Daniel journeyed to the moon.
+11 Sandra and Mary went to the venus.
+12 Where is Sandra? 	venus	11
+13 Daniel and John travelled to the earth.
+14 John and Daniel journeyed to the moon.
+15 Where is John? 	moon	14
+1 Mary and Sandra went to the neptune.
+2 Daniel and Mary travelled to the venus.
+3 Where is Mary? 	venus	2
+4 Mary and John journeyed to the jupiter.
+5 Sandra and Daniel moved to the mars.
+6 Where is Mary? 	jupiter	4
+7 Sandra and Mary moved to the venus.
+8 John and Daniel travelled to the neptune.
+9 Where is Sandra? 	venus	7
+10 Daniel and John travelled to the moon.
+11 Mary and John travelled to the neptune.
+12 Where is Daniel? 	moon	10
+13 John and Mary went to the earth.
+14 Daniel and John moved to the neptune.
+15 Where is John? 	neptune	14
+1 Daniel and Sandra journeyed to the moon.
+2 Sandra and Daniel went back to the venus.
+3 Where is Daniel? 	venus	2
+4 John and Mary moved to the jupiter.
+5 Sandra and Mary moved to the neptune.
+6 Where is Sandra? 	neptune	5
+7 Mary and Sandra journeyed to the earth.
+8 John and Daniel moved to the moon.
+9 Where is John? 	moon	8
+10 Mary and Sandra went to the mars.
+11 Mary and Daniel moved to the neptune.
+12 Where is Sandra? 	mars	10
+13 Daniel and Mary went to the venus.
+14 John and Mary went to the jupiter.
+15 Where is Mary? 	jupiter	14
+1 Sandra and Daniel moved to the jupiter.
+2 Daniel and Sandra moved to the venus.
+3 Where is Sandra? 	venus	2
+4 Sandra and Mary went to the jupiter.
+5 Sandra and Mary moved to the neptune.
+6 Where is Mary? 	neptune	5
+7 Mary and Sandra travelled to the moon.
+8 John and Daniel went back to the neptune.
+9 Where is Mary? 	moon	7
+10 John and Mary went to the earth.
+11 Daniel and John went back to the jupiter.
+12 Where is Mary? 	earth	10
+13 Daniel and Sandra travelled to the neptune.
+14 Sandra and Mary journeyed to the moon.
+15 Where is Sandra? 	moon	14
+1 Mary and John moved to the moon.
+2 Mary and John journeyed to the jupiter.
+3 Where is John? 	jupiter	2
+4 Daniel and Sandra travelled to the moon.
+5 Mary and Sandra journeyed to the earth.
+6 Where is Sandra? 	earth	5
+7 Daniel and Sandra went back to the mars.
+8 John and Daniel journeyed to the neptune.
+9 Where is Daniel? 	neptune	8
+10 John and Mary went to the venus.
+11 John and Mary went back to the neptune.
+12 Where is John? 	neptune	11
+13 Mary and Daniel went to the venus.
+14 Daniel and Mary went back to the moon.
+15 Where is Daniel? 	moon	14
+1 Sandra and John journeyed to the earth.
+2 Daniel and Sandra went back to the mars.
+3 Where is Daniel? 	mars	2
+4 Sandra and Mary travelled to the neptune.
+5 Mary and John travelled to the venus.
+6 Where is Sandra? 	neptune	4
+7 Sandra and John went back to the earth.
+8 John and Mary went back to the moon.
+9 Where is John? 	moon	8
+10 Daniel and Sandra travelled to the neptune.
+11 Daniel and John travelled to the venus.
+12 Where is Sandra? 	neptune	10
+13 John and Mary moved to the mars.
+14 John and Daniel went to the earth.
+15 Where is John? 	earth	14
+1 Daniel and Mary went to the mars.
+2 Daniel and John moved to the venus.
+3 Where is Daniel? 	venus	2
+4 Mary and Sandra travelled to the venus.
+5 Mary and Daniel journeyed to the neptune.
+6 Where is Mary? 	neptune	5
+7 Daniel and John journeyed to the earth.
+8 John and Mary went back to the venus.
+9 Where is Mary? 	venus	8
+10 John and Mary went back to the mars.
+11 Sandra and Mary went to the moon.
+12 Where is Mary? 	moon	11
+13 Mary and Sandra moved to the mars.
+14 Daniel and Mary went back to the moon.
+15 Where is Sandra? 	mars	13
+1 Sandra and Mary went back to the mars.
+2 Daniel and Sandra travelled to the jupiter.
+3 Where is Mary? 	mars	1
+4 Sandra and Mary went back to the earth.
+5 Daniel and Sandra moved to the moon.
+6 Where is Mary? 	earth	4
+7 Mary and Daniel journeyed to the mars.
+8 John and Daniel went back to the neptune.
+9 Where is Daniel? 	neptune	8
+10 Mary and Daniel went to the moon.
+11 Sandra and John moved to the jupiter.
+12 Where is Sandra? 	jupiter	11
+13 Daniel and Sandra journeyed to the mars.
+14 Mary and Daniel went to the venus.
+15 Where is Mary? 	venus	14
+1 Sandra and Daniel travelled to the jupiter.
+2 Sandra and Daniel went back to the mars.
+3 Where is Sandra? 	mars	2
+4 Mary and Sandra went to the neptune.
+5 Mary and Sandra went to the moon.
+6 Where is Mary? 	moon	5
+7 Sandra and Mary moved to the mars.
+8 John and Sandra travelled to the moon.
+9 Where is Sandra? 	moon	8
+10 Sandra and Mary went to the venus.
+11 Mary and Sandra went to the earth.
+12 Where is Mary? 	earth	11
+13 Daniel and John went back to the neptune.
+14 Daniel and Mary journeyed to the jupiter.
+15 Where is Mary? 	jupiter	14
+1 Sandra and Mary went back to the jupiter.
+2 Mary and Sandra travelled to the neptune.
+3 Where is Sandra? 	neptune	2
+4 Mary and Sandra moved to the venus.
+5 Mary and Sandra went to the mars.
+6 Where is Sandra? 	mars	5
+7 Mary and Daniel went to the venus.
+8 Daniel and John went to the earth.
+9 Where is Daniel? 	earth	8
+10 Sandra and John journeyed to the jupiter.
+11 Daniel and John went to the mars.
+12 Where is John? 	mars	11
+13 Sandra and Mary journeyed to the neptune.
+14 John and Mary went to the earth.
+15 Where is Sandra? 	neptune	13
+1 Daniel and Sandra journeyed to the moon.
+2 Sandra and Daniel went to the mars.
+3 Where is Sandra? 	mars	2
+4 John and Daniel went back to the earth.
+5 John and Mary went to the jupiter.
+6 Where is John? 	jupiter	5
+7 Daniel and John travelled to the venus.
+8 Mary and Daniel journeyed to the neptune.
+9 Where is Mary? 	neptune	8
+10 Daniel and Sandra moved to the venus.
+11 Sandra and John went back to the earth.
+12 Where is Daniel? 	venus	10
+13 Daniel and Sandra travelled to the neptune.
+14 Sandra and Daniel moved to the moon.
+15 Where is Daniel? 	moon	14
+1 Mary and Daniel went to the moon.
+2 Sandra and Mary went to the neptune.
+3 Where is Mary? 	neptune	2
+4 Sandra and Daniel went back to the jupiter.
+5 Mary and Sandra went back to the moon.
+6 Where is Sandra? 	moon	5
+7 Daniel and John journeyed to the neptune.
+8 John and Daniel journeyed to the earth.
+9 Where is John? 	earth	8
+10 Mary and John journeyed to the neptune.
+11 Mary and Sandra moved to the mars.
+12 Where is Mary? 	mars	11
+13 Daniel and John went to the mars.
+14 Mary and Daniel moved to the moon.
+15 Where is Daniel? 	moon	14
+1 Mary and Daniel moved to the mars.
+2 Daniel and Mary went to the venus.
+3 Where is Mary? 	venus	2
+4 Daniel and Mary journeyed to the moon.
+5 Sandra and Mary went back to the neptune.
+6 Where is Sandra? 	neptune	5
+7 Sandra and Daniel went to the mars.
+8 Mary and Sandra went back to the earth.
+9 Where is Daniel? 	mars	7
+10 Sandra and Daniel went to the jupiter.
+11 Mary and Sandra moved to the venus.
+12 Where is Sandra? 	venus	11
+13 Daniel and Sandra went back to the mars.
+14 Mary and Daniel journeyed to the moon.
+15 Where is Daniel? 	moon	14
+1 Sandra and Daniel went back to the mars.
+2 Daniel and John went back to the neptune.
+3 Where is Daniel? 	neptune	2
+4 Daniel and John moved to the mars.
+5 Daniel and John moved to the earth.
+6 Where is John? 	earth	5
+7 Mary and Daniel went back to the neptune.
+8 John and Daniel moved to the venus.
+9 Where is Daniel? 	venus	8
+10 Sandra and Mary travelled to the venus.
+11 Sandra and Mary travelled to the moon.
+12 Where is Sandra? 	moon	11
+13 Daniel and Mary journeyed to the neptune.
+14 Daniel and Mary went to the jupiter.
+15 Where is Mary? 	jupiter	14
+1 John and Sandra moved to the moon.
+2 Sandra and John journeyed to the earth.
+3 Where is John? 	earth	2
+4 John and Sandra moved to the neptune.
+5 Daniel and Mary moved to the earth.
+6 Where is Daniel? 	earth	5
+7 John and Sandra travelled to the mars.
+8 John and Sandra moved to the moon.
+9 Where is Sandra? 	moon	8
+10 Mary and John travelled to the mars.
+11 John and Daniel travelled to the venus.
+12 Where is Mary? 	mars	10
+13 John and Daniel travelled to the mars.
+14 Sandra and John travelled to the neptune.
+15 Where is Daniel? 	mars	13
+1 Mary and Sandra went to the mars.
+2 Daniel and John went back to the venus.
+3 Where is Daniel? 	venus	2
+4 John and Daniel journeyed to the mars.
+5 John and Sandra journeyed to the jupiter.
+6 Where is Daniel? 	mars	4
+7 Daniel and Sandra journeyed to the neptune.
+8 Mary and John journeyed to the moon.
+9 Where is John? 	moon	8
+10 Sandra and Daniel travelled to the jupiter.
+11 Sandra and Daniel journeyed to the earth.
+12 Where is Daniel? 	earth	11
+13 John and Daniel went to the neptune.
+14 Sandra and Mary moved to the jupiter.
+15 Where is Sandra? 	jupiter	14
+1 Mary and Daniel travelled to the moon.
+2 Daniel and Sandra went to the mars.
+3 Where is Sandra? 	mars	2
+4 Mary and John journeyed to the venus.
+5 Daniel and John moved to the earth.
+6 Where is John? 	earth	5
+7 Mary and Daniel journeyed to the jupiter.
+8 Mary and Sandra went back to the earth.
+9 Where is Mary? 	earth	8
+10 Daniel and Sandra went to the neptune.
+11 Daniel and Sandra went back to the moon.
+12 Where is Sandra? 	moon	11
+13 Sandra and John went to the neptune.
+14 Mary and Daniel journeyed to the venus.
+15 Where is Mary? 	venus	14
+1 John and Sandra went back to the venus.
+2 Daniel and Sandra went back to the mars.
+3 Where is John? 	venus	1
+4 Sandra and Daniel moved to the moon.
+5 Daniel and Mary journeyed to the mars.
+6 Where is Sandra? 	moon	4
+7 Daniel and Sandra went back to the venus.
+8 Sandra and Daniel went to the earth.
+9 Where is Mary? 	mars	5
+10 Daniel and Mary journeyed to the venus.
+11 John and Daniel travelled to the moon.
+12 Where is Daniel? 	moon	11
+13 Daniel and John travelled to the earth.
+14 John and Daniel journeyed to the moon.
+15 Where is Daniel? 	moon	14
+1 Daniel and John moved to the jupiter.
+2 Daniel and Mary went to the earth.
+3 Where is Mary? 	earth	2
+4 Sandra and John went to the neptune.
+5 Sandra and Mary travelled to the moon.
+6 Where is Sandra? 	moon	5
+7 Sandra and Mary travelled to the venus.
+8 Daniel and John journeyed to the moon.
+9 Where is Daniel? 	moon	8
+10 Mary and Daniel went back to the earth.
+11 Mary and John went to the jupiter.
+12 Where is Mary? 	jupiter	11
+13 Daniel and Sandra journeyed to the neptune.
+14 Sandra and Mary went to the moon.
+15 Where is Sandra? 	moon	14
+1 Daniel and Sandra went to the earth.
+2 Daniel and Sandra moved to the mars.
+3 Where is Daniel? 	mars	2
+4 Sandra and John went back to the venus.
+5 Sandra and Mary moved to the earth.
+6 Where is Sandra? 	earth	5
+7 Sandra and John moved to the neptune.
+8 Sandra and Mary travelled to the jupiter.
+9 Where is Mary? 	jupiter	8
+10 Mary and Daniel journeyed to the venus.
+11 Sandra and Mary travelled to the neptune.
+12 Where is Mary? 	neptune	11
+13 John and Mary moved to the venus.
+14 John and Mary moved to the moon.
+15 Where is Mary? 	moon	14
+1 Mary and Sandra went to the jupiter.
+2 Sandra and John went back to the moon.
+3 Where is Sandra? 	moon	2
+4 Daniel and John went back to the earth.
+5 Mary and John moved to the neptune.
+6 Where is John? 	neptune	5
+7 Mary and Daniel moved to the moon.
+8 Mary and John journeyed to the venus.
+9 Where is Mary? 	venus	8
+10 Daniel and Sandra moved to the venus.
+11 Sandra and John moved to the neptune.
+12 Where is John? 	neptune	11
+13 Mary and Sandra went to the earth.
+14 Daniel and John moved to the mars.
+15 Where is Mary? 	earth	13
+1 Mary and John moved to the venus.
+2 Daniel and Sandra went back to the earth.
+3 Where is Mary? 	venus	1
+4 Mary and John journeyed to the jupiter.
+5 John and Daniel moved to the moon.
+6 Where is Sandra? 	earth	2
+7 Sandra and John went back to the mars.
+8 Sandra and Mary went back to the moon.
+9 Where is Sandra? 	moon	8
+10 Daniel and Mary journeyed to the jupiter.
+11 John and Daniel travelled to the moon.
+12 Where is Mary? 	jupiter	10
+13 John and Mary went to the neptune.
+14 Mary and Daniel went to the venus.
+15 Where is Mary? 	venus	14
+1 Sandra and Mary went back to the jupiter.
+2 John and Sandra went back to the mars.
+3 Where is Mary? 	jupiter	1
+4 John and Daniel went back to the moon.
+5 Sandra and Mary journeyed to the venus.
+6 Where is Mary? 	venus	5
+7 Mary and Daniel journeyed to the mars.
+8 Mary and Daniel travelled to the earth.
+9 Where is Mary? 	earth	8
+10 John and Sandra journeyed to the mars.
+11 Sandra and John moved to the moon.
+12 Where is Sandra? 	moon	11
+13 Sandra and Daniel travelled to the venus.
+14 John and Mary moved to the jupiter.
+15 Where is Daniel? 	venus	13
+1 Mary and John went back to the neptune.
+2 John and Sandra went to the venus.
+3 Where is Sandra? 	venus	2
+4 John and Sandra went to the neptune.
+5 Daniel and Mary moved to the venus.
+6 Where is Sandra? 	neptune	4
+7 Daniel and Mary moved to the jupiter.
+8 Sandra and John went back to the mars.
+9 Where is Mary? 	jupiter	7
+10 Sandra and Daniel moved to the venus.
+11 Mary and John travelled to the neptune.
+12 Where is Mary? 	neptune	11
+13 Daniel and John went back to the jupiter.
+14 Sandra and Mary went back to the moon.
+15 Where is John? 	jupiter	13
+1 Mary and Sandra went back to the mars.
+2 Sandra and John travelled to the venus.
+3 Where is Mary? 	mars	1
+4 Daniel and Sandra went to the neptune.
+5 John and Mary went back to the moon.
+6 Where is John? 	moon	5
+7 Daniel and John travelled to the earth.
+8 Daniel and Mary journeyed to the neptune.
+9 Where is Mary? 	neptune	8
+10 Daniel and Sandra journeyed to the jupiter.
+11 Mary and John went back to the jupiter.
+12 Where is Sandra? 	jupiter	10
+13 John and Sandra went to the venus.
+14 Sandra and John went to the jupiter.
+15 Where is John? 	jupiter	14
+1 Mary and Sandra moved to the venus.
+2 Sandra and Mary journeyed to the neptune.
+3 Where is Mary? 	neptune	2
+4 Daniel and Mary went to the mars.
+5 Daniel and Sandra went to the jupiter.
+6 Where is Sandra? 	jupiter	5
+7 John and Mary journeyed to the moon.
+8 Daniel and Mary journeyed to the venus.
+9 Where is John? 	moon	7
+10 Mary and Daniel moved to the jupiter.
+11 John and Daniel went to the neptune.
+12 Where is John? 	neptune	11
+13 Sandra and Daniel travelled to the earth.
+14 Daniel and Mary travelled to the moon.
+15 Where is Mary? 	moon	14
+1 Mary and John journeyed to the earth.
+2 Daniel and John travelled to the moon.
+3 Where is John? 	moon	2
+4 Sandra and Daniel moved to the mars.
+5 Mary and Sandra moved to the neptune.
+6 Where is Daniel? 	mars	4
+7 John and Mary went to the jupiter.
+8 Daniel and John journeyed to the earth.
+9 Where is Sandra? 	neptune	5
+10 John and Daniel went to the neptune.
+11 Daniel and Mary travelled to the mars.
+12 Where is Daniel? 	mars	11
+13 Daniel and Mary moved to the venus.
+14 Sandra and John went to the earth.
+15 Where is Sandra? 	earth	14
+1 Mary and John went back to the mars.
+2 Mary and Daniel went back to the neptune.
+3 Where is Mary? 	neptune	2
+4 Sandra and Daniel journeyed to the jupiter.
+5 Daniel and Sandra journeyed to the venus.
+6 Where is Daniel? 	venus	5
+7 John and Sandra went back to the moon.
+8 John and Sandra moved to the neptune.
+9 Where is Sandra? 	neptune	8
+10 John and Daniel went to the mars.
+11 Daniel and Sandra journeyed to the moon.
+12 Where is Daniel? 	moon	11
+13 Daniel and Mary journeyed to the mars.
+14 Mary and John moved to the moon.
+15 Where is Mary? 	moon	14
+1 John and Sandra went to the mars.
+2 John and Mary moved to the neptune.
+3 Where is Sandra? 	mars	1
+4 Daniel and Sandra moved to the jupiter.
+5 Sandra and John went to the moon.
+6 Where is Mary? 	neptune	2
+7 John and Mary went to the venus.
+8 John and Mary went back to the moon.
+9 Where is Mary? 	moon	8
+10 Daniel and Sandra went to the venus.
+11 Mary and Daniel went to the mars.
+12 Where is Mary? 	mars	11
+13 Mary and Daniel journeyed to the earth.
+14 Daniel and Mary went to the neptune.
+15 Where is Mary? 	neptune	14
+1 Daniel and Mary went back to the earth.
+2 Mary and Daniel went back to the moon.
+3 Where is Mary? 	moon	2
+4 Sandra and Daniel went back to the earth.
+5 Sandra and Daniel travelled to the venus.
+6 Where is Sandra? 	venus	5
+7 Mary and John went back to the mars.
+8 Mary and John travelled to the neptune.
+9 Where is John? 	neptune	8
+10 Sandra and Daniel journeyed to the mars.
+11 Mary and Sandra journeyed to the venus.
+12 Where is Mary? 	venus	11
+13 Daniel and John moved to the earth.
+14 Mary and Sandra went back to the mars.
+15 Where is Mary? 	mars	14
+1 Mary and Daniel moved to the mars.
+2 Mary and Daniel went to the jupiter.
+3 Where is Mary? 	jupiter	2
+4 Sandra and Mary journeyed to the neptune.
+5 Sandra and Daniel moved to the moon.
+6 Where is Mary? 	neptune	4
+7 Daniel and John journeyed to the earth.
+8 John and Mary journeyed to the moon.
+9 Where is John? 	moon	8
+10 Mary and Sandra travelled to the earth.
+11 Daniel and Mary travelled to the mars.
+12 Where is Daniel? 	mars	11
+13 Daniel and Sandra journeyed to the venus.
+14 Mary and Sandra travelled to the jupiter.
+15 Where is Sandra? 	jupiter	14
+1 Daniel and John went back to the mars.
+2 John and Sandra journeyed to the venus.
+3 Where is John? 	venus	2
+4 Sandra and John went back to the jupiter.
+5 Daniel and Sandra went back to the earth.
+6 Where is Sandra? 	earth	5
+7 Mary and Sandra journeyed to the mars.
+8 Sandra and John went to the venus.
+9 Where is Sandra? 	venus	8
+10 Mary and Sandra moved to the neptune.
+11 John and Mary moved to the jupiter.
+12 Where is John? 	jupiter	11
+13 Daniel and Sandra journeyed to the jupiter.
+14 Mary and Sandra journeyed to the moon.
+15 Where is Mary? 	moon	14
+1 Mary and Daniel moved to the neptune.
+2 Daniel and Mary journeyed to the venus.
+3 Where is Daniel? 	venus	2
+4 Sandra and John journeyed to the jupiter.
+5 Mary and Sandra moved to the neptune.
+6 Where is Sandra? 	neptune	5
+7 Mary and John journeyed to the moon.
+8 Daniel and Mary journeyed to the mars.
+9 Where is John? 	moon	7
+10 Sandra and Daniel journeyed to the moon.
+11 Sandra and John went to the earth.
+12 Where is Sandra? 	earth	11
+13 Mary and Daniel journeyed to the jupiter.
+14 Daniel and Sandra travelled to the mars.
+15 Where is Mary? 	jupiter	13
+1 John and Sandra went to the neptune.
+2 Sandra and John went back to the jupiter.
+3 Where is John? 	jupiter	2
+4 John and Sandra went to the venus.
+5 Daniel and John journeyed to the neptune.
+6 Where is John? 	neptune	5
+7 John and Sandra journeyed to the mars.
+8 Mary and Sandra moved to the jupiter.
+9 Where is Sandra? 	jupiter	8
+10 Mary and Sandra travelled to the moon.
+11 Daniel and Sandra went back to the earth.
+12 Where is Sandra? 	earth	11
+13 Mary and John went back to the earth.
+14 Daniel and John journeyed to the jupiter.
+15 Where is Mary? 	earth	13
+1 Sandra and Daniel went back to the earth.
+2 John and Mary moved to the jupiter.
+3 Where is Mary? 	jupiter	2
+4 John and Sandra moved to the moon.
+5 John and Mary went to the earth.
+6 Where is Mary? 	earth	5
+7 Sandra and John travelled to the mars.
+8 John and Mary went to the neptune.
+9 Where is John? 	neptune	8
+10 Mary and Sandra went back to the venus.
+11 Sandra and John went to the moon.
+12 Where is John? 	moon	11
+13 John and Daniel went to the venus.
+14 John and Mary moved to the neptune.
+15 Where is Mary? 	neptune	14
+1 Mary and Sandra went back to the venus.
+2 Sandra and Mary went to the earth.
+3 Where is Sandra? 	earth	2
+4 Mary and Sandra went back to the neptune.
+5 John and Sandra journeyed to the earth.
+6 Where is Sandra? 	earth	5
+7 John and Sandra moved to the neptune.
+8 Mary and Daniel journeyed to the venus.
+9 Where is Daniel? 	venus	8
+10 Sandra and Mary moved to the mars.
+11 Daniel and Mary travelled to the neptune.
+12 Where is Sandra? 	mars	10
+13 Mary and Sandra went to the earth.
+14 Mary and Daniel moved to the mars.
+15 Where is Mary? 	mars	14
+1 Mary and John went back to the neptune.
+2 Daniel and John went back to the earth.
+3 Where is John? 	earth	2
+4 John and Daniel journeyed to the moon.
+5 Daniel and Sandra travelled to the mars.
+6 Where is Daniel? 	mars	5
+7 Sandra and Daniel travelled to the neptune.
+8 Mary and Daniel moved to the venus.
+9 Where is Sandra? 	neptune	7
+10 Sandra and Mary went to the earth.
+11 Daniel and John went to the earth.
+12 Where is John? 	earth	11
+13 Daniel and Mary journeyed to the moon.
+14 Mary and Daniel journeyed to the venus.
+15 Where is Daniel? 	venus	14
+1 Sandra and Daniel went back to the mars.
+2 John and Daniel travelled to the neptune.
+3 Where is John? 	neptune	2
+4 John and Sandra went back to the earth.
+5 Sandra and Daniel journeyed to the mars.
+6 Where is Sandra? 	mars	5
+7 Daniel and Mary journeyed to the earth.
+8 Mary and Sandra went back to the venus.
+9 Where is Mary? 	venus	8
+10 Mary and Sandra went to the earth.
+11 Mary and John went back to the neptune.
+12 Where is Sandra? 	earth	10
+13 Sandra and Daniel went to the jupiter.
+14 John and Mary went to the mars.
+15 Where is John? 	mars	14
+1 Mary and Sandra journeyed to the mars.
+2 Sandra and Daniel went back to the earth.
+3 Where is Daniel? 	earth	2
+4 Daniel and Mary travelled to the moon.
+5 Daniel and Sandra journeyed to the jupiter.
+6 Where is Daniel? 	jupiter	5
+7 Mary and John went to the venus.
+8 Mary and John moved to the jupiter.
+9 Where is Mary? 	jupiter	8
+10 Mary and Sandra went to the mars.
+11 Daniel and Sandra journeyed to the neptune.
+12 Where is John? 	jupiter	8
+13 Daniel and Sandra went back to the mars.
+14 John and Sandra travelled to the neptune.
+15 Where is Daniel? 	mars	13
+1 Mary and John went back to the venus.
+2 Mary and Sandra moved to the jupiter.
+3 Where is Mary? 	jupiter	2
+4 Mary and John went to the moon.
+5 Daniel and Mary journeyed to the mars.
+6 Where is Sandra? 	jupiter	2
+7 John and Sandra moved to the neptune.
+8 Daniel and John moved to the jupiter.
+9 Where is Mary? 	mars	5
+10 John and Mary travelled to the earth.
+11 Sandra and Daniel went back to the moon.
+12 Where is John? 	earth	10
+13 Daniel and John journeyed to the neptune.
+14 John and Daniel went to the venus.
+15 Where is John? 	venus	14
+1 Sandra and Mary travelled to the venus.
+2 Sandra and Mary went to the neptune.
+3 Where is Sandra? 	neptune	2
+4 Sandra and Daniel moved to the mars.
+5 Daniel and Sandra moved to the neptune.
+6 Where is Sandra? 	neptune	5
+7 John and Mary went back to the earth.
+8 John and Mary journeyed to the neptune.
+9 Where is Sandra? 	neptune	5
+10 Sandra and Daniel journeyed to the jupiter.
+11 Daniel and Sandra moved to the moon.
+12 Where is Daniel? 	moon	11
+13 John and Mary went to the venus.
+14 Daniel and Mary moved to the earth.
+15 Where is Sandra? 	moon	11
+1 Sandra and Mary went back to the neptune.
+2 Daniel and Sandra travelled to the jupiter.
+3 Where is Mary? 	neptune	1
+4 Daniel and Sandra moved to the venus.
+5 Sandra and John went back to the neptune.
+6 Where is John? 	neptune	5
+7 Sandra and John went back to the venus.
+8 Daniel and Mary travelled to the jupiter.
+9 Where is Sandra? 	venus	7
+10 Daniel and Mary moved to the mars.
+11 Sandra and Mary moved to the jupiter.
+12 Where is Mary? 	jupiter	11
+13 Sandra and John went to the earth.
+14 Daniel and Mary went to the venus.
+15 Where is Daniel? 	venus	14
+1 Sandra and Daniel went back to the jupiter.
+2 John and Mary travelled to the venus.
+3 Where is John? 	venus	2
+4 John and Mary journeyed to the jupiter.
+5 Daniel and Sandra went to the venus.
+6 Where is Sandra? 	venus	5
+7 Mary and John went to the neptune.
+8 Mary and John journeyed to the mars.
+9 Where is Sandra? 	venus	5
+10 Sandra and John journeyed to the moon.
+11 Sandra and John moved to the neptune.
+12 Where is John? 	neptune	11
+13 John and Mary travelled to the jupiter.
+14 John and Mary moved to the earth.
+15 Where is Mary? 	earth	14
+1 Daniel and John went to the neptune.
+2 Mary and Sandra travelled to the neptune.
+3 Where is Daniel? 	neptune	1
+4 Sandra and Mary went to the mars.
+5 John and Daniel journeyed to the venus.
+6 Where is Daniel? 	venus	5
+7 Mary and Daniel went back to the jupiter.
+8 Mary and Daniel travelled to the venus.
+9 Where is Daniel? 	venus	8
+10 Sandra and Mary moved to the neptune.
+11 Mary and Daniel travelled to the jupiter.
+12 Where is Daniel? 	jupiter	11
+13 Mary and John went back to the moon.
+14 Daniel and John travelled to the venus.
+15 Where is John? 	venus	14
+1 Mary and Sandra went to the earth.
+2 Daniel and Mary went back to the jupiter.
+3 Where is Sandra? 	earth	1
+4 Mary and John travelled to the earth.
+5 Mary and Sandra journeyed to the jupiter.
+6 Where is Mary? 	jupiter	5
+7 Daniel and Sandra went back to the mars.
+8 Sandra and Mary went to the moon.
+9 Where is Sandra? 	moon	8
+10 Daniel and Mary moved to the venus.
+11 John and Mary went back to the moon.
+12 Where is John? 	moon	11
+13 Sandra and Mary journeyed to the jupiter.
+14 Sandra and John went back to the neptune.
+15 Where is Mary? 	jupiter	13
+1 John and Mary went to the venus.
+2 Sandra and Mary went back to the moon.
+3 Where is Mary? 	moon	2
+4 John and Sandra went back to the mars.
+5 Mary and Sandra travelled to the earth.
+6 Where is Mary? 	earth	5
+7 Sandra and John moved to the moon.
+8 John and Sandra went to the jupiter.
+9 Where is Sandra? 	jupiter	8
+10 Sandra and John moved to the mars.
+11 Mary and Sandra moved to the jupiter.
+12 Where is Mary? 	jupiter	11
+13 Sandra and Daniel went back to the neptune.
+14 Daniel and Mary went to the earth.
+15 Where is Mary? 	earth	14
+1 John and Mary went to the mars.
+2 Daniel and Sandra journeyed to the venus.
+3 Where is Sandra? 	venus	2
+4 Sandra and Mary travelled to the earth.
+5 John and Daniel moved to the jupiter.
+6 Where is John? 	jupiter	5
+7 John and Daniel went back to the earth.
+8 Daniel and Mary travelled to the mars.
+9 Where is Daniel? 	mars	8
+10 Sandra and John travelled to the mars.
+11 John and Sandra travelled to the neptune.
+12 Where is Mary? 	mars	8
+13 Sandra and John went back to the jupiter.
+14 Sandra and Mary moved to the neptune.
+15 Where is Mary? 	neptune	14
+1 Daniel and Sandra went back to the earth.
+2 Mary and John moved to the neptune.
+3 Where is Sandra? 	earth	1
+4 Mary and Daniel moved to the venus.
+5 Sandra and Mary journeyed to the neptune.
+6 Where is Mary? 	neptune	5
+7 John and Mary moved to the jupiter.
+8 Sandra and Daniel went back to the jupiter.
+9 Where is Mary? 	jupiter	7
+10 Daniel and John journeyed to the venus.
+11 Sandra and John journeyed to the earth.
+12 Where is Daniel? 	venus	10
+13 John and Mary travelled to the neptune.
+14 Daniel and John went to the jupiter.
+15 Where is Daniel? 	jupiter	14
+1 John and Sandra went to the earth.
+2 Sandra and John moved to the venus.
+3 Where is John? 	venus	2
+4 John and Daniel moved to the mars.
+5 Mary and Sandra journeyed to the jupiter.
+6 Where is John? 	mars	4
+7 Sandra and John travelled to the earth.
+8 Mary and John moved to the mars.
+9 Where is Sandra? 	earth	7
+10 John and Sandra went back to the moon.
+11 Daniel and Mary moved to the venus.
+12 Where is John? 	moon	10
+13 Sandra and Daniel went back to the earth.
+14 Sandra and Mary went to the neptune.
+15 Where is Mary? 	neptune	14
+1 Mary and Daniel travelled to the earth.
+2 Mary and John journeyed to the mars.
+3 Where is Daniel? 	earth	1
+4 Sandra and Daniel went back to the venus.
+5 John and Mary moved to the jupiter.
+6 Where is John? 	jupiter	5
+7 Mary and John went back to the earth.
+8 Mary and Daniel went back to the moon.
+9 Where is Daniel? 	moon	8
+10 Mary and Sandra went back to the mars.
+11 Mary and John moved to the neptune.
+12 Where is Daniel? 	moon	8
+13 Sandra and Mary went to the venus.
+14 Daniel and Sandra went to the jupiter.
+15 Where is Sandra? 	jupiter	14
+1 Mary and Daniel journeyed to the venus.
+2 Mary and John went back to the neptune.
+3 Where is John? 	neptune	2
+4 Daniel and John went back to the jupiter.
+5 Mary and Sandra moved to the jupiter.
+6 Where is Mary? 	jupiter	5
+7 Mary and John travelled to the mars.
+8 Daniel and Sandra went back to the venus.
+9 Where is Sandra? 	venus	8
+10 Sandra and John travelled to the jupiter.
+11 John and Mary journeyed to the venus.
+12 Where is Sandra? 	jupiter	10
+13 Sandra and Mary journeyed to the moon.
+14 Sandra and John went back to the jupiter.
+15 Where is John? 	jupiter	14
+1 John and Mary moved to the mars.
+2 Sandra and John journeyed to the earth.
+3 Where is John? 	earth	2
+4 John and Mary went to the moon.
+5 Daniel and John went back to the jupiter.
+6 Where is Daniel? 	jupiter	5
+7 John and Sandra went back to the moon.
+8 Sandra and John journeyed to the venus.
+9 Where is Sandra? 	venus	8
+10 Sandra and John moved to the moon.
+11 Sandra and Mary went to the earth.
+12 Where is Sandra? 	earth	11
+13 Sandra and Daniel journeyed to the venus.
+14 Sandra and Daniel travelled to the earth.
+15 Where is Sandra? 	earth	14
+1 Mary and Sandra travelled to the jupiter.
+2 Mary and Sandra went back to the venus.
+3 Where is Sandra? 	venus	2
+4 Daniel and John journeyed to the venus.
+5 Daniel and Mary went back to the mars.
+6 Where is Daniel? 	mars	5
+7 Sandra and Daniel went back to the moon.
+8 Mary and Sandra went back to the venus.
+9 Where is Mary? 	venus	8
+10 Mary and Sandra went to the moon.
+11 Sandra and Daniel moved to the mars.
+12 Where is Mary? 	moon	10
+13 Mary and Sandra travelled to the earth.
+14 Mary and John went to the jupiter.
+15 Where is Mary? 	jupiter	14
+1 John and Daniel went back to the mars.
+2 Sandra and John went back to the jupiter.
+3 Where is Daniel? 	mars	1
+4 Sandra and John travelled to the venus.
+5 Daniel and Mary journeyed to the earth.
+6 Where is Daniel? 	earth	5
+7 Mary and Daniel went back to the neptune.
+8 John and Daniel journeyed to the jupiter.
+9 Where is Mary? 	neptune	7
+10 Mary and John went to the moon.
+11 Daniel and John went back to the earth.
+12 Where is Mary? 	moon	10
+13 John and Mary travelled to the jupiter.
+14 Mary and Daniel journeyed to the neptune.
+15 Where is Mary? 	neptune	14
+1 Daniel and John went back to the jupiter.
+2 Mary and Sandra travelled to the mars.
+3 Where is Sandra? 	mars	2
+4 John and Sandra went back to the venus.
+5 Mary and Daniel went to the neptune.
+6 Where is Mary? 	neptune	5
+7 Sandra and Daniel went back to the mars.
+8 Daniel and Sandra went to the moon.
+9 Where is Sandra? 	moon	8
+10 Mary and Daniel journeyed to the jupiter.
+11 Mary and Daniel went to the mars.
+12 Where is Mary? 	mars	11
+13 John and Daniel travelled to the jupiter.
+14 Mary and Daniel travelled to the neptune.
+15 Where is Mary? 	neptune	14
+1 John and Sandra went back to the mars.
+2 Sandra and Mary travelled to the venus.
+3 Where is Sandra? 	venus	2
+4 Mary and Daniel travelled to the jupiter.
+5 Mary and John went to the moon.
+6 Where is John? 	moon	5
+7 Daniel and Sandra went to the mars.
+8 Daniel and Mary journeyed to the jupiter.
+9 Where is Sandra? 	mars	7
+10 Sandra and Mary went back to the moon.
+11 Mary and John journeyed to the venus.
+12 Where is Sandra? 	moon	10
+13 John and Mary moved to the jupiter.
+14 Mary and Daniel journeyed to the mars.
+15 Where is Daniel? 	mars	14
+1 Daniel and Mary travelled to the mars.
+2 John and Mary went to the neptune.
+3 Where is Daniel? 	mars	1
+4 Mary and Sandra travelled to the jupiter.
+5 Sandra and Mary travelled to the mars.
+6 Where is Mary? 	mars	5
+7 Sandra and Mary journeyed to the neptune.
+8 Sandra and Mary went to the earth.
+9 Where is Mary? 	earth	8
+10 Daniel and John went to the venus.
+11 Daniel and John travelled to the jupiter.
+12 Where is Daniel? 	jupiter	11
+13 Daniel and Mary moved to the venus.
+14 Sandra and John moved to the neptune.
+15 Where is John? 	neptune	14
+1 Daniel and Mary journeyed to the neptune.
+2 John and Daniel went back to the jupiter.
+3 Where is Mary? 	neptune	1
+4 Daniel and John moved to the venus.
+5 Sandra and Daniel journeyed to the neptune.
+6 Where is Sandra? 	neptune	5
+7 Sandra and John journeyed to the moon.
+8 John and Daniel moved to the earth.
+9 Where is Daniel? 	earth	8
+10 John and Mary went back to the moon.
+11 Mary and John travelled to the neptune.
+12 Where is Daniel? 	earth	8
+13 Mary and Daniel journeyed to the venus.
+14 Daniel and Mary went to the neptune.
+15 Where is Daniel? 	neptune	14
+1 Mary and Sandra journeyed to the mars.
+2 Daniel and John travelled to the earth.
+3 Where is Daniel? 	earth	2
+4 Sandra and John journeyed to the venus.
+5 Daniel and Sandra went back to the jupiter.
+6 Where is John? 	venus	4
+7 Mary and Sandra went back to the moon.
+8 John and Daniel went to the moon.
+9 Where is Daniel? 	moon	8
+10 Mary and Daniel went back to the neptune.
+11 Mary and Daniel moved to the jupiter.
+12 Where is Mary? 	jupiter	11
+13 Mary and Daniel journeyed to the earth.
+14 Sandra and Daniel went back to the venus.
+15 Where is Daniel? 	venus	14
+1 Sandra and Mary moved to the mars.
+2 Mary and Sandra journeyed to the moon.
+3 Where is Mary? 	moon	2
+4 Mary and Sandra moved to the neptune.
+5 Sandra and Mary travelled to the jupiter.
+6 Where is Sandra? 	jupiter	5
+7 Mary and Sandra travelled to the moon.
+8 Daniel and Mary moved to the venus.
+9 Where is Mary? 	venus	8
+10 Sandra and Daniel went back to the earth.
+11 Mary and John journeyed to the moon.
+12 Where is John? 	moon	11
+13 Sandra and Mary travelled to the jupiter.
+14 John and Sandra moved to the neptune.
+15 Where is Sandra? 	neptune	14
+1 John and Daniel went back to the venus.
+2 John and Sandra moved to the neptune.
+3 Where is Sandra? 	neptune	2
+4 Sandra and Daniel travelled to the mars.
+5 Daniel and Sandra travelled to the venus.
+6 Where is Sandra? 	venus	5
+7 Sandra and Daniel journeyed to the neptune.
+8 Daniel and John moved to the earth.
+9 Where is Daniel? 	earth	8
+10 Sandra and Mary went back to the moon.
+11 Daniel and Sandra went back to the jupiter.
+12 Where is Mary? 	moon	10
+13 Sandra and Daniel went to the earth.
+14 John and Mary went to the venus.
+15 Where is Daniel? 	earth	13
+1 Daniel and John went back to the venus.
+2 Daniel and John moved to the jupiter.
+3 Where is John? 	jupiter	2
+4 Mary and John went back to the mars.
+5 John and Sandra went back to the neptune.
+6 Where is Mary? 	mars	4
+7 John and Daniel went back to the earth.
+8 Sandra and John moved to the moon.
+9 Where is John? 	moon	8
+10 Mary and Daniel travelled to the venus.
+11 Sandra and Mary journeyed to the neptune.
+12 Where is Mary? 	neptune	11
+13 Daniel and Mary went back to the jupiter.
+14 Mary and Daniel journeyed to the moon.
+15 Where is Daniel? 	moon	14
+1 Daniel and Mary travelled to the mars.
+2 Sandra and Daniel moved to the venus.
+3 Where is Mary? 	mars	1
+4 Sandra and John journeyed to the earth.
+5 Sandra and Mary went back to the neptune.
+6 Where is Mary? 	neptune	5
+7 John and Sandra journeyed to the jupiter.
+8 John and Daniel moved to the moon.
+9 Where is Daniel? 	moon	8
+10 Daniel and Mary went back to the jupiter.
+11 John and Mary went to the mars.
+12 Where is Mary? 	mars	11
+13 Sandra and John moved to the moon.
+14 Mary and Sandra journeyed to the jupiter.
+15 Where is Mary? 	jupiter	14
