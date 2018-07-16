@@ -320,9 +320,18 @@ class MemN2N(object):
         tags_train = train_data[3]
         tags_test = test_tags
         # pdb.set_trace()
-        name_map = self.entities_map(tags_test, tags_train, s, test_stories, train_word_set)
+        name_map_ = self.entities_map(tags_test, tags_train, s, test_stories, train_word_set)
+        # pdb.set_trace()
+        name_map={}
+        for test_entity, train_entities in name_map_.items():
+            for train_entity in train_entities:
+                if train_entity not in name_map.values():
+                    name_map[test_entity]=train_entity
+                    break
+        # pdb.set_trace()
+        if not len(name_map)==len(name_map_): pdb.set_trace()
         name_map={value: key for key, value in name_map.items()}
-
+        # pdb.set_trace()
 
             # print('new name_map:', name_map)
             # for query in test_queries:
@@ -342,15 +351,15 @@ class MemN2N(object):
         name_map = {}
 
         # samples=[]
-        def similar_sample(tags_test_sent_, tags_train_):
+        def similar_sample(tags_test_sent_, tags_train_,position):
             similar_sample_index = []
             longest_len = 0
             for idx_story, tags_story in enumerate(tags_train_):
                 for idx_sent, tags_sents in enumerate(tags_story):
                     length = len(find_lcseque(tags_test_sent_, tags_sents))
-                    if length > longest_len:
+                    if length >= longest_len and len(tags_sents)>position:
                         longest_len = length
-                        similar_sample_index = [idx_story, idx_sent]
+                        similar_sample_index.append([idx_story, idx_sent])
             return similar_sample_index
 
         def new_words_position(sent, train_set):
@@ -375,11 +384,18 @@ class MemN2N(object):
                 # print (recognise,new_words,name_map)
                 if len(position_list) > 0 and recognise:
                     for position in position_list:
-                        train_position = similar_sample(tags_test[idx_story][idx_sents], tags_train)
-                        if tags_train[train_position[0]][train_position[1]][position]==tags_test[idx_story][idx_sents][position]:
-
-                            value = train_stories[train_position[0]][train_position[1]][position]
-                            name_map[sents[position]] = value
+                        train_positions = similar_sample(tags_test[idx_story][idx_sents], tags_train,position)
+                        # pdb.set_trace()
+                        for train_position in train_positions:
+                            try:
+                                if tags_train[train_position[0]][train_position[1]][position]==tags_test[idx_story][idx_sents][position]:
+                                    value = train_stories[train_position[0]][train_position[1]][position]
+                                    if sents[position] not in name_map.keys():
+                                        name_map[sents[position]]=[value]
+                                    elif value not in name_map[sents[position]]:
+                                        name_map[sents[position]].append(value)
+                            except:
+                                pdb.set_trace()
                         # else:
                             # pdb.set_trace()
                             # continue
