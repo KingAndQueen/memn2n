@@ -8,7 +8,7 @@ from sklearn import metrics, model_selection
 from memn2n import MemN2N
 from itertools import chain
 from six.moves import range, reduce
-import draw
+# import draw
 import tensorflow as tf
 import numpy as np
 import  pdb
