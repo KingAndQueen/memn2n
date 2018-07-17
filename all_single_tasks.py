@@ -15,7 +15,7 @@ def find_param():
 
     global param_dict
     param_dict = {}
-    for task_id in [1,2,3,6,7,8,9,11,12,13]:
+    for task_id in [1,2,3,4,5,6,7,8,9,10,11,12,13,14,19,20]:#[1,2,3,6,7,8,9,11,12,13]:
         # pdb.set_trace()
         param_dict['task_id'] = task_id
         call_training(param_dict['task_id'])

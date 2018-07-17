@@ -265,8 +265,8 @@ class MemN2N(object):
                 u_k = u[-1] + o_k
 
                 # nonlinearity
-                if self._nonlin:
-                    u_k = nonlin(u_k)
+                # if self._nonlin:
+                #     u_k = nonlin(u_k)
 
                 u.append(u_k)
 

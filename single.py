@@ -8,7 +8,7 @@ from sklearn import metrics, model_selection
 from memn2n import MemN2N
 from itertools import chain
 from six.moves import range, reduce
-
+import draw
 import tensorflow as tf
 import numpy as np
 import  pdb
@@ -22,9 +22,9 @@ tf.flags.DEFINE_integer("hops", 3, "Number of hops in the Memory Network.")
 tf.flags.DEFINE_integer("epochs", 100, "Number of epochs to train for.")
 tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matrices.")
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
-tf.flags.DEFINE_integer("task_id", 2, "bAbI task id, 1 <= id <= 20")
+tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
-tf.flags.DEFINE_string("data_dir", "my_data_rename", "Directory containing bAbI tasks")
+tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI tasks")
 FLAGS = tf.flags.FLAGS
 
 print("Started Task:", FLAGS.task_id)
@@ -32,12 +32,20 @@ print("Started Task:", FLAGS.task_id)
 # task data
 train, test,train_tags,test_tags = load_task(FLAGS.data_dir, FLAGS.task_id)
 data = train + test
-# pdb.set_trace()
-vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
+#pdb.set_trace()
+# vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
+vocab_my=[]
+for s, q, a in data:
+    sample=list(list(chain.from_iterable(s)) + q + a)
+    for word in sample:
+        if word not in vocab_my:
+            vocab_my.append(word)
+vocab=vocab_my
 word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
-
+# pdb.set_trace()
 train_set = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in train)))
 train_set=[word_idx[id]for id in train_set]
+
 max_story_size = max(map(len, (s for s, _, _ in data)))
 mean_story_size = int(np.mean([len(s) for s, _, _ in data]))
 sentence_size = max(map(len, chain.from_iterable(s for s, _, _ in data)))
@@ -132,8 +140,16 @@ with tf.Session() as sess:
     test_preds,word_embedding = model.predict(testS, testQ, type='test')
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Testing Accuracy:", test_acc)
+
     # pdb.set_trace()
-    test_preds,word_embedding = model.predict(testS, testQ,type='introspect',test_tags=test_tags, train_data=[S, Q, A,train_tags],
+    # f=open('./result_log/embedding_test.txt','w')
+    # f.write(str(word_embedding))
+    # f.write('\n\n')
+    test_preds,word_embedding_iu = model.predict(testS, testQ,type='introspect',test_tags=test_tags, train_data=[S, Q, A,train_tags],
                                word_idx=word_idx,train_set=train_set)
+
+    # f.write(str(word_embedding))
+    # f.close()
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Introspection Testing Accuracy:", test_acc)
+    # draw.draw_relation(word_embedding, word_embedding_iu)
