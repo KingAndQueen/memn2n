@@ -19,10 +19,10 @@ tf.flags.DEFINE_float("max_grad_norm", 40.0, "Clip gradients to this norm.")
 tf.flags.DEFINE_integer("evaluation_interval", 10, "Evaluate and print results every x epochs")
 tf.flags.DEFINE_integer("batch_size", 32, "Batch size for training.")
 tf.flags.DEFINE_integer("hops", 3, "Number of hops in the Memory Network.")
-tf.flags.DEFINE_integer("epochs", 20, "Number of epochs to train for.")
+tf.flags.DEFINE_integer("epochs", 10, "Number of epochs to train for.")
 tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matrices.")
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
-tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
+tf.flags.DEFINE_integer("task_id", 2, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
 tf.flags.DEFINE_string("data_dir", "my_data_rename", "Directory containing bAbI tasks")
 FLAGS = tf.flags.FLAGS
@@ -115,10 +115,10 @@ with tf.Session() as sess:
                 end = start + batch_size
                 s = trainS[start:end]
                 q = trainQ[start:end]
-                pred = model.predict(s, q)
+                pred,_ = model.predict(s, q)
                 train_preds += list(pred)
 
-            val_preds = model.predict(valS, valQ)
+            val_preds,_ = model.predict(valS, valQ)
             train_acc = metrics.accuracy_score(np.array(train_preds), train_labels)
             val_acc = metrics.accuracy_score(val_preds, val_labels)
 
@@ -129,12 +129,11 @@ with tf.Session() as sess:
             print('Validation Accuracy:', val_acc)
             print('-----------------------')
 
-    test_preds = model.predict(testS, testQ, type='test')
+    test_preds,word_embedding = model.predict(testS, testQ, type='test')
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Testing Accuracy:", test_acc)
-
-    test_preds = model.predict(testS, testQ,type='introspect',test_tags=test_tags, train_data=[S, Q, A,train_tags],
+    # pdb.set_trace()
+    test_preds,word_embedding = model.predict(testS, testQ,type='introspect',test_tags=test_tags, train_data=[S, Q, A,train_tags],
                                word_idx=word_idx,train_set=train_set)
-
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Introspection Testing Accuracy:", test_acc)

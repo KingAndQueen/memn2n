@@ -322,27 +322,27 @@ class MemN2N(object):
         # pdb.set_trace()
         name_map_ = self.entities_map(tags_test, tags_train, s, test_stories, train_word_set)
         # pdb.set_trace()
-        name_map={}
+        name_map = {}
         for test_entity, train_entities in name_map_.items():
             for train_entity in train_entities:
                 if train_entity not in name_map.values():
-                    name_map[test_entity]=train_entity
+                    name_map[test_entity] = train_entity
                     break
         # pdb.set_trace()
-        if not len(name_map)==len(name_map_): pdb.set_trace()
-        name_map={value: key for key, value in name_map.items()}
+        if not len(name_map) == len(name_map_): pdb.set_trace()
+        name_map = {value: key for key, value in name_map.items()}
         # pdb.set_trace()
 
-            # print('new name_map:', name_map)
-            # for query in test_queries:
-            #     a_list=test_entities
-            #     b_list=query
-            #     cross=list((set(a_list).union(set(b_list))) ^ (set(a_list) ^ set(b_list)))
-            #     if len(cross)>0:
-            # pdb.set_trace()
-            # print('simulate querying...')
+        # print('new name_map:', name_map)
+        # for query in test_queries:
+        #     a_list=test_entities
+        #     b_list=query
+        #     cross=list((set(a_list).union(set(b_list))) ^ (set(a_list) ^ set(b_list)))
+        #     if len(cross)>0:
+        # pdb.set_trace()
+        # print('simulate querying...')
 
-            # losses = 0
+        # losses = 0
         for s_e in range(30):
             losses = self.simulate_train(name_map, s, q, a, 0.01)
             print('The %d th simulation loss:%f' % (s_e, losses))
@@ -351,13 +351,13 @@ class MemN2N(object):
         name_map = {}
 
         # samples=[]
-        def similar_sample(tags_test_sent_, tags_train_,position):
+        def similar_sample(tags_test_sent_, tags_train_, position):
             similar_sample_index = []
             longest_len = 0
             for idx_story, tags_story in enumerate(tags_train_):
                 for idx_sent, tags_sents in enumerate(tags_story):
                     length = len(find_lcseque(tags_test_sent_, tags_sents))
-                    if length >= longest_len and len(tags_sents)>position:
+                    if length >= longest_len and len(tags_sents) > position:
                         longest_len = length
                         similar_sample_index.append([idx_story, idx_sent])
             return similar_sample_index
@@ -384,21 +384,21 @@ class MemN2N(object):
                 # print (recognise,new_words,name_map)
                 if len(position_list) > 0 and recognise:
                     for position in position_list:
-                        train_positions = similar_sample(tags_test[idx_story][idx_sents], tags_train,position)
+                        train_positions = similar_sample(tags_test[idx_story][idx_sents], tags_train, position)
                         # pdb.set_trace()
                         for train_position in train_positions:
-                            try:
-                                if tags_train[train_position[0]][train_position[1]][position]==tags_test[idx_story][idx_sents][position]:
-                                    value = train_stories[train_position[0]][train_position[1]][position]
-                                    if sents[position] not in name_map.keys():
-                                        name_map[sents[position]]=[value]
-                                    elif value not in name_map[sents[position]]:
-                                        name_map[sents[position]].append(value)
-                            except:
-                                pdb.set_trace()
-                        # else:
-                            # pdb.set_trace()
-                            # continue
+                            # try:
+                            if tags_train[train_position[0]][train_position[1]][position] == \
+                                    tags_test[idx_story][idx_sents][position]:
+                                # pdb.set_trace()
+                                value = train_stories[train_position[0]][train_position[1]][position]
+                                if sents[position] not in name_map.keys():
+                                    name_map[sents[position]] = [value]
+                                elif value not in name_map[sents[position]]:
+                                    name_map[sents[position]].append(value)
+                                    # except:
+                                    #   pdb.set_trace()
+
         return name_map
 
     def simulate_train(self, name_map, story, query, answer, lr):
@@ -421,11 +421,11 @@ class MemN2N(object):
                         flag = True
             # pdb.set_trace()
 
-            ans_id=np.argmax(a,0)
+            ans_id = np.argmax(a, 0)
             if ans_id in name_map.keys():
-                a=np.zeros(len(a))
-                a[name_map[ans_id]]=1
-                flag=True
+                a = np.zeros(len(a))
+                a[name_map[ans_id]] = 1
+                flag = True
             # pdb.set_trace()
             if flag:
                 stories.append(s)
@@ -463,10 +463,10 @@ class MemN2N(object):
         if type == 'introspect':
             self.simulate_query(stories, queries, test_tags, train_data, word_idx, train_set)
             feed_dict = {self._stories: stories, self._queries: queries}
-            return self._sess.run(self.predict_op, feed_dict=feed_dict)
+            return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
         else:
             feed_dict = {self._stories: stories, self._queries: queries}
-            return self._sess.run(self.predict_op, feed_dict=feed_dict)
+            return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
 
     def predict_proba(self, stories, queries):
         """Predicts probabilities of answers.

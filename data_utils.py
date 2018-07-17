@@ -70,7 +70,7 @@ def parse_stories(lines, only_supporting=False):
                     tag_list.append(tag[1])
                 # if tag_list not in tags:
                 tags.append(tag_list)
-            tags_data.append(tags)
+            tags_data.append(tags[:50])
             # pdb.set_trace()
             data.append((substory, q, a))
             story.append('')
