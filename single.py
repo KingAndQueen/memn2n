@@ -22,7 +22,7 @@ tf.flags.DEFINE_integer("hops", 3, "Number of hops in the Memory Network.")
 tf.flags.DEFINE_integer("epochs", 100, "Number of epochs to train for.")
 tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matrices.")
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
-tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
+tf.flags.DEFINE_integer("task_id", 3, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
 tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI tasks")
 tf.flags.DEFINE_boolean('visual',False,'whether visualize the embedding')
@@ -78,7 +78,7 @@ S, Q, A = vectorize_data(train, word_idx, sentence_size, memory_size)
 trainS, valS, trainQ, valQ, trainA, valA = model_selection.train_test_split(S, Q, A, test_size=.1,
                                                                             random_state=FLAGS.random_state)
 testS, testQ, testA = vectorize_data(test, word_idx, sentence_size, memory_size)
-
+# pdb.set_trace()
 print(testS[1])
 
 print("Training set shape", trainS.shape)

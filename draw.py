@@ -13,12 +13,14 @@ import seaborn as sns
 import pandas as pd
 def draw_line():
     #draw the distribution of roles in scenes
-    v = [131,247,335,260,108,30,11]
-    x = [0, 1, 2, 3, 4, 5, 6]
-    y = [0.3, 0.4, 2, 5, 3, 4.5, 4]
+    train = [1.44,0.53,0.35,0.29,0.24,0.23,0.21,0.20,0.19,0.19]
+    x1=range(10)
+    suftrain=[0.84,0.40,0.27]
+    x2=range(3)
+
     plt.figure(figsize=(8, 4))
-    plt.plot(x, y, "r", linewidth=1)
-    plt.plot(x, v, "b--", linewidth=1)
+    plt.plot(x1, train, "r", linewidth=1)
+    plt.plot(x2, suftrain, "b--", linewidth=1)
     plt.xlabel("Time(s)")
     plt.ylabel("Volt")
     plt.title("Line plot")

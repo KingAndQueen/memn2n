@@ -343,7 +343,7 @@ class MemN2N(object):
         # print('simulate querying...')
 
         # losses = 0
-        for s_e in range(30):
+        for s_e in range(100):
             losses = self.simulate_train(name_map, s, q, a, 0.01)
             print('The %d th simulation loss:%f' % (s_e, losses))
 
@@ -384,10 +384,10 @@ class MemN2N(object):
                 # print (recognise,new_words,name_map)
                 if len(position_list) > 0 and recognise:
                     for position in position_list:
-                        train_positions = similar_sample(tags_test[idx_story][idx_sents], tags_train, position)
+                        similar_smaple_in_train_positions = similar_sample(tags_test[idx_story][idx_sents], tags_train, position)
                         # pdb.set_trace()
-                        for train_position in train_positions:
-                            # try:
+                        for train_position in similar_smaple_in_train_positions:
+                          try:
                             if tags_train[train_position[0]][train_position[1]][position] == \
                                     tags_test[idx_story][idx_sents][position]:
                                 # pdb.set_trace()
@@ -396,8 +396,8 @@ class MemN2N(object):
                                     name_map[sents[position]] = [value]
                                 elif value not in name_map[sents[position]]:
                                     name_map[sents[position]].append(value)
-                                    # except:
-                                    #   pdb.set_trace()
+                          except:
+                                pdb.set_trace()
 
         return name_map
 
