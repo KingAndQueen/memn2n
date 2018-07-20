@@ -8,7 +8,7 @@ from sklearn import metrics, model_selection
 from memn2n import MemN2N
 from itertools import chain
 from six.moves import range, reduce
-# import draw
+
 import tensorflow as tf
 import numpy as np
 import  pdb
@@ -24,7 +24,8 @@ tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matr
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
-tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI tasks")
+tf.flags.DEFINE_string("data_dir", "my_data_rename", "Directory containing bAbI tasks")
+tf.flags.DEFINE_boolean('visual',False,'whether visualize the embedding')
 FLAGS = tf.flags.FLAGS
 
 print("Started Task:", FLAGS.task_id)
@@ -52,6 +53,10 @@ sentence_size = max(map(len, chain.from_iterable(s for s, _, _ in data)))
 query_size = max(map(len, (q for _, q, _ in data)))
 memory_size = min(FLAGS.memory_size, max_story_size)
 
+_oov_word=len(train_set)
+oov_word_=len(vocab)
+print('oov words',oov_word_-_oov_word)
+# pdb.set_trace()
 # Add time words/indexes
 # print('vocab word length:',len(word_idx))
 for i in range(memory_size):
@@ -152,4 +157,7 @@ with tf.Session() as sess:
     # f.close()
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Introspection Testing Accuracy:", test_acc)
+    if FLAGS.visual:
+        import draw
+        draw.draw_relation(word_embedding[_oov_word:oov_word_], word_embedding_iu[_oov_word:oov_word_])
     # draw.draw_relation(word_embedding, word_embedding_iu)
