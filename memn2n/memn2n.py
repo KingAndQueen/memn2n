@@ -357,9 +357,13 @@ class MemN2N(object):
             for idx_story, tags_story in enumerate(tags_train_):
                 for idx_sent, tags_sents in enumerate(tags_story):
                     length = len(find_lcseque(tags_test_sent_, tags_sents))
-                    if length >= longest_len and len(tags_sents) > position:
+                    if length>longest_len and len(tags_sents) > position:
                         longest_len = length
+                        similar_sample_index=[]
                         similar_sample_index.append([idx_story, idx_sent])
+                    if length == longest_len and len(tags_sents) > position:
+                        similar_sample_index.append([idx_story, idx_sent])
+
             return similar_sample_index
 
         def new_words_position(sent, train_set):
