@@ -11,17 +11,23 @@ def call_training(task_id=1, result_dir='result_log/'):
                            '--task_id', str(task_id)])
 
 
-def find_param():
+def find_param(type):
 
     global param_dict
     param_dict = {}
-    for task_id in [1,2,3,4,5,6,7,8,9,10,11,12,13,14,19,20]:#[1,2,3,6,7,8,9,11,12,13]:
+    tasks=[]
+    if type=='rename':
+        tasks=[1,2,3,6,7,8,9,11,12,13]
+    if type=='replace':
+        tasks =[1,2,3,4,5,6,7,8,9,10,11,12,13,14,19,20]
+
+    for task_id in tasks:#[1,2,3,4,5,6,7,8,9,10,11,12,13,14,19,20]:#[1,2,3,6,7,8,9,11,12,13]:
         # pdb.set_trace()
         param_dict['task_id'] = task_id
         call_training(param_dict['task_id'])
 
 def main():
-    find_param()
+    find_param('rename')
 
 if __name__ == '__main__':
     main()
