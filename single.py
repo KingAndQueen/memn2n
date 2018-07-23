@@ -25,7 +25,7 @@ tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
 tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI tasks")
-tf.flags.DEFINE_boolean('visual',True,'whether visualize the embedding')
+tf.flags.DEFINE_boolean('visual',False,'whether visualize the embedding')
 FLAGS = tf.flags.FLAGS
 
 print("Started Task:", FLAGS.task_id)
