@@ -329,7 +329,7 @@ class MemN2N(object):
                     name_map[test_entity] = train_entity
                     break
         # pdb.set_trace()
-        if not len(name_map) == len(name_map_): pdb.set_trace()
+        # if not len(name_map) == len(name_map_): pdb.set_trace()
         name_map = {value: key for key, value in name_map.items()}
         # pdb.set_trace()
 
