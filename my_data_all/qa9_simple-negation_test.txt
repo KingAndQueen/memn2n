@@ -1,0 +1,3000 @@
+1 Colliani is in the neptune.
+2 Burnhard is in the mars.
+3 Is Burnhard in the earth? 	no	2
+4 Burnhard journeyed to the earth.
+5 Doud travelled to the venus.
+6 Is Burnhard in the earth? 	yes	4
+7 Doud went back to the moon.
+8 Burnhard is no longer in the earth.
+9 Is Burnhard in the earth? 	no	8
+10 Colliani is in the jupiter.
+11 Doud is not in the moon.
+12 Is Doud in the moon? 	no	11
+13 Colliani is in the neptune.
+14 Doud journeyed to the venus.
+15 Is Doud in the mars? 	no	14
+1 Doud journeyed to the jupiter.
+2 Doud went back to the venus.
+3 Is Doud in the jupiter? 	no	2
+4 Conn is no longer in the mars.
+5 Colliani is no longer in the moon.
+6 Is Conn in the mars? 	no	4
+7 Colliani is in the venus.
+8 Burnhard travelled to the earth.
+9 Is Colliani in the venus? 	yes	7
+10 Doud travelled to the mars.
+11 Burnhard is not in the earth.
+12 Is Colliani in the venus? 	yes	7
+13 Colliani went back to the neptune.
+14 Conn travelled to the moon.
+15 Is Conn in the moon? 	yes	14
+1 Colliani is not in the moon.
+2 Burnhard is not in the earth.
+3 Is Colliani in the moon? 	no	1
+4 Doud journeyed to the venus.
+5 Burnhard is in the neptune.
+6 Is Burnhard in the neptune? 	yes	5
+7 Burnhard is not in the neptune.
+8 Doud went back to the mars.
+9 Is Doud in the venus? 	no	8
+10 Doud is in the neptune.
+11 Doud journeyed to the mars.
+12 Is Burnhard in the neptune? 	no	7
+13 Colliani is in the earth.
+14 Burnhard is not in the venus.
+15 Is Doud in the mars? 	yes	11
+1 Colliani moved to the neptune.
+2 Colliani journeyed to the jupiter.
+3 Is Colliani in the moon? 	no	2
+4 Conn went back to the jupiter.
+5 Burnhard is no longer in the neptune.
+6 Is Burnhard in the neptune? 	no	5
+7 Burnhard went to the neptune.
+8 Colliani travelled to the venus.
+9 Is Colliani in the venus? 	yes	8
+10 Conn went back to the moon.
+11 Colliani travelled to the jupiter.
+12 Is Colliani in the mars? 	no	11
+13 Burnhard is in the mars.
+14 Burnhard is no longer in the mars.
+15 Is Burnhard in the mars? 	no	14
+1 Colliani is no longer in the venus.
+2 Conn is in the neptune.
+3 Is Colliani in the venus? 	no	1
+4 Doud is not in the mars.
+5 Doud is in the neptune.
+6 Is Doud in the neptune? 	yes	5
+7 Burnhard travelled to the neptune.
+8 Doud moved to the jupiter.
+9 Is Conn in the neptune? 	yes	2
+10 Burnhard is no longer in the neptune.
+11 Doud went back to the neptune.
+12 Is Burnhard in the neptune? 	no	10
+13 Burnhard journeyed to the jupiter.
+14 Doud went back to the mars.
+15 Is Doud in the mars? 	yes	14
+1 Colliani journeyed to the neptune.
+2 Colliani is in the jupiter.
+3 Is Colliani in the neptune? 	no	2
+4 Colliani is no longer in the jupiter.
+5 Conn journeyed to the mars.
+6 Is Colliani in the jupiter? 	no	4
+7 Burnhard is not in the neptune.
+8 Conn travelled to the moon.
+9 Is Colliani in the jupiter? 	no	4
+10 Conn went to the earth.
+11 Burnhard is no longer in the venus.
+12 Is Burnhard in the venus? 	no	11
+13 Conn is in the moon.
+14 Colliani journeyed to the neptune.
+15 Is Conn in the jupiter? 	no	13
+1 Burnhard went back to the moon.
+2 Colliani is not in the jupiter.
+3 Is Colliani in the jupiter? 	no	2
+4 Burnhard is not in the moon.
+5 Conn went back to the mars.
+6 Is Burnhard in the moon? 	no	4
+7 Burnhard is no longer in the neptune.
+8 Colliani is in the earth.
+9 Is Burnhard in the neptune? 	no	7
+10 Colliani went back to the venus.
+11 Colliani is in the moon.
+12 Is Conn in the mars? 	yes	5
+13 Colliani moved to the jupiter.
+14 Colliani is in the earth.
+15 Is Colliani in the moon? 	no	14
+1 Doud travelled to the moon.
+2 Conn journeyed to the neptune.
+3 Is Doud in the moon? 	yes	1
+4 Conn is not in the neptune.
+5 Burnhard is no longer in the neptune.
+6 Is Conn in the neptune? 	no	4
+7 Burnhard moved to the neptune.
+8 Doud journeyed to the mars.
+9 Is Conn in the neptune? 	no	4
+10 Conn went back to the jupiter.
+11 Burnhard went back to the mars.
+12 Is Burnhard in the mars? 	yes	11
+13 Colliani is not in the moon.
+14 Doud is in the neptune.
+15 Is Conn in the jupiter? 	yes	10
+1 Doud went to the earth.
+2 Doud journeyed to the venus.
+3 Is Doud in the venus? 	yes	2
+4 Doud is in the moon.
+5 Colliani is not in the mars.
+6 Is Colliani in the mars? 	no	5
+7 Colliani is in the moon.
+8 Doud is in the earth.
+9 Is Doud in the earth? 	yes	8
+10 Burnhard is in the neptune.
+11 Colliani moved to the mars.
+12 Is Colliani in the venus? 	no	11
+13 Doud is in the venus.
+14 Burnhard travelled to the mars.
+15 Is Colliani in the mars? 	yes	11
+1 Colliani went back to the mars.
+2 Doud travelled to the venus.
+3 Is Colliani in the moon? 	no	1
+4 Conn is not in the moon.
+5 Doud is no longer in the venus.
+6 Is Colliani in the moon? 	no	1
+7 Conn travelled to the jupiter.
+8 Colliani moved to the jupiter.
+9 Is Conn in the moon? 	no	7
+10 Conn is no longer in the jupiter.
+11 Doud is no longer in the earth.
+12 Is Colliani in the jupiter? 	yes	8
+13 Doud went back to the earth.
+14 Colliani went to the venus.
+15 Is Colliani in the moon? 	no	14
+1 Colliani went back to the jupiter.
+2 Burnhard moved to the moon.
+3 Is Burnhard in the moon? 	yes	2
+4 Doud travelled to the neptune.
+5 Burnhard is no longer in the moon.
+6 Is Burnhard in the moon? 	no	5
+7 Conn is in the moon.
+8 Conn went back to the venus.
+9 Is Doud in the neptune? 	yes	4
+10 Burnhard went to the mars.
+11 Doud is in the earth.
+12 Is Burnhard in the mars? 	yes	10
+13 Colliani is in the venus.
+14 Doud is no longer in the earth.
+15 Is Burnhard in the mars? 	yes	10
+1 Doud journeyed to the mars.
+2 Colliani is not in the venus.
+3 Is Doud in the earth? 	no	1
+4 Burnhard is not in the moon.
+5 Colliani is no longer in the neptune.
+6 Is Colliani in the neptune? 	no	5
+7 Doud is in the venus.
+8 Doud journeyed to the jupiter.
+9 Is Colliani in the neptune? 	no	5
+10 Conn moved to the jupiter.
+11 Doud moved to the neptune.
+12 Is Doud in the moon? 	no	11
+13 Doud went back to the moon.
+14 Colliani journeyed to the moon.
+15 Is Doud in the venus? 	no	13
+1 Doud travelled to the venus.
+2 Burnhard is no longer in the jupiter.
+3 Is Burnhard in the jupiter? 	no	2
+4 Colliani is no longer in the earth.
+5 Doud is in the moon.
+6 Is Doud in the moon? 	yes	5
+7 Colliani travelled to the moon.
+8 Conn travelled to the neptune.
+9 Is Burnhard in the jupiter? 	no	2
+10 Colliani went to the earth.
+11 Doud is no longer in the moon.
+12 Is Doud in the moon? 	no	11
+13 Colliani travelled to the mars.
+14 Doud is no longer in the venus.
+15 Is Colliani in the jupiter? 	no	13
+1 Colliani went to the mars.
+2 Doud is no longer in the mars.
+3 Is Colliani in the venus? 	no	1
+4 Conn is in the earth.
+5 Doud journeyed to the mars.
+6 Is Doud in the earth? 	no	5
+7 Conn is not in the earth.
+8 Doud went back to the moon.
+9 Is Doud in the moon? 	yes	8
+10 Doud moved to the mars.
+11 Doud is in the earth.
+12 Is Doud in the jupiter? 	no	11
+13 Colliani is in the moon.
+14 Burnhard went back to the moon.
+15 Is Burnhard in the moon? 	yes	14
+1 Burnhard is not in the mars.
+2 Burnhard is in the mars.
+3 Is Burnhard in the neptune? 	no	2
+4 Conn is in the mars.
+5 Burnhard is not in the mars.
+6 Is Burnhard in the mars? 	no	5
+7 Conn is no longer in the mars.
+8 Colliani is not in the jupiter.
+9 Is Burnhard in the mars? 	no	5
+10 Doud went to the earth.
+11 Colliani is in the mars.
+12 Is Colliani in the mars? 	yes	11
+13 Burnhard journeyed to the mars.
+14 Colliani travelled to the venus.
+15 Is Colliani in the venus? 	yes	14
+1 Burnhard travelled to the mars.
+2 Conn went to the neptune.
+3 Is Burnhard in the mars? 	yes	1
+4 Conn is not in the neptune.
+5 Doud is not in the earth.
+6 Is Conn in the neptune? 	no	4
+7 Conn journeyed to the jupiter.
+8 Burnhard is no longer in the mars.
+9 Is Conn in the jupiter? 	yes	7
+10 Burnhard is not in the jupiter.
+11 Doud is in the neptune.
+12 Is Doud in the earth? 	no	11
+13 Burnhard is no longer in the mars.
+14 Colliani journeyed to the moon.
+15 Is Burnhard in the mars? 	no	13
+1 Burnhard is in the neptune.
+2 Colliani went back to the mars.
+3 Is Burnhard in the neptune? 	yes	1
+4 Conn went back to the venus.
+5 Conn is not in the venus.
+6 Is Colliani in the venus? 	no	2
+7 Colliani is in the venus.
+8 Colliani is in the mars.
+9 Is Conn in the venus? 	no	5
+10 Doud went back to the earth.
+11 Colliani journeyed to the moon.
+12 Is Conn in the venus? 	no	5
+13 Burnhard journeyed to the moon.
+14 Conn journeyed to the mars.
+15 Is Burnhard in the moon? 	yes	13
+1 Conn is no longer in the moon.
+2 Burnhard is not in the venus.
+3 Is Burnhard in the venus? 	no	2
+4 Burnhard travelled to the jupiter.
+5 Doud is not in the jupiter.
+6 Is Burnhard in the jupiter? 	yes	4
+7 Burnhard is in the moon.
+8 Conn is no longer in the mars.
+9 Is Burnhard in the earth? 	no	7
+10 Conn is in the mars.
+11 Colliani travelled to the moon.
+12 Is Conn in the neptune? 	no	10
+13 Colliani is not in the moon.
+14 Conn is not in the mars.
+15 Is Conn in the mars? 	no	14
+1 Colliani moved to the moon.
+2 Doud is in the earth.
+3 Is Doud in the earth? 	yes	2
+4 Colliani moved to the neptune.
+5 Burnhard is in the neptune.
+6 Is Burnhard in the jupiter? 	no	5
+7 Burnhard is no longer in the neptune.
+8 Burnhard went back to the jupiter.
+9 Is Colliani in the mars? 	no	4
+10 Burnhard is not in the jupiter.
+11 Colliani is in the jupiter.
+12 Is Burnhard in the jupiter? 	no	10
+13 Colliani went back to the moon.
+14 Conn is in the mars.
+15 Is Colliani in the moon? 	yes	13
+1 Doud is no longer in the neptune.
+2 Burnhard moved to the mars.
+3 Is Doud in the neptune? 	no	1
+4 Conn went to the moon.
+5 Doud travelled to the neptune.
+6 Is Burnhard in the neptune? 	no	2
+7 Colliani travelled to the earth.
+8 Conn went back to the mars.
+9 Is Colliani in the earth? 	yes	7
+10 Burnhard is not in the mars.
+11 Burnhard moved to the earth.
+12 Is Burnhard in the earth? 	yes	11
+13 Burnhard went to the moon.
+14 Colliani is not in the earth.
+15 Is Burnhard in the moon? 	yes	13
+1 Colliani moved to the jupiter.
+2 Burnhard moved to the mars.
+3 Is Colliani in the jupiter? 	yes	1
+4 Colliani travelled to the neptune.
+5 Conn went back to the moon.
+6 Is Conn in the mars? 	no	5
+7 Colliani moved to the venus.
+8 Burnhard is in the jupiter.
+9 Is Conn in the jupiter? 	no	5
+10 Conn went back to the earth.
+11 Colliani is not in the venus.
+12 Is Conn in the neptune? 	no	10
+13 Conn is in the mars.
+14 Doud journeyed to the earth.
+15 Is Conn in the mars? 	yes	13
+1 Doud travelled to the mars.
+2 Doud is no longer in the mars.
+3 Is Doud in the mars? 	no	2
+4 Colliani went back to the moon.
+5 Conn went back to the jupiter.
+6 Is Doud in the mars? 	no	2
+7 Doud is in the neptune.
+8 Burnhard is in the jupiter.
+9 Is Doud in the neptune? 	yes	7
+10 Conn is not in the jupiter.
+11 Conn is in the earth.
+12 Is Doud in the venus? 	no	7
+13 Doud is no longer in the neptune.
+14 Burnhard went to the mars.
+15 Is Burnhard in the mars? 	yes	14
+1 Burnhard is not in the moon.
+2 Conn is no longer in the moon.
+3 Is Burnhard in the moon? 	no	1
+4 Doud moved to the neptune.
+5 Conn is no longer in the jupiter.
+6 Is Burnhard in the moon? 	no	1
+7 Conn went to the moon.
+8 Colliani journeyed to the venus.
+9 Is Doud in the earth? 	no	4
+10 Burnhard went to the earth.
+11 Conn is no longer in the moon.
+12 Is Conn in the moon? 	no	11
+13 Doud moved to the moon.
+14 Colliani is no longer in the venus.
+15 Is Colliani in the venus? 	no	14
+1 Colliani is in the mars.
+2 Colliani journeyed to the neptune.
+3 Is Colliani in the mars? 	no	2
+4 Colliani moved to the jupiter.
+5 Burnhard is not in the mars.
+6 Is Burnhard in the mars? 	no	5
+7 Conn is no longer in the neptune.
+8 Colliani is in the moon.
+9 Is Colliani in the moon? 	yes	8
+10 Colliani went back to the venus.
+11 Doud is in the mars.
+12 Is Colliani in the venus? 	yes	10
+13 Conn went to the earth.
+14 Burnhard is in the venus.
+15 Is Colliani in the venus? 	yes	10
+1 Burnhard travelled to the jupiter.
+2 Conn is in the mars.
+3 Is Conn in the neptune? 	no	2
+4 Conn is in the neptune.
+5 Colliani moved to the jupiter.
+6 Is Burnhard in the moon? 	no	1
+7 Burnhard is in the earth.
+8 Burnhard is no longer in the earth.
+9 Is Burnhard in the earth? 	no	8
+10 Conn is in the mars.
+11 Burnhard went to the earth.
+12 Is Colliani in the jupiter? 	yes	5
+13 Colliani travelled to the earth.
+14 Conn is in the moon.
+15 Is Conn in the earth? 	no	14
+1 Doud moved to the jupiter.
+2 Doud is in the moon.
+3 Is Doud in the neptune? 	no	2
+4 Doud travelled to the venus.
+5 Burnhard is no longer in the jupiter.
+6 Is Doud in the venus? 	yes	4
+7 Doud is not in the venus.
+8 Colliani moved to the neptune.
+9 Is Colliani in the neptune? 	yes	8
+10 Doud moved to the neptune.
+11 Colliani travelled to the venus.
+12 Is Colliani in the venus? 	yes	11
+13 Doud is not in the neptune.
+14 Doud travelled to the neptune.
+15 Is Doud in the mars? 	no	14
+1 Conn is in the earth.
+2 Burnhard went to the jupiter.
+3 Is Conn in the neptune? 	no	1
+4 Conn is in the mars.
+5 Doud travelled to the earth.
+6 Is Conn in the moon? 	no	4
+7 Doud travelled to the jupiter.
+8 Burnhard went back to the mars.
+9 Is Doud in the venus? 	no	7
+10 Doud travelled to the earth.
+11 Colliani travelled to the neptune.
+12 Is Burnhard in the earth? 	no	8
+13 Doud is no longer in the earth.
+14 Colliani went to the earth.
+15 Is Colliani in the neptune? 	no	14
+1 Colliani travelled to the earth.
+2 Doud is no longer in the jupiter.
+3 Is Doud in the jupiter? 	no	2
+4 Colliani went to the venus.
+5 Conn went to the mars.
+6 Is Colliani in the mars? 	no	4
+7 Burnhard is not in the mars.
+8 Conn is not in the mars.
+9 Is Burnhard in the mars? 	no	7
+10 Burnhard is not in the neptune.
+11 Doud went back to the jupiter.
+12 Is Doud in the jupiter? 	yes	11
+13 Burnhard travelled to the venus.
+14 Doud is in the neptune.
+15 Is Conn in the mars? 	no	8
+1 Colliani is not in the moon.
+2 Colliani went back to the venus.
+3 Is Colliani in the venus? 	yes	2
+4 Colliani went to the jupiter.
+5 Conn is in the jupiter.
+6 Is Colliani in the jupiter? 	yes	4
+7 Colliani went to the neptune.
+8 Conn went to the earth.
+9 Is Colliani in the neptune? 	yes	7
+10 Burnhard went to the jupiter.
+11 Doud went to the neptune.
+12 Is Conn in the moon? 	no	8
+13 Colliani is not in the neptune.
+14 Doud moved to the earth.
+15 Is Burnhard in the jupiter? 	yes	10
+1 Conn is in the moon.
+2 Doud is no longer in the venus.
+3 Is Doud in the venus? 	no	2
+4 Conn travelled to the jupiter.
+5 Doud is in the mars.
+6 Is Doud in the earth? 	no	5
+7 Conn travelled to the moon.
+8 Burnhard is in the mars.
+9 Is Conn in the earth? 	no	7
+10 Doud journeyed to the earth.
+11 Colliani went to the venus.
+12 Is Doud in the jupiter? 	no	10
+13 Burnhard went back to the earth.
+14 Conn is in the earth.
+15 Is Doud in the venus? 	no	10
+1 Colliani went back to the neptune.
+2 Burnhard journeyed to the venus.
+3 Is Burnhard in the earth? 	no	2
+4 Burnhard went back to the moon.
+5 Colliani is in the earth.
+6 Is Burnhard in the moon? 	yes	4
+7 Doud went back to the venus.
+8 Doud is no longer in the venus.
+9 Is Colliani in the moon? 	no	5
+10 Doud went back to the venus.
+11 Doud went back to the moon.
+12 Is Doud in the venus? 	no	11
+13 Colliani is in the moon.
+14 Conn journeyed to the neptune.
+15 Is Doud in the neptune? 	no	11
+1 Colliani went to the neptune.
+2 Conn is no longer in the earth.
+3 Is Conn in the earth? 	no	2
+4 Conn is no longer in the moon.
+5 Colliani is in the jupiter.
+6 Is Conn in the moon? 	no	4
+7 Burnhard is in the earth.
+8 Doud went back to the mars.
+9 Is Conn in the moon? 	no	4
+10 Burnhard is no longer in the earth.
+11 Burnhard journeyed to the venus.
+12 Is Burnhard in the venus? 	yes	11
+13 Burnhard is in the earth.
+14 Burnhard journeyed to the mars.
+15 Is Doud in the mars? 	yes	8
+1 Doud is in the venus.
+2 Burnhard travelled to the venus.
+3 Is Burnhard in the jupiter? 	no	2
+4 Doud moved to the moon.
+5 Conn is in the moon.
+6 Is Doud in the moon? 	yes	4
+7 Colliani went to the moon.
+8 Colliani went to the venus.
+9 Is Doud in the neptune? 	no	4
+10 Doud journeyed to the venus.
+11 Doud went to the neptune.
+12 Is Conn in the jupiter? 	no	5
+13 Colliani went back to the jupiter.
+14 Conn moved to the neptune.
+15 Is Colliani in the earth? 	no	13
+1 Doud went back to the earth.
+2 Conn is no longer in the neptune.
+3 Is Doud in the venus? 	no	1
+4 Colliani went to the jupiter.
+5 Colliani went to the mars.
+6 Is Colliani in the neptune? 	no	5
+7 Colliani journeyed to the neptune.
+8 Conn journeyed to the jupiter.
+9 Is Conn in the jupiter? 	yes	8
+10 Burnhard moved to the mars.
+11 Doud is not in the earth.
+12 Is Burnhard in the mars? 	yes	10
+13 Burnhard is in the jupiter.
+14 Doud is in the venus.
+15 Is Burnhard in the jupiter? 	yes	13
+1 Doud is no longer in the moon.
+2 Conn moved to the earth.
+3 Is Doud in the moon? 	no	1
+4 Conn is not in the earth.
+5 Colliani is not in the moon.
+6 Is Doud in the moon? 	no	1
+7 Colliani went to the mars.
+8 Colliani is no longer in the mars.
+9 Is Conn in the earth? 	no	4
+10 Colliani is not in the earth.
+11 Doud went back to the moon.
+12 Is Colliani in the earth? 	no	10
+13 Colliani is no longer in the jupiter.
+14 Doud is no longer in the moon.
+15 Is Doud in the moon? 	no	14
+1 Colliani journeyed to the jupiter.
+2 Burnhard went to the earth.
+3 Is Colliani in the jupiter? 	yes	1
+4 Burnhard is in the moon.
+5 Burnhard went back to the neptune.
+6 Is Burnhard in the moon? 	no	5
+7 Doud journeyed to the mars.
+8 Burnhard is no longer in the neptune.
+9 Is Burnhard in the neptune? 	no	8
+10 Colliani is in the moon.
+11 Conn is in the neptune.
+12 Is Burnhard in the neptune? 	no	8
+13 Burnhard is in the jupiter.
+14 Doud is in the venus.
+15 Is Burnhard in the mars? 	no	13
+1 Conn is in the venus.
+2 Conn went to the mars.
+3 Is Conn in the earth? 	no	2
+4 Colliani went to the earth.
+5 Conn is in the venus.
+6 Is Conn in the venus? 	yes	5
+7 Conn went back to the moon.
+8 Colliani went back to the neptune.
+9 Is Conn in the neptune? 	no	7
+10 Colliani is in the venus.
+11 Doud travelled to the earth.
+12 Is Colliani in the venus? 	yes	10
+13 Doud went to the jupiter.
+14 Doud is in the venus.
+15 Is Doud in the neptune? 	no	14
+1 Conn went back to the jupiter.
+2 Burnhard is in the neptune.
+3 Is Burnhard in the neptune? 	yes	2
+4 Doud travelled to the neptune.
+5 Conn travelled to the moon.
+6 Is Conn in the earth? 	no	5
+7 Burnhard is in the mars.
+8 Burnhard is in the venus.
+9 Is Burnhard in the venus? 	yes	8
+10 Burnhard is in the neptune.
+11 Conn journeyed to the venus.
+12 Is Conn in the neptune? 	no	11
+13 Doud is in the earth.
+14 Colliani went back to the earth.
+15 Is Colliani in the mars? 	no	14
+1 Doud moved to the mars.
+2 Burnhard is in the moon.
+3 Is Burnhard in the moon? 	yes	2
+4 Doud is in the jupiter.
+5 Conn is in the neptune.
+6 Is Doud in the neptune? 	no	4
+7 Colliani journeyed to the moon.
+8 Colliani is no longer in the moon.
+9 Is Burnhard in the earth? 	no	2
+10 Colliani went to the neptune.
+11 Doud went to the moon.
+12 Is Colliani in the neptune? 	yes	10
+13 Burnhard went back to the jupiter.
+14 Doud travelled to the earth.
+15 Is Doud in the earth? 	yes	14
+1 Conn went back to the venus.
+2 Burnhard journeyed to the jupiter.
+3 Is Burnhard in the jupiter? 	yes	2
+4 Colliani is in the moon.
+5 Conn moved to the earth.
+6 Is Conn in the venus? 	no	5
+7 Conn is not in the earth.
+8 Conn is in the moon.
+9 Is Conn in the mars? 	no	8
+10 Doud travelled to the mars.
+11 Colliani is no longer in the moon.
+12 Is Conn in the neptune? 	no	8
+13 Burnhard went to the moon.
+14 Conn travelled to the venus.
+15 Is Colliani in the moon? 	no	11
+1 Colliani is in the neptune.
+2 Doud is no longer in the venus.
+3 Is Colliani in the neptune? 	yes	1
+4 Colliani is no longer in the neptune.
+5 Conn is in the venus.
+6 Is Colliani in the neptune? 	no	4
+7 Colliani is in the mars.
+8 Doud is not in the neptune.
+9 Is Conn in the venus? 	yes	5
+10 Burnhard journeyed to the moon.
+11 Conn is no longer in the venus.
+12 Is Burnhard in the mars? 	no	10
+13 Doud is in the moon.
+14 Conn journeyed to the venus.
+15 Is Conn in the earth? 	no	14
+1 Conn is no longer in the jupiter.
+2 Burnhard journeyed to the neptune.
+3 Is Burnhard in the neptune? 	yes	2
+4 Burnhard is not in the neptune.
+5 Conn is in the venus.
+6 Is Burnhard in the neptune? 	no	4
+7 Burnhard went to the venus.
+8 Colliani went back to the venus.
+9 Is Burnhard in the venus? 	yes	7
+10 Conn went back to the earth.
+11 Colliani journeyed to the jupiter.
+12 Is Conn in the moon? 	no	10
+13 Burnhard is not in the venus.
+14 Colliani travelled to the venus.
+15 Is Colliani in the venus? 	yes	14
+1 Conn is no longer in the jupiter.
+2 Burnhard is in the mars.
+3 Is Burnhard in the mars? 	yes	2
+4 Doud is no longer in the moon.
+5 Doud travelled to the earth.
+6 Is Doud in the earth? 	yes	5
+7 Colliani is in the mars.
+8 Doud is no longer in the earth.
+9 Is Doud in the earth? 	no	8
+10 Colliani is in the venus.
+11 Doud is in the earth.
+12 Is Doud in the earth? 	yes	11
+13 Colliani is in the jupiter.
+14 Doud went to the mars.
+15 Is Colliani in the jupiter? 	yes	13
+1 Doud moved to the venus.
+2 Doud is in the moon.
+3 Is Doud in the venus? 	no	2
+4 Doud is in the jupiter.
+5 Doud journeyed to the moon.
+6 Is Doud in the moon? 	yes	5
+7 Burnhard moved to the venus.
+8 Colliani is no longer in the venus.
+9 Is Doud in the venus? 	no	5
+10 Burnhard moved to the jupiter.
+11 Burnhard journeyed to the venus.
+12 Is Doud in the moon? 	yes	5
+13 Colliani is no longer in the neptune.
+14 Burnhard went to the neptune.
+15 Is Burnhard in the venus? 	no	14
+1 Doud is not in the mars.
+2 Conn is no longer in the neptune.
+3 Is Conn in the neptune? 	no	2
+4 Colliani is no longer in the neptune.
+5 Conn is no longer in the mars.
+6 Is Doud in the mars? 	no	1
+7 Burnhard journeyed to the venus.
+8 Doud went to the moon.
+9 Is Conn in the mars? 	no	5
+10 Conn moved to the neptune.
+11 Conn went back to the venus.
+12 Is Conn in the mars? 	no	11
+13 Burnhard journeyed to the moon.
+14 Colliani is not in the venus.
+15 Is Colliani in the venus? 	no	14
+1 Burnhard moved to the earth.
+2 Burnhard journeyed to the jupiter.
+3 Is Burnhard in the jupiter? 	yes	2
+4 Burnhard journeyed to the neptune.
+5 Burnhard journeyed to the venus.
+6 Is Burnhard in the jupiter? 	no	5
+7 Colliani journeyed to the earth.
+8 Conn is in the earth.
+9 Is Burnhard in the earth? 	no	5
+10 Colliani travelled to the venus.
+11 Colliani is in the jupiter.
+12 Is Conn in the earth? 	yes	8
+13 Doud journeyed to the venus.
+14 Burnhard is not in the venus.
+15 Is Conn in the earth? 	yes	8
+1 Colliani journeyed to the venus.
+2 Conn is no longer in the venus.
+3 Is Colliani in the neptune? 	no	1
+4 Colliani is in the moon.
+5 Conn is no longer in the earth.
+6 Is Conn in the earth? 	no	5
+7 Colliani travelled to the mars.
+8 Conn is not in the mars.
+9 Is Colliani in the mars? 	yes	7
+10 Colliani went to the moon.
+11 Doud journeyed to the earth.
+12 Is Doud in the venus? 	no	11
+13 Burnhard is not in the neptune.
+14 Colliani is in the mars.
+15 Is Burnhard in the neptune? 	no	13
+1 Conn is in the venus.
+2 Colliani is in the earth.
+3 Is Colliani in the venus? 	no	2
+4 Doud went back to the neptune.
+5 Conn moved to the jupiter.
+6 Is Doud in the neptune? 	yes	4
+7 Doud moved to the earth.
+8 Burnhard is not in the venus.
+9 Is Burnhard in the venus? 	no	8
+10 Colliani moved to the moon.
+11 Burnhard is not in the moon.
+12 Is Burnhard in the moon? 	no	11
+13 Colliani went to the earth.
+14 Burnhard journeyed to the mars.
+15 Is Colliani in the jupiter? 	no	13
+1 Colliani journeyed to the earth.
+2 Doud went to the moon.
+3 Is Colliani in the earth? 	yes	1
+4 Doud is not in the moon.
+5 Colliani is no longer in the earth.
+6 Is Colliani in the earth? 	no	5
+7 Conn is not in the moon.
+8 Conn moved to the venus.
+9 Is Conn in the mars? 	no	8
+10 Conn journeyed to the earth.
+11 Conn is in the venus.
+12 Is Conn in the moon? 	no	11
+13 Conn journeyed to the mars.
+14 Burnhard is no longer in the jupiter.
+15 Is Conn in the neptune? 	no	13
+1 Burnhard went back to the moon.
+2 Burnhard moved to the jupiter.
+3 Is Burnhard in the earth? 	no	2
+4 Conn moved to the mars.
+5 Conn moved to the venus.
+6 Is Conn in the venus? 	yes	5
+7 Colliani is in the moon.
+8 Doud travelled to the venus.
+9 Is Conn in the jupiter? 	no	5
+10 Colliani is in the venus.
+11 Colliani is no longer in the venus.
+12 Is Conn in the venus? 	yes	5
+13 Doud moved to the jupiter.
+14 Conn journeyed to the neptune.
+15 Is Conn in the venus? 	no	14
+1 Doud is not in the earth.
+2 Conn is in the jupiter.
+3 Is Doud in the earth? 	no	1
+4 Colliani is not in the venus.
+5 Doud went back to the jupiter.
+6 Is Doud in the venus? 	no	5
+7 Doud is in the moon.
+8 Colliani travelled to the venus.
+9 Is Conn in the jupiter? 	yes	2
+10 Doud went back to the earth.
+11 Doud journeyed to the jupiter.
+12 Is Doud in the neptune? 	no	11
+13 Conn is in the earth.
+14 Doud journeyed to the mars.
+15 Is Conn in the earth? 	yes	13
+1 Colliani went to the mars.
+2 Colliani is in the earth.
+3 Is Colliani in the earth? 	yes	2
+4 Conn is not in the neptune.
+5 Burnhard went to the mars.
+6 Is Colliani in the earth? 	yes	2
+7 Doud journeyed to the neptune.
+8 Colliani is in the mars.
+9 Is Colliani in the mars? 	yes	8
+10 Burnhard journeyed to the earth.
+11 Colliani moved to the venus.
+12 Is Doud in the venus? 	no	7
+13 Conn is not in the mars.
+14 Doud travelled to the mars.
+15 Is Doud in the mars? 	yes	14
+1 Doud is not in the earth.
+2 Conn went to the venus.
+3 Is Doud in the earth? 	no	1
+4 Burnhard is in the moon.
+5 Colliani is no longer in the venus.
+6 Is Conn in the venus? 	yes	2
+7 Conn is in the jupiter.
+8 Burnhard is not in the moon.
+9 Is Burnhard in the moon? 	no	8
+10 Burnhard went to the neptune.
+11 Burnhard travelled to the mars.
+12 Is Burnhard in the mars? 	yes	11
+13 Doud went back to the earth.
+14 Colliani went back to the venus.
+15 Is Colliani in the jupiter? 	no	14
+1 Burnhard is no longer in the venus.
+2 Conn is no longer in the jupiter.
+3 Is Conn in the jupiter? 	no	2
+4 Doud is in the earth.
+5 Conn travelled to the jupiter.
+6 Is Conn in the jupiter? 	yes	5
+7 Doud went back to the mars.
+8 Burnhard went to the neptune.
+9 Is Conn in the earth? 	no	5
+10 Colliani is in the jupiter.
+11 Conn went to the neptune.
+12 Is Conn in the neptune? 	yes	11
+13 Colliani travelled to the neptune.
+14 Burnhard is in the mars.
+15 Is Colliani in the neptune? 	yes	13
+1 Conn went to the moon.
+2 Burnhard travelled to the moon.
+3 Is Burnhard in the neptune? 	no	2
+4 Burnhard moved to the earth.
+5 Burnhard journeyed to the neptune.
+6 Is Burnhard in the moon? 	no	5
+7 Conn is in the neptune.
+8 Burnhard journeyed to the moon.
+9 Is Burnhard in the jupiter? 	no	8
+10 Conn went to the earth.
+11 Colliani moved to the neptune.
+12 Is Conn in the earth? 	yes	10
+13 Doud journeyed to the neptune.
+14 Conn is not in the earth.
+15 Is Colliani in the neptune? 	yes	11
+1 Conn is in the jupiter.
+2 Conn travelled to the venus.
+3 Is Conn in the venus? 	yes	2
+4 Burnhard went back to the mars.
+5 Burnhard journeyed to the moon.
+6 Is Burnhard in the neptune? 	no	5
+7 Conn is in the mars.
+8 Doud went to the neptune.
+9 Is Doud in the neptune? 	yes	8
+10 Doud moved to the venus.
+11 Burnhard is no longer in the moon.
+12 Is Conn in the mars? 	yes	7
+13 Doud travelled to the moon.
+14 Conn went to the earth.
+15 Is Burnhard in the moon? 	no	11
+1 Burnhard is in the mars.
+2 Conn went back to the mars.
+3 Is Conn in the mars? 	yes	2
+4 Burnhard went to the venus.
+5 Burnhard went to the moon.
+6 Is Burnhard in the moon? 	yes	5
+7 Conn is in the jupiter.
+8 Burnhard journeyed to the venus.
+9 Is Burnhard in the neptune? 	no	8
+10 Colliani travelled to the jupiter.
+11 Burnhard is in the earth.
+12 Is Conn in the moon? 	no	7
+13 Conn is not in the jupiter.
+14 Doud is not in the jupiter.
+15 Is Doud in the jupiter? 	no	14
+1 Burnhard travelled to the mars.
+2 Doud journeyed to the neptune.
+3 Is Burnhard in the earth? 	no	1
+4 Conn travelled to the moon.
+5 Doud journeyed to the earth.
+6 Is Doud in the earth? 	yes	5
+7 Conn is in the mars.
+8 Burnhard travelled to the venus.
+9 Is Conn in the neptune? 	no	7
+10 Colliani journeyed to the moon.
+11 Burnhard moved to the moon.
+12 Is Burnhard in the moon? 	yes	11
+13 Colliani went to the jupiter.
+14 Conn went back to the venus.
+15 Is Colliani in the jupiter? 	yes	13
+1 Burnhard moved to the jupiter.
+2 Burnhard journeyed to the mars.
+3 Is Burnhard in the venus? 	no	2
+4 Burnhard is no longer in the mars.
+5 Burnhard moved to the jupiter.
+6 Is Burnhard in the mars? 	no	5
+7 Doud is no longer in the jupiter.
+8 Colliani moved to the moon.
+9 Is Burnhard in the venus? 	no	5
+10 Conn travelled to the moon.
+11 Doud travelled to the moon.
+12 Is Doud in the mars? 	no	11
+13 Burnhard is not in the jupiter.
+14 Conn went to the mars.
+15 Is Colliani in the earth? 	no	8
+1 Conn is not in the venus.
+2 Burnhard moved to the neptune.
+3 Is Burnhard in the earth? 	no	2
+4 Colliani travelled to the moon.
+5 Conn went to the mars.
+6 Is Burnhard in the neptune? 	yes	2
+7 Doud is in the moon.
+8 Burnhard is no longer in the neptune.
+9 Is Conn in the mars? 	yes	5
+10 Burnhard is not in the jupiter.
+11 Colliani went to the neptune.
+12 Is Doud in the moon? 	yes	7
+13 Colliani is no longer in the neptune.
+14 Doud went to the earth.
+15 Is Colliani in the neptune? 	no	13
+1 Colliani is in the moon.
+2 Colliani went to the jupiter.
+3 Is Colliani in the neptune? 	no	2
+4 Conn journeyed to the moon.
+5 Burnhard is no longer in the moon.
+6 Is Colliani in the jupiter? 	yes	2
+7 Burnhard is no longer in the venus.
+8 Burnhard moved to the earth.
+9 Is Burnhard in the neptune? 	no	8
+10 Colliani travelled to the mars.
+11 Conn went back to the jupiter.
+12 Is Burnhard in the earth? 	yes	8
+13 Burnhard journeyed to the mars.
+14 Doud journeyed to the neptune.
+15 Is Burnhard in the mars? 	yes	13
+1 Colliani travelled to the neptune.
+2 Conn is in the neptune.
+3 Is Colliani in the neptune? 	yes	1
+4 Burnhard is in the neptune.
+5 Conn moved to the earth.
+6 Is Colliani in the jupiter? 	no	1
+7 Burnhard moved to the venus.
+8 Doud journeyed to the neptune.
+9 Is Burnhard in the venus? 	yes	7
+10 Conn is no longer in the earth.
+11 Doud is not in the neptune.
+12 Is Conn in the earth? 	no	10
+13 Colliani went to the earth.
+14 Conn journeyed to the earth.
+15 Is Colliani in the neptune? 	no	13
+1 Conn is not in the moon.
+2 Doud travelled to the moon.
+3 Is Conn in the moon? 	no	1
+4 Doud is not in the moon.
+5 Burnhard journeyed to the moon.
+6 Is Conn in the moon? 	no	1
+7 Colliani moved to the neptune.
+8 Doud is no longer in the venus.
+9 Is Burnhard in the earth? 	no	5
+10 Burnhard went to the earth.
+11 Conn is no longer in the jupiter.
+12 Is Burnhard in the moon? 	no	10
+13 Colliani is in the mars.
+14 Colliani moved to the venus.
+15 Is Burnhard in the earth? 	yes	10
+1 Colliani is not in the earth.
+2 Colliani is in the moon.
+3 Is Colliani in the venus? 	no	2
+4 Colliani travelled to the neptune.
+5 Burnhard went back to the earth.
+6 Is Colliani in the earth? 	no	4
+7 Colliani is no longer in the neptune.
+8 Conn travelled to the jupiter.
+9 Is Conn in the mars? 	no	8
+10 Colliani is no longer in the moon.
+11 Colliani travelled to the moon.
+12 Is Colliani in the moon? 	yes	11
+13 Colliani is in the venus.
+14 Colliani is in the neptune.
+15 Is Colliani in the mars? 	no	14
+1 Doud travelled to the venus.
+2 Conn is in the venus.
+3 Is Doud in the moon? 	no	1
+4 Burnhard went to the moon.
+5 Colliani journeyed to the jupiter.
+6 Is Burnhard in the moon? 	yes	4
+7 Colliani is in the venus.
+8 Conn is in the earth.
+9 Is Burnhard in the moon? 	yes	4
+10 Doud is no longer in the venus.
+11 Doud journeyed to the moon.
+12 Is Doud in the moon? 	yes	11
+13 Colliani is no longer in the venus.
+14 Burnhard is no longer in the moon.
+15 Is Colliani in the venus? 	no	13
+1 Colliani is no longer in the moon.
+2 Doud is in the neptune.
+3 Is Colliani in the moon? 	no	1
+4 Conn moved to the jupiter.
+5 Conn went back to the mars.
+6 Is Colliani in the moon? 	no	1
+7 Doud travelled to the venus.
+8 Colliani is in the moon.
+9 Is Colliani in the neptune? 	no	8
+10 Burnhard is not in the neptune.
+11 Doud is in the moon.
+12 Is Burnhard in the neptune? 	no	10
+13 Burnhard is not in the venus.
+14 Conn is no longer in the mars.
+15 Is Doud in the moon? 	yes	11
+1 Conn is not in the venus.
+2 Doud went to the neptune.
+3 Is Doud in the neptune? 	yes	2
+4 Conn is not in the mars.
+5 Colliani is in the moon.
+6 Is Conn in the mars? 	no	4
+7 Conn is no longer in the earth.
+8 Burnhard journeyed to the earth.
+9 Is Conn in the earth? 	no	7
+10 Colliani is no longer in the moon.
+11 Colliani journeyed to the neptune.
+12 Is Conn in the earth? 	no	7
+13 Doud moved to the earth.
+14 Conn journeyed to the mars.
+15 Is Burnhard in the moon? 	no	8
+1 Conn journeyed to the earth.
+2 Doud went to the earth.
+3 Is Doud in the earth? 	yes	2
+4 Colliani is no longer in the jupiter.
+5 Colliani journeyed to the neptune.
+6 Is Colliani in the neptune? 	yes	5
+7 Conn is not in the earth.
+8 Doud went back to the moon.
+9 Is Doud in the moon? 	yes	8
+10 Burnhard is not in the jupiter.
+11 Conn travelled to the mars.
+12 Is Conn in the jupiter? 	no	11
+13 Burnhard is no longer in the venus.
+14 Colliani is not in the neptune.
+15 Is Doud in the earth? 	no	8
+1 Burnhard travelled to the moon.
+2 Conn is in the jupiter.
+3 Is Conn in the jupiter? 	yes	2
+4 Burnhard travelled to the mars.
+5 Conn went to the neptune.
+6 Is Burnhard in the mars? 	yes	4
+7 Colliani is in the jupiter.
+8 Doud travelled to the venus.
+9 Is Conn in the neptune? 	yes	5
+10 Burnhard went to the moon.
+11 Burnhard travelled to the earth.
+12 Is Colliani in the jupiter? 	yes	7
+13 Burnhard went back to the neptune.
+14 Conn is not in the neptune.
+15 Is Conn in the neptune? 	no	14
+1 Colliani is in the venus.
+2 Burnhard travelled to the mars.
+3 Is Burnhard in the earth? 	no	2
+4 Conn moved to the earth.
+5 Doud went back to the earth.
+6 Is Burnhard in the mars? 	yes	2
+7 Doud moved to the neptune.
+8 Conn is not in the earth.
+9 Is Burnhard in the earth? 	no	2
+10 Conn went back to the earth.
+11 Colliani journeyed to the mars.
+12 Is Conn in the venus? 	no	10
+13 Colliani is in the venus.
+14 Burnhard is in the jupiter.
+15 Is Colliani in the jupiter? 	no	13
+1 Colliani travelled to the moon.
+2 Conn is in the moon.
+3 Is Conn in the moon? 	yes	2
+4 Conn is no longer in the moon.
+5 Burnhard went to the venus.
+6 Is Burnhard in the earth? 	no	5
+7 Conn is no longer in the jupiter.
+8 Conn is in the jupiter.
+9 Is Conn in the moon? 	no	8
+10 Colliani journeyed to the neptune.
+11 Doud went back to the moon.
+12 Is Colliani in the neptune? 	yes	10
+13 Doud is in the neptune.
+14 Conn is in the moon.
+15 Is Doud in the neptune? 	yes	13
+1 Conn went to the neptune.
+2 Doud moved to the moon.
+3 Is Conn in the moon? 	no	1
+4 Burnhard travelled to the earth.
+5 Colliani is in the moon.
+6 Is Colliani in the venus? 	no	5
+7 Burnhard is no longer in the earth.
+8 Conn journeyed to the moon.
+9 Is Conn in the moon? 	yes	8
+10 Doud is no longer in the moon.
+11 Burnhard moved to the jupiter.
+12 Is Burnhard in the jupiter? 	yes	11
+13 Doud is in the moon.
+14 Doud went back to the neptune.
+15 Is Doud in the moon? 	no	14
+1 Colliani journeyed to the venus.
+2 Colliani moved to the moon.
+3 Is Colliani in the mars? 	no	2
+4 Conn moved to the mars.
+5 Colliani travelled to the neptune.
+6 Is Colliani in the earth? 	no	5
+7 Burnhard is no longer in the moon.
+8 Burnhard went back to the neptune.
+9 Is Colliani in the neptune? 	yes	5
+10 Colliani is in the earth.
+11 Colliani is not in the earth.
+12 Is Colliani in the earth? 	no	11
+13 Burnhard is not in the neptune.
+14 Conn moved to the jupiter.
+15 Is Colliani in the earth? 	no	11
+1 Burnhard is not in the mars.
+2 Colliani is in the earth.
+3 Is Colliani in the jupiter? 	no	2
+4 Burnhard travelled to the earth.
+5 Doud is in the venus.
+6 Is Burnhard in the venus? 	no	4
+7 Conn went back to the jupiter.
+8 Colliani is no longer in the earth.
+9 Is Colliani in the earth? 	no	8
+10 Conn is in the neptune.
+11 Conn is not in the neptune.
+12 Is Conn in the neptune? 	no	11
+13 Burnhard is not in the earth.
+14 Doud is no longer in the venus.
+15 Is Burnhard in the earth? 	no	13
+1 Doud is in the neptune.
+2 Colliani went back to the mars.
+3 Is Doud in the moon? 	no	1
+4 Conn is in the moon.
+5 Conn went back to the earth.
+6 Is Conn in the mars? 	no	5
+7 Conn moved to the jupiter.
+8 Doud journeyed to the jupiter.
+9 Is Conn in the neptune? 	no	7
+10 Burnhard is in the jupiter.
+11 Conn is no longer in the jupiter.
+12 Is Conn in the jupiter? 	no	11
+13 Doud went back to the venus.
+14 Doud moved to the mars.
+15 Is Doud in the mars? 	yes	14
+1 Doud is not in the moon.
+2 Colliani is in the mars.
+3 Is Doud in the moon? 	no	1
+4 Colliani went back to the venus.
+5 Conn went back to the jupiter.
+6 Is Conn in the jupiter? 	yes	5
+7 Burnhard travelled to the neptune.
+8 Burnhard is in the mars.
+9 Is Colliani in the moon? 	no	4
+10 Colliani journeyed to the neptune.
+11 Conn went back to the venus.
+12 Is Conn in the mars? 	no	11
+13 Conn is in the moon.
+14 Burnhard is in the jupiter.
+15 Is Colliani in the earth? 	no	10
+1 Doud is in the venus.
+2 Burnhard is no longer in the mars.
+3 Is Burnhard in the mars? 	no	2
+4 Doud journeyed to the moon.
+5 Burnhard is not in the earth.
+6 Is Doud in the moon? 	yes	4
+7 Doud travelled to the mars.
+8 Burnhard moved to the moon.
+9 Is Burnhard in the neptune? 	no	8
+10 Doud travelled to the neptune.
+11 Burnhard journeyed to the neptune.
+12 Is Doud in the neptune? 	yes	10
+13 Colliani went to the neptune.
+14 Doud is no longer in the neptune.
+15 Is Colliani in the neptune? 	yes	13
+1 Conn is in the moon.
+2 Burnhard is no longer in the earth.
+3 Is Conn in the mars? 	no	1
+4 Doud is no longer in the earth.
+5 Burnhard is no longer in the mars.
+6 Is Burnhard in the mars? 	no	5
+7 Burnhard is in the neptune.
+8 Conn is in the venus.
+9 Is Burnhard in the neptune? 	yes	7
+10 Burnhard is in the earth.
+11 Burnhard is in the moon.
+12 Is Burnhard in the earth? 	no	11
+13 Burnhard travelled to the neptune.
+14 Colliani is in the mars.
+15 Is Burnhard in the mars? 	no	13
+1 Doud is in the jupiter.
+2 Colliani went back to the mars.
+3 Is Doud in the moon? 	no	1
+4 Burnhard travelled to the moon.
+5 Colliani is in the venus.
+6 Is Colliani in the venus? 	yes	5
+7 Conn travelled to the neptune.
+8 Conn went back to the moon.
+9 Is Conn in the moon? 	yes	8
+10 Colliani is in the neptune.
+11 Colliani went to the mars.
+12 Is Colliani in the mars? 	yes	11
+13 Burnhard is not in the moon.
+14 Doud moved to the moon.
+15 Is Colliani in the neptune? 	no	11
+1 Burnhard went to the moon.
+2 Burnhard is in the jupiter.
+3 Is Burnhard in the jupiter? 	yes	2
+4 Doud is in the neptune.
+5 Doud went to the venus.
+6 Is Doud in the venus? 	yes	5
+7 Conn travelled to the moon.
+8 Doud is in the earth.
+9 Is Doud in the venus? 	no	8
+10 Colliani travelled to the jupiter.
+11 Colliani moved to the earth.
+12 Is Colliani in the venus? 	no	11
+13 Colliani is no longer in the earth.
+14 Colliani went to the earth.
+15 Is Colliani in the moon? 	no	14
+1 Doud is not in the mars.
+2 Colliani moved to the mars.
+3 Is Colliani in the mars? 	yes	2
+4 Colliani went back to the jupiter.
+5 Colliani went to the moon.
+6 Is Doud in the mars? 	no	1
+7 Colliani is in the jupiter.
+8 Colliani travelled to the earth.
+9 Is Colliani in the earth? 	yes	8
+10 Doud journeyed to the jupiter.
+11 Conn travelled to the neptune.
+12 Is Doud in the jupiter? 	yes	10
+13 Burnhard went back to the moon.
+14 Burnhard journeyed to the neptune.
+15 Is Burnhard in the neptune? 	yes	14
+1 Colliani is not in the mars.
+2 Conn went back to the neptune.
+3 Is Colliani in the mars? 	no	1
+4 Colliani moved to the mars.
+5 Conn went to the earth.
+6 Is Conn in the neptune? 	no	5
+7 Colliani went back to the moon.
+8 Colliani is in the earth.
+9 Is Colliani in the earth? 	yes	8
+10 Conn went back to the mars.
+11 Doud is no longer in the neptune.
+12 Is Conn in the mars? 	yes	10
+13 Colliani travelled to the jupiter.
+14 Doud is in the jupiter.
+15 Is Doud in the earth? 	no	14
+1 Colliani moved to the neptune.
+2 Conn journeyed to the neptune.
+3 Is Colliani in the neptune? 	yes	1
+4 Doud went back to the moon.
+5 Colliani is no longer in the neptune.
+6 Is Conn in the earth? 	no	2
+7 Colliani is no longer in the venus.
+8 Burnhard is no longer in the venus.
+9 Is Conn in the neptune? 	yes	2
+10 Conn is in the jupiter.
+11 Colliani travelled to the jupiter.
+12 Is Conn in the neptune? 	no	10
+13 Conn went to the earth.
+14 Conn journeyed to the neptune.
+15 Is Conn in the neptune? 	yes	14
+1 Colliani is not in the venus.
+2 Colliani journeyed to the venus.
+3 Is Colliani in the venus? 	yes	2
+4 Colliani journeyed to the moon.
+5 Burnhard is in the jupiter.
+6 Is Colliani in the venus? 	no	4
+7 Conn is in the venus.
+8 Colliani went to the earth.
+9 Is Colliani in the moon? 	no	8
+10 Conn journeyed to the neptune.
+11 Colliani is in the neptune.
+12 Is Colliani in the earth? 	no	11
+13 Colliani is no longer in the neptune.
+14 Conn went to the moon.
+15 Is Conn in the moon? 	yes	14
+1 Doud is in the earth.
+2 Burnhard moved to the jupiter.
+3 Is Doud in the moon? 	no	1
+4 Colliani journeyed to the venus.
+5 Conn is not in the neptune.
+6 Is Doud in the venus? 	no	1
+7 Colliani went to the moon.
+8 Conn journeyed to the jupiter.
+9 Is Colliani in the neptune? 	no	7
+10 Conn is no longer in the jupiter.
+11 Conn travelled to the jupiter.
+12 Is Conn in the jupiter? 	yes	11
+13 Colliani went to the venus.
+14 Burnhard is in the mars.
+15 Is Conn in the earth? 	no	11
+1 Doud moved to the jupiter.
+2 Colliani is in the moon.
+3 Is Doud in the moon? 	no	1
+4 Colliani moved to the earth.
+5 Doud journeyed to the moon.
+6 Is Doud in the moon? 	yes	5
+7 Doud journeyed to the neptune.
+8 Burnhard is in the jupiter.
+9 Is Colliani in the earth? 	yes	4
+10 Doud travelled to the venus.
+11 Conn went to the mars.
+12 Is Conn in the earth? 	no	11
+13 Doud went to the mars.
+14 Burnhard went to the moon.
+15 Is Conn in the mars? 	yes	11
+1 Colliani is not in the jupiter.
+2 Colliani is in the mars.
+3 Is Colliani in the mars? 	yes	2
+4 Burnhard is in the venus.
+5 Colliani travelled to the earth.
+6 Is Colliani in the jupiter? 	no	5
+7 Doud is no longer in the mars.
+8 Burnhard went back to the moon.
+9 Is Burnhard in the moon? 	yes	8
+10 Conn went back to the mars.
+11 Burnhard is in the jupiter.
+12 Is Burnhard in the venus? 	no	11
+13 Burnhard is in the neptune.
+14 Conn travelled to the venus.
+15 Is Burnhard in the neptune? 	yes	13
+1 Colliani is in the moon.
+2 Colliani is in the venus.
+3 Is Colliani in the earth? 	no	2
+4 Colliani is in the moon.
+5 Colliani is in the earth.
+6 Is Colliani in the earth? 	yes	5
+7 Conn is in the moon.
+8 Doud is not in the venus.
+9 Is Colliani in the venus? 	no	5
+10 Conn moved to the mars.
+11 Colliani moved to the neptune.
+12 Is Doud in the venus? 	no	8
+13 Burnhard journeyed to the mars.
+14 Burnhard went to the neptune.
+15 Is Burnhard in the neptune? 	yes	14
+1 Conn is in the mars.
+2 Burnhard is not in the jupiter.
+3 Is Burnhard in the jupiter? 	no	2
+4 Colliani moved to the neptune.
+5 Doud is in the mars.
+6 Is Conn in the moon? 	no	1
+7 Doud is not in the mars.
+8 Doud is no longer in the earth.
+9 Is Burnhard in the jupiter? 	no	2
+10 Burnhard went to the jupiter.
+11 Doud travelled to the venus.
+12 Is Doud in the mars? 	no	11
+13 Doud went to the jupiter.
+14 Doud is not in the jupiter.
+15 Is Doud in the jupiter? 	no	14
+1 Colliani is no longer in the mars.
+2 Colliani went back to the venus.
+3 Is Colliani in the mars? 	no	2
+4 Conn is not in the earth.
+5 Doud travelled to the jupiter.
+6 Is Conn in the earth? 	no	4
+7 Conn is no longer in the venus.
+8 Conn is not in the jupiter.
+9 Is Conn in the jupiter? 	no	8
+10 Doud is no longer in the jupiter.
+11 Conn went back to the jupiter.
+12 Is Doud in the jupiter? 	no	10
+13 Doud is not in the earth.
+14 Colliani is no longer in the venus.
+15 Is Doud in the earth? 	no	13
+1 Conn is not in the mars.
+2 Doud is not in the venus.
+3 Is Conn in the mars? 	no	1
+4 Conn is in the neptune.
+5 Burnhard journeyed to the moon.
+6 Is Conn in the neptune? 	yes	4
+7 Doud went to the jupiter.
+8 Conn is not in the neptune.
+9 Is Doud in the neptune? 	no	7
+10 Doud is not in the jupiter.
+11 Doud is in the mars.
+12 Is Burnhard in the neptune? 	no	5
+13 Conn is not in the jupiter.
+14 Doud journeyed to the moon.
+15 Is Doud in the moon? 	yes	14
+1 Colliani is no longer in the venus.
+2 Colliani journeyed to the earth.
+3 Is Colliani in the earth? 	yes	2
+4 Colliani moved to the neptune.
+5 Doud is not in the venus.
+6 Is Doud in the venus? 	no	5
+7 Doud is not in the neptune.
+8 Burnhard is no longer in the moon.
+9 Is Colliani in the neptune? 	yes	4
+10 Colliani is no longer in the neptune.
+11 Colliani is in the moon.
+12 Is Doud in the neptune? 	no	7
+13 Colliani is no longer in the moon.
+14 Doud is in the venus.
+15 Is Doud in the venus? 	yes	14
+1 Doud is not in the venus.
+2 Burnhard moved to the venus.
+3 Is Doud in the venus? 	no	1
+4 Colliani journeyed to the earth.
+5 Colliani is not in the earth.
+6 Is Burnhard in the venus? 	yes	2
+7 Colliani went to the venus.
+8 Burnhard went to the neptune.
+9 Is Colliani in the jupiter? 	no	7
+10 Colliani is no longer in the venus.
+11 Burnhard is in the earth.
+12 Is Burnhard in the venus? 	no	11
+13 Burnhard went to the moon.
+14 Colliani is not in the neptune.
+15 Is Colliani in the neptune? 	no	14
+1 Conn went to the mars.
+2 Conn went back to the venus.
+3 Is Conn in the venus? 	yes	2
+4 Conn is in the neptune.
+5 Burnhard went back to the venus.
+6 Is Burnhard in the venus? 	yes	5
+7 Colliani is in the venus.
+8 Conn is in the jupiter.
+9 Is Conn in the venus? 	no	8
+10 Doud went to the jupiter.
+11 Conn is in the moon.
+12 Is Burnhard in the mars? 	no	5
+13 Conn went back to the neptune.
+14 Doud is not in the jupiter.
+15 Is Conn in the jupiter? 	no	13
+1 Colliani went to the earth.
+2 Conn is not in the mars.
+3 Is Conn in the mars? 	no	2
+4 Conn went back to the mars.
+5 Doud moved to the mars.
+6 Is Conn in the neptune? 	no	4
+7 Colliani is no longer in the earth.
+8 Conn is in the jupiter.
+9 Is Doud in the mars? 	yes	5
+10 Doud moved to the neptune.
+11 Conn is no longer in the jupiter.
+12 Is Conn in the jupiter? 	no	11
+13 Conn went back to the earth.
+14 Colliani is in the venus.
+15 Is Conn in the earth? 	yes	13
+1 Conn is in the moon.
+2 Conn is not in the moon.
+3 Is Conn in the moon? 	no	2
+4 Burnhard is no longer in the mars.
+5 Colliani is not in the earth.
+6 Is Burnhard in the mars? 	no	4
+7 Burnhard journeyed to the jupiter.
+8 Conn journeyed to the venus.
+9 Is Colliani in the earth? 	no	5
+10 Doud is in the moon.
+11 Doud is not in the moon.
+12 Is Colliani in the earth? 	no	5
+13 Burnhard is not in the jupiter.
+14 Colliani went back to the venus.
+15 Is Doud in the moon? 	no	11
+1 Colliani is in the mars.
+2 Doud is not in the venus.
+3 Is Doud in the venus? 	no	2
+4 Conn moved to the moon.
+5 Colliani went to the neptune.
+6 Is Doud in the venus? 	no	2
+7 Conn is in the neptune.
+8 Burnhard is not in the venus.
+9 Is Colliani in the neptune? 	yes	5
+10 Conn is not in the neptune.
+11 Conn went back to the mars.
+12 Is Conn in the jupiter? 	no	11
+13 Colliani went back to the mars.
+14 Conn went to the neptune.
+15 Is Conn in the moon? 	no	14
+1 Doud is no longer in the neptune.
+2 Conn went to the venus.
+3 Is Conn in the earth? 	no	2
+4 Burnhard is in the venus.
+5 Burnhard is not in the venus.
+6 Is Conn in the moon? 	no	2
+7 Conn journeyed to the jupiter.
+8 Colliani is in the jupiter.
+9 Is Colliani in the jupiter? 	yes	8
+10 Colliani is no longer in the jupiter.
+11 Colliani moved to the jupiter.
+12 Is Conn in the jupiter? 	yes	7
+13 Conn travelled to the mars.
+14 Doud went to the jupiter.
+15 Is Conn in the earth? 	no	13
+1 Colliani is not in the mars.
+2 Burnhard journeyed to the moon.
+3 Is Burnhard in the venus? 	no	2
+4 Conn is in the earth.
+5 Colliani went to the neptune.
+6 Is Burnhard in the mars? 	no	2
+7 Conn is not in the earth.
+8 Conn is not in the moon.
+9 Is Conn in the moon? 	no	8
+10 Burnhard is in the venus.
+11 Colliani went to the earth.
+12 Is Conn in the moon? 	no	8
+13 Doud went back to the neptune.
+14 Colliani went to the jupiter.
+15 Is Colliani in the neptune? 	no	14
+1 Colliani went to the moon.
+2 Burnhard journeyed to the venus.
+3 Is Colliani in the moon? 	yes	1
+4 Conn journeyed to the venus.
+5 Burnhard went back to the jupiter.
+6 Is Conn in the venus? 	yes	4
+7 Conn journeyed to the mars.
+8 Doud is in the moon.
+9 Is Burnhard in the moon? 	no	5
+10 Burnhard went back to the neptune.
+11 Conn is in the jupiter.
+12 Is Burnhard in the neptune? 	yes	10
+13 Conn went to the mars.
+14 Burnhard is not in the neptune.
+15 Is Conn in the neptune? 	no	13
+1 Colliani went back to the mars.
+2 Doud journeyed to the neptune.
+3 Is Colliani in the venus? 	no	1
+4 Colliani is in the neptune.
+5 Colliani is no longer in the neptune.
+6 Is Colliani in the neptune? 	no	5
+7 Doud is no longer in the neptune.
+8 Colliani is in the jupiter.
+9 Is Colliani in the moon? 	no	8
+10 Burnhard is in the venus.
+11 Burnhard went to the neptune.
+12 Is Colliani in the neptune? 	no	8
+13 Burnhard is in the mars.
+14 Burnhard is not in the mars.
+15 Is Colliani in the venus? 	no	8
+1 Burnhard is in the jupiter.
+2 Conn travelled to the earth.
+3 Is Conn in the earth? 	yes	2
+4 Colliani is in the venus.
+5 Burnhard moved to the mars.
+6 Is Burnhard in the mars? 	yes	5
+7 Colliani is in the earth.
+8 Doud went to the venus.
+9 Is Colliani in the earth? 	yes	7
+10 Doud journeyed to the mars.
+11 Burnhard is no longer in the mars.
+12 Is Colliani in the earth? 	yes	7
+13 Colliani journeyed to the neptune.
+14 Doud went back to the jupiter.
+15 Is Colliani in the jupiter? 	no	13
+1 Conn travelled to the venus.
+2 Burnhard is in the moon.
+3 Is Burnhard in the mars? 	no	2
+4 Colliani journeyed to the earth.
+5 Burnhard is not in the moon.
+6 Is Burnhard in the moon? 	no	5
+7 Colliani went to the moon.
+8 Doud travelled to the mars.
+9 Is Burnhard in the moon? 	no	5
+10 Doud travelled to the moon.
+11 Burnhard journeyed to the earth.
+12 Is Doud in the moon? 	yes	10
+13 Conn journeyed to the earth.
+14 Burnhard went back to the neptune.
+15 Is Conn in the earth? 	yes	13
+1 Conn is in the moon.
+2 Burnhard journeyed to the venus.
+3 Is Burnhard in the jupiter? 	no	2
+4 Colliani moved to the mars.
+5 Burnhard moved to the neptune.
+6 Is Colliani in the mars? 	yes	4
+7 Conn is no longer in the moon.
+8 Conn is no longer in the venus.
+9 Is Burnhard in the neptune? 	yes	5
+10 Colliani is in the neptune.
+11 Burnhard is in the moon.
+12 Is Burnhard in the jupiter? 	no	11
+13 Burnhard went to the neptune.
+14 Conn is no longer in the earth.
+15 Is Colliani in the neptune? 	yes	10
+1 Doud travelled to the venus.
+2 Conn is no longer in the neptune.
+3 Is Conn in the neptune? 	no	2
+4 Colliani went to the jupiter.
+5 Colliani is in the neptune.
+6 Is Conn in the neptune? 	no	2
+7 Burnhard is in the earth.
+8 Burnhard is in the moon.
+9 Is Burnhard in the moon? 	yes	8
+10 Colliani is not in the neptune.
+11 Colliani went back to the earth.
+12 Is Burnhard in the jupiter? 	no	8
+13 Burnhard went back to the earth.
+14 Doud journeyed to the mars.
+15 Is Burnhard in the moon? 	no	13
+1 Colliani travelled to the moon.
+2 Burnhard is no longer in the mars.
+3 Is Burnhard in the mars? 	no	2
+4 Colliani is not in the moon.
+5 Doud moved to the jupiter.
+6 Is Colliani in the moon? 	no	4
+7 Doud is not in the jupiter.
+8 Colliani journeyed to the mars.
+9 Is Doud in the jupiter? 	no	7
+10 Doud is in the neptune.
+11 Colliani went back to the neptune.
+12 Is Doud in the jupiter? 	no	10
+13 Burnhard is in the jupiter.
+14 Doud is no longer in the neptune.
+15 Is Colliani in the neptune? 	yes	11
+1 Conn is in the mars.
+2 Burnhard is in the jupiter.
+3 Is Conn in the jupiter? 	no	1
+4 Conn is no longer in the mars.
+5 Doud moved to the neptune.
+6 Is Conn in the mars? 	no	4
+7 Doud moved to the mars.
+8 Colliani went to the jupiter.
+9 Is Doud in the mars? 	yes	7
+10 Conn went back to the jupiter.
+11 Doud went back to the venus.
+12 Is Colliani in the earth? 	no	8
+13 Doud went back to the earth.
+14 Doud is in the venus.
+15 Is Doud in the venus? 	yes	14
+1 Burnhard travelled to the jupiter.
+2 Conn is not in the mars.
+3 Is Conn in the mars? 	no	2
+4 Conn is not in the earth.
+5 Doud went back to the mars.
+6 Is Conn in the earth? 	no	4
+7 Colliani moved to the mars.
+8 Conn moved to the venus.
+9 Is Conn in the earth? 	no	8
+10 Burnhard is in the moon.
+11 Conn journeyed to the jupiter.
+12 Is Colliani in the mars? 	yes	7
+13 Colliani is not in the mars.
+14 Conn is in the earth.
+15 Is Conn in the jupiter? 	no	14
+1 Doud went to the earth.
+2 Conn is no longer in the mars.
+3 Is Conn in the mars? 	no	2
+4 Burnhard is not in the jupiter.
+5 Burnhard went to the jupiter.
+6 Is Burnhard in the neptune? 	no	5
+7 Doud is in the venus.
+8 Colliani is not in the neptune.
+9 Is Colliani in the neptune? 	no	8
+10 Colliani went back to the moon.
+11 Colliani is not in the moon.
+12 Is Colliani in the moon? 	no	11
+13 Conn journeyed to the venus.
+14 Burnhard is not in the jupiter.
+15 Is Colliani in the moon? 	no	11
+1 Colliani travelled to the moon.
+2 Conn moved to the venus.
+3 Is Conn in the moon? 	no	2
+4 Colliani went back to the jupiter.
+5 Colliani is not in the jupiter.
+6 Is Colliani in the jupiter? 	no	5
+7 Burnhard moved to the jupiter.
+8 Conn is in the earth.
+9 Is Conn in the earth? 	yes	8
+10 Colliani is no longer in the earth.
+11 Doud travelled to the mars.
+12 Is Colliani in the earth? 	no	10
+13 Doud is in the moon.
+14 Conn is in the mars.
+15 Is Conn in the mars? 	yes	14
+1 Conn journeyed to the neptune.
+2 Doud went to the earth.
+3 Is Doud in the mars? 	no	2
+4 Doud is no longer in the earth.
+5 Conn journeyed to the moon.
+6 Is Conn in the venus? 	no	5
+7 Burnhard journeyed to the venus.
+8 Burnhard went to the moon.
+9 Is Conn in the moon? 	yes	5
+10 Conn travelled to the jupiter.
+11 Doud is no longer in the venus.
+12 Is Burnhard in the moon? 	yes	8
+13 Colliani is not in the earth.
+14 Conn is in the venus.
+15 Is Burnhard in the moon? 	yes	8
+1 Colliani went back to the mars.
+2 Conn is in the neptune.
+3 Is Colliani in the mars? 	yes	1
+4 Colliani travelled to the moon.
+5 Doud journeyed to the venus.
+6 Is Conn in the neptune? 	yes	2
+7 Conn is in the venus.
+8 Burnhard went back to the venus.
+9 Is Burnhard in the neptune? 	no	8
+10 Conn went to the neptune.
+11 Conn journeyed to the jupiter.
+12 Is Burnhard in the venus? 	yes	8
+13 Burnhard went back to the mars.
+14 Conn is no longer in the jupiter.
+15 Is Burnhard in the mars? 	yes	13
+1 Doud travelled to the jupiter.
+2 Conn went to the jupiter.
+3 Is Doud in the jupiter? 	yes	1
+4 Conn is no longer in the jupiter.
+5 Burnhard travelled to the neptune.
+6 Is Burnhard in the neptune? 	yes	5
+7 Colliani is no longer in the venus.
+8 Burnhard is not in the neptune.
+9 Is Colliani in the venus? 	no	7
+10 Colliani is in the venus.
+11 Colliani is no longer in the venus.
+12 Is Colliani in the venus? 	no	11
+13 Colliani journeyed to the jupiter.
+14 Conn is in the venus.
+15 Is Burnhard in the neptune? 	no	8
+1 Doud is not in the mars.
+2 Conn is in the venus.
+3 Is Conn in the venus? 	yes	2
+4 Doud journeyed to the venus.
+5 Conn is not in the venus.
+6 Is Conn in the venus? 	no	5
+7 Colliani moved to the mars.
+8 Doud journeyed to the neptune.
+9 Is Doud in the earth? 	no	8
+10 Colliani is no longer in the mars.
+11 Conn went to the jupiter.
+12 Is Colliani in the mars? 	no	10
+13 Colliani went back to the venus.
+14 Conn travelled to the earth.
+15 Is Conn in the earth? 	yes	14
+1 Conn is no longer in the moon.
+2 Colliani is in the mars.
+3 Is Colliani in the earth? 	no	2
+4 Doud travelled to the neptune.
+5 Conn is in the earth.
+6 Is Doud in the neptune? 	yes	4
+7 Burnhard is in the moon.
+8 Doud is not in the neptune.
+9 Is Conn in the earth? 	yes	5
+10 Conn is in the neptune.
+11 Burnhard went back to the mars.
+12 Is Burnhard in the mars? 	yes	11
+13 Burnhard is not in the mars.
+14 Burnhard is in the venus.
+15 Is Conn in the moon? 	no	10
+1 Doud is not in the jupiter.
+2 Colliani went to the earth.
+3 Is Doud in the jupiter? 	no	1
+4 Doud is no longer in the earth.
+5 Burnhard is not in the mars.
+6 Is Doud in the earth? 	no	4
+7 Conn is not in the moon.
+8 Conn is not in the earth.
+9 Is Conn in the earth? 	no	8
+10 Doud journeyed to the mars.
+11 Burnhard travelled to the mars.
+12 Is Burnhard in the neptune? 	no	11
+13 Colliani is in the jupiter.
+14 Doud is not in the mars.
+15 Is Doud in the mars? 	no	14
+1 Conn went to the jupiter.
+2 Conn is no longer in the jupiter.
+3 Is Conn in the jupiter? 	no	2
+4 Burnhard is in the neptune.
+5 Burnhard is in the earth.
+6 Is Burnhard in the jupiter? 	no	5
+7 Colliani journeyed to the venus.
+8 Colliani is no longer in the venus.
+9 Is Burnhard in the mars? 	no	5
+10 Doud is no longer in the moon.
+11 Colliani is in the moon.
+12 Is Colliani in the moon? 	yes	11
+13 Colliani went to the venus.
+14 Colliani is no longer in the venus.
+15 Is Colliani in the venus? 	no	14
+1 Conn is no longer in the neptune.
+2 Burnhard is in the venus.
+3 Is Burnhard in the earth? 	no	2
+4 Doud is in the mars.
+5 Doud journeyed to the jupiter.
+6 Is Doud in the jupiter? 	yes	5
+7 Colliani is no longer in the neptune.
+8 Burnhard went to the jupiter.
+9 Is Doud in the jupiter? 	yes	5
+10 Conn is in the jupiter.
+11 Conn is in the mars.
+12 Is Conn in the mars? 	yes	11
+13 Burnhard went back to the venus.
+14 Colliani is not in the mars.
+15 Is Conn in the mars? 	yes	11
+1 Conn journeyed to the moon.
+2 Conn is in the mars.
+3 Is Conn in the mars? 	yes	2
+4 Burnhard journeyed to the venus.
+5 Conn is in the jupiter.
+6 Is Conn in the jupiter? 	yes	5
+7 Colliani is in the earth.
+8 Doud went to the venus.
+9 Is Doud in the moon? 	no	8
+10 Conn is in the neptune.
+11 Doud is in the jupiter.
+12 Is Doud in the neptune? 	no	11
+13 Burnhard is in the moon.
+14 Doud travelled to the neptune.
+15 Is Burnhard in the mars? 	no	13
+1 Colliani is not in the moon.
+2 Burnhard is no longer in the earth.
+3 Is Burnhard in the earth? 	no	2
+4 Burnhard travelled to the earth.
+5 Doud is in the moon.
+6 Is Doud in the moon? 	yes	5
+7 Doud moved to the venus.
+8 Colliani is not in the jupiter.
+9 Is Burnhard in the earth? 	yes	4
+10 Colliani travelled to the moon.
+11 Doud is in the moon.
+12 Is Doud in the moon? 	yes	11
+13 Doud moved to the earth.
+14 Conn moved to the earth.
+15 Is Colliani in the earth? 	no	10
+1 Colliani is no longer in the mars.
+2 Colliani went to the venus.
+3 Is Colliani in the neptune? 	no	2
+4 Doud went back to the moon.
+5 Burnhard is not in the jupiter.
+6 Is Burnhard in the jupiter? 	no	5
+7 Conn journeyed to the jupiter.
+8 Burnhard journeyed to the jupiter.
+9 Is Burnhard in the mars? 	no	8
+10 Colliani moved to the moon.
+11 Conn travelled to the mars.
+12 Is Burnhard in the earth? 	no	8
+13 Conn is not in the mars.
+14 Doud is in the venus.
+15 Is Conn in the mars? 	no	13
+1 Conn is no longer in the earth.
+2 Colliani is no longer in the mars.
+3 Is Colliani in the mars? 	no	2
+4 Conn is in the venus.
+5 Burnhard went back to the earth.
+6 Is Burnhard in the neptune? 	no	5
+7 Burnhard moved to the neptune.
+8 Doud journeyed to the mars.
+9 Is Conn in the venus? 	yes	4
+10 Conn travelled to the neptune.
+11 Doud is not in the mars.
+12 Is Doud in the mars? 	no	11
+13 Colliani journeyed to the mars.
+14 Colliani went to the jupiter.
+15 Is Conn in the jupiter? 	no	10
+1 Doud is in the mars.
+2 Colliani went to the earth.
+3 Is Colliani in the moon? 	no	2
+4 Colliani went back to the moon.
+5 Burnhard travelled to the venus.
+6 Is Doud in the mars? 	yes	1
+7 Doud is in the jupiter.
+8 Burnhard is in the earth.
+9 Is Burnhard in the moon? 	no	8
+10 Colliani is not in the moon.
+11 Burnhard went to the moon.
+12 Is Burnhard in the moon? 	yes	11
+13 Doud went to the mars.
+14 Burnhard is not in the moon.
+15 Is Doud in the venus? 	no	13
+1 Colliani is in the moon.
+2 Colliani is no longer in the moon.
+3 Is Colliani in the moon? 	no	2
+4 Doud is not in the earth.
+5 Doud moved to the jupiter.
+6 Is Colliani in the moon? 	no	2
+7 Colliani is in the venus.
+8 Burnhard journeyed to the moon.
+9 Is Doud in the neptune? 	no	5
+10 Burnhard went back to the earth.
+11 Conn journeyed to the mars.
+12 Is Burnhard in the earth? 	yes	10
+13 Doud is in the venus.
+14 Colliani is in the jupiter.
+15 Is Conn in the mars? 	yes	11
+1 Colliani is in the venus.
+2 Conn went to the neptune.
+3 Is Colliani in the venus? 	yes	1
+4 Doud journeyed to the moon.
+5 Doud journeyed to the neptune.
+6 Is Colliani in the moon? 	no	1
+7 Burnhard travelled to the neptune.
+8 Doud went to the moon.
+9 Is Doud in the moon? 	yes	8
+10 Colliani is not in the venus.
+11 Doud is not in the moon.
+12 Is Doud in the moon? 	no	11
+13 Doud is no longer in the earth.
+14 Doud went back to the jupiter.
+15 Is Doud in the jupiter? 	yes	14
+1 Doud is in the moon.
+2 Colliani is in the earth.
+3 Is Doud in the jupiter? 	no	1
+4 Conn is in the earth.
+5 Doud is no longer in the moon.
+6 Is Doud in the moon? 	no	5
+7 Burnhard journeyed to the venus.
+8 Doud is in the mars.
+9 Is Conn in the earth? 	yes	4
+10 Doud is not in the mars.
+11 Conn is in the venus.
+12 Is Doud in the mars? 	no	10
+13 Burnhard travelled to the earth.
+14 Doud is in the moon.
+15 Is Burnhard in the venus? 	no	13
+1 Conn is no longer in the jupiter.
+2 Colliani moved to the venus.
+3 Is Colliani in the earth? 	no	2
+4 Doud moved to the earth.
+5 Colliani is in the neptune.
+6 Is Colliani in the neptune? 	yes	5
+7 Colliani is in the earth.
+8 Conn journeyed to the jupiter.
+9 Is Conn in the neptune? 	no	8
+10 Doud is not in the earth.
+11 Burnhard went back to the jupiter.
+12 Is Colliani in the earth? 	yes	7
+13 Doud is in the venus.
+14 Burnhard moved to the earth.
+15 Is Doud in the moon? 	no	13
+1 Colliani is in the venus.
+2 Doud moved to the earth.
+3 Is Doud in the earth? 	yes	2
+4 Burnhard is not in the moon.
+5 Colliani is in the mars.
+6 Is Burnhard in the moon? 	no	4
+7 Conn went back to the moon.
+8 Colliani journeyed to the jupiter.
+9 Is Burnhard in the moon? 	no	4
+10 Doud moved to the venus.
+11 Doud journeyed to the moon.
+12 Is Colliani in the jupiter? 	yes	8
+13 Burnhard went back to the earth.
+14 Doud is no longer in the moon.
+15 Is Doud in the moon? 	no	14
+1 Doud is in the jupiter.
+2 Colliani is in the moon.
+3 Is Colliani in the earth? 	no	2
+4 Doud went back to the earth.
+5 Colliani is no longer in the moon.
+6 Is Doud in the mars? 	no	4
+7 Doud went back to the neptune.
+8 Doud is not in the neptune.
+9 Is Doud in the neptune? 	no	8
+10 Conn went to the moon.
+11 Burnhard moved to the mars.
+12 Is Colliani in the moon? 	no	5
+13 Doud is no longer in the earth.
+14 Burnhard is in the jupiter.
+15 Is Burnhard in the neptune? 	no	14
+1 Burnhard is in the mars.
+2 Burnhard moved to the earth.
+3 Is Burnhard in the neptune? 	no	2
+4 Colliani is in the moon.
+5 Colliani is not in the moon.
+6 Is Colliani in the moon? 	no	5
+7 Doud is in the jupiter.
+8 Conn moved to the moon.
+9 Is Colliani in the moon? 	no	5
+10 Burnhard went back to the moon.
+11 Conn travelled to the neptune.
+12 Is Colliani in the moon? 	no	5
+13 Doud journeyed to the venus.
+14 Doud is in the moon.
+15 Is Conn in the earth? 	no	11
+1 Conn is no longer in the moon.
+2 Conn is in the moon.
+3 Is Conn in the mars? 	no	2
+4 Burnhard moved to the jupiter.
+5 Conn is in the venus.
+6 Is Conn in the neptune? 	no	5
+7 Doud travelled to the earth.
+8 Conn is not in the venus.
+9 Is Burnhard in the jupiter? 	yes	4
+10 Burnhard travelled to the neptune.
+11 Burnhard is in the venus.
+12 Is Burnhard in the venus? 	yes	11
+13 Colliani is in the earth.
+14 Conn moved to the earth.
+15 Is Conn in the earth? 	yes	14
+1 Conn moved to the jupiter.
+2 Doud is no longer in the earth.
+3 Is Conn in the neptune? 	no	1
+4 Colliani is not in the jupiter.
+5 Doud is no longer in the neptune.
+6 Is Colliani in the jupiter? 	no	4
+7 Doud went to the mars.
+8 Doud journeyed to the neptune.
+9 Is Doud in the neptune? 	yes	8
+10 Doud is not in the neptune.
+11 Conn journeyed to the neptune.
+12 Is Doud in the neptune? 	no	10
+13 Colliani journeyed to the jupiter.
+14 Colliani went back to the neptune.
+15 Is Colliani in the neptune? 	yes	14
+1 Colliani went to the venus.
+2 Colliani is in the neptune.
+3 Is Colliani in the neptune? 	yes	2
+4 Colliani is in the mars.
+5 Conn is in the jupiter.
+6 Is Colliani in the mars? 	yes	4
+7 Conn journeyed to the moon.
+8 Colliani is not in the mars.
+9 Is Conn in the moon? 	yes	7
+10 Colliani is not in the venus.
+11 Conn journeyed to the venus.
+12 Is Conn in the neptune? 	no	11
+13 Conn moved to the neptune.
+14 Burnhard travelled to the venus.
+15 Is Conn in the neptune? 	yes	13
+1 Doud is in the mars.
+2 Colliani is no longer in the jupiter.
+3 Is Doud in the mars? 	yes	1
+4 Conn journeyed to the earth.
+5 Doud travelled to the venus.
+6 Is Doud in the venus? 	yes	5
+7 Doud journeyed to the neptune.
+8 Doud is not in the neptune.
+9 Is Doud in the neptune? 	no	8
+10 Doud went to the neptune.
+11 Doud travelled to the venus.
+12 Is Doud in the mars? 	no	11
+13 Conn is in the jupiter.
+14 Conn is in the earth.
+15 Is Conn in the mars? 	no	14
+1 Colliani moved to the mars.
+2 Colliani travelled to the neptune.
+3 Is Colliani in the earth? 	no	2
+4 Burnhard is in the neptune.
+5 Doud went back to the mars.
+6 Is Doud in the mars? 	yes	5
+7 Doud is no longer in the mars.
+8 Conn journeyed to the moon.
+9 Is Doud in the mars? 	no	7
+10 Burnhard is not in the neptune.
+11 Doud went to the mars.
+12 Is Doud in the jupiter? 	no	11
+13 Conn journeyed to the neptune.
+14 Conn moved to the moon.
+15 Is Conn in the venus? 	no	14
+1 Doud is in the neptune.
+2 Conn is in the moon.
+3 Is Doud in the neptune? 	yes	1
+4 Colliani went to the moon.
+5 Conn is not in the moon.
+6 Is Doud in the neptune? 	yes	1
+7 Conn is in the neptune.
+8 Burnhard is in the neptune.
+9 Is Conn in the neptune? 	yes	7
+10 Colliani is not in the moon.
+11 Conn journeyed to the mars.
+12 Is Conn in the mars? 	yes	11
+13 Conn moved to the neptune.
+14 Doud is in the venus.
+15 Is Colliani in the moon? 	no	10
+1 Burnhard is in the venus.
+2 Burnhard is not in the venus.
+3 Is Burnhard in the venus? 	no	2
+4 Colliani went to the earth.
+5 Colliani is in the moon.
+6 Is Burnhard in the venus? 	no	2
+7 Doud is in the jupiter.
+8 Burnhard is in the mars.
+9 Is Burnhard in the moon? 	no	8
+10 Doud is in the mars.
+11 Colliani went to the earth.
+12 Is Burnhard in the mars? 	yes	8
+13 Conn is in the moon.
+14 Conn moved to the jupiter.
+15 Is Conn in the jupiter? 	yes	14
+1 Doud went back to the mars.
+2 Doud is in the jupiter.
+3 Is Doud in the mars? 	no	2
+4 Conn is in the moon.
+5 Burnhard is not in the venus.
+6 Is Doud in the earth? 	no	2
+7 Burnhard went back to the neptune.
+8 Conn is not in the moon.
+9 Is Burnhard in the neptune? 	yes	7
+10 Colliani moved to the neptune.
+11 Doud is in the mars.
+12 Is Doud in the neptune? 	no	11
+13 Conn is no longer in the earth.
+14 Colliani is not in the neptune.
+15 Is Conn in the earth? 	no	13
+1 Colliani is in the mars.
+2 Burnhard is in the neptune.
+3 Is Burnhard in the neptune? 	yes	2
+4 Doud went back to the jupiter.
+5 Doud is in the earth.
+6 Is Burnhard in the neptune? 	yes	2
+7 Burnhard is in the moon.
+8 Colliani is not in the mars.
+9 Is Doud in the earth? 	yes	5
+10 Burnhard is in the mars.
+11 Doud travelled to the venus.
+12 Is Doud in the mars? 	no	11
+13 Burnhard is in the venus.
+14 Doud is not in the venus.
+15 Is Colliani in the mars? 	no	8
+1 Burnhard moved to the venus.
+2 Colliani moved to the neptune.
+3 Is Burnhard in the neptune? 	no	1
+4 Conn moved to the venus.
+5 Colliani is not in the neptune.
+6 Is Colliani in the neptune? 	no	5
+7 Doud travelled to the moon.
+8 Conn went back to the neptune.
+9 Is Doud in the neptune? 	no	7
+10 Doud moved to the jupiter.
+11 Doud moved to the earth.
+12 Is Conn in the jupiter? 	no	8
+13 Conn is in the moon.
+14 Burnhard is not in the venus.
+15 Is Conn in the moon? 	yes	13
+1 Colliani went back to the earth.
+2 Doud journeyed to the jupiter.
+3 Is Colliani in the moon? 	no	1
+4 Colliani travelled to the mars.
+5 Conn is in the earth.
+6 Is Colliani in the mars? 	yes	4
+7 Doud went back to the moon.
+8 Doud travelled to the venus.
+9 Is Colliani in the mars? 	yes	4
+10 Colliani is no longer in the mars.
+11 Colliani journeyed to the mars.
+12 Is Colliani in the neptune? 	no	11
+13 Burnhard is not in the jupiter.
+14 Burnhard travelled to the moon.
+15 Is Doud in the venus? 	yes	8
+1 Conn travelled to the moon.
+2 Burnhard travelled to the moon.
+3 Is Conn in the moon? 	yes	1
+4 Conn is not in the moon.
+5 Colliani is not in the neptune.
+6 Is Colliani in the neptune? 	no	5
+7 Colliani journeyed to the moon.
+8 Burnhard is in the mars.
+9 Is Conn in the moon? 	no	4
+10 Colliani went to the venus.
+11 Burnhard went to the venus.
+12 Is Colliani in the earth? 	no	10
+13 Conn travelled to the neptune.
+14 Colliani is in the neptune.
+15 Is Burnhard in the mars? 	no	11
+1 Burnhard is in the neptune.
+2 Colliani moved to the mars.
+3 Is Colliani in the mars? 	yes	2
+4 Doud moved to the venus.
+5 Burnhard is no longer in the neptune.
+6 Is Doud in the jupiter? 	no	4
+7 Burnhard is no longer in the earth.
+8 Burnhard is no longer in the neptune.
+9 Is Burnhard in the neptune? 	no	8
+10 Conn journeyed to the neptune.
+11 Doud went back to the neptune.
+12 Is Burnhard in the neptune? 	no	8
+13 Doud is not in the neptune.
+14 Conn is no longer in the neptune.
+15 Is Doud in the neptune? 	no	13
+1 Doud is in the venus.
+2 Doud is not in the venus.
+3 Is Doud in the venus? 	no	2
+4 Burnhard journeyed to the mars.
+5 Doud travelled to the neptune.
+6 Is Doud in the moon? 	no	5
+7 Burnhard is in the moon.
+8 Doud is no longer in the neptune.
+9 Is Doud in the neptune? 	no	8
+10 Doud is in the neptune.
+11 Doud is no longer in the neptune.
+12 Is Doud in the neptune? 	no	11
+13 Colliani is not in the jupiter.
+14 Colliani journeyed to the moon.
+15 Is Doud in the neptune? 	no	11
+1 Burnhard travelled to the venus.
+2 Burnhard went to the moon.
+3 Is Burnhard in the neptune? 	no	2
+4 Colliani is in the mars.
+5 Conn is in the venus.
+6 Is Colliani in the mars? 	yes	4
+7 Burnhard moved to the venus.
+8 Doud went to the earth.
+9 Is Burnhard in the venus? 	yes	7
+10 Colliani moved to the neptune.
+11 Colliani travelled to the earth.
+12 Is Colliani in the earth? 	yes	11
+13 Conn is not in the venus.
+14 Burnhard is no longer in the venus.
+15 Is Colliani in the jupiter? 	no	11
+1 Colliani travelled to the neptune.
+2 Colliani went to the earth.
+3 Is Colliani in the earth? 	yes	2
+4 Burnhard went back to the venus.
+5 Burnhard is no longer in the venus.
+6 Is Burnhard in the venus? 	no	5
+7 Conn went back to the neptune.
+8 Doud is no longer in the venus.
+9 Is Burnhard in the venus? 	no	5
+10 Conn is not in the neptune.
+11 Burnhard went to the venus.
+12 Is Conn in the neptune? 	no	10
+13 Colliani is no longer in the earth.
+14 Colliani journeyed to the neptune.
+15 Is Colliani in the venus? 	no	14
+1 Doud is no longer in the mars.
+2 Conn went to the earth.
+3 Is Conn in the moon? 	no	2
+4 Conn went back to the moon.
+5 Burnhard journeyed to the neptune.
+6 Is Conn in the moon? 	yes	4
+7 Conn journeyed to the neptune.
+8 Colliani is no longer in the earth.
+9 Is Burnhard in the earth? 	no	5
+10 Colliani is in the mars.
+11 Burnhard travelled to the jupiter.
+12 Is Burnhard in the earth? 	no	11
+13 Conn is not in the neptune.
+14 Conn is no longer in the mars.
+15 Is Colliani in the earth? 	no	10
+1 Colliani moved to the moon.
+2 Conn moved to the moon.
+3 Is Conn in the moon? 	yes	2
+4 Burnhard went to the mars.
+5 Conn journeyed to the earth.
+6 Is Conn in the earth? 	yes	5
+7 Burnhard went to the venus.
+8 Burnhard is no longer in the venus.
+9 Is Burnhard in the venus? 	no	8
+10 Conn is not in the earth.
+11 Doud is not in the jupiter.
+12 Is Conn in the earth? 	no	10
+13 Burnhard is no longer in the earth.
+14 Doud moved to the moon.
+15 Is Doud in the moon? 	yes	14
+1 Conn travelled to the jupiter.
+2 Doud journeyed to the earth.
+3 Is Conn in the neptune? 	no	1
+4 Doud is no longer in the earth.
+5 Colliani is in the mars.
+6 Is Colliani in the moon? 	no	5
+7 Doud is in the mars.
+8 Burnhard is in the earth.
+9 Is Doud in the earth? 	no	7
+10 Burnhard is no longer in the earth.
+11 Conn is in the moon.
+12 Is Colliani in the mars? 	yes	5
+13 Burnhard is no longer in the neptune.
+14 Colliani journeyed to the venus.
+15 Is Colliani in the venus? 	yes	14
+1 Conn is no longer in the venus.
+2 Colliani went to the neptune.
+3 Is Conn in the venus? 	no	1
+4 Colliani is not in the neptune.
+5 Doud is in the moon.
+6 Is Colliani in the neptune? 	no	4
+7 Conn is in the jupiter.
+8 Burnhard is in the mars.
+9 Is Colliani in the neptune? 	no	4
+10 Conn went back to the neptune.
+11 Conn is in the jupiter.
+12 Is Doud in the earth? 	no	5
+13 Conn is no longer in the jupiter.
+14 Conn is in the mars.
+15 Is Burnhard in the mars? 	yes	8
+1 Burnhard is in the moon.
+2 Doud journeyed to the jupiter.
+3 Is Doud in the jupiter? 	yes	2
+4 Doud went back to the mars.
+5 Burnhard is no longer in the moon.
+6 Is Burnhard in the moon? 	no	5
+7 Doud is in the jupiter.
+8 Conn is not in the mars.
+9 Is Doud in the earth? 	no	7
+10 Doud is in the venus.
+11 Colliani went to the neptune.
+12 Is Burnhard in the moon? 	no	5
+13 Conn is not in the jupiter.
+14 Colliani went to the jupiter.
+15 Is Conn in the jupiter? 	no	13
+1 Conn is not in the mars.
+2 Colliani is in the venus.
+3 Is Conn in the mars? 	no	1
+4 Doud is not in the mars.
+5 Colliani moved to the earth.
+6 Is Colliani in the moon? 	no	5
+7 Conn moved to the earth.
+8 Conn is not in the earth.
+9 Is Conn in the earth? 	no	8
+10 Doud is no longer in the earth.
+11 Burnhard went back to the moon.
+12 Is Conn in the earth? 	no	8
+13 Conn journeyed to the mars.
+14 Burnhard is in the mars.
+15 Is Conn in the neptune? 	no	13
+1 Colliani is not in the earth.
+2 Conn travelled to the jupiter.
+3 Is Conn in the venus? 	no	2
+4 Doud moved to the earth.
+5 Colliani travelled to the earth.
+6 Is Conn in the jupiter? 	yes	2
+7 Doud journeyed to the moon.
+8 Colliani is in the moon.
+9 Is Colliani in the mars? 	no	8
+10 Conn travelled to the venus.
+11 Conn is in the jupiter.
+12 Is Colliani in the jupiter? 	no	8
+13 Conn is no longer in the jupiter.
+14 Burnhard went to the neptune.
+15 Is Conn in the jupiter? 	no	13
+1 Doud is in the jupiter.
+2 Doud is in the venus.
+3 Is Doud in the earth? 	no	2
+4 Conn went to the earth.
+5 Burnhard is in the mars.
+6 Is Doud in the venus? 	yes	2
+7 Burnhard travelled to the moon.
+8 Colliani is in the earth.
+9 Is Burnhard in the jupiter? 	no	7
+10 Doud is no longer in the venus.
+11 Doud went to the neptune.
+12 Is Burnhard in the earth? 	no	7
+13 Burnhard journeyed to the earth.
+14 Doud is in the earth.
+15 Is Colliani in the neptune? 	no	8
+1 Conn is not in the neptune.
+2 Conn journeyed to the mars.
+3 Is Conn in the mars? 	yes	2
+4 Burnhard is in the moon.
+5 Colliani went to the venus.
+6 Is Colliani in the venus? 	yes	5
+7 Burnhard moved to the neptune.
+8 Colliani is in the mars.
+9 Is Colliani in the venus? 	no	8
+10 Colliani is not in the mars.
+11 Doud went to the jupiter.
+12 Is Colliani in the mars? 	no	10
+13 Doud journeyed to the earth.
+14 Conn is in the earth.
+15 Is Doud in the venus? 	no	13
+1 Doud is in the neptune.
+2 Doud is not in the neptune.
+3 Is Doud in the neptune? 	no	2
+4 Colliani travelled to the jupiter.
+5 Burnhard journeyed to the neptune.
+6 Is Doud in the neptune? 	no	2
+7 Conn journeyed to the mars.
+8 Doud is in the neptune.
+9 Is Colliani in the venus? 	no	4
+10 Conn went to the neptune.
+11 Conn travelled to the jupiter.
+12 Is Conn in the earth? 	no	11
+13 Conn is in the moon.
+14 Colliani is in the moon.
+15 Is Colliani in the venus? 	no	14
+1 Colliani went to the neptune.
+2 Conn is in the neptune.
+3 Is Conn in the neptune? 	yes	2
+4 Colliani is in the earth.
+5 Conn moved to the jupiter.
+6 Is Colliani in the earth? 	yes	4
+7 Colliani went to the mars.
+8 Doud travelled to the mars.
+9 Is Conn in the jupiter? 	yes	5
+10 Conn journeyed to the venus.
+11 Doud is not in the mars.
+12 Is Doud in the mars? 	no	11
+13 Doud is in the jupiter.
+14 Doud moved to the neptune.
+15 Is Doud in the mars? 	no	14
+1 Doud went back to the mars.
+2 Burnhard journeyed to the earth.
+3 Is Doud in the mars? 	yes	1
+4 Burnhard is in the neptune.
+5 Doud is no longer in the mars.
+6 Is Burnhard in the mars? 	no	4
+7 Colliani is not in the venus.
+8 Conn is in the earth.
+9 Is Burnhard in the neptune? 	yes	4
+10 Doud is in the jupiter.
+11 Doud is in the neptune.
+12 Is Doud in the neptune? 	yes	11
+13 Conn journeyed to the venus.
+14 Colliani travelled to the venus.
+15 Is Doud in the neptune? 	yes	11
+1 Burnhard is in the earth.
+2 Doud went back to the neptune.
+3 Is Burnhard in the neptune? 	no	1
+4 Doud is not in the neptune.
+5 Doud went back to the mars.
+6 Is Doud in the moon? 	no	5
+7 Burnhard is in the venus.
+8 Colliani moved to the venus.
+9 Is Colliani in the jupiter? 	no	8
+10 Burnhard is no longer in the venus.
+11 Colliani is not in the venus.
+12 Is Colliani in the venus? 	no	11
+13 Burnhard went back to the mars.
+14 Doud is no longer in the mars.
+15 Is Colliani in the venus? 	no	11
+1 Burnhard is in the earth.
+2 Burnhard travelled to the mars.
+3 Is Burnhard in the neptune? 	no	2
+4 Colliani is in the moon.
+5 Burnhard journeyed to the neptune.
+6 Is Burnhard in the neptune? 	yes	5
+7 Doud moved to the moon.
+8 Burnhard went back to the moon.
+9 Is Burnhard in the moon? 	yes	8
+10 Conn moved to the mars.
+11 Burnhard is in the neptune.
+12 Is Doud in the moon? 	yes	7
+13 Conn is in the neptune.
+14 Doud is in the jupiter.
+15 Is Doud in the jupiter? 	yes	14
+1 Colliani is no longer in the jupiter.
+2 Doud went back to the jupiter.
+3 Is Doud in the jupiter? 	yes	2
+4 Burnhard is no longer in the moon.
+5 Doud moved to the mars.
+6 Is Colliani in the jupiter? 	no	1
+7 Burnhard is in the earth.
+8 Colliani went back to the venus.
+9 Is Doud in the moon? 	no	5
+10 Burnhard is not in the earth.
+11 Burnhard is in the earth.
+12 Is Burnhard in the earth? 	yes	11
+13 Burnhard is in the jupiter.
+14 Conn moved to the jupiter.
+15 Is Burnhard in the jupiter? 	yes	13
+1 Conn journeyed to the jupiter.
+2 Burnhard journeyed to the earth.
+3 Is Conn in the jupiter? 	yes	1
+4 Colliani is in the moon.
+5 Conn is no longer in the jupiter.
+6 Is Conn in the jupiter? 	no	5
+7 Colliani moved to the neptune.
+8 Burnhard moved to the moon.
+9 Is Conn in the jupiter? 	no	5
+10 Burnhard went back to the venus.
+11 Doud went back to the jupiter.
+12 Is Burnhard in the earth? 	no	10
+13 Colliani moved to the jupiter.
+14 Conn is in the venus.
+15 Is Colliani in the jupiter? 	yes	13
+1 Colliani went back to the moon.
+2 Colliani moved to the venus.
+3 Is Colliani in the jupiter? 	no	2
+4 Doud moved to the venus.
+5 Burnhard went to the venus.
+6 Is Burnhard in the neptune? 	no	5
+7 Colliani moved to the moon.
+8 Colliani is not in the moon.
+9 Is Colliani in the moon? 	no	8
+10 Doud went to the mars.
+11 Conn is not in the venus.
+12 Is Colliani in the moon? 	no	8
+13 Doud is not in the mars.
+14 Conn is in the moon.
+15 Is Colliani in the moon? 	no	8
+1 Doud went to the earth.
+2 Conn travelled to the mars.
+3 Is Conn in the mars? 	yes	2
+4 Burnhard moved to the earth.
+5 Doud went back to the mars.
+6 Is Burnhard in the neptune? 	no	4
+7 Colliani is in the venus.
+8 Doud journeyed to the jupiter.
+9 Is Conn in the moon? 	no	2
+10 Doud went back to the neptune.
+11 Colliani went to the mars.
+12 Is Doud in the earth? 	no	10
+13 Doud is in the mars.
+14 Burnhard moved to the mars.
+15 Is Doud in the neptune? 	no	13
+1 Burnhard moved to the jupiter.
+2 Colliani is in the venus.
+3 Is Colliani in the venus? 	yes	2
+4 Colliani is in the mars.
+5 Doud is in the moon.
+6 Is Doud in the neptune? 	no	5
+7 Doud journeyed to the mars.
+8 Conn is no longer in the earth.
+9 Is Colliani in the mars? 	yes	4
+10 Burnhard journeyed to the venus.
+11 Burnhard is not in the venus.
+12 Is Burnhard in the venus? 	no	11
+13 Doud journeyed to the neptune.
+14 Doud travelled to the jupiter.
+15 Is Doud in the jupiter? 	yes	14
+1 Doud is not in the mars.
+2 Doud is not in the venus.
+3 Is Doud in the venus? 	no	2
+4 Colliani is in the mars.
+5 Colliani is not in the mars.
+6 Is Colliani in the mars? 	no	5
+7 Colliani is not in the earth.
+8 Conn is in the jupiter.
+9 Is Colliani in the earth? 	no	7
+10 Conn is not in the jupiter.
+11 Burnhard is in the mars.
+12 Is Conn in the jupiter? 	no	10
+13 Conn went back to the earth.
+14 Doud went back to the earth.
+15 Is Burnhard in the mars? 	yes	11
+1 Conn went to the jupiter.
+2 Doud went back to the venus.
+3 Is Doud in the earth? 	no	2
+4 Conn is no longer in the jupiter.
+5 Conn moved to the earth.
+6 Is Conn in the venus? 	no	5
+7 Burnhard is in the neptune.
+8 Doud is no longer in the venus.
+9 Is Conn in the earth? 	yes	5
+10 Burnhard travelled to the venus.
+11 Colliani is in the mars.
+12 Is Burnhard in the moon? 	no	10
+13 Colliani is in the earth.
+14 Conn is in the venus.
+15 Is Conn in the venus? 	yes	14
+1 Conn is in the venus.
+2 Burnhard journeyed to the jupiter.
+3 Is Conn in the jupiter? 	no	1
+4 Burnhard went to the mars.
+5 Doud travelled to the neptune.
+6 Is Burnhard in the jupiter? 	no	4
+7 Colliani is in the mars.
+8 Burnhard travelled to the venus.
+9 Is Burnhard in the earth? 	no	8
+10 Doud is in the jupiter.
+11 Colliani went back to the moon.
+12 Is Burnhard in the moon? 	no	8
+13 Doud is no longer in the jupiter.
+14 Conn is in the neptune.
+15 Is Burnhard in the mars? 	no	8
+1 Doud travelled to the jupiter.
+2 Colliani is in the neptune.
+3 Is Doud in the jupiter? 	yes	1
+4 Doud went back to the earth.
+5 Conn is no longer in the neptune.
+6 Is Conn in the neptune? 	no	5
+7 Colliani went back to the mars.
+8 Burnhard journeyed to the moon.
+9 Is Colliani in the jupiter? 	no	7
+10 Doud is not in the earth.
+11 Doud is in the mars.
+12 Is Colliani in the mars? 	yes	7
+13 Colliani is in the venus.
+14 Doud went back to the neptune.
+15 Is Colliani in the jupiter? 	no	13
+1 Burnhard is in the jupiter.
+2 Colliani is not in the venus.
+3 Is Burnhard in the mars? 	no	1
+4 Conn is not in the mars.
+5 Doud is in the venus.
+6 Is Conn in the mars? 	no	4
+7 Conn went back to the jupiter.
+8 Conn journeyed to the moon.
+9 Is Conn in the neptune? 	no	8
+10 Doud travelled to the moon.
+11 Colliani travelled to the jupiter.
+12 Is Conn in the jupiter? 	no	8
+13 Conn went back to the earth.
+14 Doud is in the neptune.
+15 Is Colliani in the jupiter? 	yes	11
+1 Colliani moved to the venus.
+2 Burnhard is in the earth.
+3 Is Burnhard in the earth? 	yes	2
+4 Conn travelled to the moon.
+5 Doud is not in the mars.
+6 Is Burnhard in the neptune? 	no	2
+7 Burnhard is no longer in the earth.
+8 Doud is not in the venus.
+9 Is Conn in the mars? 	no	4
+10 Doud journeyed to the earth.
+11 Burnhard went to the mars.
+12 Is Burnhard in the neptune? 	no	11
+13 Burnhard moved to the venus.
+14 Colliani is in the neptune.
+15 Is Burnhard in the venus? 	yes	13
+1 Conn is no longer in the earth.
+2 Colliani travelled to the moon.
+3 Is Conn in the earth? 	no	1
+4 Conn journeyed to the moon.
+5 Doud moved to the earth.
+6 Is Colliani in the earth? 	no	2
+7 Conn is in the venus.
+8 Doud is not in the earth.
+9 Is Colliani in the moon? 	yes	2
+10 Doud moved to the neptune.
+11 Colliani is not in the moon.
+12 Is Conn in the venus? 	yes	7
+13 Burnhard is no longer in the venus.
+14 Colliani moved to the neptune.
+15 Is Colliani in the moon? 	no	14
+1 Colliani went to the jupiter.
+2 Burnhard journeyed to the jupiter.
+3 Is Colliani in the jupiter? 	yes	1
+4 Doud moved to the mars.
+5 Conn went back to the moon.
+6 Is Doud in the neptune? 	no	4
+7 Burnhard is not in the jupiter.
+8 Doud travelled to the jupiter.
+9 Is Burnhard in the jupiter? 	no	7
+10 Colliani is no longer in the jupiter.
+11 Colliani went back to the moon.
+12 Is Burnhard in the jupiter? 	no	7
+13 Burnhard went to the venus.
+14 Burnhard went back to the earth.
+15 Is Doud in the jupiter? 	yes	8
+1 Burnhard is no longer in the mars.
+2 Colliani is in the moon.
+3 Is Colliani in the moon? 	yes	2
+4 Burnhard journeyed to the jupiter.
+5 Conn went back to the jupiter.
+6 Is Burnhard in the moon? 	no	4
+7 Conn travelled to the moon.
+8 Burnhard went to the earth.
+9 Is Conn in the earth? 	no	7
+10 Conn travelled to the earth.
+11 Burnhard journeyed to the mars.
+12 Is Conn in the earth? 	yes	10
+13 Burnhard went back to the moon.
+14 Burnhard moved to the jupiter.
+15 Is Burnhard in the neptune? 	no	14
+1 Doud travelled to the mars.
+2 Conn is in the venus.
+3 Is Conn in the venus? 	yes	2
+4 Conn moved to the moon.
+5 Burnhard is not in the venus.
+6 Is Doud in the earth? 	no	1
+7 Conn is in the venus.
+8 Colliani went to the jupiter.
+9 Is Colliani in the neptune? 	no	8
+10 Conn is not in the venus.
+11 Colliani went back to the earth.
+12 Is Burnhard in the venus? 	no	5
+13 Conn went to the jupiter.
+14 Doud travelled to the jupiter.
+15 Is Doud in the jupiter? 	yes	14
+1 Conn is in the venus.
+2 Doud is no longer in the moon.
+3 Is Doud in the moon? 	no	2
+4 Doud is no longer in the venus.
+5 Colliani is no longer in the earth.
+6 Is Colliani in the earth? 	no	5
+7 Burnhard is no longer in the moon.
+8 Burnhard is in the moon.
+9 Is Colliani in the earth? 	no	5
+10 Conn is not in the venus.
+11 Colliani is no longer in the mars.
+12 Is Colliani in the mars? 	no	11
+13 Colliani went back to the moon.
+14 Doud is not in the mars.
+15 Is Doud in the mars? 	no	14
+1 Doud is not in the mars.
+2 Doud journeyed to the moon.
+3 Is Doud in the mars? 	no	2
+4 Conn is in the earth.
+5 Doud travelled to the jupiter.
+6 Is Doud in the jupiter? 	yes	5
+7 Burnhard is no longer in the jupiter.
+8 Colliani is in the earth.
+9 Is Conn in the venus? 	no	4
+10 Conn journeyed to the neptune.
+11 Conn is not in the neptune.
+12 Is Doud in the mars? 	no	5
+13 Conn is not in the jupiter.
+14 Doud went to the mars.
+15 Is Conn in the jupiter? 	no	13
+1 Burnhard is in the neptune.
+2 Conn moved to the jupiter.
+3 Is Conn in the mars? 	no	2
+4 Conn is not in the jupiter.
+5 Doud is in the venus.
+6 Is Conn in the jupiter? 	no	4
+7 Conn went to the venus.
+8 Doud is in the neptune.
+9 Is Doud in the jupiter? 	no	8
+10 Colliani is no longer in the jupiter.
+11 Burnhard travelled to the venus.
+12 Is Burnhard in the venus? 	yes	11
+13 Burnhard is in the earth.
+14 Doud travelled to the venus.
+15 Is Burnhard in the earth? 	yes	13
+1 Conn is not in the moon.
+2 Conn is in the jupiter.
+3 Is Conn in the jupiter? 	yes	2
+4 Conn went to the neptune.
+5 Burnhard went to the venus.
+6 Is Conn in the neptune? 	yes	4
+7 Doud is in the jupiter.
+8 Burnhard is not in the venus.
+9 Is Doud in the earth? 	no	7
+10 Burnhard went to the mars.
+11 Colliani is in the neptune.
+12 Is Doud in the jupiter? 	yes	7
+13 Conn went to the jupiter.
+14 Colliani is not in the neptune.
+15 Is Burnhard in the neptune? 	no	10
+1 Colliani is no longer in the jupiter.
+2 Colliani is no longer in the neptune.
+3 Is Colliani in the neptune? 	no	2
+4 Colliani is in the neptune.
+5 Doud is in the neptune.
+6 Is Colliani in the neptune? 	yes	4
+7 Colliani is no longer in the neptune.
+8 Burnhard is in the earth.
+9 Is Colliani in the neptune? 	no	7
+10 Colliani travelled to the moon.
+11 Burnhard is not in the earth.
+12 Is Colliani in the moon? 	yes	10
+13 Doud is not in the neptune.
+14 Doud is not in the mars.
+15 Is Doud in the mars? 	no	14
+1 Colliani travelled to the venus.
+2 Doud is in the mars.
+3 Is Colliani in the earth? 	no	1
+4 Burnhard travelled to the neptune.
+5 Conn moved to the moon.
+6 Is Conn in the jupiter? 	no	5
+7 Conn is no longer in the moon.
+8 Burnhard is not in the neptune.
+9 Is Conn in the moon? 	no	7
+10 Colliani went to the mars.
+11 Doud is in the jupiter.
+12 Is Doud in the moon? 	no	11
+13 Burnhard moved to the jupiter.
+14 Conn is in the venus.
+15 Is Burnhard in the earth? 	no	13
+1 Burnhard is no longer in the mars.
+2 Colliani is not in the jupiter.
+3 Is Burnhard in the mars? 	no	1
+4 Burnhard journeyed to the mars.
+5 Burnhard travelled to the venus.
+6 Is Burnhard in the venus? 	yes	5
+7 Doud journeyed to the jupiter.
+8 Conn is in the neptune.
+9 Is Burnhard in the jupiter? 	no	5
+10 Doud is not in the jupiter.
+11 Doud is no longer in the earth.
+12 Is Doud in the earth? 	no	11
+13 Doud went to the earth.
+14 Doud is no longer in the earth.
+15 Is Doud in the earth? 	no	14
+1 Colliani is no longer in the moon.
+2 Conn is no longer in the earth.
+3 Is Colliani in the moon? 	no	1
+4 Conn is no longer in the venus.
+5 Conn is no longer in the jupiter.
+6 Is Colliani in the moon? 	no	1
+7 Conn is no longer in the moon.
+8 Burnhard is in the venus.
+9 Is Conn in the moon? 	no	7
+10 Conn journeyed to the moon.
+11 Burnhard went back to the moon.
+12 Is Burnhard in the neptune? 	no	11
+13 Conn journeyed to the earth.
+14 Doud is no longer in the jupiter.
+15 Is Conn in the earth? 	yes	13
+1 Doud went to the jupiter.
+2 Doud travelled to the neptune.
+3 Is Doud in the neptune? 	yes	2
+4 Conn is no longer in the venus.
+5 Doud journeyed to the moon.
+6 Is Doud in the venus? 	no	5
+7 Doud journeyed to the venus.
+8 Burnhard is in the neptune.
+9 Is Doud in the jupiter? 	no	7
+10 Burnhard is in the mars.
+11 Conn went to the neptune.
+12 Is Burnhard in the mars? 	yes	10
+13 Colliani is in the jupiter.
+14 Burnhard went back to the jupiter.
+15 Is Colliani in the moon? 	no	13
+1 Doud is in the moon.
+2 Conn is in the moon.
+3 Is Conn in the moon? 	yes	2
+4 Colliani is in the earth.
+5 Colliani is not in the earth.
+6 Is Conn in the moon? 	yes	2
+7 Doud went to the neptune.
+8 Doud is in the venus.
+9 Is Colliani in the earth? 	no	5
+10 Colliani travelled to the neptune.
+11 Conn is not in the moon.
+12 Is Doud in the venus? 	yes	8
+13 Burnhard journeyed to the venus.
+14 Burnhard moved to the neptune.
+15 Is Burnhard in the venus? 	no	14
+1 Colliani is in the venus.
+2 Colliani moved to the neptune.
+3 Is Colliani in the earth? 	no	2
+4 Colliani travelled to the mars.
+5 Burnhard travelled to the venus.
+6 Is Colliani in the jupiter? 	no	4
+7 Conn went to the jupiter.
+8 Burnhard journeyed to the earth.
+9 Is Colliani in the mars? 	yes	4
+10 Doud travelled to the moon.
+11 Doud is in the earth.
+12 Is Burnhard in the neptune? 	no	8
+13 Colliani moved to the neptune.
+14 Doud went to the neptune.
+15 Is Colliani in the moon? 	no	13
+1 Burnhard is no longer in the neptune.
+2 Doud went back to the neptune.
+3 Is Doud in the neptune? 	yes	2
+4 Burnhard journeyed to the earth.
+5 Conn is in the moon.
+6 Is Burnhard in the earth? 	yes	4
+7 Conn is in the jupiter.
+8 Conn went to the neptune.
+9 Is Conn in the venus? 	no	8
+10 Conn is in the moon.
+11 Burnhard is not in the earth.
+12 Is Conn in the neptune? 	no	10
+13 Conn is in the venus.
+14 Doud travelled to the venus.
+15 Is Burnhard in the earth? 	no	11
+1 Doud moved to the jupiter.
+2 Colliani went to the moon.
+3 Is Doud in the jupiter? 	yes	1
+4 Conn journeyed to the neptune.
+5 Conn went to the jupiter.
+6 Is Colliani in the mars? 	no	2
+7 Burnhard moved to the neptune.
+8 Burnhard is in the venus.
+9 Is Colliani in the moon? 	yes	2
+10 Conn is in the neptune.
+11 Burnhard went back to the neptune.
+12 Is Burnhard in the neptune? 	yes	11
+13 Doud is not in the jupiter.
+14 Conn is not in the neptune.
+15 Is Burnhard in the jupiter? 	no	11
+1 Conn moved to the venus.
+2 Doud is not in the venus.
+3 Is Doud in the venus? 	no	2
+4 Conn travelled to the neptune.
+5 Doud is in the venus.
+6 Is Doud in the moon? 	no	5
+7 Conn went back to the jupiter.
+8 Doud journeyed to the mars.
+9 Is Doud in the mars? 	yes	8
+10 Doud is no longer in the mars.
+11 Burnhard is no longer in the moon.
+12 Is Conn in the jupiter? 	yes	7
+13 Conn went back to the moon.
+14 Burnhard is in the neptune.
+15 Is Conn in the moon? 	yes	13
+1 Conn is in the earth.
+2 Conn is in the neptune.
+3 Is Conn in the neptune? 	yes	2
+4 Conn moved to the earth.
+5 Conn is not in the earth.
+6 Is Conn in the earth? 	no	5
+7 Conn is not in the venus.
+8 Conn journeyed to the jupiter.
+9 Is Conn in the moon? 	no	8
+10 Colliani went to the jupiter.
+11 Doud is not in the jupiter.
+12 Is Colliani in the neptune? 	no	10
+13 Conn is not in the jupiter.
+14 Doud journeyed to the neptune.
+15 Is Doud in the earth? 	no	14
+1 Colliani is in the neptune.
+2 Colliani travelled to the moon.
+3 Is Colliani in the moon? 	yes	2
+4 Colliani is in the jupiter.
+5 Burnhard is in the jupiter.
+6 Is Colliani in the moon? 	no	4
+7 Conn travelled to the moon.
+8 Burnhard is not in the jupiter.
+9 Is Conn in the earth? 	no	7
+10 Burnhard is no longer in the venus.
+11 Conn journeyed to the earth.
+12 Is Burnhard in the venus? 	no	10
+13 Conn journeyed to the neptune.
+14 Colliani is in the mars.
+15 Is Burnhard in the venus? 	no	10
+1 Colliani journeyed to the mars.
+2 Colliani journeyed to the moon.
+3 Is Colliani in the moon? 	yes	2
+4 Conn is in the mars.
+5 Doud is not in the earth.
+6 Is Colliani in the earth? 	no	2
+7 Doud went to the neptune.
+8 Conn is in the earth.
+9 Is Doud in the neptune? 	yes	7
+10 Doud is not in the neptune.
+11 Burnhard moved to the neptune.
+12 Is Doud in the neptune? 	no	10
+13 Burnhard travelled to the venus.
+14 Burnhard moved to the mars.
+15 Is Burnhard in the mars? 	yes	14
+1 Burnhard is in the venus.
+2 Burnhard is not in the venus.
+3 Is Burnhard in the venus? 	no	2
+4 Colliani went to the jupiter.
+5 Colliani is in the earth.
+6 Is Colliani in the earth? 	yes	5
+7 Conn moved to the venus.
+8 Doud went to the earth.
+9 Is Burnhard in the venus? 	no	2
+10 Conn is not in the venus.
+11 Colliani is in the venus.
+12 Is Colliani in the venus? 	yes	11
+13 Burnhard moved to the neptune.
+14 Doud went back to the venus.
+15 Is Burnhard in the venus? 	no	13
+1 Burnhard is no longer in the mars.
+2 Colliani is in the neptune.
+3 Is Colliani in the neptune? 	yes	2
+4 Conn travelled to the mars.
+5 Doud is in the jupiter.
+6 Is Colliani in the mars? 	no	2
+7 Conn travelled to the venus.
+8 Colliani is in the mars.
+9 Is Conn in the venus? 	yes	7
+10 Colliani is in the venus.
+11 Conn is no longer in the venus.
+12 Is Conn in the venus? 	no	11
+13 Colliani went to the moon.
+14 Burnhard is in the jupiter.
+15 Is Conn in the venus? 	no	11
+1 Burnhard went back to the neptune.
+2 Burnhard is not in the neptune.
+3 Is Burnhard in the neptune? 	no	2
+4 Doud is in the neptune.
+5 Colliani went back to the earth.
+6 Is Burnhard in the neptune? 	no	2
+7 Doud journeyed to the earth.
+8 Colliani moved to the moon.
+9 Is Colliani in the moon? 	yes	8
+10 Burnhard journeyed to the mars.
+11 Doud went to the mars.
+12 Is Burnhard in the jupiter? 	no	10
+13 Burnhard moved to the moon.
+14 Doud is in the earth.
+15 Is Burnhard in the moon? 	yes	13
+1 Colliani moved to the moon.
+2 Doud is no longer in the jupiter.
+3 Is Doud in the jupiter? 	no	2
+4 Burnhard is in the moon.
+5 Burnhard travelled to the venus.
+6 Is Burnhard in the earth? 	no	5
+7 Conn is in the moon.
+8 Doud journeyed to the venus.
+9 Is Doud in the venus? 	yes	8
+10 Conn moved to the venus.
+11 Conn is no longer in the venus.
+12 Is Burnhard in the mars? 	no	5
+13 Burnhard is in the earth.
+14 Conn journeyed to the venus.
+15 Is Conn in the venus? 	yes	14
+1 Conn travelled to the earth.
+2 Colliani is in the moon.
+3 Is Colliani in the moon? 	yes	2
+4 Doud travelled to the venus.
+5 Doud is in the mars.
+6 Is Conn in the venus? 	no	1
+7 Conn is no longer in the earth.
+8 Doud is not in the mars.
+9 Is Conn in the earth? 	no	7
+10 Doud is in the jupiter.
+11 Conn is in the mars.
+12 Is Doud in the jupiter? 	yes	10
+13 Doud moved to the mars.
+14 Colliani moved to the earth.
+15 Is Conn in the earth? 	no	11
+1 Burnhard is in the moon.
+2 Conn went back to the jupiter.
+3 Is Conn in the earth? 	no	2
+4 Burnhard is no longer in the moon.
+5 Doud moved to the mars.
+6 Is Conn in the jupiter? 	yes	2
+7 Colliani journeyed to the moon.
+8 Doud moved to the venus.
+9 Is Burnhard in the moon? 	no	4
+10 Burnhard is not in the venus.
+11 Burnhard is in the jupiter.
+12 Is Burnhard in the jupiter? 	yes	11
+13 Burnhard moved to the mars.
+14 Doud went back to the neptune.
+15 Is Burnhard in the neptune? 	no	13
+1 Colliani is not in the earth.
+2 Conn is in the earth.
+3 Is Conn in the earth? 	yes	2
+4 Burnhard is no longer in the moon.
+5 Burnhard is in the venus.
+6 Is Conn in the mars? 	no	2
+7 Conn went back to the mars.
+8 Conn is in the earth.
+9 Is Burnhard in the jupiter? 	no	5
+10 Doud went back to the earth.
+11 Colliani is no longer in the mars.
+12 Is Conn in the venus? 	no	8
+13 Colliani is no longer in the jupiter.
+14 Conn went to the jupiter.
+15 Is Conn in the earth? 	no	14
+1 Burnhard is no longer in the earth.
+2 Colliani went back to the mars.
+3 Is Colliani in the mars? 	yes	2
+4 Colliani is in the neptune.
+5 Conn is in the neptune.
+6 Is Conn in the neptune? 	yes	5
+7 Conn is no longer in the neptune.
+8 Colliani moved to the jupiter.
+9 Is Conn in the neptune? 	no	7
+10 Colliani travelled to the moon.
+11 Doud is in the earth.
+12 Is Conn in the neptune? 	no	7
+13 Burnhard is in the jupiter.
+14 Conn journeyed to the venus.
+15 Is Conn in the neptune? 	no	14

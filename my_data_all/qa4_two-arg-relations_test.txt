@@ -1,0 +1,3000 @@
+1 The neptune is east of the moon.
+2 The earth is west of the moon.
+3 What is the moon east of?	earth	2
+1 The earth is west of the mars.
+2 The neptune is west of the earth.
+3 What is west of the mars?	earth	1
+1 The moon is north of the venus.
+2 The neptune is north of the moon.
+3 What is north of the venus?	moon	1
+1 The mars is south of the moon.
+2 The earth is south of the mars.
+3 What is south of the mars?	earth	2
+1 The earth is east of the mars.
+2 The jupiter is east of the earth.
+3 What is east of the mars?	earth	1
+1 The venus is east of the moon.
+2 The venus is west of the neptune.
+3 What is the moon west of?	venus	1
+1 The mars is east of the earth.
+2 The venus is west of the earth.
+3 What is east of the earth?	mars	1
+1 The venus is north of the earth.
+2 The moon is north of the venus.
+3 What is the venus south of?	moon	2
+1 The mars is south of the jupiter.
+2 The venus is south of the mars.
+3 What is south of the jupiter?	mars	1
+1 The jupiter is east of the neptune.
+2 The neptune is east of the venus.
+3 What is east of the neptune?	jupiter	1
+1 The neptune is south of the jupiter.
+2 The venus is north of the jupiter.
+3 What is north of the jupiter?	venus	2
+1 The venus is south of the mars.
+2 The jupiter is north of the mars.
+3 What is south of the mars?	venus	1
+1 The moon is east of the mars.
+2 The earth is east of the moon.
+3 What is east of the mars?	moon	1
+1 The moon is east of the mars.
+2 The venus is west of the mars.
+3 What is west of the mars?	venus	2
+1 The venus is north of the earth.
+2 The earth is north of the jupiter.
+3 What is north of the earth?	venus	1
+1 The venus is west of the moon.
+2 The venus is east of the neptune.
+3 What is east of the neptune?	venus	2
+1 The neptune is east of the jupiter.
+2 The neptune is west of the moon.
+3 What is east of the jupiter?	neptune	1
+1 The jupiter is south of the moon.
+2 The mars is north of the moon.
+3 What is south of the moon?	jupiter	1
+1 The mars is north of the earth.
+2 The venus is south of the earth.
+3 What is the earth north of?	venus	2
+1 The venus is east of the mars.
+2 The earth is west of the mars.
+3 What is the mars west of?	venus	1
+1 The neptune is east of the jupiter.
+2 The venus is west of the jupiter.
+3 What is the jupiter east of?	venus	2
+1 The mars is south of the moon.
+2 The venus is north of the moon.
+3 What is the moon south of?	venus	2
+1 The mars is south of the earth.
+2 The moon is north of the earth.
+3 What is north of the earth?	moon	2
+1 The jupiter is north of the moon.
+2 The moon is north of the earth.
+3 What is the earth south of?	moon	2
+1 The neptune is east of the earth.
+2 The jupiter is west of the earth.
+3 What is the earth west of?	neptune	1
+1 The mars is west of the moon.
+2 The jupiter is east of the moon.
+3 What is east of the moon?	jupiter	2
+1 The jupiter is north of the earth.
+2 The earth is north of the neptune.
+3 What is north of the earth?	jupiter	1
+1 The jupiter is east of the moon.
+2 The neptune is west of the moon.
+3 What is west of the moon?	neptune	2
+1 The venus is south of the moon.
+2 The jupiter is north of the moon.
+3 What is the moon north of?	venus	1
+1 The venus is north of the jupiter.
+2 The venus is south of the moon.
+3 What is north of the jupiter?	venus	1
+1 The earth is east of the mars.
+2 The jupiter is east of the earth.
+3 What is east of the mars?	earth	1
+1 The mars is east of the neptune.
+2 The mars is west of the moon.
+3 What is the moon east of?	mars	2
+1 The moon is north of the venus.
+2 The earth is south of the venus.
+3 What is north of the venus?	moon	1
+1 The mars is east of the earth.
+2 The neptune is west of the earth.
+3 What is the earth west of?	mars	1
+1 The neptune is south of the mars.
+2 The earth is north of the mars.
+3 What is the mars south of?	earth	2
+1 The venus is west of the moon.
+2 The earth is west of the venus.
+3 What is the moon east of?	venus	1
+1 The jupiter is south of the neptune.
+2 The neptune is south of the moon.
+3 What is south of the neptune?	jupiter	1
+1 The neptune is south of the moon.
+2 The earth is north of the moon.
+3 What is north of the moon?	earth	2
+1 The earth is west of the moon.
+2 The moon is west of the jupiter.
+3 What is the moon east of?	earth	1
+1 The jupiter is south of the mars.
+2 The jupiter is north of the earth.
+3 What is north of the earth?	jupiter	2
+1 The moon is south of the mars.
+2 The neptune is south of the moon.
+3 What is south of the mars?	moon	1
+1 The earth is west of the jupiter.
+2 The moon is west of the earth.
+3 What is west of the jupiter?	earth	1
+1 The mars is north of the venus.
+2 The earth is north of the mars.
+3 What is the venus south of?	mars	1
+1 The venus is north of the moon.
+2 The venus is south of the earth.
+3 What is south of the earth?	venus	2
+1 The venus is north of the jupiter.
+2 The neptune is south of the jupiter.
+3 What is the jupiter south of?	venus	1
+1 The jupiter is west of the earth.
+2 The neptune is west of the jupiter.
+3 What is the jupiter east of?	neptune	2
+1 The venus is south of the jupiter.
+2 The earth is south of the venus.
+3 What is south of the jupiter?	venus	1
+1 The venus is west of the earth.
+2 The earth is west of the moon.
+3 What is west of the earth?	venus	1
+1 The venus is east of the neptune.
+2 The earth is west of the neptune.
+3 What is east of the neptune?	venus	1
+1 The venus is north of the jupiter.
+2 The neptune is south of the jupiter.
+3 What is the jupiter south of?	venus	1
+1 The earth is south of the neptune.
+2 The neptune is south of the venus.
+3 What is the neptune north of?	earth	1
+1 The jupiter is north of the venus.
+2 The venus is north of the moon.
+3 What is north of the moon?	venus	2
+1 The neptune is south of the earth.
+2 The earth is south of the venus.
+3 What is the earth north of?	neptune	1
+1 The mars is east of the moon.
+2 The moon is east of the venus.
+3 What is east of the venus?	moon	2
+1 The jupiter is east of the earth.
+2 The moon is west of the earth.
+3 What is west of the earth?	moon	2
+1 The venus is east of the neptune.
+2 The earth is west of the neptune.
+3 What is east of the neptune?	venus	1
+1 The neptune is west of the earth.
+2 The neptune is east of the mars.
+3 What is the earth east of?	neptune	1
+1 The venus is east of the neptune.
+2 The mars is west of the neptune.
+3 What is west of the neptune?	mars	2
+1 The venus is south of the neptune.
+2 The neptune is south of the earth.
+3 What is south of the earth?	neptune	2
+1 The moon is north of the venus.
+2 The mars is south of the venus.
+3 What is the venus north of?	mars	2
+1 The neptune is south of the earth.
+2 The moon is south of the neptune.
+3 What is the earth north of?	neptune	1
+1 The jupiter is south of the earth.
+2 The earth is south of the neptune.
+3 What is south of the neptune?	earth	2
+1 The venus is north of the neptune.
+2 The mars is south of the neptune.
+3 What is the neptune north of?	mars	2
+1 The neptune is west of the earth.
+2 The venus is west of the neptune.
+3 What is west of the earth?	neptune	1
+1 The venus is east of the jupiter.
+2 The earth is east of the venus.
+3 What is east of the venus?	earth	2
+1 The jupiter is south of the earth.
+2 The earth is south of the venus.
+3 What is the earth north of?	jupiter	1
+1 The neptune is north of the earth.
+2 The moon is south of the earth.
+3 What is the earth north of?	moon	2
+1 The earth is south of the venus.
+2 The jupiter is north of the venus.
+3 What is the venus south of?	jupiter	2
+1 The venus is west of the moon.
+2 The mars is east of the moon.
+3 What is the moon west of?	mars	2
+1 The venus is west of the neptune.
+2 The moon is east of the neptune.
+3 What is the neptune east of?	venus	1
+1 The neptune is north of the earth.
+2 The moon is south of the earth.
+3 What is south of the earth?	moon	2
+1 The mars is north of the venus.
+2 The jupiter is south of the venus.
+3 What is the venus south of?	mars	1
+1 The venus is south of the neptune.
+2 The venus is north of the earth.
+3 What is the earth south of?	venus	2
+1 The neptune is south of the jupiter.
+2 The moon is north of the jupiter.
+3 What is north of the jupiter?	moon	2
+1 The neptune is south of the jupiter.
+2 The moon is south of the neptune.
+3 What is the neptune north of?	moon	2
+1 The venus is south of the earth.
+2 The earth is south of the neptune.
+3 What is south of the neptune?	earth	2
+1 The earth is west of the neptune.
+2 The moon is east of the neptune.
+3 What is the neptune east of?	earth	1
+1 The moon is north of the jupiter.
+2 The jupiter is north of the venus.
+3 What is north of the jupiter?	moon	1
+1 The mars is east of the venus.
+2 The moon is east of the mars.
+3 What is east of the venus?	mars	1
+1 The jupiter is south of the mars.
+2 The neptune is north of the mars.
+3 What is the mars south of?	neptune	2
+1 The earth is east of the jupiter.
+2 The venus is west of the jupiter.
+3 What is west of the jupiter?	venus	2
+1 The jupiter is east of the earth.
+2 The neptune is east of the jupiter.
+3 What is the earth west of?	jupiter	1
+1 The moon is south of the neptune.
+2 The mars is north of the neptune.
+3 What is the neptune south of?	mars	2
+1 The venus is east of the jupiter.
+2 The earth is east of the venus.
+3 What is the jupiter west of?	venus	1
+1 The jupiter is south of the neptune.
+2 The moon is north of the neptune.
+3 What is north of the neptune?	moon	2
+1 The jupiter is west of the venus.
+2 The moon is west of the jupiter.
+3 What is west of the venus?	jupiter	1
+1 The venus is west of the neptune.
+2 The jupiter is west of the venus.
+3 What is west of the venus?	jupiter	2
+1 The venus is east of the moon.
+2 The mars is east of the venus.
+3 What is east of the moon?	venus	1
+1 The mars is north of the moon.
+2 The moon is north of the jupiter.
+3 What is north of the jupiter?	moon	2
+1 The mars is east of the earth.
+2 The neptune is west of the earth.
+3 What is the earth west of?	mars	1
+1 The jupiter is north of the moon.
+2 The neptune is north of the jupiter.
+3 What is the moon south of?	jupiter	1
+1 The mars is west of the earth.
+2 The jupiter is east of the earth.
+3 What is east of the earth?	jupiter	2
+1 The earth is south of the jupiter.
+2 The earth is north of the neptune.
+3 What is south of the jupiter?	earth	1
+1 The mars is east of the moon.
+2 The moon is east of the venus.
+3 What is the venus west of?	moon	2
+1 The neptune is west of the earth.
+2 The venus is east of the earth.
+3 What is the earth west of?	venus	2
+1 The venus is north of the mars.
+2 The neptune is north of the venus.
+3 What is north of the venus?	neptune	2
+1 The earth is east of the mars.
+2 The moon is west of the mars.
+3 What is the mars west of?	earth	1
+1 The jupiter is west of the mars.
+2 The mars is west of the earth.
+3 What is west of the earth?	mars	2
+1 The moon is south of the mars.
+2 The jupiter is south of the moon.
+3 What is the mars north of?	moon	1
+1 The earth is north of the jupiter.
+2 The venus is south of the jupiter.
+3 What is the jupiter north of?	venus	2
+1 The earth is east of the neptune.
+2 The earth is west of the venus.
+3 What is east of the neptune?	earth	1
+1 The venus is north of the neptune.
+2 The mars is south of the neptune.
+3 What is south of the neptune?	mars	2
+1 The moon is west of the jupiter.
+2 The earth is east of the jupiter.
+3 What is the jupiter west of?	earth	2
+1 The mars is south of the venus.
+2 The moon is south of the mars.
+3 What is the mars north of?	moon	2
+1 The neptune is west of the earth.
+2 The mars is east of the earth.
+3 What is west of the earth?	neptune	1
+1 The earth is west of the mars.
+2 The venus is east of the mars.
+3 What is west of the mars?	earth	1
+1 The jupiter is north of the mars.
+2 The jupiter is south of the neptune.
+3 What is the mars south of?	jupiter	1
+1 The earth is west of the moon.
+2 The moon is west of the venus.
+3 What is west of the venus?	moon	2
+1 The neptune is north of the earth.
+2 The earth is north of the moon.
+3 What is the moon south of?	earth	2
+1 The mars is east of the venus.
+2 The moon is east of the mars.
+3 What is the mars west of?	moon	2
+1 The venus is east of the neptune.
+2 The neptune is east of the moon.
+3 What is the neptune west of?	venus	1
+1 The neptune is north of the mars.
+2 The mars is north of the moon.
+3 What is the mars south of?	neptune	1
+1 The jupiter is south of the moon.
+2 The earth is north of the moon.
+3 What is south of the moon?	jupiter	1
+1 The earth is west of the jupiter.
+2 The neptune is east of the jupiter.
+3 What is the jupiter west of?	neptune	2
+1 The mars is south of the venus.
+2 The earth is south of the mars.
+3 What is the mars north of?	earth	2
+1 The jupiter is west of the venus.
+2 The neptune is east of the venus.
+3 What is the venus east of?	jupiter	1
+1 The earth is north of the neptune.
+2 The jupiter is south of the neptune.
+3 What is the neptune south of?	earth	1
+1 The earth is east of the venus.
+2 The earth is west of the neptune.
+3 What is the venus west of?	earth	1
+1 The neptune is north of the jupiter.
+2 The mars is south of the jupiter.
+3 What is north of the jupiter?	neptune	1
+1 The jupiter is west of the neptune.
+2 The jupiter is east of the mars.
+3 What is west of the neptune?	jupiter	1
+1 The earth is south of the moon.
+2 The neptune is south of the earth.
+3 What is the moon north of?	earth	1
+1 The earth is south of the mars.
+2 The mars is south of the neptune.
+3 What is the neptune north of?	mars	2
+1 The mars is west of the moon.
+2 The jupiter is east of the moon.
+3 What is east of the moon?	jupiter	2
+1 The moon is north of the neptune.
+2 The moon is south of the jupiter.
+3 What is north of the neptune?	moon	1
+1 The neptune is north of the earth.
+2 The moon is south of the earth.
+3 What is the earth north of?	moon	2
+1 The mars is west of the venus.
+2 The jupiter is west of the mars.
+3 What is west of the venus?	mars	1
+1 The venus is north of the moon.
+2 The moon is north of the mars.
+3 What is north of the mars?	moon	2
+1 The venus is east of the earth.
+2 The neptune is west of the earth.
+3 What is the earth east of?	neptune	2
+1 The earth is north of the mars.
+2 The venus is north of the earth.
+3 What is the earth south of?	venus	2
+1 The earth is west of the moon.
+2 The neptune is east of the moon.
+3 What is east of the moon?	neptune	2
+1 The neptune is east of the earth.
+2 The venus is west of the earth.
+3 What is the earth east of?	venus	2
+1 The mars is south of the moon.
+2 The moon is south of the earth.
+3 What is south of the moon?	mars	1
+1 The moon is west of the venus.
+2 The mars is east of the venus.
+3 What is east of the venus?	mars	2
+1 The moon is east of the jupiter.
+2 The moon is west of the neptune.
+3 What is the neptune east of?	moon	2
+1 The neptune is west of the earth.
+2 The jupiter is west of the neptune.
+3 What is the neptune east of?	jupiter	2
+1 The mars is west of the venus.
+2 The earth is west of the mars.
+3 What is the venus east of?	mars	1
+1 The earth is north of the mars.
+2 The moon is north of the earth.
+3 What is the earth south of?	moon	2
+1 The mars is west of the neptune.
+2 The neptune is west of the venus.
+3 What is the venus east of?	neptune	2
+1 The neptune is south of the venus.
+2 The mars is south of the neptune.
+3 What is south of the neptune?	mars	2
+1 The venus is west of the neptune.
+2 The neptune is west of the mars.
+3 What is west of the mars?	neptune	2
+1 The mars is north of the venus.
+2 The moon is north of the mars.
+3 What is north of the venus?	mars	1
+1 The jupiter is east of the mars.
+2 The moon is west of the mars.
+3 What is the mars west of?	jupiter	1
+1 The venus is north of the mars.
+2 The moon is south of the mars.
+3 What is the mars north of?	moon	2
+1 The moon is east of the mars.
+2 The venus is east of the moon.
+3 What is east of the mars?	moon	1
+1 The earth is west of the venus.
+2 The moon is east of the venus.
+3 What is east of the venus?	moon	2
+1 The mars is north of the jupiter.
+2 The mars is south of the venus.
+3 What is the jupiter south of?	mars	1
+1 The neptune is south of the mars.
+2 The venus is south of the neptune.
+3 What is the mars north of?	neptune	1
+1 The earth is east of the mars.
+2 The neptune is east of the earth.
+3 What is the earth west of?	neptune	2
+1 The moon is east of the jupiter.
+2 The mars is east of the moon.
+3 What is the jupiter west of?	moon	1
+1 The moon is north of the neptune.
+2 The neptune is north of the jupiter.
+3 What is the jupiter south of?	neptune	2
+1 The moon is north of the neptune.
+2 The venus is north of the moon.
+3 What is north of the neptune?	moon	1
+1 The neptune is east of the moon.
+2 The venus is west of the moon.
+3 What is the moon east of?	venus	2
+1 The mars is west of the moon.
+2 The mars is east of the venus.
+3 What is the moon east of?	mars	1
+1 The neptune is south of the mars.
+2 The jupiter is north of the mars.
+3 What is south of the mars?	neptune	1
+1 The earth is north of the jupiter.
+2 The neptune is south of the jupiter.
+3 What is south of the jupiter?	neptune	2
+1 The venus is east of the earth.
+2 The earth is east of the neptune.
+3 What is the earth west of?	venus	1
+1 The moon is north of the earth.
+2 The jupiter is south of the earth.
+3 What is south of the earth?	jupiter	2
+1 The moon is north of the venus.
+2 The neptune is north of the moon.
+3 What is north of the venus?	moon	1
+1 The venus is west of the earth.
+2 The jupiter is east of the earth.
+3 What is the earth east of?	venus	1
+1 The moon is north of the mars.
+2 The earth is south of the mars.
+3 What is south of the mars?	earth	2
+1 The neptune is north of the jupiter.
+2 The earth is south of the jupiter.
+3 What is the jupiter south of?	neptune	1
+1 The moon is north of the venus.
+2 The earth is south of the venus.
+3 What is north of the venus?	moon	1
+1 The neptune is east of the moon.
+2 The venus is west of the moon.
+3 What is east of the moon?	neptune	1
+1 The moon is west of the neptune.
+2 The neptune is west of the jupiter.
+3 What is the jupiter east of?	neptune	2
+1 The moon is east of the jupiter.
+2 The venus is west of the jupiter.
+3 What is the jupiter west of?	moon	1
+1 The mars is west of the earth.
+2 The neptune is west of the mars.
+3 What is west of the earth?	mars	1
+1 The jupiter is north of the neptune.
+2 The earth is north of the jupiter.
+3 What is north of the neptune?	jupiter	1
+1 The venus is south of the jupiter.
+2 The moon is north of the jupiter.
+3 What is the jupiter north of?	venus	1
+1 The jupiter is east of the neptune.
+2 The mars is west of the neptune.
+3 What is west of the neptune?	mars	2
+1 The venus is north of the neptune.
+2 The earth is north of the venus.
+3 What is the venus south of?	earth	2
+1 The jupiter is north of the earth.
+2 The neptune is south of the earth.
+3 What is the earth north of?	neptune	2
+1 The moon is east of the neptune.
+2 The neptune is east of the earth.
+3 What is the neptune west of?	moon	1
+1 The jupiter is north of the mars.
+2 The mars is north of the venus.
+3 What is north of the venus?	mars	2
+1 The neptune is south of the moon.
+2 The moon is south of the venus.
+3 What is the moon north of?	neptune	1
+1 The jupiter is south of the neptune.
+2 The moon is south of the jupiter.
+3 What is south of the jupiter?	moon	2
+1 The mars is west of the moon.
+2 The jupiter is east of the moon.
+3 What is east of the moon?	jupiter	2
+1 The venus is west of the earth.
+2 The neptune is east of the earth.
+3 What is the earth west of?	neptune	2
+1 The mars is south of the jupiter.
+2 The neptune is north of the jupiter.
+3 What is the jupiter south of?	neptune	2
+1 The moon is north of the jupiter.
+2 The mars is south of the jupiter.
+3 What is south of the jupiter?	mars	2
+1 The jupiter is south of the venus.
+2 The moon is north of the venus.
+3 What is the venus south of?	moon	2
+1 The neptune is south of the earth.
+2 The earth is south of the moon.
+3 What is the earth north of?	neptune	1
+1 The moon is east of the neptune.
+2 The venus is west of the neptune.
+3 What is east of the neptune?	moon	1
+1 The neptune is east of the moon.
+2 The earth is east of the neptune.
+3 What is the neptune west of?	earth	2
+1 The moon is south of the venus.
+2 The venus is south of the jupiter.
+3 What is south of the venus?	moon	1
+1 The jupiter is east of the venus.
+2 The earth is east of the jupiter.
+3 What is the jupiter west of?	earth	2
+1 The mars is west of the moon.
+2 The moon is west of the earth.
+3 What is west of the earth?	moon	2
+1 The venus is east of the jupiter.
+2 The venus is west of the moon.
+3 What is the jupiter west of?	venus	1
+1 The neptune is south of the venus.
+2 The venus is south of the earth.
+3 What is south of the earth?	venus	2
+1 The venus is south of the mars.
+2 The mars is south of the jupiter.
+3 What is south of the jupiter?	mars	2
+1 The neptune is east of the moon.
+2 The jupiter is west of the moon.
+3 What is east of the moon?	neptune	1
+1 The neptune is west of the moon.
+2 The moon is west of the mars.
+3 What is the mars east of?	moon	2
+1 The jupiter is west of the earth.
+2 The moon is west of the jupiter.
+3 What is the jupiter east of?	moon	2
+1 The neptune is south of the jupiter.
+2 The earth is north of the jupiter.
+3 What is the jupiter south of?	earth	2
+1 The jupiter is north of the mars.
+2 The neptune is south of the mars.
+3 What is the mars south of?	jupiter	1
+1 The earth is east of the venus.
+2 The venus is east of the neptune.
+3 What is east of the venus?	earth	1
+1 The moon is east of the earth.
+2 The jupiter is east of the moon.
+3 What is east of the moon?	jupiter	2
+1 The mars is north of the neptune.
+2 The venus is south of the neptune.
+3 What is north of the neptune?	mars	1
+1 The jupiter is north of the mars.
+2 The earth is north of the jupiter.
+3 What is the mars south of?	jupiter	1
+1 The venus is south of the neptune.
+2 The earth is south of the venus.
+3 What is south of the neptune?	venus	1
+1 The mars is south of the jupiter.
+2 The mars is north of the moon.
+3 What is the moon south of?	mars	2
+1 The venus is south of the neptune.
+2 The earth is north of the neptune.
+3 What is the neptune south of?	earth	2
+1 The venus is east of the mars.
+2 The neptune is east of the venus.
+3 What is east of the venus?	neptune	2
+1 The jupiter is south of the moon.
+2 The neptune is south of the jupiter.
+3 What is the moon north of?	jupiter	1
+1 The mars is east of the earth.
+2 The mars is west of the neptune.
+3 What is west of the neptune?	mars	2
+1 The jupiter is west of the moon.
+2 The venus is east of the moon.
+3 What is the moon east of?	jupiter	1
+1 The moon is east of the earth.
+2 The venus is west of the earth.
+3 What is the earth east of?	venus	2
+1 The neptune is north of the jupiter.
+2 The venus is south of the jupiter.
+3 What is the jupiter north of?	venus	2
+1 The neptune is south of the venus.
+2 The venus is south of the jupiter.
+3 What is the jupiter north of?	venus	2
+1 The venus is south of the jupiter.
+2 The moon is north of the jupiter.
+3 What is south of the jupiter?	venus	1
+1 The moon is south of the mars.
+2 The mars is south of the venus.
+3 What is south of the mars?	moon	1
+1 The venus is north of the earth.
+2 The jupiter is south of the earth.
+3 What is south of the earth?	jupiter	2
+1 The mars is east of the neptune.
+2 The mars is west of the jupiter.
+3 What is the jupiter east of?	mars	2
+1 The jupiter is west of the earth.
+2 The earth is west of the mars.
+3 What is west of the earth?	jupiter	1
+1 The neptune is north of the earth.
+2 The moon is south of the earth.
+3 What is the earth south of?	neptune	1
+1 The neptune is north of the mars.
+2 The moon is south of the mars.
+3 What is the mars south of?	neptune	1
+1 The earth is west of the neptune.
+2 The neptune is west of the moon.
+3 What is west of the neptune?	earth	1
+1 The earth is west of the jupiter.
+2 The earth is east of the venus.
+3 What is west of the jupiter?	earth	1
+1 The venus is east of the neptune.
+2 The neptune is east of the moon.
+3 What is east of the moon?	neptune	2
+1 The moon is south of the venus.
+2 The jupiter is north of the venus.
+3 What is the venus south of?	jupiter	2
+1 The venus is east of the neptune.
+2 The neptune is east of the jupiter.
+3 What is east of the jupiter?	neptune	2
+1 The mars is north of the earth.
+2 The jupiter is south of the earth.
+3 What is south of the earth?	jupiter	2
+1 The mars is west of the earth.
+2 The earth is west of the neptune.
+3 What is west of the earth?	mars	1
+1 The mars is west of the venus.
+2 The venus is west of the moon.
+3 What is west of the venus?	mars	1
+1 The moon is east of the neptune.
+2 The earth is east of the moon.
+3 What is the moon west of?	earth	2
+1 The venus is west of the jupiter.
+2 The mars is east of the jupiter.
+3 What is the jupiter west of?	mars	2
+1 The mars is east of the venus.
+2 The neptune is west of the venus.
+3 What is the venus east of?	neptune	2
+1 The neptune is north of the mars.
+2 The moon is north of the neptune.
+3 What is north of the mars?	neptune	1
+1 The earth is north of the venus.
+2 The mars is south of the venus.
+3 What is the venus north of?	mars	2
+1 The mars is north of the venus.
+2 The neptune is south of the venus.
+3 What is the venus north of?	neptune	2
+1 The mars is west of the earth.
+2 The moon is east of the earth.
+3 What is west of the earth?	mars	1
+1 The venus is north of the neptune.
+2 The earth is south of the neptune.
+3 What is north of the neptune?	venus	1
+1 The earth is east of the venus.
+2 The venus is east of the neptune.
+3 What is the neptune west of?	venus	2
+1 The jupiter is east of the moon.
+2 The neptune is west of the moon.
+3 What is the moon east of?	neptune	2
+1 The mars is north of the moon.
+2 The earth is north of the mars.
+3 What is the mars south of?	earth	2
+1 The venus is east of the moon.
+2 The moon is east of the jupiter.
+3 What is the jupiter west of?	moon	2
+1 The mars is east of the earth.
+2 The earth is east of the moon.
+3 What is east of the earth?	mars	1
+1 The venus is west of the earth.
+2 The jupiter is east of the earth.
+3 What is east of the earth?	jupiter	2
+1 The venus is west of the mars.
+2 The moon is east of the mars.
+3 What is east of the mars?	moon	2
+1 The earth is east of the venus.
+2 The earth is west of the mars.
+3 What is west of the mars?	earth	2
+1 The moon is south of the jupiter.
+2 The jupiter is south of the mars.
+3 What is the mars north of?	jupiter	2
+1 The neptune is north of the venus.
+2 The venus is north of the earth.
+3 What is north of the earth?	venus	2
+1 The moon is east of the mars.
+2 The mars is east of the neptune.
+3 What is east of the mars?	moon	1
+1 The jupiter is north of the venus.
+2 The moon is south of the venus.
+3 What is north of the venus?	jupiter	1
+1 The moon is south of the neptune.
+2 The earth is north of the neptune.
+3 What is the neptune south of?	earth	2
+1 The mars is east of the moon.
+2 The jupiter is east of the mars.
+3 What is the mars west of?	jupiter	2
+1 The mars is south of the venus.
+2 The venus is south of the earth.
+3 What is south of the earth?	venus	2
+1 The moon is east of the jupiter.
+2 The venus is west of the jupiter.
+3 What is west of the jupiter?	venus	2
+1 The neptune is south of the mars.
+2 The mars is south of the venus.
+3 What is the venus north of?	mars	2
+1 The neptune is west of the jupiter.
+2 The jupiter is west of the mars.
+3 What is west of the mars?	jupiter	2
+1 The earth is east of the neptune.
+2 The jupiter is east of the earth.
+3 What is the neptune west of?	earth	1
+1 The jupiter is south of the moon.
+2 The earth is north of the moon.
+3 What is south of the moon?	jupiter	1
+1 The venus is east of the earth.
+2 The mars is west of the earth.
+3 What is west of the earth?	mars	2
+1 The mars is north of the neptune.
+2 The jupiter is south of the neptune.
+3 What is the neptune north of?	jupiter	2
+1 The venus is east of the earth.
+2 The earth is east of the neptune.
+3 What is east of the neptune?	earth	2
+1 The moon is south of the mars.
+2 The jupiter is south of the moon.
+3 What is south of the moon?	jupiter	2
+1 The moon is south of the neptune.
+2 The neptune is south of the earth.
+3 What is the earth north of?	neptune	2
+1 The venus is west of the neptune.
+2 The moon is west of the venus.
+3 What is the venus east of?	moon	2
+1 The neptune is north of the moon.
+2 The mars is south of the moon.
+3 What is the moon north of?	mars	2
+1 The mars is west of the earth.
+2 The earth is west of the jupiter.
+3 What is west of the earth?	mars	1
+1 The neptune is west of the jupiter.
+2 The venus is west of the neptune.
+3 What is the neptune east of?	venus	2
+1 The earth is north of the venus.
+2 The mars is south of the venus.
+3 What is south of the venus?	mars	2
+1 The neptune is west of the earth.
+2 The earth is west of the moon.
+3 What is the earth east of?	neptune	1
+1 The venus is west of the jupiter.
+2 The neptune is east of the jupiter.
+3 What is west of the jupiter?	venus	1
+1 The jupiter is north of the mars.
+2 The earth is south of the mars.
+3 What is north of the mars?	jupiter	1
+1 The venus is south of the jupiter.
+2 The moon is south of the venus.
+3 What is the jupiter north of?	venus	1
+1 The moon is north of the mars.
+2 The mars is north of the jupiter.
+3 What is north of the jupiter?	mars	2
+1 The venus is south of the earth.
+2 The neptune is south of the venus.
+3 What is south of the earth?	venus	1
+1 The neptune is south of the venus.
+2 The mars is north of the venus.
+3 What is the venus north of?	neptune	1
+1 The venus is west of the earth.
+2 The mars is east of the earth.
+3 What is the earth east of?	venus	1
+1 The earth is east of the moon.
+2 The earth is west of the neptune.
+3 What is west of the neptune?	earth	2
+1 The moon is east of the neptune.
+2 The neptune is east of the earth.
+3 What is east of the neptune?	moon	1
+1 The mars is north of the earth.
+2 The earth is north of the venus.
+3 What is the earth south of?	mars	1
+1 The neptune is east of the venus.
+2 The jupiter is west of the venus.
+3 What is east of the venus?	neptune	1
+1 The mars is north of the neptune.
+2 The venus is south of the neptune.
+3 What is the neptune south of?	mars	1
+1 The mars is east of the moon.
+2 The jupiter is west of the moon.
+3 What is the moon east of?	jupiter	2
+1 The moon is south of the venus.
+2 The earth is north of the venus.
+3 What is the venus south of?	earth	2
+1 The venus is west of the mars.
+2 The moon is east of the mars.
+3 What is the mars west of?	moon	2
+1 The moon is east of the venus.
+2 The moon is west of the jupiter.
+3 What is east of the venus?	moon	1
+1 The earth is south of the moon.
+2 The neptune is south of the earth.
+3 What is south of the moon?	earth	1
+1 The mars is west of the earth.
+2 The jupiter is east of the earth.
+3 What is the earth west of?	jupiter	2
+1 The mars is south of the venus.
+2 The neptune is north of the venus.
+3 What is north of the venus?	neptune	2
+1 The mars is east of the jupiter.
+2 The neptune is west of the jupiter.
+3 What is west of the jupiter?	neptune	2
+1 The moon is east of the earth.
+2 The neptune is east of the moon.
+3 What is east of the moon?	neptune	2
+1 The mars is west of the earth.
+2 The neptune is west of the mars.
+3 What is west of the earth?	mars	1
+1 The venus is north of the jupiter.
+2 The venus is south of the mars.
+3 What is north of the jupiter?	venus	1
+1 The venus is north of the neptune.
+2 The venus is south of the moon.
+3 What is the neptune south of?	venus	1
+1 The neptune is west of the venus.
+2 The venus is west of the earth.
+3 What is the venus east of?	neptune	1
+1 The moon is east of the earth.
+2 The venus is east of the moon.
+3 What is east of the earth?	moon	1
+1 The jupiter is east of the earth.
+2 The venus is east of the jupiter.
+3 What is east of the jupiter?	venus	2
+1 The venus is east of the neptune.
+2 The jupiter is east of the venus.
+3 What is the venus west of?	jupiter	2
+1 The venus is east of the moon.
+2 The moon is east of the mars.
+3 What is east of the moon?	venus	1
+1 The venus is east of the earth.
+2 The earth is east of the mars.
+3 What is the earth west of?	venus	1
+1 The neptune is east of the mars.
+2 The venus is west of the mars.
+3 What is west of the mars?	venus	2
+1 The mars is west of the jupiter.
+2 The jupiter is west of the moon.
+3 What is west of the moon?	jupiter	2
+1 The jupiter is south of the moon.
+2 The moon is south of the earth.
+3 What is south of the earth?	moon	2
+1 The moon is south of the earth.
+2 The moon is north of the jupiter.
+3 What is south of the earth?	moon	1
+1 The moon is north of the mars.
+2 The neptune is south of the mars.
+3 What is the mars south of?	moon	1
+1 The earth is east of the jupiter.
+2 The jupiter is east of the mars.
+3 What is east of the mars?	jupiter	2
+1 The neptune is north of the mars.
+2 The mars is north of the venus.
+3 What is north of the mars?	neptune	1
+1 The jupiter is east of the moon.
+2 The mars is west of the moon.
+3 What is the moon east of?	mars	2
+1 The earth is east of the moon.
+2 The neptune is west of the moon.
+3 What is west of the moon?	neptune	2
+1 The moon is north of the neptune.
+2 The jupiter is south of the neptune.
+3 What is south of the neptune?	jupiter	2
+1 The mars is west of the neptune.
+2 The moon is east of the neptune.
+3 What is the neptune west of?	moon	2
+1 The earth is west of the neptune.
+2 The earth is east of the moon.
+3 What is east of the moon?	earth	2
+1 The jupiter is north of the moon.
+2 The venus is north of the jupiter.
+3 What is the jupiter south of?	venus	2
+1 The earth is east of the jupiter.
+2 The earth is west of the venus.
+3 What is east of the jupiter?	earth	1
+1 The neptune is north of the mars.
+2 The earth is north of the neptune.
+3 What is north of the neptune?	earth	2
+1 The venus is west of the jupiter.
+2 The moon is west of the venus.
+3 What is the jupiter east of?	venus	1
+1 The mars is east of the neptune.
+2 The moon is east of the mars.
+3 What is the neptune west of?	mars	1
+1 The venus is west of the moon.
+2 The jupiter is west of the venus.
+3 What is west of the moon?	venus	1
+1 The jupiter is east of the venus.
+2 The venus is east of the mars.
+3 What is the mars west of?	venus	2
+1 The earth is east of the jupiter.
+2 The venus is west of the jupiter.
+3 What is the jupiter west of?	earth	1
+1 The venus is east of the earth.
+2 The moon is east of the venus.
+3 What is east of the venus?	moon	2
+1 The venus is west of the mars.
+2 The moon is east of the mars.
+3 What is east of the mars?	moon	2
+1 The mars is south of the venus.
+2 The mars is north of the earth.
+3 What is the venus north of?	mars	1
+1 The mars is west of the neptune.
+2 The moon is east of the neptune.
+3 What is west of the neptune?	mars	1
+1 The moon is west of the venus.
+2 The jupiter is east of the venus.
+3 What is east of the venus?	jupiter	2
+1 The venus is west of the neptune.
+2 The jupiter is east of the neptune.
+3 What is the neptune west of?	jupiter	2
+1 The earth is east of the venus.
+2 The jupiter is west of the venus.
+3 What is east of the venus?	earth	1
+1 The neptune is west of the venus.
+2 The venus is west of the moon.
+3 What is the venus east of?	neptune	1
+1 The moon is east of the earth.
+2 The earth is east of the jupiter.
+3 What is the jupiter west of?	earth	2
+1 The neptune is east of the moon.
+2 The jupiter is west of the moon.
+3 What is the moon west of?	neptune	1
+1 The earth is south of the jupiter.
+2 The moon is south of the earth.
+3 What is the earth north of?	moon	2
+1 The venus is west of the earth.
+2 The jupiter is east of the earth.
+3 What is the earth east of?	venus	1
+1 The moon is east of the venus.
+2 The earth is east of the moon.
+3 What is the venus west of?	moon	1
+1 The earth is south of the neptune.
+2 The neptune is south of the venus.
+3 What is south of the venus?	neptune	2
+1 The jupiter is south of the earth.
+2 The neptune is south of the jupiter.
+3 What is south of the jupiter?	neptune	2
+1 The venus is west of the earth.
+2 The mars is west of the venus.
+3 What is the venus east of?	mars	2
+1 The moon is east of the venus.
+2 The neptune is west of the venus.
+3 What is the venus west of?	moon	1
+1 The jupiter is east of the moon.
+2 The neptune is west of the moon.
+3 What is the moon west of?	jupiter	1
+1 The neptune is west of the venus.
+2 The mars is west of the neptune.
+3 What is west of the venus?	neptune	1
+1 The moon is north of the mars.
+2 The moon is south of the neptune.
+3 What is south of the neptune?	moon	2
+1 The neptune is west of the earth.
+2 The moon is east of the earth.
+3 What is the earth east of?	neptune	1
+1 The mars is south of the jupiter.
+2 The mars is north of the earth.
+3 What is the earth south of?	mars	2
+1 The venus is north of the neptune.
+2 The mars is north of the venus.
+3 What is the venus south of?	mars	2
+1 The moon is west of the jupiter.
+2 The venus is west of the moon.
+3 What is west of the jupiter?	moon	1
+1 The mars is south of the venus.
+2 The venus is south of the moon.
+3 What is south of the moon?	venus	2
+1 The moon is west of the venus.
+2 The earth is west of the moon.
+3 What is west of the venus?	moon	1
+1 The jupiter is north of the neptune.
+2 The moon is north of the jupiter.
+3 What is north of the jupiter?	moon	2
+1 The venus is east of the jupiter.
+2 The earth is east of the venus.
+3 What is east of the jupiter?	venus	1
+1 The jupiter is east of the mars.
+2 The moon is west of the mars.
+3 What is west of the mars?	moon	2
+1 The jupiter is north of the venus.
+2 The venus is north of the earth.
+3 What is the venus south of?	jupiter	1
+1 The neptune is west of the earth.
+2 The earth is west of the moon.
+3 What is west of the earth?	neptune	1
+1 The earth is south of the neptune.
+2 The moon is north of the neptune.
+3 What is south of the neptune?	earth	1
+1 The venus is east of the mars.
+2 The venus is west of the neptune.
+3 What is the neptune east of?	venus	2
+1 The mars is north of the moon.
+2 The neptune is north of the mars.
+3 What is north of the mars?	neptune	2
+1 The mars is west of the venus.
+2 The venus is west of the jupiter.
+3 What is west of the jupiter?	venus	2
+1 The moon is east of the jupiter.
+2 The mars is west of the jupiter.
+3 What is the jupiter west of?	moon	1
+1 The moon is south of the venus.
+2 The venus is south of the jupiter.
+3 What is the venus north of?	moon	1
+1 The mars is north of the venus.
+2 The venus is north of the jupiter.
+3 What is the jupiter south of?	venus	2
+1 The venus is south of the neptune.
+2 The jupiter is south of the venus.
+3 What is the neptune north of?	venus	1
+1 The jupiter is west of the mars.
+2 The neptune is east of the mars.
+3 What is the mars west of?	neptune	2
+1 The venus is north of the moon.
+2 The moon is north of the neptune.
+3 What is north of the neptune?	moon	2
+1 The earth is south of the mars.
+2 The mars is south of the venus.
+3 What is the mars north of?	earth	1
+1 The moon is north of the mars.
+2 The jupiter is south of the mars.
+3 What is the mars south of?	moon	1
+1 The mars is south of the jupiter.
+2 The earth is north of the jupiter.
+3 What is north of the jupiter?	earth	2
+1 The neptune is east of the moon.
+2 The jupiter is west of the moon.
+3 What is east of the moon?	neptune	1
+1 The mars is south of the neptune.
+2 The jupiter is north of the neptune.
+3 What is south of the neptune?	mars	1
+1 The neptune is west of the jupiter.
+2 The jupiter is west of the earth.
+3 What is west of the jupiter?	neptune	1
+1 The mars is north of the jupiter.
+2 The earth is south of the jupiter.
+3 What is the jupiter north of?	earth	2
+1 The mars is north of the venus.
+2 The venus is north of the jupiter.
+3 What is north of the venus?	mars	1
+1 The neptune is west of the venus.
+2 The neptune is east of the moon.
+3 What is the venus east of?	neptune	1
+1 The moon is east of the mars.
+2 The neptune is west of the mars.
+3 What is the mars west of?	moon	1
+1 The venus is west of the neptune.
+2 The mars is east of the neptune.
+3 What is the neptune east of?	venus	1
+1 The earth is north of the moon.
+2 The earth is south of the jupiter.
+3 What is south of the jupiter?	earth	2
+1 The moon is east of the jupiter.
+2 The jupiter is east of the neptune.
+3 What is the jupiter west of?	moon	1
+1 The neptune is east of the earth.
+2 The neptune is west of the venus.
+3 What is east of the earth?	neptune	1
+1 The venus is west of the earth.
+2 The earth is west of the mars.
+3 What is west of the earth?	venus	1
+1 The mars is east of the moon.
+2 The venus is west of the moon.
+3 What is the moon west of?	mars	1
+1 The neptune is north of the moon.
+2 The moon is north of the earth.
+3 What is north of the earth?	moon	2
+1 The venus is north of the mars.
+2 The moon is north of the venus.
+3 What is the venus south of?	moon	2
+1 The neptune is east of the venus.
+2 The moon is east of the neptune.
+3 What is the neptune west of?	moon	2
+1 The moon is east of the neptune.
+2 The jupiter is west of the neptune.
+3 What is the neptune east of?	jupiter	2
+1 The neptune is east of the jupiter.
+2 The jupiter is east of the mars.
+3 What is east of the mars?	jupiter	2
+1 The moon is north of the mars.
+2 The jupiter is north of the moon.
+3 What is north of the mars?	moon	1
+1 The neptune is east of the moon.
+2 The jupiter is west of the moon.
+3 What is west of the moon?	jupiter	2
+1 The mars is east of the jupiter.
+2 The mars is west of the venus.
+3 What is the jupiter west of?	mars	1
+1 The earth is south of the jupiter.
+2 The venus is south of the earth.
+3 What is south of the earth?	venus	2
+1 The mars is north of the neptune.
+2 The venus is north of the mars.
+3 What is north of the mars?	venus	2
+1 The venus is south of the earth.
+2 The jupiter is north of the earth.
+3 What is the earth south of?	jupiter	2
+1 The venus is north of the jupiter.
+2 The mars is south of the jupiter.
+3 What is the jupiter north of?	mars	2
+1 The jupiter is west of the earth.
+2 The neptune is east of the earth.
+3 What is the earth west of?	neptune	2
+1 The moon is west of the jupiter.
+2 The mars is east of the jupiter.
+3 What is west of the jupiter?	moon	1
+1 The earth is north of the venus.
+2 The moon is south of the venus.
+3 What is the venus south of?	earth	1
+1 The jupiter is north of the moon.
+2 The earth is north of the jupiter.
+3 What is north of the moon?	jupiter	1
+1 The earth is east of the venus.
+2 The jupiter is east of the earth.
+3 What is east of the venus?	earth	1
+1 The neptune is west of the moon.
+2 The moon is west of the mars.
+3 What is the mars east of?	moon	2
+1 The neptune is north of the earth.
+2 The earth is north of the venus.
+3 What is the venus south of?	earth	2
+1 The earth is south of the neptune.
+2 The earth is north of the jupiter.
+3 What is the jupiter south of?	earth	2
+1 The neptune is south of the earth.
+2 The venus is north of the earth.
+3 What is south of the earth?	neptune	1
+1 The venus is north of the neptune.
+2 The mars is south of the neptune.
+3 What is the neptune north of?	mars	2
+1 The moon is north of the venus.
+2 The earth is north of the moon.
+3 What is north of the venus?	moon	1
+1 The mars is west of the venus.
+2 The venus is west of the earth.
+3 What is west of the venus?	mars	1
+1 The earth is north of the neptune.
+2 The venus is south of the neptune.
+3 What is south of the neptune?	venus	2
+1 The moon is east of the jupiter.
+2 The earth is west of the jupiter.
+3 What is the jupiter east of?	earth	2
+1 The moon is north of the venus.
+2 The neptune is south of the venus.
+3 What is the venus south of?	moon	1
+1 The earth is east of the jupiter.
+2 The venus is west of the jupiter.
+3 What is the jupiter west of?	earth	1
+1 The earth is west of the moon.
+2 The mars is west of the earth.
+3 What is west of the moon?	earth	1
+1 The neptune is west of the mars.
+2 The mars is west of the jupiter.
+3 What is west of the jupiter?	mars	2
+1 The neptune is north of the venus.
+2 The neptune is south of the earth.
+3 What is north of the venus?	neptune	1
+1 The jupiter is south of the moon.
+2 The jupiter is north of the earth.
+3 What is south of the moon?	jupiter	1
+1 The neptune is east of the jupiter.
+2 The venus is west of the jupiter.
+3 What is west of the jupiter?	venus	2
+1 The neptune is west of the earth.
+2 The neptune is east of the venus.
+3 What is the earth east of?	neptune	1
+1 The jupiter is east of the venus.
+2 The moon is east of the jupiter.
+3 What is the jupiter west of?	moon	2
+1 The earth is north of the venus.
+2 The moon is south of the venus.
+3 What is north of the venus?	earth	1
+1 The neptune is south of the earth.
+2 The venus is north of the earth.
+3 What is the earth north of?	neptune	1
+1 The moon is west of the neptune.
+2 The neptune is west of the jupiter.
+3 What is west of the neptune?	moon	1
+1 The venus is east of the moon.
+2 The earth is west of the moon.
+3 What is the moon east of?	earth	2
+1 The mars is east of the jupiter.
+2 The earth is west of the jupiter.
+3 What is the jupiter east of?	earth	2
+1 The moon is south of the earth.
+2 The venus is south of the moon.
+3 What is south of the moon?	venus	2
+1 The moon is north of the jupiter.
+2 The earth is south of the jupiter.
+3 What is north of the jupiter?	moon	1
+1 The mars is north of the venus.
+2 The neptune is north of the mars.
+3 What is north of the mars?	neptune	2
+1 The jupiter is north of the moon.
+2 The mars is south of the moon.
+3 What is the moon south of?	jupiter	1
+1 The moon is south of the earth.
+2 The mars is north of the earth.
+3 What is the earth north of?	moon	1
+1 The mars is east of the moon.
+2 The earth is west of the moon.
+3 What is the moon west of?	mars	1
+1 The venus is north of the jupiter.
+2 The venus is south of the neptune.
+3 What is the neptune north of?	venus	2
+1 The neptune is south of the moon.
+2 The venus is north of the moon.
+3 What is south of the moon?	neptune	1
+1 The moon is south of the neptune.
+2 The jupiter is south of the moon.
+3 What is the neptune north of?	moon	1
+1 The neptune is north of the jupiter.
+2 The neptune is south of the moon.
+3 What is the jupiter south of?	neptune	1
+1 The earth is east of the neptune.
+2 The jupiter is west of the neptune.
+3 What is the neptune east of?	jupiter	2
+1 The jupiter is east of the mars.
+2 The mars is east of the moon.
+3 What is east of the moon?	mars	2
+1 The neptune is north of the jupiter.
+2 The earth is north of the neptune.
+3 What is north of the jupiter?	neptune	1
+1 The earth is east of the jupiter.
+2 The mars is east of the earth.
+3 What is the earth west of?	mars	2
+1 The jupiter is east of the venus.
+2 The neptune is west of the venus.
+3 What is the venus west of?	jupiter	1
+1 The earth is west of the venus.
+2 The venus is west of the mars.
+3 What is the mars east of?	venus	2
+1 The moon is south of the earth.
+2 The jupiter is north of the earth.
+3 What is the earth south of?	jupiter	2
+1 The moon is north of the neptune.
+2 The neptune is north of the mars.
+3 What is the neptune south of?	moon	1
+1 The jupiter is north of the moon.
+2 The moon is north of the venus.
+3 What is north of the moon?	jupiter	1
+1 The neptune is south of the venus.
+2 The mars is south of the neptune.
+3 What is the venus north of?	neptune	1
+1 The venus is east of the mars.
+2 The earth is west of the mars.
+3 What is the mars east of?	earth	2
+1 The mars is east of the earth.
+2 The neptune is west of the earth.
+3 What is east of the earth?	mars	1
+1 The earth is south of the moon.
+2 The jupiter is south of the earth.
+3 What is south of the moon?	earth	1
+1 The jupiter is south of the neptune.
+2 The mars is north of the neptune.
+3 What is the neptune south of?	mars	2
+1 The jupiter is west of the venus.
+2 The mars is west of the jupiter.
+3 What is west of the jupiter?	mars	2
+1 The venus is north of the mars.
+2 The mars is north of the earth.
+3 What is north of the mars?	venus	1
+1 The moon is north of the earth.
+2 The venus is south of the earth.
+3 What is the earth south of?	moon	1
+1 The moon is east of the mars.
+2 The venus is west of the mars.
+3 What is west of the mars?	venus	2
+1 The moon is west of the earth.
+2 The neptune is east of the earth.
+3 What is the earth east of?	moon	1
+1 The earth is east of the moon.
+2 The mars is east of the earth.
+3 What is the moon west of?	earth	1
+1 The venus is north of the jupiter.
+2 The moon is north of the venus.
+3 What is the jupiter south of?	venus	1
+1 The mars is west of the earth.
+2 The moon is west of the mars.
+3 What is the mars east of?	moon	2
+1 The neptune is west of the earth.
+2 The mars is west of the neptune.
+3 What is the neptune east of?	mars	2
+1 The earth is south of the jupiter.
+2 The jupiter is south of the neptune.
+3 What is south of the jupiter?	earth	1
+1 The jupiter is south of the venus.
+2 The earth is north of the venus.
+3 What is the venus south of?	earth	2
+1 The moon is south of the jupiter.
+2 The neptune is north of the jupiter.
+3 What is south of the jupiter?	moon	1
+1 The earth is east of the moon.
+2 The neptune is east of the earth.
+3 What is east of the moon?	earth	1
+1 The venus is west of the jupiter.
+2 The jupiter is west of the mars.
+3 What is the mars east of?	jupiter	2
+1 The venus is south of the mars.
+2 The moon is north of the mars.
+3 What is the mars south of?	moon	2
+1 The venus is east of the mars.
+2 The venus is west of the neptune.
+3 What is west of the neptune?	venus	2
+1 The earth is south of the moon.
+2 The venus is north of the moon.
+3 What is the moon south of?	venus	2
+1 The neptune is north of the jupiter.
+2 The moon is south of the jupiter.
+3 What is north of the jupiter?	neptune	1
+1 The moon is south of the jupiter.
+2 The neptune is south of the moon.
+3 What is south of the moon?	neptune	2
+1 The earth is south of the venus.
+2 The jupiter is south of the earth.
+3 What is south of the earth?	jupiter	2
+1 The venus is east of the neptune.
+2 The moon is east of the venus.
+3 What is east of the neptune?	venus	1
+1 The moon is north of the earth.
+2 The earth is north of the jupiter.
+3 What is the jupiter south of?	earth	2
+1 The jupiter is west of the mars.
+2 The mars is west of the neptune.
+3 What is west of the neptune?	mars	2
+1 The neptune is south of the mars.
+2 The mars is south of the venus.
+3 What is south of the venus?	mars	2
+1 The moon is east of the earth.
+2 The earth is east of the neptune.
+3 What is east of the neptune?	earth	2
+1 The earth is south of the mars.
+2 The jupiter is south of the earth.
+3 What is south of the mars?	earth	1
+1 The mars is west of the jupiter.
+2 The mars is east of the neptune.
+3 What is the neptune west of?	mars	2
+1 The earth is west of the neptune.
+2 The earth is east of the venus.
+3 What is west of the neptune?	earth	1
+1 The venus is east of the moon.
+2 The mars is east of the venus.
+3 What is the venus west of?	mars	2
+1 The mars is west of the moon.
+2 The neptune is east of the moon.
+3 What is east of the moon?	neptune	2
+1 The jupiter is west of the venus.
+2 The mars is west of the jupiter.
+3 What is west of the venus?	jupiter	1
+1 The jupiter is east of the moon.
+2 The venus is west of the moon.
+3 What is west of the moon?	venus	2
+1 The jupiter is south of the venus.
+2 The mars is south of the jupiter.
+3 What is the venus north of?	jupiter	1
+1 The venus is west of the jupiter.
+2 The moon is east of the jupiter.
+3 What is west of the jupiter?	venus	1
+1 The jupiter is west of the earth.
+2 The neptune is east of the earth.
+3 What is the earth east of?	jupiter	1
+1 The neptune is south of the mars.
+2 The mars is south of the earth.
+3 What is south of the earth?	mars	2
+1 The mars is north of the moon.
+2 The neptune is south of the moon.
+3 What is the moon north of?	neptune	2
+1 The neptune is east of the mars.
+2 The earth is west of the mars.
+3 What is west of the mars?	earth	2
+1 The neptune is east of the venus.
+2 The jupiter is west of the venus.
+3 What is west of the venus?	jupiter	2
+1 The moon is east of the neptune.
+2 The jupiter is east of the moon.
+3 What is east of the neptune?	moon	1
+1 The moon is east of the venus.
+2 The neptune is east of the moon.
+3 What is the venus west of?	moon	1
+1 The earth is east of the jupiter.
+2 The jupiter is east of the mars.
+3 What is east of the jupiter?	earth	1
+1 The moon is east of the neptune.
+2 The neptune is east of the jupiter.
+3 What is the jupiter west of?	neptune	2
+1 The moon is north of the earth.
+2 The mars is north of the moon.
+3 What is the earth south of?	moon	1
+1 The moon is west of the neptune.
+2 The mars is west of the moon.
+3 What is west of the moon?	mars	2
+1 The jupiter is south of the venus.
+2 The jupiter is north of the mars.
+3 What is the venus north of?	jupiter	1
+1 The neptune is north of the mars.
+2 The mars is north of the venus.
+3 What is north of the venus?	mars	2
+1 The earth is west of the mars.
+2 The earth is east of the neptune.
+3 What is west of the mars?	earth	1
+1 The venus is north of the neptune.
+2 The moon is south of the neptune.
+3 What is south of the neptune?	moon	2
+1 The neptune is north of the mars.
+2 The moon is north of the neptune.
+3 What is north of the mars?	neptune	1
+1 The venus is south of the earth.
+2 The venus is north of the jupiter.
+3 What is north of the jupiter?	venus	2
+1 The earth is west of the mars.
+2 The neptune is west of the earth.
+3 What is the mars east of?	earth	1
+1 The venus is east of the neptune.
+2 The earth is west of the neptune.
+3 What is east of the neptune?	venus	1
+1 The jupiter is north of the neptune.
+2 The earth is south of the neptune.
+3 What is south of the neptune?	earth	2
+1 The neptune is east of the mars.
+2 The moon is west of the mars.
+3 What is east of the mars?	neptune	1
+1 The moon is north of the jupiter.
+2 The jupiter is north of the mars.
+3 What is the jupiter south of?	moon	1
+1 The moon is south of the earth.
+2 The neptune is north of the earth.
+3 What is the earth south of?	neptune	2
+1 The neptune is south of the earth.
+2 The neptune is north of the moon.
+3 What is north of the moon?	neptune	2
+1 The neptune is west of the moon.
+2 The venus is east of the moon.
+3 What is east of the moon?	venus	2
+1 The venus is south of the mars.
+2 The neptune is north of the mars.
+3 What is south of the mars?	venus	1
+1 The jupiter is south of the venus.
+2 The venus is south of the neptune.
+3 What is south of the venus?	jupiter	1
+1 The neptune is west of the jupiter.
+2 The earth is east of the jupiter.
+3 What is the jupiter west of?	earth	2
+1 The neptune is north of the earth.
+2 The neptune is south of the mars.
+3 What is north of the earth?	neptune	1
+1 The jupiter is north of the earth.
+2 The mars is south of the earth.
+3 What is north of the earth?	jupiter	1
+1 The earth is south of the jupiter.
+2 The earth is north of the mars.
+3 What is the jupiter north of?	earth	1
+1 The mars is west of the jupiter.
+2 The mars is east of the venus.
+3 What is the jupiter east of?	mars	1
+1 The neptune is north of the moon.
+2 The moon is north of the earth.
+3 What is the moon south of?	neptune	1
+1 The venus is east of the neptune.
+2 The earth is east of the venus.
+3 What is east of the neptune?	venus	1
+1 The mars is east of the neptune.
+2 The jupiter is east of the mars.
+3 What is east of the mars?	jupiter	2
+1 The earth is north of the venus.
+2 The neptune is south of the venus.
+3 What is north of the venus?	earth	1
+1 The neptune is west of the moon.
+2 The moon is west of the earth.
+3 What is the moon east of?	neptune	1
+1 The earth is east of the neptune.
+2 The jupiter is east of the earth.
+3 What is the neptune west of?	earth	1
+1 The venus is west of the moon.
+2 The mars is east of the moon.
+3 What is west of the moon?	venus	1
+1 The earth is north of the jupiter.
+2 The venus is south of the jupiter.
+3 What is north of the jupiter?	earth	1
+1 The earth is south of the neptune.
+2 The mars is north of the neptune.
+3 What is the neptune north of?	earth	1
+1 The venus is south of the mars.
+2 The moon is south of the venus.
+3 What is the venus north of?	moon	2
+1 The moon is east of the neptune.
+2 The jupiter is west of the neptune.
+3 What is the neptune east of?	jupiter	2
+1 The mars is north of the moon.
+2 The mars is south of the earth.
+3 What is south of the earth?	mars	2
+1 The neptune is west of the jupiter.
+2 The jupiter is west of the venus.
+3 What is the jupiter east of?	neptune	1
+1 The earth is north of the venus.
+2 The neptune is south of the venus.
+3 What is the venus north of?	neptune	2
+1 The venus is north of the jupiter.
+2 The jupiter is north of the earth.
+3 What is north of the jupiter?	venus	1
+1 The mars is north of the neptune.
+2 The venus is south of the neptune.
+3 What is the neptune north of?	venus	2
+1 The jupiter is south of the earth.
+2 The moon is south of the jupiter.
+3 What is the jupiter north of?	moon	2
+1 The mars is east of the neptune.
+2 The venus is west of the neptune.
+3 What is west of the neptune?	venus	2
+1 The jupiter is north of the moon.
+2 The mars is south of the moon.
+3 What is the moon south of?	jupiter	1
+1 The jupiter is north of the neptune.
+2 The venus is north of the jupiter.
+3 What is north of the neptune?	jupiter	1
+1 The moon is east of the venus.
+2 The neptune is east of the moon.
+3 What is east of the moon?	neptune	2
+1 The neptune is north of the earth.
+2 The moon is south of the earth.
+3 What is south of the earth?	moon	2
+1 The mars is east of the moon.
+2 The neptune is west of the moon.
+3 What is west of the moon?	neptune	2
+1 The neptune is south of the earth.
+2 The mars is north of the earth.
+3 What is the earth south of?	mars	2
+1 The venus is west of the earth.
+2 The moon is east of the earth.
+3 What is west of the earth?	venus	1
+1 The venus is south of the jupiter.
+2 The mars is north of the jupiter.
+3 What is the jupiter north of?	venus	1
+1 The earth is south of the moon.
+2 The venus is north of the moon.
+3 What is north of the moon?	venus	2
+1 The earth is north of the venus.
+2 The jupiter is south of the venus.
+3 What is south of the venus?	jupiter	2
+1 The jupiter is east of the venus.
+2 The moon is west of the venus.
+3 What is west of the venus?	moon	2
+1 The earth is west of the neptune.
+2 The venus is west of the earth.
+3 What is the earth east of?	venus	2
+1 The neptune is south of the jupiter.
+2 The jupiter is south of the earth.
+3 What is south of the jupiter?	neptune	1
+1 The mars is south of the moon.
+2 The mars is north of the venus.
+3 What is the venus south of?	mars	2
+1 The neptune is west of the earth.
+2 The venus is west of the neptune.
+3 What is west of the earth?	neptune	1
+1 The earth is east of the moon.
+2 The jupiter is east of the earth.
+3 What is the earth west of?	jupiter	2
+1 The neptune is west of the mars.
+2 The mars is west of the venus.
+3 What is the venus east of?	mars	2
+1 The moon is north of the venus.
+2 The venus is north of the earth.
+3 What is the earth south of?	venus	2
+1 The earth is east of the neptune.
+2 The mars is west of the neptune.
+3 What is the neptune east of?	mars	2
+1 The mars is east of the neptune.
+2 The venus is west of the neptune.
+3 What is the neptune east of?	venus	2
+1 The neptune is south of the venus.
+2 The earth is north of the venus.
+3 What is the venus south of?	earth	2
+1 The jupiter is east of the earth.
+2 The earth is east of the venus.
+3 What is east of the venus?	earth	2
+1 The mars is east of the neptune.
+2 The earth is west of the neptune.
+3 What is the neptune west of?	mars	1
+1 The neptune is west of the earth.
+2 The jupiter is west of the neptune.
+3 What is the earth east of?	neptune	1
+1 The neptune is north of the moon.
+2 The earth is north of the neptune.
+3 What is the moon south of?	neptune	1
+1 The venus is north of the mars.
+2 The jupiter is south of the mars.
+3 What is north of the mars?	venus	1
+1 The venus is east of the mars.
+2 The venus is west of the moon.
+3 What is east of the mars?	venus	1
+1 The venus is north of the moon.
+2 The jupiter is south of the moon.
+3 What is the moon north of?	jupiter	2
+1 The mars is west of the neptune.
+2 The neptune is west of the jupiter.
+3 What is the jupiter east of?	neptune	2
+1 The jupiter is east of the earth.
+2 The neptune is west of the earth.
+3 What is the earth east of?	neptune	2
+1 The jupiter is north of the neptune.
+2 The earth is south of the neptune.
+3 What is north of the neptune?	jupiter	1
+1 The earth is west of the mars.
+2 The jupiter is west of the earth.
+3 What is west of the mars?	earth	1
+1 The neptune is south of the moon.
+2 The neptune is north of the mars.
+3 What is south of the moon?	neptune	1
+1 The jupiter is east of the neptune.
+2 The venus is west of the neptune.
+3 What is east of the neptune?	jupiter	1
+1 The moon is west of the neptune.
+2 The earth is east of the neptune.
+3 What is the neptune east of?	moon	1
+1 The neptune is north of the earth.
+2 The earth is north of the mars.
+3 What is north of the earth?	neptune	1
+1 The earth is north of the venus.
+2 The jupiter is north of the earth.
+3 What is the venus south of?	earth	1
+1 The jupiter is south of the earth.
+2 The neptune is north of the earth.
+3 What is south of the earth?	jupiter	1
+1 The moon is east of the venus.
+2 The venus is east of the neptune.
+3 What is east of the venus?	moon	1
+1 The mars is west of the venus.
+2 The jupiter is east of the venus.
+3 What is west of the venus?	mars	1
+1 The venus is west of the moon.
+2 The moon is west of the earth.
+3 What is the earth east of?	moon	2
+1 The venus is north of the moon.
+2 The jupiter is south of the moon.
+3 What is the moon south of?	venus	1
+1 The jupiter is west of the venus.
+2 The mars is east of the venus.
+3 What is the venus west of?	mars	2
+1 The moon is north of the earth.
+2 The earth is north of the mars.
+3 What is the mars south of?	earth	2
+1 The venus is west of the jupiter.
+2 The mars is east of the jupiter.
+3 What is east of the jupiter?	mars	2
+1 The venus is east of the moon.
+2 The neptune is west of the moon.
+3 What is west of the moon?	neptune	2
+1 The neptune is west of the mars.
+2 The neptune is east of the venus.
+3 What is the venus west of?	neptune	2
+1 The earth is east of the mars.
+2 The venus is west of the mars.
+3 What is the mars west of?	earth	1
+1 The mars is east of the jupiter.
+2 The earth is west of the jupiter.
+3 What is the jupiter west of?	mars	1
+1 The neptune is west of the earth.
+2 The moon is east of the earth.
+3 What is the earth west of?	moon	2
+1 The moon is east of the jupiter.
+2 The moon is west of the neptune.
+3 What is west of the neptune?	moon	2
+1 The earth is north of the venus.
+2 The venus is north of the neptune.
+3 What is north of the venus?	earth	1
+1 The mars is north of the neptune.
+2 The mars is south of the moon.
+3 What is south of the moon?	mars	2
+1 The venus is east of the jupiter.
+2 The mars is west of the jupiter.
+3 What is the jupiter east of?	mars	2
+1 The jupiter is north of the mars.
+2 The moon is north of the jupiter.
+3 What is north of the jupiter?	moon	2
+1 The earth is north of the neptune.
+2 The neptune is north of the jupiter.
+3 What is north of the jupiter?	neptune	2
+1 The moon is east of the venus.
+2 The earth is west of the venus.
+3 What is west of the venus?	earth	2
+1 The jupiter is east of the mars.
+2 The earth is west of the mars.
+3 What is the mars west of?	jupiter	1
+1 The moon is east of the earth.
+2 The venus is west of the earth.
+3 What is the earth west of?	moon	1
+1 The mars is south of the moon.
+2 The jupiter is north of the moon.
+3 What is the moon south of?	jupiter	2
+1 The jupiter is south of the moon.
+2 The neptune is north of the moon.
+3 What is north of the moon?	neptune	2
+1 The jupiter is south of the mars.
+2 The venus is north of the mars.
+3 What is the mars south of?	venus	2
+1 The neptune is north of the jupiter.
+2 The mars is north of the neptune.
+3 What is the neptune south of?	mars	2
+1 The jupiter is east of the earth.
+2 The earth is east of the moon.
+3 What is the earth west of?	jupiter	1
+1 The neptune is east of the mars.
+2 The neptune is west of the venus.
+3 What is the venus east of?	neptune	2
+1 The jupiter is south of the earth.
+2 The mars is north of the earth.
+3 What is the earth south of?	mars	2
+1 The jupiter is east of the neptune.
+2 The mars is west of the neptune.
+3 What is the neptune west of?	jupiter	1
+1 The venus is north of the earth.
+2 The neptune is south of the earth.
+3 What is the earth north of?	neptune	2
+1 The venus is west of the earth.
+2 The moon is west of the venus.
+3 What is west of the earth?	venus	1
+1 The jupiter is south of the earth.
+2 The neptune is south of the jupiter.
+3 What is south of the jupiter?	neptune	2
+1 The jupiter is south of the mars.
+2 The mars is south of the venus.
+3 What is south of the venus?	mars	2
+1 The earth is west of the mars.
+2 The jupiter is west of the earth.
+3 What is the earth east of?	jupiter	2
+1 The jupiter is south of the mars.
+2 The moon is north of the mars.
+3 What is south of the mars?	jupiter	1
+1 The moon is east of the mars.
+2 The mars is east of the jupiter.
+3 What is the mars west of?	moon	1
+1 The jupiter is south of the venus.
+2 The neptune is south of the jupiter.
+3 What is the jupiter north of?	neptune	2
+1 The neptune is east of the moon.
+2 The moon is east of the mars.
+3 What is east of the mars?	moon	2
+1 The jupiter is east of the neptune.
+2 The neptune is east of the mars.
+3 What is east of the neptune?	jupiter	1
+1 The earth is west of the jupiter.
+2 The mars is west of the earth.
+3 What is west of the earth?	mars	2
+1 The venus is east of the jupiter.
+2 The earth is west of the jupiter.
+3 What is the jupiter west of?	venus	1
+1 The earth is east of the jupiter.
+2 The neptune is east of the earth.
+3 What is east of the jupiter?	earth	1
+1 The jupiter is west of the moon.
+2 The venus is east of the moon.
+3 What is west of the moon?	jupiter	1
+1 The mars is east of the venus.
+2 The moon is east of the mars.
+3 What is the mars west of?	moon	2
+1 The earth is south of the venus.
+2 The moon is north of the venus.
+3 What is the venus south of?	moon	2
+1 The neptune is east of the jupiter.
+2 The neptune is west of the moon.
+3 What is east of the jupiter?	neptune	1
+1 The moon is north of the neptune.
+2 The mars is north of the moon.
+3 What is the moon south of?	mars	2
+1 The mars is south of the earth.
+2 The neptune is north of the earth.
+3 What is north of the earth?	neptune	2
+1 The venus is south of the mars.
+2 The venus is north of the jupiter.
+3 What is north of the jupiter?	venus	2
+1 The mars is south of the moon.
+2 The earth is south of the mars.
+3 What is south of the mars?	earth	2
+1 The neptune is west of the venus.
+2 The venus is west of the mars.
+3 What is west of the venus?	neptune	1
+1 The jupiter is east of the mars.
+2 The earth is east of the jupiter.
+3 What is the mars west of?	jupiter	1
+1 The mars is north of the earth.
+2 The earth is north of the moon.
+3 What is north of the earth?	mars	1
+1 The neptune is north of the earth.
+2 The neptune is south of the mars.
+3 What is the earth south of?	neptune	1
+1 The venus is east of the mars.
+2 The neptune is west of the mars.
+3 What is west of the mars?	neptune	2
+1 The mars is south of the earth.
+2 The mars is north of the neptune.
+3 What is the earth north of?	mars	1
+1 The earth is south of the venus.
+2 The jupiter is south of the earth.
+3 What is the earth north of?	jupiter	2
+1 The venus is west of the jupiter.
+2 The neptune is east of the jupiter.
+3 What is east of the jupiter?	neptune	2
+1 The neptune is south of the jupiter.
+2 The venus is south of the neptune.
+3 What is the jupiter north of?	neptune	1
+1 The jupiter is east of the neptune.
+2 The neptune is east of the earth.
+3 What is east of the earth?	neptune	2
+1 The venus is west of the jupiter.
+2 The neptune is east of the jupiter.
+3 What is the jupiter east of?	venus	1
+1 The jupiter is north of the earth.
+2 The moon is south of the earth.
+3 What is north of the earth?	jupiter	1
+1 The earth is north of the venus.
+2 The mars is north of the earth.
+3 What is north of the earth?	mars	2
+1 The venus is north of the jupiter.
+2 The neptune is south of the jupiter.
+3 What is south of the jupiter?	neptune	2
+1 The jupiter is east of the mars.
+2 The moon is east of the jupiter.
+3 What is the jupiter west of?	moon	2
+1 The mars is east of the venus.
+2 The earth is west of the venus.
+3 What is the venus east of?	earth	2
+1 The jupiter is north of the mars.
+2 The moon is north of the jupiter.
+3 What is the mars south of?	jupiter	1
+1 The venus is south of the jupiter.
+2 The mars is north of the jupiter.
+3 What is the jupiter south of?	mars	2
+1 The moon is south of the jupiter.
+2 The venus is north of the jupiter.
+3 What is north of the jupiter?	venus	2
+1 The moon is west of the mars.
+2 The moon is east of the jupiter.
+3 What is west of the mars?	moon	1
+1 The jupiter is east of the earth.
+2 The mars is east of the jupiter.
+3 What is east of the earth?	jupiter	1
+1 The earth is north of the venus.
+2 The jupiter is south of the venus.
+3 What is the venus north of?	jupiter	2
+1 The neptune is west of the earth.
+2 The moon is east of the earth.
+3 What is east of the earth?	moon	2
+1 The earth is south of the moon.
+2 The jupiter is north of the moon.
+3 What is the moon south of?	jupiter	2
+1 The venus is east of the mars.
+2 The earth is west of the mars.
+3 What is east of the mars?	venus	1
+1 The moon is west of the earth.
+2 The moon is east of the mars.
+3 What is east of the mars?	moon	2
+1 The moon is south of the jupiter.
+2 The earth is north of the jupiter.
+3 What is the jupiter north of?	moon	1
+1 The neptune is west of the mars.
+2 The moon is west of the neptune.
+3 What is west of the neptune?	moon	2
+1 The venus is east of the jupiter.
+2 The earth is west of the jupiter.
+3 What is the jupiter east of?	earth	2
+1 The earth is east of the jupiter.
+2 The jupiter is east of the moon.
+3 What is east of the jupiter?	earth	1
+1 The earth is north of the moon.
+2 The earth is south of the mars.
+3 What is the mars north of?	earth	2
+1 The earth is east of the mars.
+2 The jupiter is west of the mars.
+3 What is the mars west of?	earth	1
+1 The moon is east of the venus.
+2 The mars is west of the venus.
+3 What is the venus east of?	mars	2
+1 The mars is west of the jupiter.
+2 The jupiter is west of the earth.
+3 What is the jupiter east of?	mars	1
+1 The mars is east of the earth.
+2 The mars is west of the neptune.
+3 What is east of the earth?	mars	1
+1 The mars is east of the venus.
+2 The earth is west of the venus.
+3 What is the venus east of?	earth	2
+1 The jupiter is west of the neptune.
+2 The earth is east of the neptune.
+3 What is the neptune east of?	jupiter	1
+1 The jupiter is west of the earth.
+2 The mars is west of the jupiter.
+3 What is the earth east of?	jupiter	1
+1 The venus is east of the neptune.
+2 The jupiter is west of the neptune.
+3 What is east of the neptune?	venus	1
+1 The earth is west of the moon.
+2 The venus is east of the moon.
+3 What is the moon west of?	venus	2
+1 The jupiter is east of the neptune.
+2 The jupiter is west of the earth.
+3 What is west of the earth?	jupiter	2
+1 The jupiter is east of the neptune.
+2 The earth is west of the neptune.
+3 What is the neptune east of?	earth	2
+1 The moon is east of the earth.
+2 The mars is west of the earth.
+3 What is east of the earth?	moon	1
+1 The jupiter is north of the venus.
+2 The venus is north of the earth.
+3 What is north of the earth?	venus	2
+1 The venus is north of the earth.
+2 The neptune is south of the earth.
+3 What is south of the earth?	neptune	2
+1 The jupiter is south of the neptune.
+2 The venus is north of the neptune.
+3 What is the neptune north of?	jupiter	1
+1 The jupiter is west of the earth.
+2 The venus is east of the earth.
+3 What is east of the earth?	venus	2
+1 The earth is north of the neptune.
+2 The mars is south of the neptune.
+3 What is south of the neptune?	mars	2
+1 The neptune is west of the venus.
+2 The jupiter is east of the venus.
+3 What is west of the venus?	neptune	1
+1 The moon is west of the jupiter.
+2 The neptune is west of the moon.
+3 What is west of the moon?	neptune	2
+1 The neptune is east of the jupiter.
+2 The jupiter is east of the mars.
+3 What is the mars west of?	jupiter	2
+1 The venus is south of the moon.
+2 The earth is south of the venus.
+3 What is the venus north of?	earth	2
+1 The mars is east of the venus.
+2 The venus is east of the earth.
+3 What is east of the venus?	mars	1
+1 The venus is south of the neptune.
+2 The earth is south of the venus.
+3 What is south of the neptune?	venus	1
+1 The venus is east of the mars.
+2 The venus is west of the earth.
+3 What is east of the mars?	venus	1
+1 The mars is west of the venus.
+2 The mars is east of the jupiter.
+3 What is the venus east of?	mars	1
+1 The venus is east of the moon.
+2 The jupiter is west of the moon.
+3 What is west of the moon?	jupiter	2
+1 The earth is south of the jupiter.
+2 The jupiter is south of the neptune.
+3 What is south of the jupiter?	earth	1
+1 The moon is east of the venus.
+2 The earth is east of the moon.
+3 What is east of the venus?	moon	1
+1 The earth is south of the venus.
+2 The jupiter is north of the venus.
+3 What is the venus south of?	jupiter	2
+1 The mars is south of the neptune.
+2 The neptune is south of the earth.
+3 What is the neptune north of?	mars	1
+1 The venus is south of the jupiter.
+2 The earth is south of the venus.
+3 What is the jupiter north of?	venus	1
+1 The venus is west of the jupiter.
+2 The moon is east of the jupiter.
+3 What is the jupiter east of?	venus	1
+1 The neptune is north of the venus.
+2 The jupiter is south of the venus.
+3 What is the venus south of?	neptune	1
+1 The neptune is north of the venus.
+2 The venus is north of the earth.
+3 What is north of the venus?	neptune	1
+1 The moon is west of the venus.
+2 The jupiter is east of the venus.
+3 What is west of the venus?	moon	1
+1 The mars is west of the earth.
+2 The venus is east of the earth.
+3 What is east of the earth?	venus	2
+1 The mars is south of the venus.
+2 The neptune is south of the mars.
+3 What is the venus north of?	mars	1
+1 The mars is north of the venus.
+2 The moon is north of the mars.
+3 What is the venus south of?	mars	1
+1 The earth is east of the jupiter.
+2 The mars is east of the earth.
+3 What is the earth west of?	mars	2
+1 The moon is west of the venus.
+2 The earth is east of the venus.
+3 What is the venus west of?	earth	2
+1 The venus is north of the mars.
+2 The neptune is north of the venus.
+3 What is north of the mars?	venus	1
+1 The earth is north of the moon.
+2 The moon is north of the jupiter.
+3 What is north of the moon?	earth	1
+1 The venus is north of the earth.
+2 The earth is north of the moon.
+3 What is the earth south of?	venus	1
+1 The jupiter is south of the earth.
+2 The mars is south of the jupiter.
+3 What is south of the earth?	jupiter	1
+1 The venus is west of the jupiter.
+2 The neptune is east of the jupiter.
+3 What is east of the jupiter?	neptune	2
+1 The earth is north of the mars.
+2 The jupiter is south of the mars.
+3 What is south of the mars?	jupiter	2
+1 The venus is north of the neptune.
+2 The neptune is north of the moon.
+3 What is the neptune south of?	venus	1
+1 The jupiter is north of the neptune.
+2 The venus is south of the neptune.
+3 What is north of the neptune?	jupiter	1
+1 The jupiter is east of the moon.
+2 The jupiter is west of the neptune.
+3 What is the neptune east of?	jupiter	2
+1 The venus is east of the moon.
+2 The mars is west of the moon.
+3 What is east of the moon?	venus	1
+1 The jupiter is east of the earth.
+2 The neptune is east of the jupiter.
+3 What is east of the jupiter?	neptune	2
+1 The neptune is west of the jupiter.
+2 The jupiter is west of the moon.
+3 What is west of the moon?	jupiter	2
+1 The mars is south of the jupiter.
+2 The mars is north of the venus.
+3 What is north of the venus?	mars	2
+1 The earth is south of the mars.
+2 The earth is north of the moon.
+3 What is north of the moon?	earth	2
+1 The neptune is north of the venus.
+2 The jupiter is south of the venus.
+3 What is south of the venus?	jupiter	2
+1 The moon is south of the mars.
+2 The mars is south of the earth.
+3 What is south of the mars?	moon	1
+1 The mars is east of the moon.
+2 The venus is west of the moon.
+3 What is west of the moon?	venus	2
+1 The mars is north of the neptune.
+2 The mars is south of the earth.
+3 What is the neptune south of?	mars	1
+1 The neptune is east of the earth.
+2 The jupiter is west of the earth.
+3 What is west of the earth?	jupiter	2
+1 The earth is east of the jupiter.
+2 The jupiter is east of the moon.
+3 What is the moon west of?	jupiter	2
+1 The mars is south of the jupiter.
+2 The moon is north of the jupiter.
+3 What is the jupiter north of?	mars	1
+1 The earth is east of the neptune.
+2 The venus is east of the earth.
+3 What is the neptune west of?	earth	1
+1 The moon is south of the venus.
+2 The jupiter is south of the moon.
+3 What is the moon north of?	jupiter	2
+1 The mars is west of the earth.
+2 The jupiter is west of the mars.
+3 What is the earth east of?	mars	1
+1 The neptune is west of the jupiter.
+2 The jupiter is west of the mars.
+3 What is west of the mars?	jupiter	2
+1 The jupiter is east of the earth.
+2 The mars is east of the jupiter.
+3 What is east of the earth?	jupiter	1
+1 The neptune is north of the earth.
+2 The earth is north of the mars.
+3 What is north of the mars?	earth	2
+1 The earth is south of the jupiter.
+2 The neptune is south of the earth.
+3 What is south of the jupiter?	earth	1
+1 The earth is east of the mars.
+2 The venus is west of the mars.
+3 What is east of the mars?	earth	1
+1 The moon is west of the jupiter.
+2 The neptune is east of the jupiter.
+3 What is east of the jupiter?	neptune	2
+1 The mars is north of the venus.
+2 The venus is north of the earth.
+3 What is north of the venus?	mars	1
+1 The venus is south of the jupiter.
+2 The neptune is north of the jupiter.
+3 What is the jupiter south of?	neptune	2
+1 The mars is east of the venus.
+2 The venus is east of the neptune.
+3 What is the neptune west of?	venus	2
+1 The earth is north of the neptune.
+2 The jupiter is south of the neptune.
+3 What is the neptune north of?	jupiter	2
+1 The neptune is north of the moon.
+2 The moon is north of the mars.
+3 What is north of the mars?	moon	2
+1 The jupiter is west of the neptune.
+2 The moon is west of the jupiter.
+3 What is the jupiter east of?	moon	2
+1 The venus is north of the moon.
+2 The venus is south of the jupiter.
+3 What is the moon south of?	venus	1
+1 The mars is south of the neptune.
+2 The neptune is south of the earth.
+3 What is the earth north of?	neptune	2
+1 The venus is west of the jupiter.
+2 The earth is east of the jupiter.
+3 What is east of the jupiter?	earth	2
+1 The earth is north of the venus.
+2 The jupiter is south of the venus.
+3 What is the venus south of?	earth	1
+1 The moon is north of the neptune.
+2 The neptune is north of the mars.
+3 What is north of the neptune?	moon	1
+1 The venus is west of the neptune.
+2 The moon is east of the neptune.
+3 What is the neptune east of?	venus	1
+1 The earth is east of the neptune.
+2 The mars is west of the neptune.
+3 What is west of the neptune?	mars	2
+1 The mars is east of the moon.
+2 The venus is west of the moon.
+3 What is west of the moon?	venus	2
+1 The venus is south of the moon.
+2 The neptune is north of the moon.
+3 What is north of the moon?	neptune	2
+1 The neptune is south of the mars.
+2 The moon is north of the mars.
+3 What is south of the mars?	neptune	1
+1 The earth is south of the mars.
+2 The mars is south of the neptune.
+3 What is south of the neptune?	mars	2
+1 The neptune is east of the venus.
+2 The earth is west of the venus.
+3 What is the venus west of?	neptune	1
+1 The mars is east of the earth.
+2 The earth is east of the neptune.
+3 What is east of the neptune?	earth	2
+1 The jupiter is south of the mars.
+2 The neptune is north of the mars.
+3 What is the mars south of?	neptune	2
+1 The earth is south of the neptune.
+2 The jupiter is north of the neptune.
+3 What is the neptune north of?	earth	1
+1 The jupiter is west of the moon.
+2 The mars is east of the moon.
+3 What is the moon west of?	mars	2
+1 The venus is south of the jupiter.
+2 The neptune is south of the venus.
+3 What is south of the venus?	neptune	2
+1 The earth is east of the venus.
+2 The venus is east of the neptune.
+3 What is east of the venus?	earth	1
+1 The earth is south of the jupiter.
+2 The moon is south of the earth.
+3 What is south of the jupiter?	earth	1
+1 The neptune is south of the moon.
+2 The earth is north of the moon.
+3 What is north of the moon?	earth	2
+1 The neptune is west of the jupiter.
+2 The mars is east of the jupiter.
+3 What is the jupiter west of?	mars	2
+1 The venus is west of the jupiter.
+2 The neptune is west of the venus.
+3 What is west of the venus?	neptune	2
+1 The moon is north of the earth.
+2 The earth is north of the mars.
+3 What is the earth south of?	moon	1
+1 The mars is north of the neptune.
+2 The venus is north of the mars.
+3 What is north of the neptune?	mars	1
+1 The neptune is east of the moon.
+2 The venus is west of the moon.
+3 What is west of the moon?	venus	2
+1 The earth is east of the neptune.
+2 The earth is west of the mars.
+3 What is west of the mars?	earth	2
+1 The mars is east of the jupiter.
+2 The moon is west of the jupiter.
+3 What is the jupiter west of?	mars	1
+1 The venus is north of the neptune.
+2 The jupiter is south of the neptune.
+3 What is the neptune south of?	venus	1
+1 The neptune is west of the venus.
+2 The jupiter is east of the venus.
+3 What is the venus east of?	neptune	1
+1 The moon is east of the earth.
+2 The venus is west of the earth.
+3 What is the earth west of?	moon	1
+1 The mars is north of the earth.
+2 The jupiter is south of the earth.
+3 What is north of the earth?	mars	1
+1 The moon is west of the earth.
+2 The jupiter is east of the earth.
+3 What is west of the earth?	moon	1
+1 The neptune is north of the earth.
+2 The jupiter is north of the neptune.
+3 What is the neptune south of?	jupiter	2
+1 The neptune is south of the moon.
+2 The moon is south of the mars.
+3 What is south of the mars?	moon	2
+1 The venus is west of the moon.
+2 The moon is west of the earth.
+3 What is the moon east of?	venus	1
+1 The venus is east of the mars.
+2 The venus is west of the neptune.
+3 What is east of the mars?	venus	1
+1 The earth is east of the neptune.
+2 The earth is west of the jupiter.
+3 What is west of the jupiter?	earth	2
+1 The neptune is east of the mars.
+2 The earth is east of the neptune.
+3 What is the neptune west of?	earth	2
+1 The moon is east of the venus.
+2 The earth is east of the moon.
+3 What is east of the moon?	earth	2
+1 The moon is south of the earth.
+2 The moon is north of the jupiter.
+3 What is the jupiter south of?	moon	2
+1 The venus is west of the mars.
+2 The jupiter is east of the mars.
+3 What is east of the mars?	jupiter	2
+1 The earth is north of the venus.
+2 The moon is south of the venus.
+3 What is north of the venus?	earth	1
+1 The moon is west of the earth.
+2 The mars is west of the moon.
+3 What is west of the earth?	moon	1
+1 The mars is south of the moon.
+2 The mars is north of the neptune.
+3 What is north of the neptune?	mars	2
+1 The jupiter is west of the neptune.
+2 The mars is east of the neptune.
+3 What is the neptune west of?	mars	2
+1 The mars is west of the moon.
+2 The neptune is west of the mars.
+3 What is the moon east of?	mars	1
+1 The moon is east of the jupiter.
+2 The moon is west of the venus.
+3 What is the jupiter west of?	moon	1
+1 The moon is west of the mars.
+2 The jupiter is east of the mars.
+3 What is the mars east of?	moon	1
+1 The venus is north of the earth.
+2 The earth is north of the moon.
+3 What is north of the earth?	venus	1
+1 The earth is east of the venus.
+2 The earth is west of the neptune.
+3 What is the venus west of?	earth	1
+1 The mars is south of the neptune.
+2 The jupiter is south of the mars.
+3 What is south of the neptune?	mars	1
+1 The jupiter is north of the mars.
+2 The jupiter is south of the venus.
+3 What is the venus north of?	jupiter	2
+1 The neptune is south of the moon.
+2 The moon is south of the mars.
+3 What is the moon north of?	neptune	1
+1 The neptune is south of the earth.
+2 The venus is north of the earth.
+3 What is south of the earth?	neptune	1
+1 The earth is west of the venus.
+2 The moon is east of the venus.
+3 What is the venus east of?	earth	1
+1 The neptune is south of the earth.
+2 The mars is south of the neptune.
+3 What is the earth north of?	neptune	1
+1 The moon is west of the venus.
+2 The jupiter is east of the venus.
+3 What is west of the venus?	moon	1
+1 The neptune is west of the mars.
+2 The moon is east of the mars.
+3 What is the mars east of?	neptune	1
+1 The neptune is west of the venus.
+2 The jupiter is west of the neptune.
+3 What is west of the neptune?	jupiter	2
+1 The moon is north of the venus.
+2 The neptune is south of the venus.
+3 What is the venus south of?	moon	1
+1 The earth is north of the jupiter.
+2 The venus is south of the jupiter.
+3 What is the jupiter north of?	venus	2
+1 The earth is north of the jupiter.
+2 The jupiter is north of the moon.
+3 What is the moon south of?	jupiter	2
+1 The earth is east of the moon.
+2 The moon is east of the venus.
+3 What is east of the venus?	moon	2
+1 The venus is south of the moon.
+2 The moon is south of the mars.
+3 What is south of the mars?	moon	2
+1 The venus is east of the moon.
+2 The mars is west of the moon.
+3 What is west of the moon?	mars	2
+1 The earth is north of the venus.
+2 The jupiter is south of the venus.
+3 What is the venus north of?	jupiter	2
+1 The neptune is south of the venus.
+2 The neptune is north of the jupiter.
+3 What is north of the jupiter?	neptune	2
+1 The mars is north of the moon.
+2 The moon is north of the earth.
+3 What is the earth south of?	moon	2
+1 The neptune is north of the moon.
+2 The venus is south of the moon.
+3 What is north of the moon?	neptune	1
+1 The venus is east of the moon.
+2 The mars is west of the moon.
+3 What is the moon east of?	mars	2
+1 The venus is west of the moon.
+2 The neptune is east of the moon.
+3 What is the moon west of?	neptune	2
+1 The venus is south of the moon.
+2 The earth is north of the moon.
+3 What is the moon north of?	venus	1
+1 The neptune is north of the mars.
+2 The moon is south of the mars.
+3 What is the mars north of?	moon	2
+1 The jupiter is north of the venus.
+2 The neptune is south of the venus.
+3 What is the venus north of?	neptune	2
+1 The neptune is north of the venus.
+2 The venus is north of the mars.
+3 What is north of the venus?	neptune	1
+1 The earth is west of the venus.
+2 The moon is west of the earth.
+3 What is west of the earth?	moon	2
+1 The jupiter is north of the earth.
+2 The mars is south of the earth.
+3 What is the earth north of?	mars	2
+1 The mars is north of the earth.
+2 The jupiter is south of the earth.
+3 What is the earth north of?	jupiter	2
+1 The earth is west of the mars.
+2 The mars is west of the neptune.
+3 What is the mars east of?	earth	1
+1 The neptune is south of the moon.
+2 The moon is south of the jupiter.
+3 What is south of the moon?	neptune	1
+1 The mars is west of the neptune.
+2 The neptune is west of the jupiter.
+3 What is west of the neptune?	mars	1
+1 The mars is south of the venus.
+2 The venus is south of the moon.
+3 What is the venus north of?	mars	1
+1 The jupiter is west of the moon.
+2 The earth is west of the jupiter.
+3 What is west of the moon?	jupiter	1
+1 The moon is south of the jupiter.
+2 The earth is south of the moon.
+3 What is the jupiter north of?	moon	1
+1 The venus is west of the moon.
+2 The moon is west of the earth.
+3 What is the moon east of?	venus	1
+1 The earth is west of the venus.
+2 The mars is east of the venus.
+3 What is the venus west of?	mars	2
+1 The earth is south of the venus.
+2 The neptune is north of the venus.
+3 What is the venus north of?	earth	1
+1 The moon is west of the venus.
+2 The neptune is east of the venus.
+3 What is the venus west of?	neptune	2
+1 The mars is north of the moon.
+2 The mars is south of the jupiter.
+3 What is the jupiter north of?	mars	2
+1 The jupiter is west of the mars.
+2 The neptune is east of the mars.
+3 What is west of the mars?	jupiter	1
+1 The mars is east of the neptune.
+2 The venus is east of the mars.
+3 What is the neptune west of?	mars	1
+1 The earth is north of the jupiter.
+2 The mars is south of the jupiter.
+3 What is south of the jupiter?	mars	2
+1 The jupiter is south of the neptune.
+2 The mars is south of the jupiter.
+3 What is the neptune north of?	jupiter	1
+1 The earth is east of the venus.
+2 The venus is east of the mars.
+3 What is east of the mars?	venus	2
+1 The neptune is east of the venus.
+2 The mars is west of the venus.
+3 What is east of the venus?	neptune	1
+1 The neptune is north of the earth.
+2 The moon is south of the earth.
+3 What is the earth south of?	neptune	1
+1 The venus is east of the neptune.
+2 The moon is west of the neptune.
+3 What is east of the neptune?	venus	1
+1 The earth is west of the jupiter.
+2 The neptune is west of the earth.
+3 What is the earth east of?	neptune	2
+1 The neptune is east of the jupiter.
+2 The mars is west of the jupiter.
+3 What is east of the jupiter?	neptune	1
+1 The moon is north of the neptune.
+2 The moon is south of the jupiter.
+3 What is the jupiter north of?	moon	2
+1 The mars is north of the venus.
+2 The venus is north of the neptune.
+3 What is the venus south of?	mars	1
+1 The moon is north of the earth.
+2 The moon is south of the venus.
+3 What is the venus north of?	moon	2
+1 The venus is east of the mars.
+2 The earth is west of the mars.
+3 What is west of the mars?	earth	2
+1 The mars is east of the earth.
+2 The jupiter is east of the mars.
+3 What is the mars west of?	jupiter	2
+1 The neptune is north of the mars.
+2 The jupiter is north of the neptune.
+3 What is north of the mars?	neptune	1
+1 The venus is north of the moon.
+2 The neptune is north of the venus.
+3 What is north of the moon?	venus	1
+1 The earth is south of the mars.
+2 The moon is north of the mars.
+3 What is the mars north of?	earth	1
+1 The earth is north of the neptune.
+2 The earth is south of the moon.
+3 What is south of the moon?	earth	2
+1 The mars is west of the earth.
+2 The venus is east of the earth.
+3 What is west of the earth?	mars	1
+1 The venus is east of the moon.
+2 The earth is west of the moon.
+3 What is the moon west of?	venus	1
+1 The mars is north of the moon.
+2 The earth is north of the mars.
+3 What is the mars south of?	earth	2
+1 The venus is east of the neptune.
+2 The neptune is east of the moon.
+3 What is the neptune west of?	venus	1
+1 The moon is west of the venus.
+2 The venus is west of the mars.
+3 What is west of the venus?	moon	1
+1 The earth is east of the moon.
+2 The jupiter is west of the moon.
+3 What is east of the moon?	earth	1
+1 The jupiter is east of the venus.
+2 The earth is east of the jupiter.
+3 What is the venus west of?	jupiter	1
+1 The moon is south of the earth.
+2 The jupiter is north of the earth.
+3 What is south of the earth?	moon	1
+1 The mars is east of the earth.
+2 The earth is east of the jupiter.
+3 What is east of the earth?	mars	1
+1 The earth is south of the moon.
+2 The venus is north of the moon.
+3 What is the moon north of?	earth	1
+1 The neptune is south of the earth.
+2 The earth is south of the venus.
+3 What is south of the earth?	neptune	1
+1 The mars is east of the neptune.
+2 The venus is west of the neptune.
+3 What is east of the neptune?	mars	1
+1 The mars is east of the jupiter.
+2 The moon is west of the jupiter.
+3 What is west of the jupiter?	moon	2
+1 The neptune is south of the venus.
+2 The jupiter is north of the venus.
+3 What is the venus south of?	jupiter	2
+1 The neptune is east of the venus.
+2 The mars is west of the venus.
+3 What is the venus east of?	mars	2
+1 The venus is east of the moon.
+2 The moon is east of the mars.
+3 What is the mars west of?	moon	2
+1 The earth is east of the moon.
+2 The moon is east of the neptune.
+3 What is the neptune west of?	moon	2
+1 The moon is west of the earth.
+2 The mars is east of the earth.
+3 What is the earth east of?	moon	1
+1 The moon is south of the earth.
+2 The jupiter is north of the earth.
+3 What is the earth south of?	jupiter	2
+1 The earth is north of the neptune.
+2 The moon is south of the neptune.
+3 What is north of the neptune?	earth	1
+1 The mars is south of the jupiter.
+2 The jupiter is south of the neptune.
+3 What is south of the jupiter?	mars	1
+1 The earth is west of the moon.
+2 The moon is west of the mars.
+3 What is the moon east of?	earth	1
+1 The mars is south of the jupiter.
+2 The earth is north of the jupiter.
+3 What is the jupiter south of?	earth	2
+1 The neptune is east of the venus.
+2 The mars is east of the neptune.
+3 What is the neptune west of?	mars	2
+1 The jupiter is west of the mars.
+2 The jupiter is east of the venus.
+3 What is east of the venus?	jupiter	2
+1 The venus is east of the earth.
+2 The mars is west of the earth.
+3 What is the earth west of?	venus	1
+1 The earth is east of the jupiter.
+2 The venus is west of the jupiter.
+3 What is east of the jupiter?	earth	1
+1 The moon is north of the jupiter.
+2 The jupiter is north of the mars.
+3 What is north of the mars?	jupiter	2
+1 The jupiter is north of the moon.
+2 The earth is south of the moon.
+3 What is the moon north of?	earth	2
+1 The moon is south of the neptune.
+2 The mars is north of the neptune.
+3 What is the neptune north of?	moon	1
+1 The neptune is north of the venus.
+2 The neptune is south of the mars.
+3 What is the mars north of?	neptune	2
+1 The earth is north of the mars.
+2 The neptune is south of the mars.
+3 What is the mars north of?	neptune	2
+1 The jupiter is south of the neptune.
+2 The venus is north of the neptune.
+3 What is the neptune south of?	venus	2
+1 The moon is west of the mars.
+2 The moon is east of the venus.
+3 What is east of the venus?	moon	2
+1 The venus is east of the mars.
+2 The moon is east of the venus.
+3 What is the venus west of?	moon	2
+1 The neptune is east of the earth.
+2 The mars is east of the neptune.
+3 What is the earth west of?	neptune	1
+1 The mars is east of the neptune.
+2 The earth is east of the mars.
+3 What is east of the mars?	earth	2
+1 The mars is east of the jupiter.
+2 The moon is east of the mars.
+3 What is east of the jupiter?	mars	1
+1 The venus is west of the jupiter.
+2 The neptune is west of the venus.
+3 What is the jupiter east of?	venus	1
+1 The neptune is east of the jupiter.
+2 The moon is west of the jupiter.
+3 What is the jupiter east of?	moon	2
+1 The jupiter is west of the earth.
+2 The earth is west of the neptune.
+3 What is west of the neptune?	earth	2
+1 The jupiter is east of the moon.
+2 The moon is east of the neptune.
+3 What is east of the moon?	jupiter	1
+1 The moon is north of the venus.
+2 The neptune is south of the venus.
+3 What is north of the venus?	moon	1
+1 The jupiter is south of the venus.
+2 The earth is north of the venus.
+3 What is north of the venus?	earth	2
+1 The earth is east of the jupiter.
+2 The mars is west of the jupiter.
+3 What is west of the jupiter?	mars	2
+1 The neptune is north of the earth.
+2 The mars is south of the earth.
+3 What is the earth south of?	neptune	1
+1 The earth is east of the jupiter.
+2 The neptune is east of the earth.
+3 What is the earth west of?	neptune	2
+1 The earth is west of the mars.
+2 The venus is east of the mars.
+3 What is the mars west of?	venus	2
+1 The venus is west of the mars.
+2 The moon is east of the mars.
+3 What is the mars east of?	venus	1
+1 The jupiter is north of the earth.
+2 The jupiter is south of the venus.
+3 What is south of the venus?	jupiter	2
+1 The neptune is south of the jupiter.
+2 The venus is north of the jupiter.
+3 What is the jupiter north of?	neptune	1
+1 The mars is south of the neptune.
+2 The moon is north of the neptune.
+3 What is south of the neptune?	mars	1
+1 The mars is south of the neptune.
+2 The venus is north of the neptune.
+3 What is the neptune south of?	venus	2
+1 The neptune is west of the moon.
+2 The mars is west of the neptune.
+3 What is west of the neptune?	mars	2
+1 The neptune is east of the venus.
+2 The venus is east of the moon.
+3 What is east of the venus?	neptune	1
+1 The neptune is east of the earth.
+2 The venus is west of the earth.
+3 What is west of the earth?	venus	2
+1 The moon is north of the jupiter.
+2 The mars is south of the jupiter.
+3 What is the jupiter south of?	moon	1
+1 The mars is south of the earth.
+2 The neptune is north of the earth.
+3 What is south of the earth?	mars	1
+1 The earth is west of the mars.
+2 The jupiter is west of the earth.
+3 What is west of the mars?	earth	1
+1 The venus is south of the earth.
+2 The earth is south of the mars.
+3 What is south of the earth?	venus	1
+1 The neptune is north of the mars.
+2 The earth is south of the mars.
+3 What is north of the mars?	neptune	1
+1 The moon is east of the jupiter.
+2 The mars is east of the moon.
+3 What is east of the jupiter?	moon	1
+1 The jupiter is west of the venus.
+2 The moon is east of the venus.
+3 What is west of the venus?	jupiter	1
+1 The moon is north of the venus.
+2 The moon is south of the mars.
+3 What is north of the venus?	moon	1
+1 The earth is west of the moon.
+2 The neptune is west of the earth.
+3 What is the moon east of?	earth	1
+1 The neptune is east of the mars.
+2 The moon is west of the mars.
+3 What is west of the mars?	moon	2
+1 The venus is east of the jupiter.
+2 The moon is east of the venus.
+3 What is the jupiter west of?	venus	1
+1 The moon is north of the mars.
+2 The moon is south of the venus.
+3 What is north of the mars?	moon	1
+1 The mars is south of the neptune.
+2 The jupiter is north of the neptune.
+3 What is the neptune north of?	mars	1
+1 The mars is north of the moon.
+2 The neptune is north of the mars.
+3 What is the mars south of?	neptune	2
+1 The moon is west of the earth.
+2 The neptune is east of the earth.
+3 What is east of the earth?	neptune	2
+1 The mars is south of the venus.
+2 The neptune is north of the venus.
+3 What is north of the venus?	neptune	2
+1 The jupiter is north of the moon.
+2 The earth is south of the moon.
+3 What is north of the moon?	jupiter	1
+1 The venus is south of the moon.
+2 The mars is south of the venus.
+3 What is the venus north of?	mars	2
+1 The mars is west of the neptune.
+2 The venus is east of the neptune.
+3 What is west of the neptune?	mars	1
+1 The moon is west of the jupiter.
+2 The jupiter is west of the neptune.
+3 What is the jupiter east of?	moon	1
+1 The earth is south of the neptune.
+2 The venus is north of the neptune.
+3 What is north of the neptune?	venus	2
+1 The jupiter is west of the moon.
+2 The mars is east of the moon.
+3 What is east of the moon?	mars	2
+1 The jupiter is north of the neptune.
+2 The mars is south of the neptune.
+3 What is south of the neptune?	mars	2
+1 The neptune is west of the jupiter.
+2 The mars is west of the neptune.
+3 What is west of the jupiter?	neptune	1
+1 The earth is south of the jupiter.
+2 The venus is north of the jupiter.
+3 What is the jupiter north of?	earth	1
+1 The neptune is west of the mars.
+2 The neptune is east of the venus.
+3 What is west of the mars?	neptune	1
+1 The earth is west of the moon.
+2 The jupiter is east of the moon.
+3 What is the moon west of?	jupiter	2
+1 The mars is south of the earth.
+2 The venus is north of the earth.
+3 What is the earth south of?	venus	2
+1 The earth is west of the mars.
+2 The mars is west of the moon.
+3 What is the moon east of?	mars	2
+1 The jupiter is south of the moon.
+2 The venus is north of the moon.
+3 What is south of the moon?	jupiter	1
+1 The neptune is west of the mars.
+2 The mars is west of the earth.
+3 What is the earth east of?	mars	2
+1 The earth is east of the jupiter.
+2 The jupiter is east of the neptune.
+3 What is the neptune west of?	jupiter	2
+1 The earth is east of the moon.
+2 The earth is west of the jupiter.
+3 What is the jupiter east of?	earth	2
+1 The earth is south of the neptune.
+2 The moon is south of the earth.
+3 What is south of the earth?	moon	2
+1 The earth is north of the venus.
+2 The mars is north of the earth.
+3 What is the venus south of?	earth	1
+1 The neptune is north of the jupiter.
+2 The neptune is south of the mars.
+3 What is north of the jupiter?	neptune	1
+1 The mars is east of the venus.
+2 The mars is west of the jupiter.
+3 What is west of the jupiter?	mars	2
+1 The neptune is east of the venus.
+2 The mars is west of the venus.
+3 What is east of the venus?	neptune	1
+1 The venus is south of the jupiter.
+2 The earth is north of the jupiter.
+3 What is the jupiter north of?	venus	1
+1 The venus is north of the moon.
+2 The mars is north of the venus.
+3 What is the venus south of?	mars	2
+1 The earth is south of the jupiter.
+2 The venus is north of the jupiter.
+3 What is north of the jupiter?	venus	2
+1 The neptune is south of the moon.
+2 The moon is south of the earth.
+3 What is south of the earth?	moon	2
+1 The moon is east of the neptune.
+2 The neptune is east of the mars.
+3 What is east of the neptune?	moon	1
+1 The mars is west of the venus.
+2 The mars is east of the earth.
+3 What is west of the venus?	mars	1
+1 The neptune is south of the earth.
+2 The jupiter is south of the neptune.
+3 What is the neptune north of?	jupiter	2
+1 The venus is north of the earth.
+2 The neptune is north of the venus.
+3 What is north of the venus?	neptune	2
+1 The neptune is north of the mars.
+2 The jupiter is south of the mars.
+3 What is south of the mars?	jupiter	2
+1 The moon is east of the venus.
+2 The mars is west of the venus.
+3 What is the venus west of?	moon	1
+1 The moon is west of the mars.
+2 The mars is west of the neptune.
+3 What is the mars east of?	moon	1
+1 The moon is south of the mars.
+2 The venus is north of the mars.
+3 What is the mars south of?	venus	2
+1 The neptune is south of the moon.
+2 The neptune is north of the earth.
+3 What is the moon north of?	neptune	1
+1 The earth is south of the moon.
+2 The earth is north of the venus.
+3 What is south of the moon?	earth	1
+1 The moon is north of the neptune.
+2 The moon is south of the earth.
+3 What is the earth north of?	moon	2
+1 The mars is south of the venus.
+2 The venus is south of the moon.
+3 What is the venus north of?	mars	1
+1 The jupiter is south of the venus.
+2 The moon is south of the jupiter.
+3 What is the venus north of?	jupiter	1
+1 The moon is south of the venus.
+2 The jupiter is north of the venus.
+3 What is south of the venus?	moon	1
+1 The moon is west of the venus.
+2 The moon is east of the earth.
+3 What is the earth west of?	moon	2
+1 The neptune is west of the mars.
+2 The earth is west of the neptune.
+3 What is west of the mars?	neptune	1
+1 The earth is west of the venus.
+2 The neptune is west of the earth.
+3 What is the venus east of?	earth	1
+1 The earth is south of the jupiter.
+2 The jupiter is south of the mars.
+3 What is the mars north of?	jupiter	2
+1 The neptune is north of the moon.
+2 The mars is north of the neptune.
+3 What is north of the neptune?	mars	2
+1 The earth is north of the mars.
+2 The venus is south of the mars.
+3 What is the mars north of?	venus	2
+1 The mars is south of the earth.
+2 The neptune is north of the earth.
+3 What is south of the earth?	mars	1
+1 The mars is west of the earth.
+2 The earth is west of the venus.
+3 What is the venus east of?	earth	2
+1 The jupiter is north of the neptune.
+2 The venus is south of the neptune.
+3 What is south of the neptune?	venus	2
+1 The neptune is west of the moon.
+2 The mars is east of the moon.
+3 What is the moon west of?	mars	2
+1 The venus is east of the mars.
+2 The jupiter is west of the mars.
+3 What is the mars east of?	jupiter	2
+1 The moon is east of the venus.
+2 The jupiter is east of the moon.
+3 What is east of the venus?	moon	1
+1 The moon is south of the venus.
+2 The earth is north of the venus.
+3 What is the venus north of?	moon	1
+1 The jupiter is south of the venus.
+2 The jupiter is north of the earth.
+3 What is the venus north of?	jupiter	1
+1 The venus is south of the neptune.
+2 The earth is north of the neptune.
+3 What is north of the neptune?	earth	2
+1 The earth is south of the moon.
+2 The moon is south of the mars.
+3 What is the mars north of?	moon	2
+1 The moon is north of the neptune.
+2 The jupiter is south of the neptune.
+3 What is the neptune north of?	jupiter	2
+1 The earth is south of the jupiter.
+2 The venus is north of the jupiter.
+3 What is the jupiter north of?	earth	1
+1 The moon is north of the neptune.
+2 The jupiter is north of the moon.
+3 What is the neptune south of?	moon	1
+1 The venus is west of the earth.
+2 The moon is east of the earth.
+3 What is the earth west of?	moon	2
+1 The venus is east of the moon.
+2 The earth is west of the moon.
+3 What is east of the moon?	venus	1
+1 The venus is south of the jupiter.
+2 The neptune is north of the jupiter.
+3 What is the jupiter north of?	venus	1
+1 The neptune is north of the mars.
+2 The mars is north of the jupiter.
+3 What is north of the jupiter?	mars	2
+1 The venus is west of the neptune.
+2 The jupiter is east of the neptune.
+3 What is east of the neptune?	jupiter	2
+1 The neptune is east of the venus.
+2 The neptune is west of the jupiter.
+3 What is the jupiter east of?	neptune	2
+1 The mars is west of the venus.
+2 The neptune is east of the venus.
+3 What is the venus east of?	mars	1
+1 The moon is south of the venus.
+2 The jupiter is north of the venus.
+3 What is north of the venus?	jupiter	2
+1 The jupiter is east of the earth.
+2 The mars is west of the earth.
+3 What is the earth west of?	jupiter	1
+1 The venus is north of the mars.
+2 The mars is north of the earth.
+3 What is north of the mars?	venus	1
+1 The earth is west of the venus.
+2 The mars is east of the venus.
+3 What is the venus east of?	earth	1
+1 The mars is east of the jupiter.
+2 The venus is west of the jupiter.
+3 What is east of the jupiter?	mars	1
+1 The jupiter is east of the mars.
+2 The venus is west of the mars.
+3 What is the mars east of?	venus	2
+1 The moon is north of the neptune.
+2 The venus is south of the neptune.
+3 What is the neptune south of?	moon	1
+1 The venus is north of the earth.
+2 The mars is north of the venus.
+3 What is the earth south of?	venus	1
+1 The moon is west of the venus.
+2 The venus is west of the neptune.
+3 What is west of the venus?	moon	1
+1 The mars is east of the jupiter.
+2 The mars is west of the earth.
+3 What is east of the jupiter?	mars	1
+1 The jupiter is north of the venus.
+2 The earth is south of the venus.
+3 What is the venus south of?	jupiter	1
+1 The jupiter is east of the neptune.
+2 The earth is west of the neptune.
+3 What is the neptune west of?	jupiter	1
+1 The moon is east of the venus.
+2 The moon is west of the earth.
+3 What is east of the venus?	moon	1
+1 The venus is west of the neptune.
+2 The neptune is west of the moon.
+3 What is the neptune east of?	venus	1
+1 The venus is west of the mars.
+2 The jupiter is east of the mars.
+3 What is the mars east of?	venus	1
+1 The neptune is north of the jupiter.
+2 The mars is north of the neptune.
+3 What is north of the neptune?	mars	2
+1 The neptune is west of the moon.
+2 The mars is west of the neptune.
+3 What is west of the neptune?	mars	2
+1 The moon is north of the venus.
+2 The moon is south of the earth.
+3 What is south of the earth?	moon	2
+1 The earth is north of the mars.
+2 The mars is north of the moon.
+3 What is the mars south of?	earth	1
+1 The moon is west of the earth.
+2 The venus is west of the moon.
+3 What is west of the earth?	moon	1
+1 The neptune is west of the venus.
+2 The jupiter is west of the neptune.
+3 What is west of the neptune?	jupiter	2
+1 The moon is west of the neptune.
+2 The mars is east of the neptune.
+3 What is east of the neptune?	mars	2
+1 The neptune is south of the jupiter.
+2 The venus is north of the jupiter.
+3 What is north of the jupiter?	venus	2
+1 The earth is north of the venus.
+2 The venus is north of the neptune.
+3 What is north of the venus?	earth	1
+1 The moon is north of the earth.
+2 The mars is south of the earth.
+3 What is the earth south of?	moon	1
+1 The moon is north of the neptune.
+2 The neptune is north of the jupiter.
+3 What is north of the jupiter?	neptune	2
+1 The neptune is south of the moon.
+2 The earth is north of the moon.
+3 What is south of the moon?	neptune	1
+1 The earth is east of the mars.
+2 The jupiter is east of the earth.
+3 What is the earth west of?	jupiter	2
+1 The mars is north of the venus.
+2 The neptune is south of the venus.
+3 What is the venus south of?	mars	1
+1 The neptune is east of the venus.
+2 The jupiter is west of the venus.
+3 What is the venus west of?	neptune	1
+1 The earth is west of the jupiter.
+2 The jupiter is west of the neptune.
+3 What is west of the neptune?	jupiter	2
+1 The neptune is east of the jupiter.
+2 The jupiter is east of the earth.
+3 What is the jupiter west of?	neptune	1
+1 The earth is west of the neptune.
+2 The mars is west of the earth.
+3 What is the neptune east of?	earth	1
+1 The mars is south of the neptune.
+2 The earth is north of the neptune.
+3 What is the neptune south of?	earth	2
+1 The earth is west of the neptune.
+2 The neptune is west of the venus.
+3 What is the venus east of?	neptune	2
+1 The earth is south of the neptune.
+2 The neptune is south of the moon.
+3 What is the neptune north of?	earth	1
+1 The neptune is east of the earth.
+2 The mars is west of the earth.
+3 What is east of the earth?	neptune	1
+1 The neptune is west of the moon.
+2 The venus is west of the neptune.
+3 What is west of the moon?	neptune	1
+1 The earth is south of the venus.
+2 The mars is north of the venus.
+3 What is north of the venus?	mars	2
+1 The venus is east of the earth.
+2 The mars is west of the earth.
+3 What is west of the earth?	mars	2
+1 The neptune is south of the earth.
+2 The mars is north of the earth.
+3 What is north of the earth?	mars	2
+1 The venus is west of the neptune.
+2 The venus is east of the mars.
+3 What is the mars west of?	venus	2

@@ -1,0 +1,3352 @@
+1 This morning Doud moved to the mars.
+2 This afternoon Doud moved to the mercury.
+3 Yesterday Bill went to the earth.
+4 Yesterday Doud journeyed to the uranus.
+5 Where was Doud before the mercury? 	mars	2 1
+6 Yesterday Fred went back to the mercury.
+7 Bill journeyed to the jupiter this morning.
+8 Where was Bill before the jupiter? 	earth	7 3
+9 Doud went to the uranus this evening.
+10 This afternoon Bill journeyed to the mars.
+11 Where was Bill before the jupiter? 	earth	7 3
+12 Julie went to the jupiter yesterday.
+13 This morning Fred journeyed to the jupiter.
+14 Where was Doud before the uranus? 	mercury	9 2
+15 This evening Fred journeyed to the uranus.
+16 This afternoon Fred journeyed to the earth.
+17 Where was Doud before the uranus? 	mercury	9 2
+1 Julie went back to the uranus yesterday.
+2 Fred journeyed to the mercury yesterday.
+3 Bill went back to the uranus this morning.
+4 Yesterday Bill travelled to the earth.
+5 Where was Bill before the uranus? 	earth	3 4
+6 Doud travelled to the mercury this morning.
+7 Yesterday Doud moved to the jupiter.
+8 Where was Doud before the mercury? 	jupiter	6 7
+9 This morning Fred journeyed to the saturn.
+10 This afternoon Doud moved to the mars.
+11 Where was Doud before the mercury? 	jupiter	6 7
+12 Bill moved to the earth this afternoon.
+13 This morning Julie travelled to the jupiter.
+14 Where was Julie before the jupiter? 	uranus	13 1
+15 This afternoon Julie went to the mars.
+16 This evening Doud moved to the uranus.
+17 Where was Julie before the jupiter? 	uranus	13 1
+1 Fred travelled to the mars yesterday.
+2 Julie journeyed to the saturn yesterday.
+3 Doud journeyed to the saturn yesterday.
+4 This morning Doud journeyed to the mercury.
+5 Where was Doud before the mercury? 	saturn	4 3
+6 Doud moved to the mars this evening.
+7 This afternoon Doud moved to the jupiter.
+8 Where was Doud before the jupiter? 	mercury	7 4
+9 This morning Fred went to the earth.
+10 This morning Julie went to the earth.
+11 Where was Julie before the earth? 	saturn	10 2
+12 Julie travelled to the mars this afternoon.
+13 Yesterday Bill journeyed to the jupiter.
+14 Where was Julie before the earth? 	saturn	10 2
+15 Fred travelled to the earth this evening.
+16 Fred moved to the mercury this afternoon.
+17 Where was Fred before the earth? 	mercury	15 16
+1 This morning Fred journeyed to the mercury.
+2 Yesterday Fred went back to the jupiter.
+3 Yesterday Julie travelled to the jupiter.
+4 This morning Julie travelled to the earth.
+5 Where was Julie before the earth? 	jupiter	4 3
+6 Doud went to the saturn yesterday.
+7 Yesterday Bill went back to the mercury.
+8 Where was Fred before the mercury? 	jupiter	1 2
+9 Doud journeyed to the jupiter this afternoon.
+10 Doud moved to the earth this morning.
+11 Where was Fred before the mercury? 	jupiter	1 2
+12 Fred journeyed to the jupiter this evening.
+13 Fred travelled to the mars this afternoon.
+14 Where was Doud before the jupiter? 	earth	9 10
+15 This evening Julie moved to the jupiter.
+16 Julie journeyed to the mars this afternoon.
+17 Where was Julie before the mars? 	earth	16 4
+1 Doud went back to the mars this morning.
+2 Doud travelled to the uranus yesterday.
+3 Where was Doud before the mars? 	uranus	1 2
+4 Yesterday Fred travelled to the earth.
+5 Yesterday Bill moved to the saturn.
+6 Where was Doud before the mars? 	uranus	1 2
+7 This afternoon Bill went back to the saturn.
+8 Bill went to the uranus this morning.
+9 Where was Bill before the saturn? 	uranus	7 8
+10 Bill travelled to the jupiter this evening.
+11 This afternoon Doud journeyed to the mercury.
+12 Where was Bill before the saturn? 	uranus	7 8
+13 This evening Doud journeyed to the mars.
+14 Julie went back to the jupiter yesterday.
+15 Where was Doud before the mars? 	mercury	13 11
+1 Fred went to the uranus yesterday.
+2 Yesterday Julie journeyed to the mars.
+3 Bill went to the earth yesterday.
+4 This morning Bill went to the mars.
+5 Where was Bill before the mars? 	earth	4 3
+6 Fred moved to the mars this morning.
+7 Julie moved to the jupiter this morning.
+8 Where was Julie before the jupiter? 	mars	7 2
+9 This afternoon Fred travelled to the mercury.
+10 This afternoon Bill went to the earth.
+11 Where was Fred before the mercury? 	mars	9 6
+12 Doud went to the saturn yesterday.
+13 This evening Fred journeyed to the earth.
+14 Where was Fred before the earth? 	mercury	13 9
+15 Bill journeyed to the uranus this evening.
+16 This morning Doud moved to the mars.
+17 Where was Fred before the earth? 	mercury	13 9
+1 Doud travelled to the earth yesterday.
+2 Bill went to the uranus yesterday.
+3 Yesterday Julie journeyed to the mars.
+4 Bill travelled to the saturn this morning.
+5 Where was Bill before the saturn? 	uranus	4 2
+6 Bill went back to the mars this afternoon.
+7 Julie moved to the earth this morning.
+8 Where was Bill before the saturn? 	uranus	4 2
+9 This evening Julie journeyed to the uranus.
+10 This afternoon Julie journeyed to the mars.
+11 Where was Julie before the mars? 	earth	10 7
+12 Bill travelled to the jupiter this evening.
+13 Fred journeyed to the earth yesterday.
+14 Where was Bill before the mars? 	saturn	6 4
+15 Fred travelled to the earth this afternoon.
+16 This morning Fred travelled to the jupiter.
+17 Where was Julie before the uranus? 	mars	9 10
+1 This morning Fred travelled to the earth.
+2 Yesterday Fred travelled to the saturn.
+3 Where was Fred before the earth? 	saturn	1 2
+4 This evening Fred went to the earth.
+5 Fred moved to the mercury this afternoon.
+6 Where was Fred before the mercury? 	earth	5 1
+7 This morning Julie went back to the mercury.
+8 Julie journeyed to the uranus yesterday.
+9 Where was Fred before the earth? 	mercury	4 5
+10 Bill went to the uranus yesterday.
+11 Doud journeyed to the uranus yesterday.
+12 Where was Julie before the mercury? 	uranus	7 8
+13 Bill journeyed to the mars this morning.
+14 Julie went back to the uranus this afternoon.
+15 Where was Julie before the uranus? 	mercury	14 7
+1 This morning Doud went to the mars.
+2 Yesterday Doud travelled to the mercury.
+3 Where was Doud before the mars? 	mercury	1 2
+4 Bill travelled to the saturn yesterday.
+5 This afternoon Doud went back to the jupiter.
+6 Where was Doud before the jupiter? 	mars	5 1
+7 Bill went to the earth this morning.
+8 Yesterday Julie went back to the mercury.
+9 Where was Doud before the jupiter? 	mars	5 1
+10 This afternoon Bill moved to the saturn.
+11 Julie moved to the uranus this morning.
+12 Where was Bill before the earth? 	saturn	7 4
+13 Fred went back to the saturn yesterday.
+14 Doud travelled to the saturn this evening.
+15 Where was Doud before the saturn? 	jupiter	14 5
+1 Yesterday Fred travelled to the earth.
+2 Bill travelled to the earth yesterday.
+3 Yesterday Julie went to the mercury.
+4 This morning Fred went to the uranus.
+5 Where was Fred before the uranus? 	earth	4 1
+6 This morning Julie moved to the earth.
+7 Fred moved to the jupiter this afternoon.
+8 Where was Julie before the earth? 	mercury	6 3
+9 Doud travelled to the mars yesterday.
+10 This evening Fred went back to the uranus.
+11 Where was Fred before the uranus? 	jupiter	10 7
+12 Doud moved to the uranus this afternoon.
+13 Doud went back to the jupiter this morning.
+14 Where was Doud before the uranus? 	jupiter	12 13
+15 Julie went back to the saturn this afternoon.
+16 Bill went to the uranus this morning.
+17 Where was Julie before the saturn? 	earth	15 6
+1 This morning Bill went back to the saturn.
+2 Yesterday Doud went to the earth.
+3 This morning Doud moved to the jupiter.
+4 Yesterday Bill travelled to the mercury.
+5 Where was Doud before the jupiter? 	earth	3 2
+6 Doud journeyed to the mercury this afternoon.
+7 Julie went to the jupiter yesterday.
+8 Where was Doud before the jupiter? 	earth	3 2
+9 Julie travelled to the uranus this morning.
+10 Bill moved to the uranus this afternoon.
+11 Where was Bill before the uranus? 	saturn	10 1
+12 This evening Doud moved to the uranus.
+13 Bill moved to the earth this evening.
+14 Where was Bill before the uranus? 	saturn	10 1
+15 This afternoon Julie went to the earth.
+16 Yesterday Fred went to the earth.
+17 Where was Bill before the earth? 	uranus	13 10
+1 This morning Fred journeyed to the mars.
+2 Julie travelled to the mercury yesterday.
+3 This afternoon Fred went back to the mercury.
+4 Yesterday Fred journeyed to the jupiter.
+5 Where was Fred before the mars? 	jupiter	1 4
+6 Yesterday Doud went back to the jupiter.
+7 Yesterday Bill went to the saturn.
+8 Where was Fred before the mercury? 	mars	3 1
+9 This morning Bill journeyed to the mars.
+10 Fred travelled to the mars this evening.
+11 Where was Fred before the mercury? 	mars	3 1
+12 This afternoon Bill journeyed to the uranus.
+13 Doud went to the mercury this morning.
+14 Where was Bill before the uranus? 	mars	12 9
+15 This evening Bill travelled to the mars.
+16 This afternoon Doud moved to the mars.
+17 Where was Bill before the uranus? 	mars	12 9
+1 Bill travelled to the jupiter yesterday.
+2 Bill moved to the uranus this morning.
+3 Fred went back to the mars yesterday.
+4 Julie journeyed to the uranus yesterday.
+5 Where was Bill before the uranus? 	jupiter	2 1
+6 This afternoon Bill journeyed to the mercury.
+7 Yesterday Doud journeyed to the saturn.
+8 Where was Bill before the mercury? 	uranus	6 2
+9 Fred journeyed to the earth this morning.
+10 Julie went back to the mars this morning.
+11 Where was Bill before the mercury? 	uranus	6 2
+12 Fred travelled to the saturn this afternoon.
+13 Bill travelled to the earth this evening.
+14 Where was Bill before the earth? 	mercury	13 6
+15 This evening Fred went back to the jupiter.
+16 Julie went back to the mercury this afternoon.
+17 Where was Bill before the earth? 	mercury	13 6
+1 Bill journeyed to the mercury this morning.
+2 Bill moved to the jupiter yesterday.
+3 Where was Bill before the mercury? 	jupiter	1 2
+4 Fred went back to the earth yesterday.
+5 Bill travelled to the saturn this afternoon.
+6 Where was Bill before the saturn? 	mercury	5 1
+7 This morning Fred journeyed to the uranus.
+8 Bill went to the mercury this evening.
+9 Where was Fred before the uranus? 	earth	7 4
+10 This morning Doud moved to the jupiter.
+11 Yesterday Doud moved to the earth.
+12 Where was Bill before the mercury? 	saturn	8 5
+13 This afternoon Fred travelled to the earth.
+14 Doud journeyed to the uranus this afternoon.
+15 Where was Fred before the uranus? 	earth	7 4
+1 Yesterday Bill went to the uranus.
+2 Doud journeyed to the mars this morning.
+3 Fred went to the uranus yesterday.
+4 Yesterday Doud went to the jupiter.
+5 Where was Doud before the mars? 	jupiter	2 4
+6 This afternoon Doud went back to the earth.
+7 This morning Fred journeyed to the mercury.
+8 Where was Doud before the mars? 	jupiter	2 4
+9 This evening Doud went to the saturn.
+10 Julie journeyed to the earth yesterday.
+11 Where was Doud before the saturn? 	earth	9 6
+12 Fred went back to the uranus this afternoon.
+13 Bill journeyed to the earth this morning.
+14 Where was Fred before the uranus? 	mercury	12 7
+15 This morning Julie went to the uranus.
+16 This afternoon Bill journeyed to the mars.
+17 Where was Bill before the earth? 	uranus	13 1
+1 Yesterday Doud moved to the earth.
+2 Julie moved to the jupiter this morning.
+3 Fred went back to the mars yesterday.
+4 This morning Bill journeyed to the jupiter.
+5 Bill went back to the uranus yesterday.
+6 Julie went to the mercury yesterday.
+7 Where was Bill before the jupiter? 	uranus	4 5
+8 This morning Fred travelled to the uranus.
+9 This afternoon Julie moved to the earth.
+10 Where was Julie before the jupiter? 	mercury	2 6
+11 Doud went back to the mars this morning.
+12 This afternoon Bill went back to the mercury.
+13 Where was Bill before the mercury? 	jupiter	12 4
+14 This afternoon Fred journeyed to the mercury.
+15 This evening Julie went to the saturn.
+16 Where was Bill before the mercury? 	jupiter	12 4
+17 This afternoon Doud went to the saturn.
+18 Fred journeyed to the saturn this evening.
+19 Where was Fred before the saturn? 	mercury	18 14
+1 Fred moved to the saturn this morning.
+2 Yesterday Fred went back to the mars.
+3 Where was Fred before the saturn? 	mars	1 2
+4 Yesterday Bill moved to the jupiter.
+5 Julie journeyed to the uranus yesterday.
+6 Where was Fred before the saturn? 	mars	1 2
+7 Fred went back to the saturn this evening.
+8 This afternoon Fred went to the jupiter.
+9 Where was Fred before the jupiter? 	saturn	8 1
+10 Bill moved to the earth this morning.
+11 This morning Julie went to the jupiter.
+12 Where was Fred before the saturn? 	jupiter	7 8
+13 Julie journeyed to the saturn this afternoon.
+14 Doud travelled to the mercury yesterday.
+15 Where was Bill before the earth? 	jupiter	10 4
+1 Julie travelled to the uranus yesterday.
+2 This morning Bill went to the saturn.
+3 Doud went back to the earth yesterday.
+4 Yesterday Bill travelled to the uranus.
+5 Where was Bill before the saturn? 	uranus	2 4
+6 This afternoon Bill went to the mercury.
+7 Fred journeyed to the uranus yesterday.
+8 Where was Bill before the saturn? 	uranus	2 4
+9 This evening Bill moved to the saturn.
+10 Fred went back to the mars this morning.
+11 Where was Bill before the saturn? 	mercury	9 6
+12 Julie journeyed to the jupiter this morning.
+13 Fred went back to the earth this afternoon.
+14 Where was Bill before the saturn? 	mercury	9 6
+15 Julie travelled to the mercury this evening.
+16 Julie journeyed to the earth this afternoon.
+17 Where was Fred before the earth? 	mars	13 10
+1 Doud journeyed to the earth yesterday.
+2 Bill travelled to the jupiter yesterday.
+3 This morning Doud went to the mercury.
+4 Yesterday Fred journeyed to the mercury.
+5 Where was Doud before the mercury? 	earth	3 1
+6 Julie journeyed to the mars yesterday.
+7 Doud travelled to the jupiter this afternoon.
+8 Where was Doud before the jupiter? 	mercury	7 3
+9 Doud moved to the earth this evening.
+10 Fred travelled to the saturn this morning.
+11 Where was Doud before the earth? 	jupiter	9 7
+12 This afternoon Fred moved to the mercury.
+13 Julie went back to the jupiter this morning.
+14 Where was Doud before the earth? 	jupiter	9 7
+15 Julie travelled to the uranus this evening.
+16 Julie travelled to the earth this afternoon.
+17 Where was Doud before the earth? 	jupiter	9 7
+1 This afternoon Doud went back to the saturn.
+2 This morning Doud moved to the jupiter.
+3 Yesterday Julie journeyed to the earth.
+4 Yesterday Doud travelled to the uranus.
+5 Where was Doud before the saturn? 	jupiter	1 2
+6 Bill went back to the saturn this morning.
+7 Bill journeyed to the uranus yesterday.
+8 Where was Doud before the saturn? 	jupiter	1 2
+9 This afternoon Bill journeyed to the mercury.
+10 This morning Julie went to the jupiter.
+11 Where was Julie before the jupiter? 	earth	10 3
+12 This afternoon Julie moved to the saturn.
+13 Fred moved to the jupiter yesterday.
+14 Where was Bill before the saturn? 	uranus	6 7
+15 This evening Bill went to the earth.
+16 This morning Fred journeyed to the mercury.
+17 Where was Bill before the mercury? 	saturn	9 6
+1 This morning Bill moved to the saturn.
+2 This morning Doud travelled to the earth.
+3 Bill travelled to the mercury yesterday.
+4 Yesterday Doud moved to the jupiter.
+5 Where was Doud before the earth? 	jupiter	2 4
+6 This evening Bill travelled to the mercury.
+7 This afternoon Bill went to the mars.
+8 Where was Doud before the earth? 	jupiter	2 4
+9 Yesterday Julie went to the uranus.
+10 Doud went back to the mercury this afternoon.
+11 Where was Bill before the mercury? 	mars	6 7
+12 This morning Julie went back to the earth.
+13 Fred travelled to the jupiter yesterday.
+14 Where was Doud before the mercury? 	earth	10 2
+15 Julie travelled to the saturn this evening.
+16 This afternoon Julie moved to the mercury.
+17 Where was Julie before the saturn? 	mercury	15 16
+1 Bill went to the jupiter this morning.
+2 Bill went back to the mercury yesterday.
+3 Where was Bill before the jupiter? 	mercury	1 2
+4 Yesterday Fred moved to the earth.
+5 Bill went to the uranus this afternoon.
+6 Where was Bill before the uranus? 	jupiter	5 1
+7 This morning Julie went back to the mars.
+8 Julie went to the jupiter yesterday.
+9 Where was Bill before the jupiter? 	mercury	1 2
+10 This evening Julie travelled to the mercury.
+11 This afternoon Julie travelled to the jupiter.
+12 Where was Julie before the mercury? 	jupiter	10 11
+13 Yesterday Doud went to the uranus.
+14 This evening Bill travelled to the earth.
+15 Where was Julie before the mars? 	jupiter	7 8
+1 Yesterday Bill went to the earth.
+2 Yesterday Fred moved to the mercury.
+3 Doud travelled to the uranus yesterday.
+4 This morning Doud moved to the jupiter.
+5 Where was Doud before the jupiter? 	uranus	4 3
+6 This afternoon Bill went back to the earth.
+7 This morning Bill moved to the jupiter.
+8 Where was Bill before the earth? 	jupiter	6 7
+9 Julie travelled to the mars this morning.
+10 Julie travelled to the jupiter yesterday.
+11 Where was Bill before the jupiter? 	earth	7 1
+12 This morning Fred went back to the uranus.
+13 Bill went back to the mercury this evening.
+14 Where was Julie before the mars? 	jupiter	9 10
+15 Julie journeyed to the jupiter this afternoon.
+16 Fred travelled to the saturn this afternoon.
+17 Where was Fred before the uranus? 	mercury	12 2
+1 Fred journeyed to the uranus this morning.
+2 This morning Bill moved to the saturn.
+3 Bill went to the uranus yesterday.
+4 Yesterday Fred journeyed to the mercury.
+5 Where was Bill before the saturn? 	uranus	2 3
+6 This afternoon Bill moved to the earth.
+7 Doud went back to the uranus yesterday.
+8 Where was Bill before the earth? 	saturn	6 2
+9 Fred went back to the earth this afternoon.
+10 This morning Doud went to the jupiter.
+11 Where was Fred before the earth? 	uranus	9 1
+12 Fred moved to the uranus this evening.
+13 Bill went to the uranus this evening.
+14 Where was Bill before the uranus? 	earth	13 6
+15 This evening Doud went to the uranus.
+16 Doud travelled to the saturn this afternoon.
+17 Where was Fred before the earth? 	uranus	9 1
+1 Yesterday Bill journeyed to the jupiter.
+2 Fred went to the jupiter yesterday.
+3 Yesterday Doud went to the mercury.
+4 This morning Fred went back to the earth.
+5 Where was Fred before the earth? 	jupiter	4 2
+6 Julie went back to the earth yesterday.
+7 Bill went to the saturn this morning.
+8 Where was Bill before the saturn? 	jupiter	7 1
+9 This evening Bill went back to the mercury.
+10 Bill went back to the mars this afternoon.
+11 Where was Bill before the saturn? 	jupiter	7 1
+12 Doud travelled to the earth this afternoon.
+13 Doud journeyed to the mars this morning.
+14 Where was Doud before the earth? 	mars	12 13
+15 This morning Julie went back to the mars.
+16 Doud travelled to the mercury this evening.
+17 Where was Doud before the earth? 	mars	12 13
+1 Yesterday Doud travelled to the mercury.
+2 This morning Fred went back to the earth.
+3 Yesterday Julie went to the uranus.
+4 Fred went to the jupiter yesterday.
+5 Where was Fred before the earth? 	jupiter	2 4
+6 This morning Julie went to the mercury.
+7 Yesterday Bill moved to the uranus.
+8 Where was Julie before the mercury? 	uranus	6 3
+9 This evening Fred travelled to the uranus.
+10 This afternoon Fred went to the saturn.
+11 Where was Fred before the uranus? 	saturn	9 10
+12 Julie went to the saturn this afternoon.
+13 This morning Bill went to the mercury.
+14 Where was Fred before the uranus? 	saturn	9 10
+15 Bill went back to the saturn this evening.
+16 Bill went back to the earth this afternoon.
+17 Where was Bill before the saturn? 	earth	15 16
+1 Julie travelled to the jupiter this afternoon.
+2 This morning Julie moved to the uranus.
+3 Yesterday Doud went back to the mercury.
+4 Yesterday Julie journeyed to the mercury.
+5 Where was Julie before the uranus? 	mercury	2 4
+6 Julie moved to the earth this evening.
+7 Yesterday Fred went back to the mercury.
+8 Where was Julie before the earth? 	jupiter	6 1
+9 This morning Bill moved to the saturn.
+10 Bill journeyed to the uranus yesterday.
+11 Where was Julie before the earth? 	jupiter	6 1
+12 Fred journeyed to the jupiter this morning.
+13 This afternoon Bill went back to the jupiter.
+14 Where was Fred before the jupiter? 	mercury	12 7
+15 Bill went to the mars this evening.
+16 Fred journeyed to the uranus this afternoon.
+17 Where was Fred before the jupiter? 	mercury	12 7
+1 Yesterday Julie went back to the earth.
+2 This morning Bill travelled to the saturn.
+3 Yesterday Bill went to the jupiter.
+4 Yesterday Doud went to the earth.
+5 Where was Bill before the saturn? 	jupiter	2 3
+6 Julie travelled to the mercury this morning.
+7 Doud travelled to the jupiter this morning.
+8 Where was Doud before the jupiter? 	earth	7 4
+9 This afternoon Doud travelled to the saturn.
+10 This afternoon Bill went to the uranus.
+11 Where was Bill before the saturn? 	jupiter	2 3
+12 This afternoon Julie went to the jupiter.
+13 Doud went back to the mercury this evening.
+14 Where was Julie before the jupiter? 	mercury	12 6
+15 Yesterday Fred went back to the earth.
+16 Julie journeyed to the uranus this evening.
+17 Where was Doud before the saturn? 	jupiter	9 7
+1 This afternoon Julie went to the earth.
+2 This morning Julie moved to the mercury.
+3 Fred journeyed to the earth yesterday.
+4 Julie travelled to the mars yesterday.
+5 Where was Julie before the mercury? 	mars	2 4
+6 Doud journeyed to the jupiter this morning.
+7 Doud travelled to the earth yesterday.
+8 Where was Doud before the jupiter? 	earth	6 7
+9 Yesterday Bill travelled to the earth.
+10 This evening Julie went back to the mars.
+11 Where was Julie before the earth? 	mercury	1 2
+12 Fred journeyed to the mars this morning.
+13 This afternoon Doud went to the mars.
+14 Where was Fred before the mars? 	earth	12 3
+15 This evening Doud moved to the earth.
+16 Bill went back to the mercury this morning.
+17 Where was Doud before the mars? 	jupiter	13 6
+1 Julie moved to the mercury yesterday.
+2 This morning Bill journeyed to the mars.
+3 Yesterday Fred went back to the jupiter.
+4 Bill travelled to the earth yesterday.
+5 Where was Bill before the mars? 	earth	2 4
+6 Doud journeyed to the uranus this morning.
+7 Yesterday Doud travelled to the saturn.
+8 Where was Bill before the mars? 	earth	2 4
+9 This morning Julie travelled to the jupiter.
+10 This afternoon Bill went back to the jupiter.
+11 Where was Julie before the jupiter? 	mercury	9 1
+12 Bill went back to the mars this evening.
+13 Fred went to the mercury this morning.
+14 Where was Doud before the uranus? 	saturn	6 7
+15 Doud went to the jupiter this evening.
+16 Doud went back to the mars this afternoon.
+17 Where was Doud before the jupiter? 	mars	15 16
+1 Bill moved to the mercury this morning.
+2 Bill went to the jupiter yesterday.
+3 Where was Bill before the mercury? 	jupiter	1 2
+4 Doud journeyed to the mercury yesterday.
+5 Bill journeyed to the saturn this afternoon.
+6 Where was Bill before the mercury? 	jupiter	1 2
+7 Yesterday Julie went back to the saturn.
+8 Yesterday Fred moved to the mercury.
+9 Where was Bill before the saturn? 	mercury	5 1
+10 Julie journeyed to the uranus this morning.
+11 Fred travelled to the jupiter this morning.
+12 Where was Fred before the jupiter? 	mercury	11 8
+13 Julie moved to the jupiter this afternoon.
+14 This morning Doud journeyed to the mars.
+15 Where was Julie before the jupiter? 	uranus	13 10
+1 Yesterday Fred travelled to the saturn.
+2 This morning Fred moved to the jupiter.
+3 This morning Julie journeyed to the earth.
+4 Yesterday Julie moved to the mercury.
+5 Where was Julie before the earth? 	mercury	3 4
+6 Doud moved to the uranus yesterday.
+7 Fred went back to the earth this afternoon.
+8 Where was Julie before the earth? 	mercury	3 4
+9 Doud journeyed to the earth this afternoon.
+10 This morning Doud journeyed to the saturn.
+11 Where was Doud before the saturn? 	uranus	10 6
+12 This evening Doud journeyed to the jupiter.
+13 Julie went back to the uranus this afternoon.
+14 Where was Doud before the saturn? 	uranus	10 6
+15 Yesterday Bill travelled to the uranus.
+16 Fred journeyed to the mercury this evening.
+17 Where was Doud before the jupiter? 	earth	12 9
+1 Fred went to the saturn this morning.
+2 Yesterday Fred went back to the jupiter.
+3 Where was Fred before the saturn? 	jupiter	1 2
+4 This morning Julie moved to the jupiter.
+5 Yesterday Julie moved to the mars.
+6 Where was Fred before the saturn? 	jupiter	1 2
+7 Fred went to the mercury this afternoon.
+8 Yesterday Doud went to the mercury.
+9 Where was Fred before the saturn? 	jupiter	1 2
+10 Julie travelled to the mars this afternoon.
+11 Fred went back to the uranus this evening.
+12 Where was Julie before the mars? 	jupiter	10 4
+13 Bill went to the jupiter yesterday.
+14 This morning Doud went back to the earth.
+15 Where was Julie before the mars? 	jupiter	10 4
+1 Fred went to the mars this morning.
+2 Julie journeyed to the earth yesterday.
+3 Yesterday Bill went back to the jupiter.
+4 This afternoon Fred went to the mercury.
+5 Yesterday Fred travelled to the mercury.
+6 Yesterday Doud travelled to the earth.
+7 Where was Fred before the mars? 	mercury	1 5
+8 This morning Julie travelled to the mars.
+9 Fred travelled to the uranus this evening.
+10 Where was Fred before the mars? 	mercury	1 5
+11 This morning Doud travelled to the mercury.
+12 This morning Bill travelled to the mars.
+13 Where was Doud before the mercury? 	earth	11 6
+14 This afternoon Bill went back to the jupiter.
+15 Doud went back to the uranus this afternoon.
+16 Where was Bill before the jupiter? 	mars	14 12
+17 Doud journeyed to the mercury this evening.
+18 This evening Bill went back to the mars.
+19 Where was Doud before the uranus? 	mercury	15 11
+1 This morning Fred journeyed to the saturn.
+2 Julie went to the earth yesterday.
+3 Yesterday Fred travelled to the uranus.
+4 Bill journeyed to the jupiter yesterday.
+5 Where was Fred before the saturn? 	uranus	1 3
+6 This afternoon Fred went to the earth.
+7 Bill moved to the saturn this morning.
+8 Where was Fred before the saturn? 	uranus	1 3
+9 This evening Fred moved to the jupiter.
+10 Doud moved to the saturn yesterday.
+11 Where was Fred before the jupiter? 	earth	9 6
+12 This afternoon Doud went to the uranus.
+13 Doud went back to the mars this morning.
+14 Where was Doud before the mars? 	saturn	13 10
+15 This morning Julie travelled to the mars.
+16 Bill went to the jupiter this afternoon.
+17 Where was Fred before the jupiter? 	earth	9 6
+1 This afternoon Fred went back to the earth.
+2 Julie went to the mars yesterday.
+3 Yesterday Fred went to the mars.
+4 Yesterday Doud moved to the mercury.
+5 Yesterday Bill travelled to the jupiter.
+6 This morning Fred went back to the jupiter.
+7 Where was Fred before the jupiter? 	mars	6 3
+8 Fred moved to the uranus this evening.
+9 Bill journeyed to the earth this morning.
+10 Where was Fred before the earth? 	jupiter	1 6
+11 This evening Bill went back to the earth.
+12 This afternoon Bill travelled to the mercury.
+13 Where was Bill before the mercury? 	earth	12 9
+14 This morning Julie travelled to the earth.
+15 This morning Doud travelled to the earth.
+16 Where was Julie before the earth? 	mars	14 2
+17 Julie went to the uranus this evening.
+18 Julie went to the mercury this afternoon.
+19 Where was Julie before the earth? 	mars	14 2
+1 This morning Fred travelled to the saturn.
+2 Julie went back to the mercury yesterday.
+3 This afternoon Fred moved to the mercury.
+4 Yesterday Fred moved to the mercury.
+5 Where was Fred before the saturn? 	mercury	1 4
+6 Doud went to the saturn this morning.
+7 Yesterday Doud went back to the uranus.
+8 Where was Doud before the saturn? 	uranus	6 7
+9 Julie went back to the mars this morning.
+10 Doud went to the uranus this afternoon.
+11 Where was Julie before the mars? 	mercury	9 2
+12 Yesterday Bill went back to the uranus.
+13 This afternoon Julie moved to the mercury.
+14 Where was Doud before the uranus? 	saturn	10 6
+15 Doud travelled to the mercury this evening.
+16 Fred travelled to the uranus this evening.
+17 Where was Doud before the mercury? 	uranus	15 10
+1 Yesterday Julie moved to the mercury.
+2 Yesterday Bill travelled to the mars.
+3 Doud journeyed to the jupiter yesterday.
+4 Bill moved to the uranus this morning.
+5 Where was Bill before the uranus? 	mars	4 2
+6 Doud journeyed to the uranus this morning.
+7 Bill moved to the mercury this afternoon.
+8 Where was Doud before the uranus? 	jupiter	6 3
+9 Julie went back to the saturn this afternoon.
+10 This morning Julie went back to the earth.
+11 Where was Bill before the mercury? 	uranus	7 4
+12 Julie journeyed to the jupiter this evening.
+13 This evening Bill travelled to the uranus.
+14 Where was Julie before the earth? 	mercury	10 1
+15 Fred went to the saturn yesterday.
+16 Doud went to the jupiter this afternoon.
+17 Where was Doud before the jupiter? 	uranus	16 6
+1 Yesterday Fred went back to the mars.
+2 Fred journeyed to the earth this morning.
+3 Bill journeyed to the jupiter yesterday.
+4 Yesterday Julie travelled to the saturn.
+5 Where was Fred before the earth? 	mars	2 1
+6 This morning Julie went back to the uranus.
+7 Yesterday Doud went back to the jupiter.
+8 Where was Fred before the earth? 	mars	2 1
+9 Bill went to the uranus this morning.
+10 Julie moved to the saturn this afternoon.
+11 Where was Fred before the earth? 	mars	2 1
+12 Julie travelled to the earth this evening.
+13 This afternoon Bill moved to the saturn.
+14 Where was Bill before the saturn? 	uranus	13 9
+15 This evening Fred travelled to the uranus.
+16 Fred went to the mercury this afternoon.
+17 Where was Julie before the earth? 	saturn	12 10
+1 Julie went to the earth yesterday.
+2 Bill travelled to the mercury this morning.
+3 Yesterday Bill went to the uranus.
+4 Fred went to the mars yesterday.
+5 Where was Bill before the mercury? 	uranus	2 3
+6 Bill went back to the earth this afternoon.
+7 Fred went back to the uranus this morning.
+8 Where was Bill before the mercury? 	uranus	2 3
+9 This afternoon Fred went back to the saturn.
+10 This evening Bill moved to the uranus.
+11 Where was Fred before the saturn? 	uranus	9 7
+12 Fred moved to the jupiter this evening.
+13 This morning Julie moved to the saturn.
+14 Where was Fred before the jupiter? 	saturn	12 9
+15 This afternoon Julie went back to the jupiter.
+16 Yesterday Doud moved to the earth.
+17 Where was Julie before the jupiter? 	saturn	15 13
+1 This morning Julie went back to the jupiter.
+2 Yesterday Bill went to the jupiter.
+3 Yesterday Fred moved to the mercury.
+4 Yesterday Julie moved to the uranus.
+5 Where was Julie before the jupiter? 	uranus	1 4
+6 Yesterday Doud went to the uranus.
+7 This afternoon Julie journeyed to the saturn.
+8 Where was Julie before the jupiter? 	uranus	1 4
+9 Julie moved to the earth this evening.
+10 Fred journeyed to the earth this morning.
+11 Where was Julie before the earth? 	saturn	9 7
+12 Doud journeyed to the earth this morning.
+13 Fred went to the uranus this afternoon.
+14 Where was Fred before the earth? 	mercury	10 3
+15 Bill went to the saturn this morning.
+16 Fred moved to the earth this evening.
+17 Where was Julie before the earth? 	saturn	9 7
+1 Doud journeyed to the mars yesterday.
+2 Yesterday Bill moved to the earth.
+3 This morning Bill travelled to the saturn.
+4 Yesterday Julie moved to the saturn.
+5 Where was Bill before the saturn? 	earth	3 2
+6 Doud moved to the saturn this morning.
+7 Yesterday Fred journeyed to the mercury.
+8 Where was Doud before the saturn? 	mars	6 1
+9 This afternoon Doud went to the uranus.
+10 Fred travelled to the jupiter this morning.
+11 Where was Doud before the saturn? 	mars	6 1
+12 This afternoon Bill went back to the uranus.
+13 This afternoon Fred journeyed to the earth.
+14 Where was Fred before the earth? 	jupiter	13 10
+15 Doud went back to the mars this evening.
+16 This evening Bill journeyed to the saturn.
+17 Where was Doud before the mars? 	uranus	15 9
+1 Fred went to the mercury yesterday.
+2 Julie went back to the mercury yesterday.
+3 This morning Fred went back to the mars.
+4 Yesterday Bill moved to the saturn.
+5 Where was Fred before the mars? 	mercury	3 1
+6 Yesterday Doud went back to the jupiter.
+7 Julie went back to the earth this morning.
+8 Where was Fred before the mars? 	mercury	3 1
+9 This morning Bill travelled to the mars.
+10 Fred went to the uranus this afternoon.
+11 Where was Fred before the uranus? 	mars	10 3
+12 This morning Doud travelled to the mars.
+13 This afternoon Bill moved to the mercury.
+14 Where was Bill before the mars? 	saturn	9 4
+15 Doud journeyed to the mars this evening.
+16 This afternoon Doud moved to the mercury.
+17 Where was Bill before the mars? 	saturn	9 4
+1 Bill journeyed to the mars yesterday.
+2 This morning Fred moved to the mercury.
+3 Fred travelled to the earth yesterday.
+4 Yesterday Julie went back to the jupiter.
+5 Where was Fred before the mercury? 	earth	2 3
+6 Julie went to the mercury this morning.
+7 Doud went to the mercury yesterday.
+8 Where was Fred before the mercury? 	earth	2 3
+9 This afternoon Julie went back to the saturn.
+10 Fred went to the mars this afternoon.
+11 Where was Julie before the mercury? 	jupiter	6 4
+12 This morning Bill journeyed to the saturn.
+13 This evening Fred moved to the uranus.
+14 Where was Fred before the uranus? 	mars	13 10
+15 This morning Doud journeyed to the earth.
+16 This evening Julie went back to the mercury.
+17 Where was Doud before the earth? 	mercury	15 7
+1 Bill went to the uranus yesterday.
+2 Fred went to the jupiter yesterday.
+3 Yesterday Julie journeyed to the saturn.
+4 This morning Fred went to the mercury.
+5 Where was Fred before the mercury? 	jupiter	4 2
+6 This afternoon Julie went to the mercury.
+7 Julie travelled to the jupiter this morning.
+8 Where was Fred before the mercury? 	jupiter	4 2
+9 This morning Bill journeyed to the mercury.
+10 Fred journeyed to the saturn this afternoon.
+11 Where was Julie before the mercury? 	jupiter	6 7
+12 This evening Julie went to the earth.
+13 Doud moved to the saturn yesterday.
+14 Where was Julie before the mercury? 	jupiter	6 7
+15 This afternoon Bill went back to the uranus.
+16 This evening Fred went back to the jupiter.
+17 Where was Bill before the mercury? 	uranus	9 1
+1 This morning Julie travelled to the mars.
+2 Julie travelled to the mercury yesterday.
+3 Where was Julie before the mars? 	mercury	1 2
+4 Doud went to the mars yesterday.
+5 Yesterday Bill moved to the mars.
+6 Where was Julie before the mars? 	mercury	1 2
+7 Doud travelled to the earth this morning.
+8 This afternoon Julie journeyed to the earth.
+9 Where was Doud before the earth? 	mars	7 4
+10 This evening Julie travelled to the mars.
+11 Doud went to the saturn this afternoon.
+12 Where was Doud before the earth? 	mars	7 4
+13 Bill moved to the earth this morning.
+14 Doud went to the jupiter this evening.
+15 Where was Doud before the earth? 	mars	7 4
+1 This morning Fred went to the uranus.
+2 Yesterday Doud journeyed to the mars.
+3 Fred journeyed to the jupiter yesterday.
+4 Bill went back to the saturn yesterday.
+5 Where was Fred before the uranus? 	jupiter	1 3
+6 Julie went back to the uranus yesterday.
+7 This morning Doud journeyed to the saturn.
+8 Where was Doud before the saturn? 	mars	7 2
+9 Bill went back to the mars this morning.
+10 Doud journeyed to the mercury this afternoon.
+11 Where was Fred before the uranus? 	jupiter	1 3
+12 Julie went back to the earth this morning.
+13 Fred went back to the mercury this afternoon.
+14 Where was Bill before the mars? 	saturn	9 4
+15 This evening Doud journeyed to the mars.
+16 Bill went to the saturn this afternoon.
+17 Where was Fred before the mercury? 	uranus	13 1
+1 Yesterday Doud went back to the saturn.
+2 Yesterday Fred went to the jupiter.
+3 This afternoon Julie travelled to the mercury.
+4 This morning Julie travelled to the earth.
+5 Yesterday Bill travelled to the earth.
+6 Yesterday Julie moved to the mercury.
+7 Where was Julie before the mercury? 	earth	3 4
+8 Julie journeyed to the uranus this evening.
+9 This morning Doud moved to the jupiter.
+10 Where was Julie before the mercury? 	earth	3 4
+11 This evening Doud went to the mercury.
+12 This afternoon Doud travelled to the uranus.
+13 Where was Doud before the uranus? 	jupiter	12 9
+14 Bill moved to the mercury this afternoon.
+15 This morning Bill went back to the mars.
+16 Where was Bill before the mercury? 	mars	14 15
+17 Fred moved to the saturn this afternoon.
+18 Fred went back to the mercury this morning.
+19 Where was Bill before the mars? 	earth	15 5
+1 Bill travelled to the mars yesterday.
+2 Bill went to the earth this morning.
+3 Yesterday Julie moved to the earth.
+4 Doud went back to the jupiter yesterday.
+5 Where was Bill before the earth? 	mars	2 1
+6 Fred journeyed to the earth this morning.
+7 Fred journeyed to the uranus yesterday.
+8 Where was Fred before the earth? 	uranus	6 7
+9 Julie travelled to the mars this morning.
+10 Doud journeyed to the mercury this morning.
+11 Where was Fred before the earth? 	uranus	6 7
+12 This evening Bill travelled to the jupiter.
+13 Bill went back to the uranus this afternoon.
+14 Where was Doud before the mercury? 	jupiter	10 4
+15 Doud travelled to the saturn this afternoon.
+16 Fred journeyed to the mercury this afternoon.
+17 Where was Bill before the jupiter? 	uranus	12 13
+1 Doud went to the mars this morning.
+2 Doud travelled to the earth yesterday.
+3 Bill travelled to the mars yesterday.
+4 Julie went back to the mars yesterday.
+5 Where was Doud before the mars? 	earth	1 2
+6 Yesterday Fred moved to the earth.
+7 This morning Bill journeyed to the mercury.
+8 Where was Bill before the mercury? 	mars	7 3
+9 This evening Bill travelled to the jupiter.
+10 This afternoon Bill moved to the earth.
+11 Where was Bill before the jupiter? 	earth	9 10
+12 This morning Fred went back to the mercury.
+13 Doud travelled to the mercury this afternoon.
+14 Where was Bill before the earth? 	mercury	10 7
+15 Julie went to the uranus this morning.
+16 This afternoon Fred moved to the mars.
+17 Where was Julie before the uranus? 	mars	15 4
+1 This morning Doud journeyed to the saturn.
+2 Yesterday Doud moved to the uranus.
+3 Where was Doud before the saturn? 	uranus	1 2
+4 This morning Fred moved to the mercury.
+5 Fred journeyed to the mars yesterday.
+6 Where was Doud before the saturn? 	uranus	1 2
+7 Fred went back to the uranus this evening.
+8 Fred travelled to the earth this afternoon.
+9 Where was Fred before the uranus? 	earth	7 8
+10 This evening Doud moved to the mercury.
+11 Doud went to the uranus this afternoon.
+12 Where was Doud before the mercury? 	uranus	10 11
+13 Julie moved to the saturn this morning.
+14 Julie journeyed to the mercury yesterday.
+15 Where was Doud before the mercury? 	uranus	10 11
+1 This morning Doud went to the mars.
+2 Doud went back to the jupiter yesterday.
+3 This afternoon Doud went to the mercury.
+4 Fred journeyed to the jupiter yesterday.
+5 Where was Doud before the mercury? 	mars	3 1
+6 This morning Bill went back to the saturn.
+7 Bill went back to the mars yesterday.
+8 Where was Doud before the mars? 	jupiter	1 2
+9 Doud went back to the saturn this evening.
+10 Bill moved to the mars this afternoon.
+11 Where was Bill before the saturn? 	mars	6 7
+12 Julie went back to the jupiter yesterday.
+13 This evening Bill journeyed to the earth.
+14 Where was Bill before the mars? 	saturn	10 6
+15 Julie moved to the earth this afternoon.
+16 This morning Julie travelled to the mercury.
+17 Where was Julie before the earth? 	mercury	15 16
+1 Julie journeyed to the uranus this morning.
+2 Julie went to the mars yesterday.
+3 Where was Julie before the uranus? 	mars	1 2
+4 This evening Julie journeyed to the jupiter.
+5 This afternoon Julie travelled to the mercury.
+6 Where was Julie before the jupiter? 	mercury	4 5
+7 This morning Doud went to the saturn.
+8 Yesterday Doud journeyed to the earth.
+9 Where was Julie before the jupiter? 	mercury	4 5
+10 This evening Doud went back to the mercury.
+11 This afternoon Doud travelled to the mars.
+12 Where was Doud before the saturn? 	earth	7 8
+13 This morning Fred journeyed to the mercury.
+14 Fred moved to the uranus yesterday.
+15 Where was Doud before the mars? 	saturn	11 7
+1 Yesterday Bill journeyed to the earth.
+2 Yesterday Fred travelled to the earth.
+3 This morning Bill moved to the saturn.
+4 Yesterday Doud went back to the jupiter.
+5 Where was Bill before the saturn? 	earth	3 1
+6 This morning Doud travelled to the earth.
+7 Julie went to the saturn yesterday.
+8 Where was Doud before the earth? 	jupiter	6 4
+9 This morning Fred moved to the saturn.
+10 This morning Julie travelled to the earth.
+11 Where was Bill before the saturn? 	earth	3 1
+12 Bill moved to the mercury this evening.
+13 This afternoon Bill went back to the uranus.
+14 Where was Fred before the saturn? 	earth	9 2
+15 Julie travelled to the mars this afternoon.
+16 This afternoon Fred moved to the mars.
+17 Where was Fred before the mars? 	saturn	16 9
+1 This morning Julie travelled to the mars.
+2 Yesterday Fred journeyed to the jupiter.
+3 Yesterday Bill travelled to the mars.
+4 Doud went back to the saturn yesterday.
+5 Fred went back to the mercury this morning.
+6 Julie went to the mercury yesterday.
+7 Where was Fred before the mercury? 	jupiter	5 2
+8 Doud went back to the mars this morning.
+9 This morning Bill moved to the saturn.
+10 Where was Doud before the mars? 	saturn	8 4
+11 This evening Julie went to the uranus.
+12 Julie travelled to the saturn this afternoon.
+13 Where was Doud before the mars? 	saturn	8 4
+14 This afternoon Bill journeyed to the earth.
+15 This afternoon Doud moved to the jupiter.
+16 Where was Doud before the jupiter? 	mars	15 8
+17 Fred went back to the saturn this evening.
+18 This afternoon Fred went back to the jupiter.
+19 Where was Fred before the saturn? 	jupiter	17 18
+1 Julie went back to the earth yesterday.
+2 Julie journeyed to the mars this morning.
+3 Fred travelled to the mars yesterday.
+4 Bill travelled to the jupiter yesterday.
+5 Julie journeyed to the mercury this afternoon.
+6 Yesterday Doud travelled to the mars.
+7 Where was Julie before the mars? 	earth	2 1
+8 Fred moved to the saturn this morning.
+9 This morning Doud journeyed to the earth.
+10 Where was Julie before the mercury? 	mars	5 2
+11 This afternoon Fred journeyed to the jupiter.
+12 This evening Julie journeyed to the earth.
+13 Where was Doud before the earth? 	mars	9 6
+14 This afternoon Doud travelled to the mercury.
+15 This morning Bill went to the saturn.
+16 Where was Fred before the saturn? 	mars	8 3
+17 Bill went back to the earth this afternoon.
+18 This evening Fred went back to the mercury.
+19 Where was Fred before the jupiter? 	saturn	11 8
+1 Fred went back to the mars this morning.
+2 Julie travelled to the jupiter yesterday.
+3 Yesterday Fred travelled to the mercury.
+4 Yesterday Doud journeyed to the mars.
+5 Where was Fred before the mars? 	mercury	1 3
+6 Fred went to the earth this afternoon.
+7 Yesterday Bill travelled to the mercury.
+8 Where was Fred before the earth? 	mars	6 1
+9 Bill travelled to the mars this morning.
+10 This evening Fred travelled to the mars.
+11 Where was Fred before the mars? 	earth	10 6
+12 This afternoon Doud journeyed to the uranus.
+13 This morning Doud went back to the saturn.
+14 Where was Bill before the mars? 	mercury	9 7
+15 Doud moved to the saturn this evening.
+16 This morning Julie went back to the uranus.
+17 Where was Doud before the saturn? 	uranus	15 12
+1 This morning Fred travelled to the uranus.
+2 Yesterday Fred travelled to the mercury.
+3 Where was Fred before the uranus? 	mercury	1 2
+4 Doud moved to the mercury yesterday.
+5 Julie journeyed to the saturn yesterday.
+6 Where was Fred before the uranus? 	mercury	1 2
+7 This morning Doud journeyed to the mars.
+8 Yesterday Bill went to the earth.
+9 Where was Doud before the mars? 	mercury	7 4
+10 This morning Bill journeyed to the mercury.
+11 Julie travelled to the mercury this morning.
+12 Where was Bill before the mercury? 	earth	10 8
+13 This afternoon Julie travelled to the uranus.
+14 This afternoon Doud went to the uranus.
+15 Where was Julie before the uranus? 	mercury	13 11
+1 Julie journeyed to the jupiter this morning.
+2 Yesterday Julie went back to the earth.
+3 Where was Julie before the jupiter? 	earth	1 2
+4 This evening Julie went back to the saturn.
+5 This afternoon Julie went back to the mars.
+6 Where was Julie before the saturn? 	mars	4 5
+7 Yesterday Doud journeyed to the mars.
+8 Bill travelled to the mars yesterday.
+9 Where was Julie before the mars? 	jupiter	5 1
+10 Bill went back to the earth this afternoon.
+11 This morning Bill went to the mercury.
+12 Where was Julie before the saturn? 	mars	4 5
+13 This afternoon Doud travelled to the uranus.
+14 Doud moved to the saturn this morning.
+15 Where was Bill before the mercury? 	mars	11 8
+1 Yesterday Julie journeyed to the uranus.
+2 Yesterday Fred journeyed to the jupiter.
+3 Doud moved to the uranus yesterday.
+4 This morning Julie travelled to the mars.
+5 Where was Julie before the mars? 	uranus	4 1
+6 This afternoon Julie went back to the saturn.
+7 Doud journeyed to the earth this morning.
+8 Where was Julie before the mars? 	uranus	4 1
+9 Bill moved to the earth this morning.
+10 Bill went to the mars yesterday.
+11 Where was Bill before the earth? 	mars	9 10
+12 This afternoon Doud went to the uranus.
+13 Fred travelled to the uranus this morning.
+14 Where was Doud before the uranus? 	earth	12 7
+15 This afternoon Bill went back to the jupiter.
+16 This evening Julie journeyed to the jupiter.
+17 Where was Bill before the earth? 	mars	9 10
+1 Doud went back to the uranus yesterday.
+2 This morning Doud moved to the jupiter.
+3 This morning Bill travelled to the uranus.
+4 Yesterday Bill went back to the jupiter.
+5 Where was Doud before the jupiter? 	uranus	2 1
+6 This morning Fred moved to the mars.
+7 Fred moved to the jupiter yesterday.
+8 Where was Doud before the jupiter? 	uranus	2 1
+9 Yesterday Julie journeyed to the mercury.
+10 Doud went back to the mars this afternoon.
+11 Where was Doud before the mars? 	jupiter	10 2
+12 Fred went back to the mercury this afternoon.
+13 Bill moved to the saturn this afternoon.
+14 Where was Fred before the mercury? 	mars	12 6
+15 Julie journeyed to the mercury this afternoon.
+16 Julie went to the saturn this morning.
+17 Where was Bill before the saturn? 	uranus	13 3
+1 This morning Bill moved to the mercury.
+2 Bill went to the uranus yesterday.
+3 Where was Bill before the mercury? 	uranus	1 2
+4 Yesterday Doud moved to the mars.
+5 This afternoon Bill journeyed to the mars.
+6 Where was Bill before the mercury? 	uranus	1 2
+7 Yesterday Fred moved to the mercury.
+8 Julie journeyed to the mars yesterday.
+9 Where was Bill before the mars? 	mercury	5 1
+10 Doud moved to the jupiter this morning.
+11 This morning Fred went to the saturn.
+12 Where was Doud before the jupiter? 	mars	10 4
+13 Fred went to the mars this afternoon.
+14 Bill went back to the jupiter this evening.
+15 Where was Bill before the jupiter? 	mars	14 5
+1 Fred journeyed to the uranus this morning.
+2 Doud went to the earth yesterday.
+3 Bill moved to the mars yesterday.
+4 Fred journeyed to the saturn yesterday.
+5 Where was Fred before the uranus? 	saturn	1 4
+6 Julie moved to the mars yesterday.
+7 This afternoon Fred went back to the earth.
+8 Where was Fred before the uranus? 	saturn	1 4
+9 This morning Julie went back to the saturn.
+10 This morning Doud travelled to the mercury.
+11 Where was Doud before the mercury? 	earth	10 2
+12 This morning Bill went back to the mercury.
+13 Doud journeyed to the mars this afternoon.
+14 Where was Julie before the saturn? 	mars	9 6
+15 This afternoon Bill went back to the saturn.
+16 Fred journeyed to the saturn this evening.
+17 Where was Julie before the saturn? 	mars	9 6
+1 This morning Doud went back to the mars.
+2 Doud went to the saturn yesterday.
+3 Where was Doud before the mars? 	saturn	1 2
+4 This morning Bill travelled to the mars.
+5 Bill moved to the jupiter yesterday.
+6 Where was Bill before the mars? 	jupiter	4 5
+7 Julie travelled to the earth yesterday.
+8 Yesterday Fred travelled to the uranus.
+9 Where was Bill before the mars? 	jupiter	4 5
+10 This morning Fred went back to the mars.
+11 Bill went to the saturn this afternoon.
+12 Where was Fred before the mars? 	uranus	10 8
+13 This morning Julie went to the jupiter.
+14 This afternoon Doud journeyed to the jupiter.
+15 Where was Julie before the jupiter? 	earth	13 7
+1 This morning Julie travelled to the mars.
+2 Julie moved to the uranus this afternoon.
+3 Bill went to the saturn yesterday.
+4 Yesterday Julie journeyed to the jupiter.
+5 Where was Julie before the mars? 	jupiter	1 4
+6 This morning Doud went back to the mercury.
+7 Doud went back to the mars yesterday.
+8 Where was Julie before the mars? 	jupiter	1 4
+9 Bill went back to the jupiter this morning.
+10 Fred went to the saturn yesterday.
+11 Where was Bill before the jupiter? 	saturn	9 3
+12 Bill moved to the earth this evening.
+13 Bill went back to the mercury this afternoon.
+14 Where was Bill before the jupiter? 	saturn	9 3
+15 Fred journeyed to the mars this morning.
+16 Julie travelled to the saturn this evening.
+17 Where was Bill before the mercury? 	jupiter	13 9
+1 Bill travelled to the uranus this morning.
+2 Fred went to the mars yesterday.
+3 Bill moved to the saturn yesterday.
+4 Doud travelled to the mercury yesterday.
+5 Where was Bill before the uranus? 	saturn	1 3
+6 Fred went to the jupiter this afternoon.
+7 This morning Fred went to the mercury.
+8 Where was Fred before the jupiter? 	mercury	6 7
+9 Bill journeyed to the jupiter this evening.
+10 This afternoon Bill moved to the mercury.
+11 Where was Bill before the mercury? 	uranus	10 1
+12 Julie moved to the mars yesterday.
+13 This morning Doud went back to the uranus.
+14 Where was Bill before the mercury? 	uranus	10 1
+15 Julie moved to the mercury this afternoon.
+16 Julie went to the uranus this morning.
+17 Where was Doud before the uranus? 	mercury	13 4
+1 Bill moved to the earth yesterday.
+2 Yesterday Fred moved to the earth.
+3 Doud travelled to the mars yesterday.
+4 Bill travelled to the saturn this morning.
+5 Where was Bill before the saturn? 	earth	4 1
+6 This morning Fred journeyed to the mercury.
+7 Doud moved to the mercury this morning.
+8 Where was Bill before the saturn? 	earth	4 1
+9 Fred travelled to the saturn this evening.
+10 Fred moved to the uranus this afternoon.
+11 Where was Fred before the uranus? 	mercury	10 6
+12 Doud went back to the jupiter this afternoon.
+13 Julie went to the earth yesterday.
+14 Where was Fred before the mercury? 	earth	6 2
+15 Bill went to the saturn this evening.
+16 This afternoon Bill went to the jupiter.
+17 Where was Fred before the saturn? 	uranus	9 10
+1 Yesterday Julie travelled to the uranus.
+2 Yesterday Doud went back to the mercury.
+3 This morning Julie travelled to the mars.
+4 Bill went back to the mercury yesterday.
+5 Where was Julie before the mars? 	uranus	3 1
+6 Doud went to the earth this morning.
+7 Julie went back to the earth this afternoon.
+8 Where was Doud before the earth? 	mercury	6 2
+9 This evening Julie went back to the jupiter.
+10 This morning Bill travelled to the mars.
+11 Where was Julie before the earth? 	mars	7 3
+12 Doud travelled to the mars this afternoon.
+13 This afternoon Bill travelled to the uranus.
+14 Where was Bill before the mars? 	mercury	10 4
+15 Doud went to the jupiter this evening.
+16 Bill travelled to the saturn this evening.
+17 Where was Bill before the uranus? 	mars	13 10
+1 Fred journeyed to the jupiter this morning.
+2 Yesterday Fred went back to the saturn.
+3 Where was Fred before the jupiter? 	saturn	1 2
+4 Julie journeyed to the earth yesterday.
+5 Yesterday Bill travelled to the earth.
+6 Where was Fred before the jupiter? 	saturn	1 2
+7 Julie went to the mars this afternoon.
+8 This morning Julie went back to the mercury.
+9 Where was Fred before the jupiter? 	saturn	1 2
+10 This evening Julie went to the earth.
+11 This morning Bill went to the mars.
+12 Where was Julie before the mars? 	mercury	7 8
+13 Yesterday Doud travelled to the uranus.
+14 This afternoon Bill went to the mercury.
+15 Where was Bill before the mercury? 	mars	14 11
+1 Yesterday Bill went back to the earth.
+2 Yesterday Julie went to the earth.
+3 Doud journeyed to the earth this morning.
+4 Doud moved to the mars yesterday.
+5 Where was Doud before the earth? 	mars	3 4
+6 This afternoon Doud went back to the mars.
+7 Julie journeyed to the mercury this morning.
+8 Where was Julie before the mercury? 	earth	7 2
+9 This morning Bill moved to the uranus.
+10 Julie moved to the uranus this afternoon.
+11 Where was Julie before the mercury? 	earth	7 2
+12 This evening Doud moved to the mercury.
+13 Fred travelled to the mars yesterday.
+14 Where was Doud before the mars? 	earth	6 3
+15 This afternoon Bill went back to the saturn.
+16 Julie moved to the mercury this evening.
+17 Where was Julie before the mercury? 	uranus	16 10
+1 This morning Bill travelled to the earth.
+2 Bill moved to the saturn yesterday.
+3 Julie went back to the mercury yesterday.
+4 Fred travelled to the mercury yesterday.
+5 Where was Bill before the earth? 	saturn	1 2
+6 Doud travelled to the earth this morning.
+7 Yesterday Doud went to the uranus.
+8 Where was Bill before the earth? 	saturn	1 2
+9 This morning Julie travelled to the uranus.
+10 Bill moved to the saturn this afternoon.
+11 Where was Julie before the uranus? 	mercury	9 3
+12 Julie went back to the earth this afternoon.
+13 Doud journeyed to the jupiter this afternoon.
+14 Where was Julie before the uranus? 	mercury	9 3
+15 Bill journeyed to the mercury this evening.
+16 This evening Doud went to the mercury.
+17 Where was Doud before the jupiter? 	earth	13 6
+1 Yesterday Bill journeyed to the mercury.
+2 Doud went to the jupiter this afternoon.
+3 Doud went to the mars yesterday.
+4 This morning Doud went back to the earth.
+5 Where was Doud before the earth? 	mars	4 3
+6 Julie moved to the earth yesterday.
+7 Fred went back to the jupiter yesterday.
+8 Where was Doud before the earth? 	mars	4 3
+9 This morning Julie went to the jupiter.
+10 This morning Bill journeyed to the earth.
+11 Where was Julie before the jupiter? 	earth	9 6
+12 This afternoon Fred travelled to the mercury.
+13 This morning Fred went to the uranus.
+14 Where was Bill before the earth? 	mercury	10 1
+15 Bill moved to the saturn this afternoon.
+16 This evening Doud travelled to the mercury.
+17 Where was Doud before the mercury? 	jupiter	16 2
+1 This morning Bill moved to the mercury.
+2 Yesterday Bill went back to the jupiter.
+3 Where was Bill before the mercury? 	jupiter	1 2
+4 This evening Bill journeyed to the mercury.
+5 This afternoon Bill moved to the saturn.
+6 Where was Bill before the saturn? 	mercury	5 1
+7 Yesterday Doud journeyed to the jupiter.
+8 Fred travelled to the jupiter yesterday.
+9 Where was Bill before the saturn? 	mercury	5 1
+10 Fred moved to the uranus this morning.
+11 Doud journeyed to the saturn this morning.
+12 Where was Doud before the saturn? 	jupiter	11 7
+13 This afternoon Doud moved to the mars.
+14 Julie moved to the mercury yesterday.
+15 Where was Doud before the saturn? 	jupiter	11 7
+1 Doud went back to the saturn this morning.
+2 Yesterday Doud moved to the mercury.
+3 Where was Doud before the saturn? 	mercury	1 2
+4 Bill went to the jupiter yesterday.
+5 Julie moved to the mars yesterday.
+6 Where was Doud before the saturn? 	mercury	1 2
+7 Yesterday Fred travelled to the saturn.
+8 Doud went to the uranus this afternoon.
+9 Where was Doud before the uranus? 	saturn	8 1
+10 This afternoon Fred went to the mercury.
+11 Fred journeyed to the uranus this morning.
+12 Where was Fred before the uranus? 	saturn	11 7
+13 This evening Doud went to the jupiter.
+14 Fred went back to the saturn this evening.
+15 Where was Fred before the mercury? 	uranus	10 11
+1 This morning Fred travelled to the uranus.
+2 Yesterday Bill moved to the mars.
+3 This afternoon Fred went to the saturn.
+4 Fred moved to the saturn yesterday.
+5 Where was Fred before the saturn? 	uranus	3 1
+6 This morning Bill travelled to the jupiter.
+7 Yesterday Doud went to the earth.
+8 Where was Fred before the saturn? 	uranus	3 1
+9 Fred went to the jupiter this evening.
+10 Julie went to the saturn yesterday.
+11 Where was Bill before the jupiter? 	mars	6 2
+12 This morning Doud journeyed to the jupiter.
+13 This afternoon Bill travelled to the uranus.
+14 Where was Bill before the jupiter? 	mars	6 2
+15 This morning Julie went to the uranus.
+16 Bill went to the jupiter this evening.
+17 Where was Bill before the uranus? 	jupiter	13 6
+1 Fred went back to the saturn yesterday.
+2 This morning Doud journeyed to the saturn.
+3 Doud journeyed to the mercury yesterday.
+4 Julie went back to the mars yesterday.
+5 Where was Doud before the saturn? 	mercury	2 3
+6 Julie journeyed to the jupiter this morning.
+7 This afternoon Doud moved to the jupiter.
+8 Where was Julie before the jupiter? 	mars	6 4
+9 Doud travelled to the uranus this evening.
+10 This morning Fred travelled to the uranus.
+11 Where was Doud before the jupiter? 	saturn	7 2
+12 This afternoon Julie went back to the earth.
+13 This afternoon Fred went back to the earth.
+14 Where was Julie before the earth? 	jupiter	12 6
+15 Julie went back to the uranus this evening.
+16 Fred travelled to the uranus this evening.
+17 Where was Julie before the uranus? 	earth	15 12
+1 Fred went to the earth yesterday.
+2 Bill journeyed to the earth this morning.
+3 Bill moved to the mars yesterday.
+4 Doud journeyed to the uranus yesterday.
+5 Where was Bill before the earth? 	mars	2 3
+6 Doud journeyed to the jupiter this morning.
+7 This morning Fred went to the mars.
+8 Where was Doud before the jupiter? 	uranus	6 4
+9 Julie travelled to the jupiter yesterday.
+10 This afternoon Doud travelled to the uranus.
+11 Where was Fred before the mars? 	earth	7 1
+12 This morning Julie journeyed to the earth.
+13 This evening Doud went back to the mars.
+14 Where was Doud before the uranus? 	jupiter	10 6
+15 This evening Julie travelled to the jupiter.
+16 Julie journeyed to the mercury this afternoon.
+17 Where was Julie before the mercury? 	earth	16 12
+1 Doud went to the mercury yesterday.
+2 Yesterday Julie went to the mercury.
+3 This morning Doud travelled to the jupiter.
+4 Yesterday Bill travelled to the saturn.
+5 Where was Doud before the jupiter? 	mercury	3 1
+6 This morning Julie went to the saturn.
+7 Bill went to the earth this morning.
+8 Where was Julie before the saturn? 	mercury	6 2
+9 This evening Julie went back to the mars.
+10 Julie moved to the uranus this afternoon.
+11 Where was Julie before the saturn? 	mercury	6 2
+12 Fred went to the saturn yesterday.
+13 This afternoon Bill moved to the saturn.
+14 Where was Julie before the uranus? 	saturn	10 6
+15 Doud travelled to the earth this afternoon.
+16 This evening Bill travelled to the earth.
+17 Where was Bill before the saturn? 	earth	13 7
+1 Yesterday Doud travelled to the uranus.
+2 Doud travelled to the mars this morning.
+3 Doud went to the jupiter this afternoon.
+4 Bill travelled to the mercury yesterday.
+5 Where was Doud before the jupiter? 	mars	3 2
+6 Doud moved to the uranus this evening.
+7 Julie journeyed to the saturn yesterday.
+8 Where was Doud before the uranus? 	jupiter	6 3
+9 Fred travelled to the mercury yesterday.
+10 Julie went back to the mercury this morning.
+11 Where was Doud before the uranus? 	jupiter	6 3
+12 Julie journeyed to the uranus this afternoon.
+13 Fred went back to the jupiter this morning.
+14 Where was Doud before the uranus? 	jupiter	6 3
+15 This afternoon Fred went back to the mercury.
+16 This evening Julie went back to the jupiter.
+17 Where was Fred before the mercury? 	jupiter	15 13
+1 Yesterday Doud went to the mercury.
+2 This morning Fred travelled to the mars.
+3 Julie journeyed to the uranus yesterday.
+4 Fred went to the earth yesterday.
+5 Where was Fred before the mars? 	earth	2 4
+6 This evening Fred travelled to the jupiter.
+7 This afternoon Fred journeyed to the saturn.
+8 Where was Fred before the jupiter? 	saturn	6 7
+9 Julie moved to the saturn this afternoon.
+10 Julie went to the mercury this morning.
+11 Where was Julie before the saturn? 	mercury	9 10
+12 Julie went to the mercury this evening.
+13 Doud journeyed to the uranus this morning.
+14 Where was Julie before the mercury? 	saturn	12 9
+15 Doud moved to the mercury this evening.
+16 This afternoon Doud moved to the jupiter.
+17 Where was Doud before the uranus? 	mercury	13 1
+1 Bill travelled to the uranus this morning.
+2 Yesterday Fred travelled to the earth.
+3 Yesterday Bill went back to the mars.
+4 Yesterday Doud went to the earth.
+5 Where was Bill before the uranus? 	mars	1 3
+6 This afternoon Bill went to the mars.
+7 This morning Fred journeyed to the mars.
+8 Where was Bill before the uranus? 	mars	1 3
+9 Doud went back to the jupiter this morning.
+10 This afternoon Fred moved to the mercury.
+11 Where was Fred before the mercury? 	mars	10 7
+12 This evening Fred went back to the saturn.
+13 This evening Bill went to the uranus.
+14 Where was Fred before the mercury? 	mars	10 7
+15 Doud journeyed to the mercury this afternoon.
+16 Julie went to the mars yesterday.
+17 Where was Doud before the jupiter? 	earth	9 4
+1 This morning Julie went back to the earth.
+2 Yesterday Julie went back to the jupiter.
+3 Yesterday Fred went to the mercury.
+4 Bill went to the jupiter yesterday.
+5 Where was Julie before the earth? 	jupiter	1 2
+6 Julie went to the mars this afternoon.
+7 This morning Bill went to the earth.
+8 Where was Julie before the earth? 	jupiter	1 2
+9 This morning Fred moved to the saturn.
+10 Bill went back to the mercury this afternoon.
+11 Where was Fred before the saturn? 	mercury	9 3
+12 This afternoon Fred travelled to the uranus.
+13 Bill went to the earth this evening.
+14 Where was Fred before the uranus? 	saturn	12 9
+15 Doud went back to the saturn yesterday.
+16 Julie moved to the uranus this evening.
+17 Where was Fred before the uranus? 	saturn	12 9
+1 Fred journeyed to the uranus this morning.
+2 Yesterday Doud went back to the saturn.
+3 Fred moved to the mercury yesterday.
+4 Julie travelled to the saturn yesterday.
+5 Where was Fred before the uranus? 	mercury	1 3
+6 This afternoon Fred went to the mercury.
+7 Bill went to the saturn yesterday.
+8 Where was Fred before the mercury? 	uranus	6 1
+9 Julie journeyed to the mars this morning.
+10 This morning Doud went back to the earth.
+11 Where was Fred before the mercury? 	uranus	6 1
+12 This morning Bill moved to the mercury.
+13 Doud moved to the saturn this afternoon.
+14 Where was Julie before the mars? 	saturn	9 4
+15 Julie moved to the saturn this afternoon.
+16 This evening Doud travelled to the mercury.
+17 Where was Julie before the mars? 	saturn	9 4
+1 This morning Doud went to the jupiter.
+2 Doud moved to the mars yesterday.
+3 Where was Doud before the jupiter? 	mars	1 2
+4 Bill journeyed to the jupiter this morning.
+5 Bill travelled to the mercury yesterday.
+6 Where was Doud before the jupiter? 	mars	1 2
+7 This evening Bill moved to the mercury.
+8 Bill went back to the mars this afternoon.
+9 Where was Bill before the mercury? 	mars	7 8
+10 Doud travelled to the saturn this afternoon.
+11 Fred journeyed to the uranus yesterday.
+12 Where was Bill before the mercury? 	mars	7 8
+13 Julie travelled to the saturn yesterday.
+14 This evening Doud moved to the mars.
+15 Where was Doud before the mars? 	saturn	14 10
+1 Yesterday Doud went to the mercury.
+2 This morning Julie journeyed to the earth.
+3 This afternoon Julie moved to the uranus.
+4 Julie went back to the jupiter yesterday.
+5 Where was Julie before the earth? 	jupiter	2 4
+6 This evening Julie went back to the jupiter.
+7 Doud went back to the earth this morning.
+8 Where was Julie before the jupiter? 	uranus	6 3
+9 This afternoon Doud moved to the mercury.
+10 Bill journeyed to the mercury yesterday.
+11 Where was Doud before the earth? 	mercury	7 1
+12 Bill journeyed to the saturn this morning.
+13 Yesterday Fred moved to the earth.
+14 Where was Bill before the saturn? 	mercury	12 10
+15 This morning Fred journeyed to the uranus.
+16 Bill moved to the jupiter this afternoon.
+17 Where was Doud before the mercury? 	earth	9 7
+1 Fred journeyed to the uranus yesterday.
+2 Fred travelled to the jupiter this morning.
+3 Yesterday Bill went back to the mercury.
+4 Yesterday Doud journeyed to the uranus.
+5 Where was Fred before the jupiter? 	uranus	2 1
+6 Yesterday Julie travelled to the jupiter.
+7 Doud journeyed to the mercury this morning.
+8 Where was Doud before the mercury? 	uranus	7 4
+9 This morning Julie went back to the mars.
+10 This morning Bill moved to the saturn.
+11 Where was Bill before the saturn? 	mercury	10 3
+12 Doud travelled to the earth this afternoon.
+13 This afternoon Julie moved to the uranus.
+14 Where was Julie before the uranus? 	mars	13 9
+15 Fred went back to the mercury this afternoon.
+16 This evening Doud travelled to the jupiter.
+17 Where was Fred before the mercury? 	jupiter	15 2
+1 Doud went back to the saturn this morning.
+2 Yesterday Doud travelled to the earth.
+3 Fred travelled to the uranus yesterday.
+4 Yesterday Julie journeyed to the mercury.
+5 Where was Doud before the saturn? 	earth	1 2
+6 Julie went to the uranus this morning.
+7 This afternoon Doud went back to the mercury.
+8 Where was Doud before the saturn? 	earth	1 2
+9 Doud journeyed to the saturn this evening.
+10 Yesterday Bill journeyed to the uranus.
+11 Where was Doud before the saturn? 	mercury	9 7
+12 Fred journeyed to the jupiter this morning.
+13 This morning Bill went back to the mars.
+14 Where was Doud before the saturn? 	mercury	9 7
+15 This afternoon Bill went to the jupiter.
+16 This afternoon Fred went back to the uranus.
+17 Where was Fred before the jupiter? 	uranus	12 3
+1 Julie journeyed to the earth this morning.
+2 Yesterday Julie journeyed to the mars.
+3 Where was Julie before the earth? 	mars	1 2
+4 Doud went back to the mars yesterday.
+5 Bill travelled to the mercury yesterday.
+6 Where was Julie before the earth? 	mars	1 2
+7 Doud went to the earth this morning.
+8 Julie moved to the saturn this afternoon.
+9 Where was Doud before the earth? 	mars	7 4
+10 Fred journeyed to the earth yesterday.
+11 This afternoon Doud moved to the saturn.
+12 Where was Julie before the saturn? 	earth	8 1
+13 Doud went to the mercury this evening.
+14 Bill went back to the jupiter this morning.
+15 Where was Doud before the mercury? 	saturn	13 11
+1 This morning Fred moved to the earth.
+2 Yesterday Doud moved to the earth.
+3 Yesterday Bill travelled to the uranus.
+4 Yesterday Fred moved to the uranus.
+5 Where was Fred before the earth? 	uranus	1 4
+6 This morning Doud journeyed to the uranus.
+7 This morning Bill journeyed to the earth.
+8 Where was Bill before the earth? 	uranus	7 3
+9 Fred went back to the saturn this evening.
+10 Fred moved to the mars this afternoon.
+11 Where was Fred before the mars? 	earth	10 1
+12 Yesterday Julie travelled to the uranus.
+13 This afternoon Doud went back to the saturn.
+14 Where was Fred before the mars? 	earth	10 1
+15 Julie journeyed to the jupiter this afternoon.
+16 Julie moved to the mercury this morning.
+17 Where was Fred before the saturn? 	mars	9 10
+1 Yesterday Bill went back to the jupiter.
+2 Doud journeyed to the uranus this morning.
+3 Julie went to the mars yesterday.
+4 Doud went to the saturn yesterday.
+5 Where was Doud before the uranus? 	saturn	2 4
+6 This morning Bill went to the mercury.
+7 Julie went to the earth this morning.
+8 Where was Julie before the earth? 	mars	7 3
+9 Doud went back to the mars this afternoon.
+10 Julie went back to the uranus this afternoon.
+11 Where was Doud before the mars? 	uranus	9 2
+12 This afternoon Bill moved to the jupiter.
+13 Fred went back to the mercury yesterday.
+14 Where was Doud before the mars? 	uranus	9 2
+15 This evening Julie travelled to the mars.
+16 Bill moved to the uranus this evening.
+17 Where was Bill before the uranus? 	jupiter	16 12
+1 This morning Julie went back to the uranus.
+2 Doud journeyed to the saturn yesterday.
+3 Yesterday Bill journeyed to the jupiter.
+4 Yesterday Julie journeyed to the mercury.
+5 Where was Julie before the uranus? 	mercury	1 4
+6 Fred went to the mars yesterday.
+7 Julie went back to the jupiter this afternoon.
+8 Where was Julie before the jupiter? 	uranus	7 1
+9 Fred travelled to the uranus this morning.
+10 This evening Julie journeyed to the mars.
+11 Where was Julie before the mars? 	jupiter	10 7
+12 This morning Doud went to the mars.
+13 Bill went to the mercury this morning.
+14 Where was Fred before the uranus? 	mars	9 6
+15 Bill went back to the jupiter this afternoon.
+16 Doud moved to the saturn this afternoon.
+17 Where was Bill before the jupiter? 	mercury	15 13
+1 Yesterday Julie went to the earth.
+2 Yesterday Bill journeyed to the jupiter.
+3 This morning Doud went back to the mars.
+4 Yesterday Doud moved to the uranus.
+5 Where was Doud before the mars? 	uranus	3 4
+6 Fred travelled to the mercury yesterday.
+7 This morning Julie moved to the uranus.
+8 Where was Doud before the mars? 	uranus	3 4
+9 Fred went to the uranus this morning.
+10 Julie travelled to the saturn this afternoon.
+11 Where was Julie before the saturn? 	uranus	10 7
+12 This afternoon Doud went back to the jupiter.
+13 This afternoon Fred journeyed to the jupiter.
+14 Where was Julie before the saturn? 	uranus	10 7
+15 Doud went to the mars this evening.
+16 This evening Julie went back to the jupiter.
+17 Where was Fred before the jupiter? 	uranus	13 9
+1 Julie journeyed to the saturn yesterday.
+2 This morning Julie moved to the jupiter.
+3 Bill journeyed to the jupiter this morning.
+4 Yesterday Bill went back to the earth.
+5 Where was Julie before the jupiter? 	saturn	2 1
+6 This morning Fred went to the earth.
+7 Yesterday Fred moved to the uranus.
+8 Where was Julie before the jupiter? 	saturn	2 1
+9 This afternoon Julie journeyed to the earth.
+10 This afternoon Bill moved to the mars.
+11 Where was Bill before the jupiter? 	earth	3 4
+12 This evening Bill went to the jupiter.
+13 Doud travelled to the jupiter yesterday.
+14 Where was Bill before the jupiter? 	mars	12 10
+15 Fred journeyed to the saturn this afternoon.
+16 Julie went back to the saturn this evening.
+17 Where was Julie before the earth? 	jupiter	9 2
+1 This morning Bill journeyed to the mars.
+2 Yesterday Bill went to the earth.
+3 Where was Bill before the mars? 	earth	1 2
+4 Julie went back to the saturn yesterday.
+5 Doud moved to the mars yesterday.
+6 Where was Bill before the mars? 	earth	1 2
+7 Doud journeyed to the jupiter this morning.
+8 Fred travelled to the mercury yesterday.
+9 Where was Bill before the mars? 	earth	1 2
+10 This afternoon Bill travelled to the uranus.
+11 This morning Julie moved to the mars.
+12 Where was Doud before the jupiter? 	mars	7 5
+13 This afternoon Julie journeyed to the jupiter.
+14 Doud travelled to the uranus this afternoon.
+15 Where was Doud before the uranus? 	jupiter	14 7
+1 Yesterday Bill travelled to the earth.
+2 This morning Fred travelled to the jupiter.
+3 Fred went to the mercury yesterday.
+4 Doud went back to the jupiter yesterday.
+5 Where was Fred before the jupiter? 	mercury	2 3
+6 This morning Julie moved to the mars.
+7 Yesterday Julie went back to the jupiter.
+8 Where was Julie before the mars? 	jupiter	6 7
+9 Julie moved to the saturn this afternoon.
+10 This afternoon Fred journeyed to the saturn.
+11 Where was Fred before the jupiter? 	mercury	2 3
+12 Doud went back to the mars this morning.
+13 Fred travelled to the mercury this evening.
+14 Where was Julie before the saturn? 	mars	9 6
+15 This afternoon Doud went to the earth.
+16 Julie travelled to the jupiter this evening.
+17 Where was Julie before the saturn? 	mars	9 6
+1 Doud travelled to the mercury yesterday.
+2 Doud went back to the earth this morning.
+3 Fred went back to the mercury yesterday.
+4 Yesterday Julie journeyed to the jupiter.
+5 Where was Doud before the earth? 	mercury	2 1
+6 Yesterday Bill went back to the jupiter.
+7 This morning Fred travelled to the earth.
+8 Where was Doud before the earth? 	mercury	2 1
+9 This morning Julie moved to the mercury.
+10 This morning Bill journeyed to the earth.
+11 Where was Julie before the mercury? 	jupiter	9 4
+12 Julie travelled to the saturn this evening.
+13 Julie travelled to the mars this afternoon.
+14 Where was Julie before the saturn? 	mars	12 13
+15 Doud travelled to the mercury this afternoon.
+16 This afternoon Fred went to the saturn.
+17 Where was Julie before the mars? 	mercury	13 9
+1 This morning Fred went back to the earth.
+2 Doud journeyed to the saturn yesterday.
+3 Yesterday Bill moved to the mars.
+4 Fred went back to the mars yesterday.
+5 Where was Fred before the earth? 	mars	1 4
+6 This afternoon Fred journeyed to the saturn.
+7 Bill moved to the mercury this morning.
+8 Where was Bill before the mercury? 	mars	7 3
+9 This afternoon Bill moved to the saturn.
+10 Yesterday Julie moved to the uranus.
+11 Where was Bill before the mercury? 	mars	7 3
+12 This morning Doud travelled to the mars.
+13 This evening Fred went to the earth.
+14 Where was Fred before the earth? 	saturn	13 6
+15 This afternoon Doud journeyed to the uranus.
+16 Bill went to the earth this evening.
+17 Where was Doud before the mars? 	saturn	12 2
+1 Doud travelled to the jupiter this morning.
+2 Yesterday Doud moved to the saturn.
+3 Julie journeyed to the saturn yesterday.
+4 This morning Julie went to the jupiter.
+5 Where was Julie before the jupiter? 	saturn	4 3
+6 This evening Julie moved to the jupiter.
+7 Julie moved to the mars this afternoon.
+8 Where was Julie before the jupiter? 	mars	6 7
+9 Bill journeyed to the saturn yesterday.
+10 Yesterday Fred moved to the jupiter.
+11 Where was Julie before the jupiter? 	mars	6 7
+12 This afternoon Doud went back to the mars.
+13 This morning Bill travelled to the jupiter.
+14 Where was Bill before the jupiter? 	saturn	13 9
+15 Doud went back to the saturn this evening.
+16 This afternoon Bill went back to the saturn.
+17 Where was Doud before the saturn? 	mars	15 12
+1 Yesterday Julie journeyed to the saturn.
+2 Yesterday Bill moved to the earth.
+3 Doud travelled to the jupiter yesterday.
+4 This morning Doud went back to the saturn.
+5 Where was Doud before the saturn? 	jupiter	4 3
+6 Fred moved to the uranus yesterday.
+7 Doud travelled to the earth this afternoon.
+8 Where was Doud before the saturn? 	jupiter	4 3
+9 This morning Julie went to the mars.
+10 Fred moved to the jupiter this morning.
+11 Where was Doud before the earth? 	saturn	7 4
+12 This evening Doud went to the saturn.
+13 This afternoon Fred journeyed to the earth.
+14 Where was Doud before the saturn? 	earth	12 7
+15 Julie went back to the saturn this evening.
+16 Julie travelled to the jupiter this afternoon.
+17 Where was Julie before the saturn? 	jupiter	15 16
+1 Yesterday Julie went back to the mercury.
+2 Doud travelled to the earth yesterday.
+3 This morning Bill moved to the jupiter.
+4 Bill travelled to the uranus yesterday.
+5 Where was Bill before the jupiter? 	uranus	3 4
+6 Yesterday Fred travelled to the uranus.
+7 This afternoon Bill journeyed to the uranus.
+8 Where was Bill before the uranus? 	jupiter	7 3
+9 Bill went to the mercury this evening.
+10 This morning Fred travelled to the saturn.
+11 Where was Fred before the saturn? 	uranus	10 6
+12 Julie went back to the jupiter this afternoon.
+13 This morning Julie journeyed to the mars.
+14 Where was Bill before the mercury? 	uranus	9 7
+15 Julie went back to the earth this evening.
+16 Doud moved to the mars this morning.
+17 Where was Julie before the earth? 	jupiter	15 12
+1 Fred journeyed to the mars yesterday.
+2 Bill went to the earth yesterday.
+3 Yesterday Julie travelled to the saturn.
+4 This morning Fred travelled to the earth.
+5 Where was Fred before the earth? 	mars	4 1
+6 Julie went back to the earth this morning.
+7 Bill moved to the saturn this morning.
+8 Where was Julie before the earth? 	saturn	6 3
+9 Julie went to the earth this evening.
+10 This afternoon Julie moved to the mercury.
+11 Where was Bill before the saturn? 	earth	7 2
+12 This afternoon Bill moved to the mars.
+13 Fred journeyed to the mars this afternoon.
+14 Where was Bill before the mars? 	saturn	12 7
+15 Yesterday Doud journeyed to the jupiter.
+16 Bill journeyed to the jupiter this evening.
+17 Where was Fred before the mars? 	earth	13 4
+1 Yesterday Julie went back to the jupiter.
+2 Bill went back to the jupiter this morning.
+3 Yesterday Doud went to the uranus.
+4 Yesterday Bill went to the saturn.
+5 Where was Bill before the jupiter? 	saturn	2 4
+6 Fred travelled to the jupiter yesterday.
+7 Doud moved to the mars this morning.
+8 Where was Bill before the jupiter? 	saturn	2 4
+9 This afternoon Julie journeyed to the mercury.
+10 This morning Julie moved to the earth.
+11 Where was Julie before the earth? 	jupiter	10 1
+12 This morning Fred journeyed to the uranus.
+13 This afternoon Bill went back to the mars.
+14 Where was Julie before the mercury? 	earth	9 10
+15 Fred journeyed to the mercury this afternoon.
+16 Julie went back to the mars this evening.
+17 Where was Fred before the mercury? 	uranus	15 12
+1 Doud journeyed to the jupiter this morning.
+2 Julie journeyed to the jupiter this morning.
+3 Doud travelled to the mars yesterday.
+4 Yesterday Julie travelled to the earth.
+5 Where was Doud before the jupiter? 	mars	1 3
+6 Julie went to the saturn this afternoon.
+7 Fred journeyed to the jupiter yesterday.
+8 Where was Julie before the saturn? 	jupiter	6 2
+9 This morning Fred moved to the mars.
+10 Doud went back to the mercury this afternoon.
+11 Where was Fred before the mars? 	jupiter	9 7
+12 Bill journeyed to the saturn this morning.
+13 Yesterday Bill travelled to the earth.
+14 Where was Julie before the saturn? 	jupiter	6 2
+15 This evening Doud moved to the jupiter.
+16 Fred travelled to the uranus this afternoon.
+17 Where was Fred before the uranus? 	mars	16 9
+1 Julie went to the saturn this morning.
+2 Julie journeyed to the mercury yesterday.
+3 Where was Julie before the saturn? 	mercury	1 2
+4 Julie moved to the earth this afternoon.
+5 Yesterday Fred journeyed to the saturn.
+6 Where was Julie before the saturn? 	mercury	1 2
+7 Yesterday Bill moved to the mars.
+8 Fred travelled to the jupiter this morning.
+9 Where was Julie before the earth? 	saturn	4 1
+10 This afternoon Fred travelled to the mars.
+11 Julie travelled to the jupiter this evening.
+12 Where was Julie before the earth? 	saturn	4 1
+13 Doud journeyed to the uranus this morning.
+14 Yesterday Doud moved to the mars.
+15 Where was Doud before the uranus? 	mars	13 14
+1 Bill went to the saturn this morning.
+2 Bill travelled to the jupiter yesterday.
+3 Fred went to the mercury yesterday.
+4 Doud travelled to the saturn yesterday.
+5 Where was Bill before the saturn? 	jupiter	1 2
+6 Julie journeyed to the mercury yesterday.
+7 This afternoon Bill went to the earth.
+8 Where was Bill before the earth? 	saturn	7 1
+9 Fred journeyed to the uranus this afternoon.
+10 This morning Fred went to the saturn.
+11 Where was Fred before the uranus? 	saturn	9 10
+12 This evening Bill travelled to the mercury.
+13 Julie journeyed to the jupiter this morning.
+14 Where was Bill before the mercury? 	earth	12 7
+15 This morning Doud went back to the earth.
+16 This evening Fred journeyed to the mars.
+17 Where was Fred before the uranus? 	saturn	9 10
+1 Bill journeyed to the uranus this morning.
+2 Yesterday Bill went back to the saturn.
+3 Where was Bill before the uranus? 	saturn	1 2
+4 Yesterday Julie went back to the mercury.
+5 Doud journeyed to the saturn yesterday.
+6 Where was Bill before the uranus? 	saturn	1 2
+7 Julie moved to the uranus this afternoon.
+8 This morning Julie moved to the earth.
+9 Where was Julie before the uranus? 	earth	7 8
+10 This morning Doud went to the earth.
+11 Julie went to the jupiter this evening.
+12 Where was Julie before the earth? 	mercury	8 4
+13 This afternoon Doud journeyed to the mercury.
+14 Fred journeyed to the jupiter yesterday.
+15 Where was Doud before the earth? 	saturn	10 5
+1 This morning Julie journeyed to the mercury.
+2 Julie went back to the jupiter yesterday.
+3 Where was Julie before the mercury? 	jupiter	1 2
+4 Bill moved to the jupiter yesterday.
+5 Yesterday Doud moved to the jupiter.
+6 Where was Julie before the mercury? 	jupiter	1 2
+7 This afternoon Julie went back to the mars.
+8 Yesterday Fred travelled to the mars.
+9 Where was Julie before the mars? 	mercury	7 1
+10 This morning Fred moved to the earth.
+11 This morning Bill journeyed to the mercury.
+12 Where was Fred before the earth? 	mars	10 8
+13 This morning Doud travelled to the mercury.
+14 Fred went back to the mars this afternoon.
+15 Where was Fred before the earth? 	mars	10 8
+1 Yesterday Doud travelled to the mars.
+2 This morning Fred travelled to the uranus.
+3 Julie moved to the mercury yesterday.
+4 Fred travelled to the saturn yesterday.
+5 Where was Fred before the uranus? 	saturn	2 4
+6 Bill journeyed to the saturn yesterday.
+7 Julie journeyed to the earth this morning.
+8 Where was Fred before the uranus? 	saturn	2 4
+9 This afternoon Julie went back to the mars.
+10 This morning Doud went back to the jupiter.
+11 Where was Fred before the uranus? 	saturn	2 4
+12 Doud travelled to the mercury this afternoon.
+13 This morning Bill went back to the mercury.
+14 Where was Julie before the mars? 	earth	9 7
+15 This evening Julie moved to the earth.
+16 Doud travelled to the jupiter this evening.
+17 Where was Bill before the mercury? 	saturn	13 6
+1 Fred went to the mercury this morning.
+2 Yesterday Julie went back to the saturn.
+3 Fred travelled to the mars yesterday.
+4 Yesterday Bill went to the uranus.
+5 Where was Fred before the mercury? 	mars	1 3
+6 Bill went back to the earth this afternoon.
+7 Bill journeyed to the saturn this morning.
+8 Where was Fred before the mercury? 	mars	1 3
+9 Fred went back to the uranus this evening.
+10 This afternoon Fred moved to the mars.
+11 Where was Bill before the saturn? 	uranus	7 4
+12 This morning Julie moved to the mars.
+13 This evening Bill went back to the mercury.
+14 Where was Bill before the mercury? 	earth	13 6
+15 This afternoon Julie travelled to the saturn.
+16 Doud went back to the jupiter yesterday.
+17 Where was Fred before the uranus? 	mars	9 10
+1 Julie went back to the jupiter yesterday.
+2 This morning Julie moved to the earth.
+3 Yesterday Bill journeyed to the uranus.
+4 Fred went back to the jupiter yesterday.
+5 Where was Julie before the earth? 	jupiter	2 1
+6 Fred moved to the saturn this morning.
+7 Yesterday Doud went to the mars.
+8 Where was Julie before the earth? 	jupiter	2 1
+9 Doud went to the mercury this morning.
+10 Bill went back to the saturn this morning.
+11 Where was Fred before the saturn? 	jupiter	6 4
+12 Julie moved to the uranus this afternoon.
+13 This afternoon Fred travelled to the mercury.
+14 Where was Fred before the mercury? 	saturn	13 6
+15 Bill went back to the uranus this afternoon.
+16 This afternoon Doud went back to the earth.
+17 Where was Bill before the uranus? 	saturn	15 10
+1 Bill moved to the mercury yesterday.
+2 This morning Doud journeyed to the mercury.
+3 Doud journeyed to the mars this afternoon.
+4 Yesterday Doud went to the earth.
+5 Where was Doud before the mars? 	mercury	3 2
+6 Julie went to the mercury yesterday.
+7 This morning Bill went back to the jupiter.
+8 Where was Doud before the mercury? 	earth	2 4
+9 Bill travelled to the uranus this afternoon.
+10 Yesterday Fred went to the mercury.
+11 Where was Bill before the uranus? 	jupiter	9 7
+12 Bill went to the earth this evening.
+13 Julie went to the saturn this morning.
+14 Where was Bill before the uranus? 	jupiter	9 7
+15 Fred journeyed to the mars this afternoon.
+16 Fred went to the jupiter this morning.
+17 Where was Fred before the jupiter? 	mercury	16 10
+1 This morning Bill moved to the jupiter.
+2 Bill journeyed to the earth yesterday.
+3 Where was Bill before the jupiter? 	earth	1 2
+4 Fred journeyed to the mars yesterday.
+5 This afternoon Bill moved to the uranus.
+6 Where was Bill before the uranus? 	jupiter	5 1
+7 This morning Fred moved to the jupiter.
+8 Yesterday Doud journeyed to the jupiter.
+9 Where was Bill before the uranus? 	jupiter	5 1
+10 This afternoon Doud journeyed to the jupiter.
+11 Doud moved to the mercury this morning.
+12 Where was Doud before the mercury? 	jupiter	11 8
+13 This evening Bill journeyed to the mercury.
+14 Fred travelled to the mars this afternoon.
+15 Where was Doud before the mercury? 	jupiter	11 8
+1 This morning Doud went back to the jupiter.
+2 Fred went to the earth yesterday.
+3 This morning Bill journeyed to the saturn.
+4 Yesterday Bill went back to the mercury.
+5 Yesterday Doud went back to the saturn.
+6 Julie went back to the saturn yesterday.
+7 Where was Doud before the jupiter? 	saturn	1 5
+8 Doud journeyed to the uranus this afternoon.
+9 Julie moved to the mercury this morning.
+10 Where was Bill before the saturn? 	mercury	3 4
+11 This evening Doud travelled to the jupiter.
+12 This morning Fred moved to the jupiter.
+13 Where was Doud before the jupiter? 	uranus	11 8
+14 Julie went to the uranus this afternoon.
+15 This afternoon Fred travelled to the uranus.
+16 Where was Fred before the jupiter? 	earth	12 2
+17 This evening Fred travelled to the earth.
+18 Bill travelled to the earth this afternoon.
+19 Where was Fred before the uranus? 	jupiter	15 12
+1 Yesterday Bill moved to the earth.
+2 Bill moved to the mercury this morning.
+3 Fred travelled to the mars yesterday.
+4 Yesterday Doud went back to the mars.
+5 Where was Bill before the mercury? 	earth	2 1
+6 Julie went to the mars yesterday.
+7 This morning Doud went back to the saturn.
+8 Where was Doud before the saturn? 	mars	7 4
+9 This afternoon Julie travelled to the uranus.
+10 This morning Julie went back to the jupiter.
+11 Where was Doud before the saturn? 	mars	7 4
+12 This morning Fred went back to the saturn.
+13 This evening Julie went back to the mars.
+14 Where was Fred before the saturn? 	mars	12 3
+15 This afternoon Bill went to the saturn.
+16 This afternoon Fred went back to the mercury.
+17 Where was Julie before the mars? 	uranus	13 9
+1 This morning Bill journeyed to the uranus.
+2 Fred travelled to the mercury yesterday.
+3 Yesterday Bill journeyed to the saturn.
+4 Doud went back to the mercury yesterday.
+5 Where was Bill before the uranus? 	saturn	1 3
+6 This morning Doud went to the jupiter.
+7 Yesterday Julie travelled to the uranus.
+8 Where was Bill before the uranus? 	saturn	1 3
+9 This evening Doud went back to the earth.
+10 Doud went back to the uranus this afternoon.
+11 Where was Doud before the jupiter? 	mercury	6 4
+12 Julie journeyed to the mercury this morning.
+13 This afternoon Bill travelled to the earth.
+14 Where was Doud before the jupiter? 	mercury	6 4
+15 Julie went back to the saturn this afternoon.
+16 Fred journeyed to the mars this morning.
+17 Where was Bill before the earth? 	uranus	13 1
+1 Julie travelled to the earth yesterday.
+2 This morning Fred journeyed to the uranus.
+3 Yesterday Doud journeyed to the uranus.
+4 Fred travelled to the saturn yesterday.
+5 Where was Fred before the uranus? 	saturn	2 4
+6 Julie went to the jupiter this afternoon.
+7 This morning Julie journeyed to the mercury.
+8 Where was Julie before the jupiter? 	mercury	6 7
+9 Julie went to the mercury this evening.
+10 Bill went back to the jupiter yesterday.
+11 Where was Julie before the mercury? 	jupiter	9 6
+12 Fred moved to the mars this evening.
+13 Fred went back to the mercury this afternoon.
+14 Where was Fred before the mars? 	mercury	12 13
+15 Bill went back to the mercury this morning.
+16 Doud moved to the saturn this morning.
+17 Where was Fred before the mars? 	mercury	12 13
+1 Fred went back to the earth yesterday.
+2 Bill moved to the mars yesterday.
+3 This morning Julie went back to the mercury.
+4 Yesterday Julie moved to the jupiter.
+5 Where was Julie before the mercury? 	jupiter	3 4
+6 Doud went to the jupiter yesterday.
+7 Bill went back to the uranus this morning.
+8 Where was Julie before the mercury? 	jupiter	3 4
+9 Julie went back to the mars this afternoon.
+10 Fred went back to the mars this morning.
+11 Where was Fred before the mars? 	earth	10 1
+12 This afternoon Bill went back to the mars.
+13 This evening Julie travelled to the mercury.
+14 Where was Bill before the mars? 	uranus	12 7
+15 This afternoon Fred went to the uranus.
+16 Doud journeyed to the earth this morning.
+17 Where was Julie before the mercury? 	mars	13 9
+1 This morning Julie went to the saturn.
+2 Yesterday Julie went back to the jupiter.
+3 Where was Julie before the saturn? 	jupiter	1 2
+4 Doud moved to the jupiter yesterday.
+5 Yesterday Bill moved to the jupiter.
+6 Where was Julie before the saturn? 	jupiter	1 2
+7 Doud went to the uranus this morning.
+8 Bill journeyed to the earth this morning.
+9 Where was Doud before the uranus? 	jupiter	7 4
+10 This morning Fred journeyed to the mercury.
+11 Fred went to the uranus yesterday.
+12 Where was Doud before the uranus? 	jupiter	7 4
+13 Doud journeyed to the saturn this afternoon.
+14 Julie went to the jupiter this afternoon.
+15 Where was Doud before the uranus? 	jupiter	7 4
+1 Doud went back to the earth yesterday.
+2 Yesterday Bill journeyed to the jupiter.
+3 Yesterday Julie moved to the mars.
+4 Doud went back to the mars this morning.
+5 Where was Doud before the mars? 	earth	4 1
+6 Doud travelled to the uranus this afternoon.
+7 Fred travelled to the mercury yesterday.
+8 Where was Doud before the mars? 	earth	4 1
+9 This evening Doud went to the jupiter.
+10 Fred went to the uranus this morning.
+11 Where was Doud before the jupiter? 	uranus	9 6
+12 This morning Julie travelled to the mercury.
+13 This afternoon Fred journeyed to the jupiter.
+14 Where was Doud before the jupiter? 	uranus	9 6
+15 This evening Julie travelled to the earth.
+16 This afternoon Julie journeyed to the mars.
+17 Where was Doud before the jupiter? 	uranus	9 6
+1 Yesterday Doud went back to the mars.
+2 Yesterday Julie went to the uranus.
+3 Julie moved to the jupiter this morning.
+4 Yesterday Bill went back to the earth.
+5 Where was Julie before the jupiter? 	uranus	3 2
+6 Doud journeyed to the saturn this morning.
+7 Bill travelled to the mars this morning.
+8 Where was Julie before the jupiter? 	uranus	3 2
+9 Fred went back to the earth yesterday.
+10 This afternoon Doud travelled to the uranus.
+11 Where was Doud before the saturn? 	mars	6 1
+12 This evening Doud went back to the mars.
+13 Fred moved to the jupiter this morning.
+14 Where was Doud before the saturn? 	mars	6 1
+15 This evening Fred journeyed to the saturn.
+16 Fred went to the mercury this afternoon.
+17 Where was Doud before the mars? 	uranus	12 10
+1 This morning Bill went to the mercury.
+2 Yesterday Fred travelled to the earth.
+3 Yesterday Julie travelled to the earth.
+4 Yesterday Bill went back to the mars.
+5 Where was Bill before the mercury? 	mars	1 4
+6 This morning Julie travelled to the jupiter.
+7 This morning Fred travelled to the uranus.
+8 Where was Julie before the jupiter? 	earth	6 3
+9 Bill went back to the saturn this afternoon.
+10 This afternoon Fred travelled to the mars.
+11 Where was Fred before the mars? 	uranus	10 7
+12 This afternoon Julie travelled to the mars.
+13 This evening Bill travelled to the jupiter.
+14 Where was Fred before the mars? 	uranus	10 7
+15 This evening Julie journeyed to the earth.
+16 Yesterday Doud went to the mars.
+17 Where was Julie before the earth? 	mars	15 12
+1 Bill travelled to the earth this morning.
+2 Bill travelled to the uranus yesterday.
+3 Where was Bill before the earth? 	uranus	1 2
+4 Yesterday Doud moved to the uranus.
+5 Fred moved to the earth yesterday.
+6 Where was Bill before the earth? 	uranus	1 2
+7 This morning Fred went to the mercury.
+8 Doud travelled to the saturn this morning.
+9 Where was Fred before the mercury? 	earth	7 5
+10 This afternoon Fred went to the earth.
+11 Doud went to the jupiter this afternoon.
+12 Where was Doud before the jupiter? 	saturn	11 8
+13 This afternoon Bill journeyed to the saturn.
+14 Julie moved to the mars yesterday.
+15 Where was Bill before the saturn? 	earth	13 1
+1 Bill went to the mars this morning.
+2 Bill went to the mercury yesterday.
+3 Doud went back to the jupiter yesterday.
+4 Yesterday Fred went back to the jupiter.
+5 Where was Bill before the mars? 	mercury	1 2
+6 Bill went back to the saturn this afternoon.
+7 Doud went to the uranus this morning.
+8 Where was Bill before the mars? 	mercury	1 2
+9 This evening Bill journeyed to the mercury.
+10 Yesterday Julie went back to the uranus.
+11 Where was Bill before the mars? 	mercury	1 2
+12 Doud went back to the earth this afternoon.
+13 This morning Fred went back to the saturn.
+14 Where was Fred before the saturn? 	jupiter	13 4
+15 This morning Julie travelled to the earth.
+16 Doud went to the uranus this evening.
+17 Where was Bill before the mercury? 	saturn	9 6
+1 Julie journeyed to the mercury this afternoon.
+2 Julie travelled to the saturn this morning.
+3 Bill travelled to the mars yesterday.
+4 Yesterday Julie journeyed to the mercury.
+5 Where was Julie before the mercury? 	saturn	1 2
+6 Yesterday Doud went back to the uranus.
+7 This evening Julie moved to the saturn.
+8 Where was Julie before the mercury? 	saturn	1 2
+9 This morning Bill journeyed to the earth.
+10 This morning Doud journeyed to the mars.
+11 Where was Doud before the mars? 	uranus	10 6
+12 Bill went to the uranus this evening.
+13 This afternoon Bill journeyed to the jupiter.
+14 Where was Bill before the jupiter? 	earth	13 9
+15 This evening Doud went to the jupiter.
+16 Doud went to the mercury this afternoon.
+17 Where was Bill before the jupiter? 	earth	13 9
+1 Doud went to the mars this morning.
+2 Yesterday Doud moved to the earth.
+3 Julie went to the uranus yesterday.
+4 Doud travelled to the jupiter this afternoon.
+5 Bill journeyed to the mercury yesterday.
+6 Yesterday Fred travelled to the mars.
+7 Where was Doud before the jupiter? 	mars	4 1
+8 Julie travelled to the mars this afternoon.
+9 Julie went to the mercury this morning.
+10 Where was Julie before the mars? 	mercury	8 9
+11 Julie moved to the saturn this evening.
+12 This morning Fred went back to the saturn.
+13 Where was Doud before the jupiter? 	mars	4 1
+14 This afternoon Fred went back to the uranus.
+15 This morning Bill travelled to the uranus.
+16 Where was Bill before the uranus? 	mercury	15 5
+17 Bill moved to the mercury this afternoon.
+18 This evening Fred travelled to the mars.
+19 Where was Bill before the uranus? 	mercury	15 5
+1 This morning Bill travelled to the jupiter.
+2 Bill journeyed to the uranus yesterday.
+3 Where was Bill before the jupiter? 	uranus	1 2
+4 Doud journeyed to the uranus yesterday.
+5 Fred moved to the jupiter yesterday.
+6 Where was Bill before the jupiter? 	uranus	1 2
+7 Doud moved to the mars this morning.
+8 Yesterday Julie went to the saturn.
+9 Where was Bill before the jupiter? 	uranus	1 2
+10 Fred went to the earth this morning.
+11 Bill went to the mars this afternoon.
+12 Where was Fred before the earth? 	jupiter	10 5
+13 This evening Bill moved to the saturn.
+14 This afternoon Fred travelled to the mars.
+15 Where was Bill before the mars? 	jupiter	11 1
+1 This morning Bill went back to the uranus.
+2 Bill went to the mercury yesterday.
+3 Doud went to the earth yesterday.
+4 Yesterday Fred moved to the earth.
+5 Where was Bill before the uranus? 	mercury	1 2
+6 This afternoon Doud travelled to the earth.
+7 Doud went to the jupiter this morning.
+8 Where was Doud before the jupiter? 	earth	7 3
+9 Julie went to the mars this morning.
+10 Yesterday Julie journeyed to the saturn.
+11 Where was Bill before the uranus? 	mercury	1 2
+12 This evening Doud went back to the mars.
+13 This afternoon Julie went to the mercury.
+14 Where was Julie before the mars? 	saturn	9 10
+15 Bill went back to the saturn this afternoon.
+16 Fred went to the mercury this morning.
+17 Where was Doud before the mars? 	earth	12 6
+1 This morning Bill travelled to the jupiter.
+2 Yesterday Bill went back to the uranus.
+3 Where was Bill before the jupiter? 	uranus	1 2
+4 Bill travelled to the uranus this evening.
+5 This afternoon Bill went back to the saturn.
+6 Where was Bill before the saturn? 	jupiter	5 1
+7 Yesterday Julie moved to the uranus.
+8 Fred moved to the mercury yesterday.
+9 Where was Bill before the uranus? 	saturn	4 5
+10 This morning Fred went back to the saturn.
+11 Julie went back to the jupiter this morning.
+12 Where was Fred before the saturn? 	mercury	10 8
+13 Fred went back to the mars this afternoon.
+14 Yesterday Doud moved to the mars.
+15 Where was Fred before the saturn? 	mercury	10 8
+1 Yesterday Doud went to the mercury.
+2 Bill went back to the uranus yesterday.
+3 Fred went to the uranus this morning.
+4 Fred went to the earth yesterday.
+5 Doud went to the jupiter this morning.
+6 Yesterday Julie journeyed to the saturn.
+7 Where was Fred before the uranus? 	earth	3 4
+8 This morning Bill went back to the mars.
+9 Julie travelled to the jupiter this morning.
+10 Where was Bill before the mars? 	uranus	8 2
+11 This evening Doud travelled to the mars.
+12 This afternoon Doud went to the earth.
+13 Where was Bill before the mars? 	uranus	8 2
+14 Fred went back to the earth this evening.
+15 Fred journeyed to the jupiter this afternoon.
+16 Where was Doud before the earth? 	jupiter	12 5
+17 This evening Bill journeyed to the mercury.
+18 This afternoon Bill journeyed to the jupiter.
+19 Where was Bill before the mercury? 	jupiter	17 18
+1 Doud travelled to the uranus this morning.
+2 Yesterday Doud journeyed to the saturn.
+3 Where was Doud before the uranus? 	saturn	1 2
+4 This morning Fred journeyed to the mercury.
+5 Fred moved to the mars yesterday.
+6 Where was Doud before the uranus? 	saturn	1 2
+7 Yesterday Bill journeyed to the mars.
+8 Fred journeyed to the uranus this afternoon.
+9 Where was Doud before the uranus? 	saturn	1 2
+10 Fred went back to the earth this evening.
+11 This morning Bill went to the earth.
+12 Where was Fred before the uranus? 	mercury	8 4
+13 Yesterday Julie went to the uranus.
+14 This afternoon Doud travelled to the jupiter.
+15 Where was Fred before the earth? 	uranus	10 8
+1 Fred went back to the uranus yesterday.
+2 Yesterday Bill went back to the mercury.
+3 This morning Fred moved to the earth.
+4 Yesterday Julie moved to the saturn.
+5 Where was Fred before the earth? 	uranus	3 1
+6 Bill travelled to the saturn this afternoon.
+7 Bill journeyed to the jupiter this morning.
+8 Where was Fred before the earth? 	uranus	3 1
+9 Bill journeyed to the jupiter this evening.
+10 Doud travelled to the mars yesterday.
+11 Where was Bill before the saturn? 	jupiter	6 7
+12 This afternoon Doud journeyed to the mars.
+13 Doud went back to the uranus this morning.
+14 Where was Doud before the mars? 	uranus	12 13
+15 Doud went to the jupiter this evening.
+16 Julie moved to the mars this morning.
+17 Where was Doud before the mars? 	uranus	12 13
+1 Fred moved to the jupiter this morning.
+2 Yesterday Fred went back to the saturn.
+3 Yesterday Bill journeyed to the mars.
+4 Yesterday Doud travelled to the uranus.
+5 Where was Fred before the jupiter? 	saturn	1 2
+6 Doud journeyed to the jupiter this morning.
+7 Yesterday Julie moved to the jupiter.
+8 Where was Fred before the jupiter? 	saturn	1 2
+9 Julie journeyed to the uranus this morning.
+10 This afternoon Doud went to the earth.
+11 Where was Doud before the earth? 	jupiter	10 6
+12 This afternoon Julie went back to the jupiter.
+13 This morning Bill moved to the saturn.
+14 Where was Julie before the uranus? 	jupiter	9 7
+15 This evening Doud went back to the mars.
+16 Bill went back to the jupiter this afternoon.
+17 Where was Bill before the saturn? 	mars	13 3
+1 Julie went back to the mercury yesterday.
+2 Yesterday Doud moved to the mars.
+3 Yesterday Bill went to the jupiter.
+4 Bill journeyed to the saturn this morning.
+5 Where was Bill before the saturn? 	jupiter	4 3
+6 Bill journeyed to the uranus this afternoon.
+7 Yesterday Fred journeyed to the mars.
+8 Where was Bill before the saturn? 	jupiter	4 3
+9 This morning Doud travelled to the jupiter.
+10 This evening Bill went back to the saturn.
+11 Where was Doud before the jupiter? 	mars	9 2
+12 Fred went back to the saturn this morning.
+13 This afternoon Doud moved to the mars.
+14 Where was Fred before the saturn? 	mars	12 7
+15 Fred went to the mercury this afternoon.
+16 This evening Doud went back to the earth.
+17 Where was Fred before the mercury? 	saturn	15 12
+1 Yesterday Julie moved to the uranus.
+2 Bill went to the mercury yesterday.
+3 This morning Julie journeyed to the saturn.
+4 Yesterday Fred went back to the jupiter.
+5 Where was Julie before the saturn? 	uranus	3 1
+6 Yesterday Doud went to the uranus.
+7 Fred travelled to the saturn this morning.
+8 Where was Fred before the saturn? 	jupiter	7 4
+9 This morning Doud went back to the mars.
+10 This afternoon Julie moved to the earth.
+11 Where was Fred before the saturn? 	jupiter	7 4
+12 This afternoon Bill journeyed to the jupiter.
+13 This morning Bill moved to the mars.
+14 Where was Bill before the mars? 	mercury	13 2
+15 Fred journeyed to the jupiter this afternoon.
+16 Julie moved to the jupiter this evening.
+17 Where was Fred before the jupiter? 	saturn	15 7
+1 This morning Julie moved to the uranus.
+2 Yesterday Bill journeyed to the mercury.
+3 Yesterday Julie went back to the mercury.
+4 Doud travelled to the saturn yesterday.
+5 Where was Julie before the uranus? 	mercury	1 3
+6 This morning Bill went to the saturn.
+7 Doud went to the uranus this morning.
+8 Where was Doud before the uranus? 	saturn	7 4
+9 This afternoon Doud went back to the saturn.
+10 Julie moved to the earth this afternoon.
+11 Where was Bill before the saturn? 	mercury	6 2
+12 This afternoon Bill journeyed to the mercury.
+13 Doud went to the mercury this evening.
+14 Where was Doud before the saturn? 	uranus	9 7
+15 Fred moved to the saturn yesterday.
+16 Julie travelled to the mercury this evening.
+17 Where was Doud before the mercury? 	saturn	13 9
+1 Julie journeyed to the mercury yesterday.
+2 Fred travelled to the earth yesterday.
+3 Fred travelled to the mercury this morning.
+4 This morning Julie moved to the mars.
+5 Doud travelled to the jupiter yesterday.
+6 Yesterday Bill travelled to the jupiter.
+7 Where was Julie before the mars? 	mercury	4 1
+8 Doud travelled to the uranus this morning.
+9 This afternoon Fred journeyed to the jupiter.
+10 Where was Doud before the uranus? 	jupiter	8 5
+11 This afternoon Julie travelled to the jupiter.
+12 Fred went back to the uranus this evening.
+13 Where was Fred before the uranus? 	jupiter	12 9
+14 Doud journeyed to the jupiter this afternoon.
+15 Bill moved to the saturn this morning.
+16 Where was Doud before the jupiter? 	uranus	14 8
+17 Julie went back to the uranus this evening.
+18 This evening Doud went to the mercury.
+19 Where was Julie before the uranus? 	jupiter	17 11
+1 Julie moved to the mercury yesterday.
+2 Bill went back to the earth yesterday.
+3 This morning Julie journeyed to the earth.
+4 Doud journeyed to the mercury this morning.
+5 Fred travelled to the mercury yesterday.
+6 Doud moved to the earth yesterday.
+7 Where was Julie before the earth? 	mercury	3 1
+8 Fred journeyed to the jupiter this morning.
+9 This morning Bill moved to the jupiter.
+10 Where was Fred before the jupiter? 	mercury	8 5
+11 Fred went back to the saturn this afternoon.
+12 This afternoon Bill travelled to the uranus.
+13 Where was Julie before the earth? 	mercury	3 1
+14 Bill went back to the earth this evening.
+15 Julie journeyed to the jupiter this afternoon.
+16 Where was Fred before the saturn? 	jupiter	11 8
+17 Doud went to the uranus this afternoon.
+18 This evening Fred went to the uranus.
+19 Where was Fred before the uranus? 	saturn	18 11
+1 Bill went to the mercury yesterday.
+2 This morning Fred journeyed to the earth.
+3 Yesterday Julie went back to the mercury.
+4 Yesterday Fred journeyed to the jupiter.
+5 Where was Fred before the earth? 	jupiter	2 4
+6 Yesterday Doud journeyed to the saturn.
+7 This morning Bill journeyed to the saturn.
+8 Where was Fred before the earth? 	jupiter	2 4
+9 This morning Doud went back to the uranus.
+10 This morning Julie moved to the mars.
+11 Where was Fred before the earth? 	jupiter	2 4
+12 This afternoon Julie went to the mercury.
+13 Bill travelled to the mercury this afternoon.
+14 Where was Doud before the uranus? 	saturn	9 6
+15 This evening Fred travelled to the saturn.
+16 Fred moved to the mercury this afternoon.
+17 Where was Bill before the mercury? 	saturn	13 7
+1 Doud travelled to the uranus yesterday.
+2 This morning Fred moved to the mars.
+3 Yesterday Fred went to the earth.
+4 This morning Doud travelled to the mars.
+5 Where was Fred before the mars? 	earth	2 3
+6 Yesterday Julie went back to the uranus.
+7 Doud moved to the uranus this afternoon.
+8 Where was Fred before the mars? 	earth	2 3
+9 Fred went back to the mars this evening.
+10 Fred journeyed to the saturn this afternoon.
+11 Where was Doud before the uranus? 	mars	7 4
+12 Yesterday Bill went to the mercury.
+13 Julie went back to the saturn this morning.
+14 Where was Julie before the saturn? 	uranus	13 6
+15 This afternoon Bill went back to the mercury.
+16 This morning Bill went to the jupiter.
+17 Where was Fred before the mars? 	saturn	9 10
+1 Julie went back to the uranus yesterday.
+2 Bill travelled to the uranus yesterday.
+3 Yesterday Doud moved to the mercury.
+4 This morning Bill moved to the jupiter.
+5 Where was Bill before the jupiter? 	uranus	4 2
+6 This morning Doud went to the uranus.
+7 This morning Julie journeyed to the jupiter.
+8 Where was Julie before the jupiter? 	uranus	7 1
+9 This afternoon Bill went back to the earth.
+10 This afternoon Julie went back to the earth.
+11 Where was Julie before the jupiter? 	uranus	7 1
+12 Doud journeyed to the mars this evening.
+13 Doud moved to the jupiter this afternoon.
+14 Where was Doud before the mars? 	jupiter	12 13
+15 Bill travelled to the saturn this evening.
+16 Julie went back to the saturn this evening.
+17 Where was Doud before the jupiter? 	uranus	13 6
+1 Yesterday Fred travelled to the mercury.
+2 Julie travelled to the earth this morning.
+3 Yesterday Doud travelled to the uranus.
+4 Yesterday Julie journeyed to the saturn.
+5 Where was Julie before the earth? 	saturn	2 4
+6 This morning Fred went back to the mars.
+7 Bill journeyed to the earth yesterday.
+8 Where was Julie before the earth? 	saturn	2 4
+9 Julie went back to the saturn this evening.
+10 This afternoon Julie went to the mars.
+11 Where was Julie before the mars? 	earth	10 2
+12 This morning Doud moved to the earth.
+13 This morning Bill went to the jupiter.
+14 Where was Fred before the mars? 	mercury	6 1
+15 This afternoon Fred travelled to the saturn.
+16 Doud moved to the mars this afternoon.
+17 Where was Julie before the saturn? 	mars	9 10
+1 Julie moved to the saturn yesterday.
+2 Bill travelled to the uranus this morning.
+3 Doud went to the uranus yesterday.
+4 Bill moved to the mars yesterday.
+5 Where was Bill before the uranus? 	mars	2 4
+6 This morning Julie moved to the mars.
+7 Yesterday Fred went back to the uranus.
+8 Where was Julie before the mars? 	saturn	6 1
+9 This afternoon Bill journeyed to the mars.
+10 Doud went back to the jupiter this morning.
+11 Where was Bill before the mars? 	uranus	9 2
+12 Julie moved to the mercury this evening.
+13 Julie journeyed to the saturn this afternoon.
+14 Where was Julie before the mercury? 	saturn	12 13
+15 Bill journeyed to the earth this evening.
+16 Fred went to the jupiter this morning.
+17 Where was Fred before the jupiter? 	uranus	16 7
+1 Bill went back to the earth this morning.
+2 Yesterday Fred went to the jupiter.
+3 Yesterday Doud went to the earth.
+4 Bill moved to the mars yesterday.
+5 Where was Bill before the earth? 	mars	1 4
+6 This morning Doud went back to the jupiter.
+7 This morning Fred moved to the mars.
+8 Where was Fred before the mars? 	jupiter	7 2
+9 Bill travelled to the mercury this evening.
+10 Bill journeyed to the jupiter this afternoon.
+11 Where was Bill before the mercury? 	jupiter	9 10
+12 This evening Doud moved to the earth.
+13 Doud went to the uranus this afternoon.
+14 Where was Bill before the mercury? 	jupiter	9 10
+15 This evening Fred moved to the mercury.
+16 This afternoon Fred journeyed to the earth.
+17 Where was Doud before the earth? 	uranus	12 13
+1 Yesterday Bill journeyed to the saturn.
+2 Yesterday Fred went back to the mars.
+3 This morning Julie moved to the mercury.
+4 Julie moved to the jupiter yesterday.
+5 Where was Julie before the mercury? 	jupiter	3 4
+6 This morning Fred went to the earth.
+7 This afternoon Julie went back to the earth.
+8 Where was Fred before the earth? 	mars	6 2
+9 This morning Doud went back to the jupiter.
+10 Doud travelled to the earth yesterday.
+11 Where was Julie before the earth? 	mercury	7 3
+12 This morning Bill went to the uranus.
+13 Julie journeyed to the mercury this evening.
+14 Where was Fred before the earth? 	mars	6 2
+15 This afternoon Bill travelled to the earth.
+16 Fred journeyed to the saturn this afternoon.
+17 Where was Julie before the mercury? 	earth	13 7
+1 Bill journeyed to the jupiter yesterday.
+2 This morning Doud travelled to the mercury.
+3 Yesterday Julie went back to the mercury.
+4 Doud travelled to the saturn yesterday.
+5 Where was Doud before the mercury? 	saturn	2 4
+6 This morning Julie journeyed to the uranus.
+7 This afternoon Doud travelled to the uranus.
+8 Where was Doud before the mercury? 	saturn	2 4
+9 This evening Doud moved to the earth.
+10 This afternoon Julie moved to the mars.
+11 Where was Julie before the uranus? 	mercury	6 3
+12 Bill journeyed to the saturn this afternoon.
+13 This morning Bill moved to the earth.
+14 Where was Bill before the saturn? 	earth	12 13
+15 Julie moved to the mercury this evening.
+16 Yesterday Fred went to the saturn.
+17 Where was Bill before the earth? 	jupiter	13 1
+1 This morning Doud travelled to the mars.
+2 Doud went back to the saturn yesterday.
+3 Bill journeyed to the uranus yesterday.
+4 Yesterday Julie moved to the saturn.
+5 Where was Doud before the mars? 	saturn	1 2
+6 This afternoon Bill moved to the uranus.
+7 This morning Bill travelled to the saturn.
+8 Where was Doud before the mars? 	saturn	1 2
+9 Bill moved to the jupiter this evening.
+10 Yesterday Fred went to the mars.
+11 Where was Bill before the saturn? 	uranus	7 3
+12 This afternoon Fred moved to the mars.
+13 Fred travelled to the uranus this morning.
+14 Where was Fred before the mars? 	uranus	12 13
+15 This afternoon Julie went back to the uranus.
+16 This morning Julie travelled to the jupiter.
+17 Where was Fred before the mars? 	uranus	12 13
+1 Yesterday Fred went to the mercury.
+2 Yesterday Julie moved to the mars.
+3 Yesterday Bill travelled to the mars.
+4 Bill moved to the jupiter this morning.
+5 Where was Bill before the jupiter? 	mars	4 3
+6 This afternoon Bill went to the uranus.
+7 Julie journeyed to the earth this morning.
+8 Where was Bill before the uranus? 	jupiter	6 4
+9 This evening Julie journeyed to the saturn.
+10 Julie travelled to the mars this afternoon.
+11 Where was Julie before the saturn? 	mars	9 10
+12 Doud went to the saturn yesterday.
+13 Bill went back to the mars this evening.
+14 Where was Julie before the mars? 	earth	10 7
+15 This afternoon Fred journeyed to the mercury.
+16 Fred travelled to the jupiter this morning.
+17 Where was Fred before the jupiter? 	mercury	16 1
+1 Doud went to the earth yesterday.
+2 Yesterday Fred journeyed to the earth.
+3 This morning Fred went back to the saturn.
+4 Yesterday Bill journeyed to the mars.
+5 Where was Fred before the saturn? 	earth	3 2
+6 This morning Bill travelled to the jupiter.
+7 This morning Doud went to the saturn.
+8 Where was Bill before the jupiter? 	mars	6 4
+9 This afternoon Fred journeyed to the mars.
+10 Yesterday Julie journeyed to the saturn.
+11 Where was Bill before the jupiter? 	mars	6 4
+12 This morning Julie went to the mars.
+13 This afternoon Doud journeyed to the mars.
+14 Where was Julie before the mars? 	saturn	12 10
+15 This afternoon Julie moved to the earth.
+16 This evening Fred went to the saturn.
+17 Where was Julie before the earth? 	mars	15 12
+1 Julie went back to the earth yesterday.
+2 This morning Bill moved to the jupiter.
+3 Yesterday Bill journeyed to the mars.
+4 Doud journeyed to the mercury yesterday.
+5 Where was Bill before the jupiter? 	mars	2 3
+6 This morning Doud journeyed to the earth.
+7 Bill travelled to the mars this afternoon.
+8 Where was Doud before the earth? 	mercury	6 4
+9 Doud journeyed to the mars this evening.
+10 Doud travelled to the mercury this afternoon.
+11 Where was Doud before the mercury? 	earth	10 6
+12 Yesterday Fred went to the earth.
+13 Julie travelled to the jupiter this morning.
+14 Where was Doud before the mercury? 	earth	10 6
+15 This afternoon Julie journeyed to the mars.
+16 Bill went back to the uranus this evening.
+17 Where was Julie before the mars? 	jupiter	15 13
+1 Doud travelled to the mars yesterday.
+2 This morning Doud travelled to the mercury.
+3 This afternoon Doud went to the saturn.
+4 Yesterday Bill went back to the mercury.
+5 Where was Doud before the saturn? 	mercury	3 2
+6 Bill went to the earth this morning.
+7 Yesterday Fred travelled to the uranus.
+8 Where was Bill before the earth? 	mercury	6 4
+9 Fred went to the earth this morning.
+10 Julie went to the mars yesterday.
+11 Where was Doud before the saturn? 	mercury	3 2
+12 This afternoon Fred went back to the mercury.
+13 This morning Julie journeyed to the jupiter.
+14 Where was Bill before the earth? 	mercury	6 4
+15 Doud went to the mercury this evening.
+16 This evening Fred travelled to the mars.
+17 Where was Doud before the mercury? 	saturn	15 3
+1 Yesterday Julie moved to the jupiter.
+2 This morning Fred moved to the earth.
+3 Bill moved to the uranus yesterday.
+4 Fred went back to the mars yesterday.
+5 Where was Fred before the earth? 	mars	2 4
+6 Yesterday Doud went to the earth.
+7 This morning Julie moved to the earth.
+8 Where was Fred before the earth? 	mars	2 4
+9 This morning Bill went to the mars.
+10 Fred went back to the mercury this afternoon.
+11 Where was Fred before the earth? 	mars	2 4
+12 Julie journeyed to the uranus this afternoon.
+13 This evening Fred journeyed to the mars.
+14 Where was Fred before the mars? 	mercury	13 10
+15 This morning Doud went back to the mercury.
+16 This evening Julie travelled to the earth.
+17 Where was Julie before the uranus? 	earth	12 7
+1 This morning Fred went to the mars.
+2 Fred went to the earth yesterday.
+3 Where was Fred before the mars? 	earth	1 2
+4 Yesterday Bill went to the mercury.
+5 Yesterday Julie moved to the jupiter.
+6 Where was Fred before the mars? 	earth	1 2
+7 Doud moved to the saturn yesterday.
+8 Julie journeyed to the earth this morning.
+9 Where was Julie before the earth? 	jupiter	8 5
+10 Bill journeyed to the uranus this morning.
+11 This morning Doud travelled to the mercury.
+12 Where was Bill before the uranus? 	mercury	10 4
+13 This evening Julie journeyed to the earth.
+14 This afternoon Julie went back to the mercury.
+15 Where was Doud before the mercury? 	saturn	11 7
+1 Yesterday Julie journeyed to the uranus.
+2 Fred went to the earth this morning.
+3 Yesterday Fred went back to the jupiter.
+4 Doud moved to the mercury yesterday.
+5 Where was Fred before the earth? 	jupiter	2 3
+6 Fred travelled to the mercury this afternoon.
+7 Doud went back to the mars this morning.
+8 Where was Fred before the mercury? 	earth	6 2
+9 This morning Julie went to the saturn.
+10 Yesterday Bill journeyed to the uranus.
+11 Where was Doud before the mars? 	mercury	7 4
+12 This afternoon Julie went to the mercury.
+13 This afternoon Doud journeyed to the saturn.
+14 Where was Julie before the saturn? 	uranus	9 1
+15 This evening Julie went to the saturn.
+16 Fred moved to the jupiter this evening.
+17 Where was Fred before the jupiter? 	mercury	16 6
+1 Doud travelled to the earth yesterday.
+2 Julie moved to the mercury yesterday.
+3 This morning Doud travelled to the mars.
+4 Bill went back to the mercury yesterday.
+5 Where was Doud before the mars? 	earth	3 1
+6 This afternoon Doud moved to the earth.
+7 Fred journeyed to the earth yesterday.
+8 Where was Doud before the mars? 	earth	3 1
+9 Doud journeyed to the saturn this evening.
+10 Julie travelled to the earth this morning.
+11 Where was Doud before the saturn? 	earth	9 6
+12 This afternoon Bill journeyed to the saturn.
+13 Bill travelled to the mars this morning.
+14 Where was Bill before the saturn? 	mars	12 13
+15 This evening Julie went to the saturn.
+16 This afternoon Julie moved to the mars.
+17 Where was Julie before the mars? 	earth	16 10
+1 Doud went back to the uranus this morning.
+2 Yesterday Julie journeyed to the mars.
+3 Doud moved to the earth yesterday.
+4 Yesterday Fred travelled to the earth.
+5 Where was Doud before the uranus? 	earth	1 3
+6 This afternoon Doud went back to the earth.
+7 Julie journeyed to the saturn this morning.
+8 Where was Doud before the earth? 	uranus	6 1
+9 Doud journeyed to the mercury this evening.
+10 Yesterday Bill went back to the jupiter.
+11 Where was Doud before the uranus? 	earth	1 3
+12 Julie moved to the jupiter this evening.
+13 Julie travelled to the mercury this afternoon.
+14 Where was Julie before the mercury? 	saturn	13 7
+15 This afternoon Fred moved to the mercury.
+16 Fred went to the uranus this morning.
+17 Where was Fred before the mercury? 	uranus	15 16
+1 Bill went to the mercury yesterday.
+2 Bill went back to the earth this morning.
+3 This morning Doud went back to the earth.
+4 Fred moved to the jupiter yesterday.
+5 Yesterday Doud travelled to the mercury.
+6 Julie travelled to the saturn yesterday.
+7 Where was Bill before the earth? 	mercury	2 1
+8 Bill went back to the mars this afternoon.
+9 Julie went to the mercury this morning.
+10 Where was Julie before the mercury? 	saturn	9 6
+11 Doud moved to the mercury this afternoon.
+12 Fred went to the mercury this morning.
+13 Where was Julie before the mercury? 	saturn	9 6
+14 Bill moved to the earth this evening.
+15 This afternoon Julie travelled to the uranus.
+16 Where was Fred before the mercury? 	jupiter	12 4
+17 Julie moved to the earth this evening.
+18 Fred travelled to the uranus this afternoon.
+19 Where was Julie before the earth? 	uranus	17 15
+1 Yesterday Julie went back to the jupiter.
+2 Yesterday Bill went to the mercury.
+3 Yesterday Fred moved to the earth.
+4 Fred went to the saturn this morning.
+5 Fred went to the mercury this afternoon.
+6 Yesterday Doud travelled to the saturn.
+7 Where was Fred before the saturn? 	earth	4 3
+8 Bill went back to the jupiter this morning.
+9 This morning Julie journeyed to the uranus.
+10 Where was Julie before the uranus? 	jupiter	9 1
+11 Julie travelled to the saturn this afternoon.
+12 This morning Doud went back to the uranus.
+13 Where was Julie before the uranus? 	jupiter	9 1
+14 This afternoon Bill travelled to the mercury.
+15 Julie travelled to the jupiter this evening.
+16 Where was Julie before the saturn? 	uranus	11 9
+17 Bill journeyed to the mars this evening.
+18 Doud moved to the mars this afternoon.
+19 Where was Bill before the mercury? 	jupiter	14 8
+1 Bill journeyed to the saturn this morning.
+2 Bill went back to the mercury yesterday.
+3 Where was Bill before the saturn? 	mercury	1 2
+4 Yesterday Doud went back to the mercury.
+5 Bill moved to the mars this afternoon.
+6 Where was Bill before the mars? 	saturn	5 1
+7 Fred went back to the saturn yesterday.
+8 This evening Bill went to the saturn.
+9 Where was Bill before the saturn? 	mars	8 5
+10 Julie journeyed to the mercury yesterday.
+11 This morning Doud travelled to the saturn.
+12 Where was Bill before the saturn? 	mars	8 5
+13 Julie went back to the mars this afternoon.
+14 This morning Julie went to the uranus.
+15 Where was Doud before the saturn? 	mercury	11 4
+1 Yesterday Doud went to the earth.
+2 Bill moved to the mercury yesterday.
+3 Doud went to the uranus this morning.
+4 Yesterday Fred went to the mercury.
+5 Where was Doud before the uranus? 	earth	3 1
+6 This afternoon Doud journeyed to the mercury.
+7 This morning Fred moved to the uranus.
+8 Where was Fred before the uranus? 	mercury	7 4
+9 This evening Doud moved to the jupiter.
+10 Bill went back to the jupiter this morning.
+11 Where was Doud before the uranus? 	earth	3 1
+12 This evening Bill moved to the earth.
+13 This afternoon Bill went to the mars.
+14 Where was Bill before the mars? 	jupiter	13 10
+15 Julie went to the saturn this morning.
+16 Yesterday Julie moved to the earth.
+17 Where was Julie before the saturn? 	earth	15 16
+1 Yesterday Fred travelled to the uranus.
+2 This morning Bill went to the mercury.
+3 Bill moved to the jupiter this afternoon.
+4 Bill went back to the uranus yesterday.
+5 Where was Bill before the jupiter? 	mercury	3 2
+6 Fred went back to the mercury this morning.
+7 Yesterday Julie moved to the mars.
+8 Where was Bill before the mercury? 	uranus	2 4
+9 Fred went to the earth this afternoon.
+10 Doud travelled to the saturn yesterday.
+11 Where was Fred before the earth? 	mercury	9 6
+12 Julie journeyed to the earth this morning.
+13 Fred journeyed to the mars this evening.
+14 Where was Fred before the mars? 	earth	13 9
+15 This morning Doud went to the earth.
+16 Bill travelled to the mars this evening.
+17 Where was Fred before the mars? 	earth	13 9
+1 Yesterday Julie journeyed to the saturn.
+2 Fred travelled to the earth yesterday.
+3 Bill journeyed to the mercury this morning.
+4 Bill went to the earth yesterday.
+5 Where was Bill before the mercury? 	earth	3 4
+6 Bill moved to the uranus this afternoon.
+7 Doud journeyed to the mercury yesterday.
+8 Where was Bill before the mercury? 	earth	3 4
+9 Julie journeyed to the jupiter this morning.
+10 Fred went back to the mercury this morning.
+11 Where was Bill before the mercury? 	earth	3 4
+12 This evening Bill travelled to the saturn.
+13 Fred went to the mars this afternoon.
+14 Where was Bill before the saturn? 	uranus	12 6
+15 This afternoon Doud travelled to the earth.
+16 Doud journeyed to the saturn this morning.
+17 Where was Julie before the jupiter? 	saturn	9 1
+1 Yesterday Doud travelled to the mercury.
+2 Julie travelled to the saturn this morning.
+3 Yesterday Bill went back to the mercury.
+4 Julie journeyed to the mars yesterday.
+5 Where was Julie before the saturn? 	mars	2 4
+6 This morning Bill moved to the earth.
+7 Fred went to the mercury yesterday.
+8 Where was Bill before the earth? 	mercury	6 3
+9 This morning Fred went to the jupiter.
+10 Doud journeyed to the earth this morning.
+11 Where was Julie before the saturn? 	mars	2 4
+12 Bill went to the mars this evening.
+13 This afternoon Bill moved to the jupiter.
+14 Where was Bill before the mars? 	jupiter	12 13
+15 Fred travelled to the mercury this afternoon.
+16 Doud went to the jupiter this afternoon.
+17 Where was Bill before the jupiter? 	earth	13 6
+1 Doud went to the mercury yesterday.
+2 Bill journeyed to the jupiter this morning.
+3 Bill journeyed to the uranus yesterday.
+4 Yesterday Fred travelled to the mars.
+5 Where was Bill before the jupiter? 	uranus	2 3
+6 Bill went to the mercury this evening.
+7 Bill went back to the mars this afternoon.
+8 Where was Bill before the jupiter? 	uranus	2 3
+9 Julie went to the mercury this morning.
+10 Yesterday Julie went back to the saturn.
+11 Where was Julie before the mercury? 	saturn	9 10
+12 Julie moved to the uranus this afternoon.
+13 This morning Fred moved to the earth.
+14 Where was Bill before the mercury? 	mars	6 7
+15 This morning Doud journeyed to the mars.
+16 Fred went to the mars this afternoon.
+17 Where was Fred before the earth? 	mars	13 4
+1 Yesterday Julie travelled to the earth.
+2 This morning Doud went back to the saturn.
+3 Yesterday Fred moved to the mars.
+4 Yesterday Doud went back to the mars.
+5 Where was Doud before the saturn? 	mars	2 4
+6 Bill journeyed to the earth yesterday.
+7 This morning Fred moved to the saturn.
+8 Where was Fred before the saturn? 	mars	7 3
+9 This morning Bill travelled to the jupiter.
+10 Doud travelled to the jupiter this afternoon.
+11 Where was Fred before the saturn? 	mars	7 3
+12 This afternoon Fred moved to the mars.
+13 This morning Julie travelled to the uranus.
+14 Where was Fred before the mars? 	saturn	12 7
+15 This evening Bill went to the earth.
+16 Bill went back to the mercury this afternoon.
+17 Where was Fred before the mars? 	saturn	12 7
+1 Fred travelled to the mercury yesterday.
+2 Julie journeyed to the mercury this morning.
+3 Bill travelled to the mars yesterday.
+4 Yesterday Julie went back to the mars.
+5 Where was Julie before the mercury? 	mars	2 4
+6 This morning Fred went to the uranus.
+7 This morning Bill moved to the uranus.
+8 Where was Bill before the uranus? 	mars	7 3
+9 Bill went to the saturn this evening.
+10 Bill travelled to the jupiter this afternoon.
+11 Where was Bill before the saturn? 	jupiter	9 10
+12 Julie travelled to the jupiter this evening.
+13 This afternoon Julie went back to the mars.
+14 Where was Bill before the saturn? 	jupiter	9 10
+15 Yesterday Doud journeyed to the mars.
+16 Fred went to the mercury this afternoon.
+17 Where was Julie before the jupiter? 	mars	12 13
+1 Doud travelled to the uranus yesterday.
+2 Yesterday Fred went back to the earth.
+3 This morning Julie travelled to the mercury.
+4 Yesterday Julie went back to the mars.
+5 Where was Julie before the mercury? 	mars	3 4
+6 Bill moved to the saturn yesterday.
+7 Fred travelled to the mars this morning.
+8 Where was Julie before the mercury? 	mars	3 4
+9 This evening Fred travelled to the uranus.
+10 Fred went to the mercury this afternoon.
+11 Where was Fred before the mars? 	earth	7 2
+12 This afternoon Bill went back to the jupiter.
+13 This morning Bill journeyed to the mars.
+14 Where was Fred before the uranus? 	mercury	9 10
+15 This evening Bill travelled to the mercury.
+16 Julie went to the saturn this afternoon.
+17 Where was Bill before the jupiter? 	mars	12 13
+1 Fred journeyed to the uranus this afternoon.
+2 Fred travelled to the earth yesterday.
+3 Bill travelled to the jupiter yesterday.
+4 Fred travelled to the saturn this morning.
+5 Where was Fred before the saturn? 	earth	4 2
+6 Doud travelled to the earth yesterday.
+7 Julie went back to the mercury yesterday.
+8 Where was Fred before the uranus? 	saturn	1 4
+9 This evening Fred travelled to the mercury.
+10 Doud moved to the saturn this morning.
+11 Where was Fred before the mercury? 	uranus	9 1
+12 Julie travelled to the jupiter this afternoon.
+13 This morning Julie journeyed to the earth.
+14 Where was Doud before the saturn? 	earth	10 6
+15 This afternoon Doud went to the earth.
+16 This morning Bill went to the earth.
+17 Where was Julie before the earth? 	mercury	13 7
+1 Fred went to the jupiter yesterday.
+2 Julie went back to the uranus this morning.
+3 Yesterday Julie travelled to the earth.
+4 Yesterday Doud journeyed to the saturn.
+5 Where was Julie before the uranus? 	earth	2 3
+6 Doud journeyed to the uranus this morning.
+7 Julie went to the jupiter this afternoon.
+8 Where was Julie before the jupiter? 	uranus	7 2
+9 This morning Fred travelled to the mars.
+10 This evening Julie went back to the mars.
+11 Where was Fred before the mars? 	jupiter	9 1
+12 This evening Doud journeyed to the mars.
+13 This afternoon Doud went back to the mercury.
+14 Where was Julie before the mars? 	jupiter	10 7
+15 Fred travelled to the jupiter this afternoon.
+16 Bill travelled to the saturn yesterday.
+17 Where was Fred before the mars? 	jupiter	9 1
+1 This morning Bill travelled to the uranus.
+2 Yesterday Bill moved to the mercury.
+3 Where was Bill before the uranus? 	mercury	1 2
+4 Doud went to the saturn this morning.
+5 Yesterday Doud went back to the earth.
+6 Where was Doud before the saturn? 	earth	4 5
+7 Bill went back to the mars this afternoon.
+8 This afternoon Doud went to the earth.
+9 Where was Doud before the earth? 	saturn	8 4
+10 This evening Bill journeyed to the mercury.
+11 Yesterday Fred went back to the mars.
+12 Where was Bill before the mercury? 	mars	10 7
+13 Yesterday Julie moved to the mercury.
+14 Doud travelled to the jupiter this evening.
+15 Where was Doud before the jupiter? 	earth	14 8
+1 Julie moved to the saturn this morning.
+2 Yesterday Bill travelled to the uranus.
+3 Yesterday Doud moved to the uranus.
+4 Fred journeyed to the mars yesterday.
+5 This morning Doud moved to the mars.
+6 Yesterday Julie went back to the mars.
+7 Where was Doud before the mars? 	uranus	5 3
+8 Bill went back to the jupiter this morning.
+9 Doud moved to the mercury this afternoon.
+10 Where was Doud before the mercury? 	mars	9 5
+11 This morning Fred went back to the mercury.
+12 Bill journeyed to the uranus this afternoon.
+13 Where was Fred before the mercury? 	mars	11 4
+14 This evening Bill moved to the mercury.
+15 This evening Doud travelled to the earth.
+16 Where was Doud before the earth? 	mercury	15 9
+17 Fred travelled to the saturn this afternoon.
+18 This afternoon Julie journeyed to the earth.
+19 Where was Bill before the mercury? 	uranus	14 12
+1 Doud went back to the uranus yesterday.
+2 Doud went back to the earth this morning.
+3 This afternoon Doud journeyed to the mars.
+4 Fred went to the uranus yesterday.
+5 Where was Doud before the earth? 	uranus	2 1
+6 Julie went back to the mars yesterday.
+7 Fred journeyed to the mars this morning.
+8 Where was Doud before the mars? 	earth	3 2
+9 This morning Julie journeyed to the uranus.
+10 This afternoon Fred went to the jupiter.
+11 Where was Julie before the uranus? 	mars	9 6
+12 This evening Doud went back to the uranus.
+13 Bill moved to the earth yesterday.
+14 Where was Julie before the uranus? 	mars	9 6
+15 This morning Bill went to the jupiter.
+16 This afternoon Julie went to the earth.
+17 Where was Julie before the uranus? 	mars	9 6
+1 Bill travelled to the mercury yesterday.
+2 This morning Julie went to the uranus.
+3 Julie journeyed to the mercury yesterday.
+4 Doud moved to the earth yesterday.
+5 Where was Julie before the uranus? 	mercury	2 3
+6 Doud went to the jupiter this morning.
+7 Bill journeyed to the saturn this morning.
+8 Where was Doud before the jupiter? 	earth	6 4
+9 Bill moved to the earth this afternoon.
+10 Fred went to the saturn yesterday.
+11 Where was Bill before the saturn? 	mercury	7 1
+12 Doud went back to the saturn this afternoon.
+13 Fred went back to the mercury this morning.
+14 Where was Bill before the earth? 	saturn	9 7
+15 Bill travelled to the saturn this evening.
+16 This evening Doud journeyed to the mars.
+17 Where was Bill before the saturn? 	earth	15 9
+1 Julie travelled to the mars this morning.
+2 Julie travelled to the uranus yesterday.
+3 Where was Julie before the mars? 	uranus	1 2
+4 Doud went back to the mercury yesterday.
+5 Julie went to the mercury this afternoon.
+6 Where was Julie before the mercury? 	mars	5 1
+7 Julie went back to the jupiter this evening.
+8 Bill journeyed to the uranus yesterday.
+9 Where was Julie before the jupiter? 	mercury	7 5
+10 Bill went to the jupiter this morning.
+11 Fred travelled to the saturn yesterday.
+12 Where was Julie before the jupiter? 	mercury	7 5
+13 This afternoon Bill went to the earth.
+14 This morning Doud journeyed to the earth.
+15 Where was Bill before the jupiter? 	uranus	10 8
+1 Bill went back to the jupiter this morning.
+2 Yesterday Bill travelled to the saturn.
+3 Where was Bill before the jupiter? 	saturn	1 2
+4 Yesterday Julie went to the mars.
+5 Yesterday Doud moved to the jupiter.
+6 Where was Bill before the jupiter? 	saturn	1 2
+7 Fred moved to the uranus yesterday.
+8 This morning Julie moved to the uranus.
+9 Where was Bill before the jupiter? 	saturn	1 2
+10 Julie travelled to the mars this afternoon.
+11 Fred went back to the jupiter this morning.
+12 Where was Fred before the jupiter? 	uranus	11 7
+13 Doud travelled to the earth this morning.
+14 Julie went back to the uranus this evening.
+15 Where was Fred before the jupiter? 	uranus	11 7
+1 Fred went to the jupiter this morning.
+2 Fred went back to the mercury yesterday.
+3 Where was Fred before the jupiter? 	mercury	1 2
+4 Yesterday Bill travelled to the jupiter.
+5 Fred went back to the mercury this afternoon.
+6 Where was Fred before the jupiter? 	mercury	1 2
+7 This morning Bill journeyed to the mars.
+8 Fred travelled to the jupiter this evening.
+9 Where was Fred before the jupiter? 	mercury	8 5
+10 This afternoon Bill travelled to the jupiter.
+11 Doud moved to the mars yesterday.
+12 Where was Bill before the jupiter? 	mars	10 7
+13 Julie went to the saturn yesterday.
+14 This morning Doud went to the jupiter.
+15 Where was Doud before the jupiter? 	mars	14 11
+1 Fred travelled to the earth yesterday.
+2 Julie went to the mercury yesterday.
+3 Bill went back to the jupiter this morning.
+4 Yesterday Bill went to the saturn.
+5 This afternoon Bill moved to the saturn.
+6 Yesterday Doud travelled to the mars.
+7 Where was Bill before the jupiter? 	saturn	3 4
+8 Fred went to the uranus this morning.
+9 Bill went to the mars this evening.
+10 Where was Bill before the saturn? 	jupiter	5 3
+11 Fred journeyed to the mars this evening.
+12 This afternoon Fred went back to the jupiter.
+13 Where was Bill before the saturn? 	jupiter	5 3
+14 This morning Doud went back to the uranus.
+15 Julie travelled to the earth this morning.
+16 Where was Fred before the mars? 	jupiter	11 12
+17 This evening Julie moved to the mercury.
+18 Julie moved to the mars this afternoon.
+19 Where was Julie before the earth? 	mercury	15 2
+1 Doud travelled to the earth yesterday.
+2 This morning Julie travelled to the saturn.
+3 Yesterday Julie moved to the earth.
+4 Yesterday Fred travelled to the saturn.
+5 Where was Julie before the saturn? 	earth	2 3
+6 This morning Doud went to the uranus.
+7 Julie went to the jupiter this afternoon.
+8 Where was Julie before the jupiter? 	saturn	7 2
+9 This afternoon Doud went back to the jupiter.
+10 Bill travelled to the earth yesterday.
+11 Where was Julie before the jupiter? 	saturn	7 2
+12 This evening Doud journeyed to the mercury.
+13 This morning Fred went to the mars.
+14 Where was Fred before the mars? 	saturn	13 4
+15 This evening Julie travelled to the earth.
+16 This morning Bill journeyed to the jupiter.
+17 Where was Julie before the earth? 	jupiter	15 7
+1 Yesterday Bill went to the earth.
+2 Julie travelled to the mars yesterday.
+3 This morning Julie travelled to the earth.
+4 Yesterday Doud went back to the mars.
+5 Where was Julie before the earth? 	mars	3 2
+6 This morning Doud went back to the saturn.
+7 Fred journeyed to the jupiter yesterday.
+8 Where was Julie before the earth? 	mars	3 2
+9 This afternoon Doud went to the earth.
+10 This morning Bill journeyed to the mercury.
+11 Where was Doud before the saturn? 	mars	6 4
+12 This afternoon Julie went to the uranus.
+13 Doud travelled to the mercury this evening.
+14 Where was Bill before the mercury? 	earth	10 1
+15 Bill went to the saturn this afternoon.
+16 Julie travelled to the mercury this evening.
+17 Where was Doud before the mercury? 	earth	13 9
+1 Bill travelled to the mercury this morning.
+2 Bill travelled to the saturn yesterday.
+3 Where was Bill before the mercury? 	saturn	1 2
+4 Yesterday Fred journeyed to the mars.
+5 This afternoon Bill went to the uranus.
+6 Where was Bill before the uranus? 	mercury	5 1
+7 Fred went back to the jupiter this morning.
+8 Yesterday Doud travelled to the saturn.
+9 Where was Bill before the mercury? 	saturn	1 2
+10 Doud went back to the mars this morning.
+11 Yesterday Julie went back to the saturn.
+12 Where was Doud before the mars? 	saturn	10 8
+13 This afternoon Fred went to the earth.
+14 Bill went to the mercury this evening.
+15 Where was Fred before the earth? 	jupiter	13 7
+1 Doud journeyed to the saturn this morning.
+2 Bill moved to the mercury yesterday.
+3 Bill went to the saturn this morning.
+4 Doud journeyed to the uranus yesterday.
+5 Where was Bill before the saturn? 	mercury	3 2
+6 Fred journeyed to the jupiter this morning.
+7 Fred went back to the saturn yesterday.
+8 Where was Doud before the saturn? 	uranus	1 4
+9 This afternoon Fred went to the earth.
+10 This afternoon Bill went back to the earth.
+11 Where was Fred before the jupiter? 	saturn	6 7
+12 Julie moved to the uranus yesterday.
+13 This evening Bill moved to the mars.
+14 Where was Bill before the earth? 	saturn	10 3
+15 Doud travelled to the mars this evening.
+16 Doud travelled to the jupiter this afternoon.
+17 Where was Fred before the earth? 	jupiter	9 6
+1 Doud journeyed to the mars this morning.
+2 Yesterday Doud moved to the jupiter.
+3 Where was Doud before the mars? 	jupiter	1 2
+4 This afternoon Doud moved to the saturn.
+5 Yesterday Julie journeyed to the uranus.
+6 Where was Doud before the saturn? 	mars	4 1
+7 Fred moved to the saturn yesterday.
+8 Doud journeyed to the uranus this evening.
+9 Where was Doud before the saturn? 	mars	4 1
+10 Fred moved to the mercury this afternoon.
+11 Fred moved to the earth this morning.
+12 Where was Fred before the earth? 	saturn	11 7
+13 Julie moved to the mercury this morning.
+14 Fred moved to the saturn this evening.
+15 Where was Fred before the saturn? 	mercury	14 10
+1 This morning Fred went to the saturn.
+2 Yesterday Fred went to the mercury.
+3 Where was Fred before the saturn? 	mercury	1 2
+4 Yesterday Julie travelled to the uranus.
+5 Yesterday Bill journeyed to the earth.
+6 Where was Fred before the saturn? 	mercury	1 2
+7 Yesterday Doud travelled to the earth.
+8 This morning Julie moved to the mars.
+9 Where was Fred before the saturn? 	mercury	1 2
+10 Bill journeyed to the mercury this morning.
+11 Julie went to the earth this afternoon.
+12 Where was Julie before the mars? 	uranus	8 4
+13 This afternoon Fred went to the earth.
+14 This evening Julie travelled to the mercury.
+15 Where was Julie before the mercury? 	earth	14 11
+1 Bill went back to the saturn this morning.
+2 Yesterday Fred travelled to the saturn.
+3 Yesterday Bill journeyed to the mars.
+4 Doud went to the earth yesterday.
+5 Where was Bill before the saturn? 	mars	1 3
+6 This afternoon Bill went back to the uranus.
+7 Fred went back to the earth this morning.
+8 Where was Bill before the saturn? 	mars	1 3
+9 This afternoon Fred journeyed to the mercury.
+10 Yesterday Julie journeyed to the earth.
+11 Where was Bill before the uranus? 	saturn	6 1
+12 This afternoon Doud journeyed to the mars.
+13 This morning Doud journeyed to the saturn.
+14 Where was Fred before the mercury? 	earth	9 7
+15 This evening Fred went to the uranus.
+16 Julie moved to the saturn this morning.
+17 Where was Julie before the saturn? 	earth	16 10
+1 This morning Bill travelled to the uranus.
+2 Fred went to the mercury yesterday.
+3 Yesterday Bill journeyed to the earth.
+4 Fred went back to the uranus this morning.
+5 Where was Bill before the uranus? 	earth	1 3
+6 Julie travelled to the earth yesterday.
+7 Yesterday Doud moved to the uranus.
+8 Where was Bill before the uranus? 	earth	1 3
+9 Fred went back to the mercury this evening.
+10 Fred travelled to the earth this afternoon.
+11 Where was Bill before the uranus? 	earth	1 3
+12 This morning Julie travelled to the uranus.
+13 Bill travelled to the mars this afternoon.
+14 Where was Bill before the mars? 	uranus	13 1
+15 Julie went back to the earth this afternoon.
+16 This morning Doud moved to the mars.
+17 Where was Fred before the mercury? 	earth	9 10
+1 Julie travelled to the jupiter this afternoon.
+2 This morning Julie travelled to the earth.
+3 Doud went back to the mercury yesterday.
+4 Julie went to the mars yesterday.
+5 Where was Julie before the earth? 	mars	2 4
+6 Fred went back to the earth yesterday.
+7 Julie went to the mars this evening.
+8 Where was Julie before the mars? 	jupiter	7 1
+9 Yesterday Bill went back to the jupiter.
+10 This morning Doud went to the mars.
+11 Where was Julie before the jupiter? 	earth	1 2
+12 Fred journeyed to the saturn this afternoon.
+13 Fred moved to the mercury this morning.
+14 Where was Doud before the mars? 	mercury	10 3
+15 Doud went to the earth this afternoon.
+16 This evening Fred went to the jupiter.
+17 Where was Doud before the earth? 	mars	15 10
+1 Julie journeyed to the earth this morning.
+2 Yesterday Bill moved to the earth.
+3 Julie journeyed to the uranus yesterday.
+4 Fred moved to the saturn yesterday.
+5 Where was Julie before the earth? 	uranus	1 3
+6 Fred moved to the uranus this morning.
+7 Doud went back to the earth yesterday.
+8 Where was Julie before the earth? 	uranus	1 3
+9 This afternoon Julie journeyed to the mercury.
+10 This morning Doud journeyed to the mercury.
+11 Where was Julie before the earth? 	uranus	1 3
+12 This afternoon Fred travelled to the saturn.
+13 This morning Bill journeyed to the mercury.
+14 Where was Bill before the mercury? 	earth	13 2
+15 Julie went to the mars this evening.
+16 Fred journeyed to the earth this evening.
+17 Where was Fred before the earth? 	saturn	16 12
+1 Doud journeyed to the saturn this morning.
+2 Yesterday Julie moved to the earth.
+3 Bill went back to the uranus yesterday.
+4 Yesterday Doud went back to the jupiter.
+5 Where was Doud before the saturn? 	jupiter	1 4
+6 This morning Julie went back to the uranus.
+7 This afternoon Doud went back to the mercury.
+8 Where was Julie before the uranus? 	earth	6 2
+9 Yesterday Fred moved to the saturn.
+10 Doud went back to the saturn this evening.
+11 Where was Julie before the uranus? 	earth	6 2
+12 Julie journeyed to the uranus this evening.
+13 This afternoon Julie journeyed to the saturn.
+14 Where was Julie before the uranus? 	saturn	12 13
+15 This morning Bill travelled to the earth.
+16 Fred moved to the earth this morning.
+17 Where was Julie before the saturn? 	uranus	13 6
+1 Yesterday Bill journeyed to the earth.
+2 Doud journeyed to the saturn yesterday.
+3 Yesterday Fred went to the earth.
+4 Fred went to the uranus this morning.
+5 This morning Bill went back to the mercury.
+6 Julie travelled to the earth yesterday.
+7 Where was Fred before the uranus? 	earth	4 3
+8 Julie journeyed to the mars this morning.
+9 This morning Doud travelled to the jupiter.
+10 Where was Julie before the mars? 	earth	8 6
+11 This afternoon Bill travelled to the uranus.
+12 Julie went back to the earth this afternoon.
+13 Where was Julie before the earth? 	mars	12 8
+14 Bill journeyed to the mars this evening.
+15 Julie went to the mars this evening.
+16 Where was Bill before the uranus? 	mercury	11 5
+17 Doud travelled to the earth this afternoon.
+18 Fred travelled to the jupiter this afternoon.
+19 Where was Bill before the uranus? 	mercury	11 5
+1 This morning Bill went back to the uranus.
+2 Bill went back to the mars yesterday.
+3 Doud journeyed to the earth yesterday.
+4 Yesterday Fred went to the mars.
+5 Where was Bill before the uranus? 	mars	1 2
+6 Doud journeyed to the jupiter this afternoon.
+7 Doud moved to the saturn this morning.
+8 Where was Bill before the uranus? 	mars	1 2
+9 Bill moved to the jupiter this afternoon.
+10 Yesterday Julie went to the earth.
+11 Where was Doud before the saturn? 	earth	7 3
+12 This morning Julie went to the uranus.
+13 Bill journeyed to the mars this evening.
+14 Where was Doud before the jupiter? 	saturn	6 7
+15 Julie travelled to the jupiter this evening.
+16 Julie travelled to the mercury this afternoon.
+17 Where was Bill before the mars? 	jupiter	13 9
+1 Yesterday Fred went to the earth.
+2 Yesterday Doud went to the mars.
+3 Yesterday Julie went back to the jupiter.
+4 This morning Fred went to the mars.
+5 Where was Fred before the mars? 	earth	4 1
+6 Yesterday Bill went back to the jupiter.
+7 This morning Julie travelled to the saturn.
+8 Where was Fred before the mars? 	earth	4 1
+9 Doud went back to the earth this morning.
+10 Julie went back to the jupiter this afternoon.
+11 Where was Doud before the earth? 	mars	9 2
+12 Fred moved to the saturn this afternoon.
+13 This afternoon Doud journeyed to the mars.
+14 Where was Doud before the earth? 	mars	9 2
+15 Doud went to the uranus this evening.
+16 This evening Fred travelled to the jupiter.
+17 Where was Fred before the jupiter? 	saturn	16 12
+1 Julie travelled to the jupiter this morning.
+2 Julie went to the mars yesterday.
+3 Fred moved to the earth yesterday.
+4 Doud moved to the mars yesterday.
+5 Where was Julie before the jupiter? 	mars	1 2
+6 Julie journeyed to the mercury this evening.
+7 Julie travelled to the uranus this afternoon.
+8 Where was Julie before the uranus? 	jupiter	7 1
+9 Fred went to the uranus this afternoon.
+10 Fred went back to the mercury this morning.
+11 Where was Fred before the uranus? 	mercury	9 10
+12 Bill moved to the mercury yesterday.
+13 Doud travelled to the jupiter this morning.
+14 Where was Doud before the jupiter? 	mars	13 4
+15 Bill went back to the mars this morning.
+16 This evening Fred went back to the saturn.
+17 Where was Bill before the mars? 	mercury	15 12
+1 Julie journeyed to the mars yesterday.
+2 This morning Fred went to the mars.
+3 Bill went to the mercury yesterday.
+4 Fred travelled to the mercury yesterday.
+5 Where was Fred before the mars? 	mercury	2 4
+6 Doud travelled to the uranus yesterday.
+7 Julie moved to the uranus this morning.
+8 Where was Julie before the uranus? 	mars	7 1
+9 Fred went to the uranus this afternoon.
+10 Julie went to the earth this afternoon.
+11 Where was Julie before the uranus? 	mars	7 1
+12 This evening Fred went to the mercury.
+13 Bill moved to the earth this morning.
+14 Where was Julie before the earth? 	uranus	10 7
+15 Bill went back to the jupiter this afternoon.
+16 This morning Doud journeyed to the jupiter.
+17 Where was Bill before the jupiter? 	earth	15 13
+1 This morning Julie went to the mercury.
+2 Julie journeyed to the mars yesterday.
+3 Fred travelled to the mercury yesterday.
+4 Bill travelled to the jupiter yesterday.
+5 Where was Julie before the mercury? 	mars	1 2
+6 This morning Doud travelled to the earth.
+7 Yesterday Doud journeyed to the mercury.
+8 Where was Doud before the earth? 	mercury	6 7
+9 Bill travelled to the earth this afternoon.
+10 This morning Bill went to the uranus.
+11 Where was Bill before the uranus? 	jupiter	10 4
+12 Bill went to the saturn this evening.
+13 This morning Fred moved to the earth.
+14 Where was Bill before the earth? 	uranus	9 10
+15 This afternoon Doud moved to the jupiter.
+16 This afternoon Julie journeyed to the jupiter.
+17 Where was Julie before the jupiter? 	mercury	16 1
+1 Julie travelled to the uranus this morning.
+2 Julie went back to the saturn yesterday.
+3 Julie journeyed to the mercury this afternoon.
+4 Yesterday Doud went to the uranus.
+5 Where was Julie before the uranus? 	saturn	1 2
+6 Fred moved to the earth yesterday.
+7 Julie travelled to the jupiter this evening.
+8 Where was Julie before the uranus? 	saturn	1 2
+9 Bill moved to the earth yesterday.
+10 Doud journeyed to the mercury this morning.
+11 Where was Doud before the mercury? 	uranus	10 4
+12 Doud travelled to the uranus this afternoon.
+13 Fred went to the saturn this morning.
+14 Where was Doud before the mercury? 	uranus	10 4
+15 Fred journeyed to the mars this afternoon.
+16 This evening Doud moved to the mercury.
+17 Where was Fred before the saturn? 	earth	13 6
+1 Bill went to the uranus this morning.
+2 Yesterday Bill went to the mercury.
+3 Where was Bill before the uranus? 	mercury	1 2
+4 This afternoon Bill journeyed to the earth.
+5 Yesterday Doud moved to the uranus.
+6 Where was Bill before the earth? 	uranus	4 1
+7 Doud journeyed to the earth this morning.
+8 Fred moved to the mercury yesterday.
+9 Where was Doud before the earth? 	uranus	7 5
+10 This afternoon Doud went to the mars.
+11 Bill journeyed to the mercury this evening.
+12 Where was Doud before the mars? 	earth	10 7
+13 Julie travelled to the saturn this morning.
+14 Julie went to the uranus yesterday.
+15 Where was Doud before the earth? 	uranus	7 5
+1 This morning Doud travelled to the mercury.
+2 Doud went back to the jupiter this afternoon.
+3 Yesterday Doud travelled to the uranus.
+4 Bill went back to the earth yesterday.
+5 Where was Doud before the jupiter? 	mercury	2 1
+6 Fred moved to the earth yesterday.
+7 This morning Bill journeyed to the jupiter.
+8 Where was Bill before the jupiter? 	earth	7 4
+9 Fred travelled to the jupiter this morning.
+10 Julie moved to the uranus yesterday.
+11 Where was Fred before the jupiter? 	earth	9 6
+12 This afternoon Fred travelled to the mercury.
+13 Bill went back to the uranus this afternoon.
+14 Where was Fred before the mercury? 	jupiter	12 9
+15 Bill moved to the mars this evening.
+16 Julie journeyed to the earth this morning.
+17 Where was Bill before the mars? 	uranus	15 13
+1 This morning Fred moved to the mars.
+2 Yesterday Doud went back to the mars.
+3 Julie moved to the saturn yesterday.
+4 Fred moved to the mercury yesterday.
+5 Where was Fred before the mars? 	mercury	1 4
+6 Bill moved to the jupiter yesterday.
+7 This morning Doud travelled to the mercury.
+8 Where was Fred before the mars? 	mercury	1 4
+9 Julie journeyed to the jupiter this morning.
+10 Doud went to the mars this afternoon.
+11 Where was Julie before the jupiter? 	saturn	9 3
+12 Fred went back to the uranus this afternoon.
+13 Bill went to the saturn this morning.
+14 Where was Julie before the jupiter? 	saturn	9 3
+15 This afternoon Bill journeyed to the uranus.
+16 This afternoon Julie journeyed to the mercury.
+17 Where was Bill before the saturn? 	jupiter	13 6
+1 Yesterday Doud moved to the mars.
+2 Julie moved to the mars this morning.
+3 Yesterday Fred journeyed to the jupiter.
+4 Julie went back to the earth yesterday.
+5 Where was Julie before the mars? 	earth	2 4
+6 Doud moved to the earth this morning.
+7 This afternoon Julie journeyed to the saturn.
+8 Where was Julie before the mars? 	earth	2 4
+9 This afternoon Fred moved to the jupiter.
+10 Fred travelled to the mercury this morning.
+11 Where was Julie before the saturn? 	mars	7 2
+12 This afternoon Doud went back to the mercury.
+13 This evening Julie went back to the earth.
+14 Where was Julie before the earth? 	saturn	13 7
+15 Yesterday Bill went to the mercury.
+16 This evening Doud travelled to the mars.
+17 Where was Fred before the jupiter? 	mercury	9 10
+1 Bill journeyed to the jupiter this morning.
+2 Bill moved to the uranus this afternoon.
+3 Yesterday Julie went to the saturn.
+4 Yesterday Bill travelled to the saturn.
+5 Where was Bill before the jupiter? 	saturn	1 4
+6 This morning Julie went back to the mars.
+7 This evening Bill travelled to the saturn.
+8 Where was Bill before the saturn? 	uranus	7 2
+9 This afternoon Julie went to the earth.
+10 Fred journeyed to the saturn yesterday.
+11 Where was Julie before the earth? 	mars	9 6
+12 Doud journeyed to the uranus yesterday.
+13 This morning Fred travelled to the uranus.
+14 Where was Fred before the uranus? 	saturn	13 10
+15 This afternoon Fred went to the saturn.
+16 Doud journeyed to the saturn this morning.
+17 Where was Doud before the saturn? 	uranus	16 12
+1 Julie journeyed to the mars this morning.
+2 Julie went back to the uranus yesterday.
+3 Bill journeyed to the mars yesterday.
+4 Yesterday Fred journeyed to the jupiter.
+5 Where was Julie before the mars? 	uranus	1 2
+6 Julie went back to the saturn this afternoon.
+7 This morning Fred went back to the saturn.
+8 Where was Fred before the saturn? 	jupiter	7 4
+9 Julie went to the mercury this evening.
+10 Bill moved to the uranus this morning.
+11 Where was Fred before the saturn? 	jupiter	7 4
+12 Doud journeyed to the mars yesterday.
+13 Fred went to the jupiter this afternoon.
+14 Where was Julie before the mercury? 	saturn	9 6
+15 Fred went to the saturn this evening.
+16 This morning Doud went back to the saturn.
+17 Where was Fred before the jupiter? 	saturn	13 7

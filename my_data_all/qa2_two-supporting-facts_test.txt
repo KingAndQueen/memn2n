@@ -1,0 +1,5398 @@
+1 Doud got the milk there.
+2 Colliani moved to the earth.
+3 Burnhard went back to the mars.
+4 Doud travelled to the neptune.
+5 Where is the milk? 	neptune	1 4
+6 Colliani got the football there.
+7 Colliani went to the neptune.
+8 Where is the football? 	neptune	6 7
+9 Colliani put down the football.
+10 Doud went to the venus.
+11 Where is the football? 	neptune	9 7
+12 Colliani went to the mars.
+13 Burnhard travelled to the neptune.
+14 Where is the football? 	neptune	9 7
+15 Conn went to the neptune.
+16 Doud discarded the milk.
+17 Where is the milk? 	venus	16 10
+1 Doud journeyed to the moon.
+2 Burnhard went to the venus.
+3 Conn went back to the venus.
+4 Conn went to the jupiter.
+5 Burnhard grabbed the milk there.
+6 Burnhard put down the milk there.
+7 Where is the milk? 	venus	6 2
+8 Conn went to the neptune.
+9 Burnhard got the milk there.
+10 Conn went to the venus.
+11 Conn journeyed to the mars.
+12 Conn journeyed to the earth.
+13 Doud journeyed to the venus.
+14 Conn took the football there.
+15 Doud moved to the jupiter.
+16 Burnhard travelled to the earth.
+17 Conn dropped the football.
+18 Where is the football? 	earth	17 12
+19 Burnhard left the milk there.
+20 Conn grabbed the football there.
+21 Where is the milk? 	earth	19 16
+22 Burnhard grabbed the milk there.
+23 Conn went to the mars.
+24 Where is the football? 	mars	20 23
+25 Colliani travelled to the mars.
+26 Doud moved to the neptune.
+27 Where is the football? 	mars	20 23
+1 Doud picked up the apple there.
+2 Doud dropped the apple.
+3 Conn went back to the venus.
+4 Doud journeyed to the jupiter.
+5 Colliani got the football there.
+6 Doud went back to the mars.
+7 Conn picked up the milk there.
+8 Colliani travelled to the earth.
+9 Where is the football? 	earth	5 8
+10 Colliani moved to the neptune.
+11 Colliani discarded the football.
+12 Where is the football? 	neptune	11 10
+13 Conn dropped the milk.
+14 Colliani got the football there.
+15 Where is the milk? 	venus	13 3
+16 Doud journeyed to the venus.
+17 Conn travelled to the moon.
+18 Where is the milk? 	venus	13 3
+19 Burnhard journeyed to the moon.
+20 Doud went to the moon.
+21 Doud took the apple there.
+22 Doud dropped the apple.
+23 Where is the apple? 	moon	22 20
+1 Conn journeyed to the jupiter.
+2 Colliani took the football there.
+3 Colliani discarded the football.
+4 Colliani travelled to the venus.
+5 Conn travelled to the venus.
+6 Burnhard went to the venus.
+7 Conn travelled to the mars.
+8 Conn moved to the jupiter.
+9 Doud grabbed the milk there.
+10 Conn journeyed to the earth.
+11 Colliani travelled to the jupiter.
+12 Conn travelled to the moon.
+13 Colliani travelled to the mars.
+14 Doud travelled to the venus.
+15 Doud dropped the milk.
+16 Colliani went back to the venus.
+17 Where is the milk? 	venus	15 14
+18 Burnhard got the milk there.
+19 Burnhard put down the milk.
+20 Where is the milk? 	venus	19 6
+21 Doud went back to the moon.
+22 Doud travelled to the earth.
+23 Where is the milk? 	venus	19 6
+24 Colliani got the milk there.
+25 Conn went back to the jupiter.
+26 Conn moved to the mars.
+27 Conn grabbed the apple there.
+28 Colliani left the milk.
+29 Conn discarded the apple.
+30 Where is the apple? 	mars	29 26
+31 Colliani picked up the milk there.
+32 Conn went to the neptune.
+33 Where is the apple? 	mars	29 26
+1 Doud moved to the mars.
+2 Doud travelled to the jupiter.
+3 Conn grabbed the football there.
+4 Doud moved to the neptune.
+5 Burnhard moved to the earth.
+6 Doud went back to the earth.
+7 Colliani grabbed the milk there.
+8 Colliani put down the milk.
+9 Conn journeyed to the moon.
+10 Burnhard journeyed to the moon.
+11 Colliani got the milk there.
+12 Doud took the apple there.
+13 Doud left the apple.
+14 Colliani journeyed to the earth.
+15 Where is the apple? 	earth	13 6
+16 Doud travelled to the jupiter.
+17 Conn put down the football.
+18 Where is the apple? 	earth	13 6
+19 Colliani went back to the mars.
+20 Burnhard got the football there.
+21 Colliani travelled to the neptune.
+22 Burnhard discarded the football there.
+23 Where is the football? 	moon	22 10
+24 Colliani left the milk.
+25 Colliani grabbed the milk there.
+26 Where is the football? 	moon	22 10
+27 Doud went to the neptune.
+28 Colliani moved to the earth.
+29 Where is the milk? 	earth	25 28
+1 Conn moved to the mars.
+2 Colliani grabbed the football there.
+3 Colliani left the football there.
+4 Doud journeyed to the neptune.
+5 Colliani grabbed the milk there.
+6 Colliani travelled to the mars.
+7 Where is the milk? 	mars	5 6
+8 Doud journeyed to the mars.
+9 Burnhard went to the jupiter.
+10 Where is the milk? 	mars	5 6
+11 Conn went to the moon.
+12 Conn picked up the apple there.
+13 Burnhard travelled to the venus.
+14 Conn dropped the apple there.
+15 Where is the apple? 	moon	14 11
+16 Burnhard went back to the jupiter.
+17 Conn journeyed to the mars.
+18 Where is the apple? 	moon	14 11
+19 Colliani put down the milk.
+20 Conn moved to the earth.
+21 Where is the milk? 	mars	19 6
+1 Conn journeyed to the jupiter.
+2 Conn went back to the earth.
+3 Doud went back to the mars.
+4 Doud got the football there.
+5 Conn travelled to the neptune.
+6 Colliani journeyed to the earth.
+7 Conn got the apple there.
+8 Burnhard travelled to the venus.
+9 Conn travelled to the venus.
+10 Conn dropped the apple.
+11 Where is the apple? 	venus	10 9
+12 Doud left the football.
+13 Doud journeyed to the earth.
+14 Where is the apple? 	venus	10 9
+15 Colliani moved to the neptune.
+16 Colliani went back to the earth.
+17 Where is the football? 	mars	12 3
+18 Burnhard got the apple there.
+19 Colliani went to the mars.
+20 Doud went to the moon.
+21 Doud journeyed to the venus.
+22 Burnhard went back to the mars.
+23 Burnhard put down the apple there.
+24 Where is the apple? 	mars	23 22
+25 Doud went back to the earth.
+26 Doud went back to the mars.
+27 Where is the apple? 	mars	23 22
+1 Colliani went back to the jupiter.
+2 Doud went back to the neptune.
+3 Conn journeyed to the earth.
+4 Doud went back to the moon.
+5 Burnhard went back to the neptune.
+6 Burnhard got the milk there.
+7 Doud moved to the jupiter.
+8 Doud went to the neptune.
+9 Conn went to the moon.
+10 Burnhard went to the jupiter.
+11 Where is the milk? 	jupiter	6 10
+12 Colliani journeyed to the venus.
+13 Burnhard journeyed to the neptune.
+14 Conn moved to the jupiter.
+15 Doud went back to the jupiter.
+16 Colliani moved to the mars.
+17 Burnhard journeyed to the earth.
+18 Burnhard went back to the jupiter.
+19 Conn moved to the mars.
+20 Colliani took the football there.
+21 Colliani left the football.
+22 Where is the football? 	mars	21 16
+23 Burnhard went back to the earth.
+24 Burnhard went back to the neptune.
+25 Where is the football? 	mars	21 16
+26 Colliani grabbed the football there.
+27 Conn went to the moon.
+28 Colliani left the football.
+29 Burnhard went back to the earth.
+30 Where is the football? 	mars	28 16
+31 Doud went to the mars.
+32 Colliani grabbed the football there.
+33 Burnhard put down the milk there.
+34 Colliani moved to the venus.
+35 Where is the milk? 	earth	33 29
+1 Conn moved to the neptune.
+2 Doud went back to the mars.
+3 Colliani got the milk there.
+4 Colliani put down the milk.
+5 Colliani got the milk there.
+6 Doud went back to the venus.
+7 Colliani went back to the earth.
+8 Doud picked up the football there.
+9 Where is the milk? 	earth	5 7
+10 Colliani went to the jupiter.
+11 Colliani left the milk.
+12 Where is the milk? 	jupiter	11 10
+13 Doud went to the earth.
+14 Colliani went to the earth.
+15 Where is the milk? 	jupiter	11 10
+16 Colliani went to the moon.
+17 Doud moved to the moon.
+18 Where is the milk? 	jupiter	11 10
+19 Doud went to the mars.
+20 Doud travelled to the jupiter.
+21 Burnhard moved to the mars.
+22 Conn picked up the apple there.
+23 Burnhard travelled to the venus.
+24 Doud travelled to the earth.
+25 Conn went to the mars.
+26 Doud put down the football.
+27 Where is the apple? 	mars	22 25
+1 Colliani travelled to the moon.
+2 Colliani travelled to the neptune.
+3 Doud picked up the milk there.
+4 Doud went back to the earth.
+5 Where is the milk? 	earth	3 4
+6 Burnhard took the football there.
+7 Burnhard moved to the jupiter.
+8 Where is the football? 	jupiter	6 7
+9 Burnhard went back to the moon.
+10 Colliani journeyed to the earth.
+11 Where is the football? 	moon	6 9
+12 Colliani went back to the moon.
+13 Burnhard put down the football.
+14 Where is the football? 	moon	13 9
+15 Doud discarded the milk.
+16 Burnhard moved to the mars.
+17 Where is the milk? 	earth	15 4
+1 Conn took the milk there.
+2 Colliani journeyed to the venus.
+3 Conn went back to the neptune.
+4 Conn journeyed to the moon.
+5 Where is the milk? 	moon	1 4
+6 Conn dropped the milk.
+7 Conn took the milk there.
+8 Colliani grabbed the apple there.
+9 Burnhard journeyed to the mars.
+10 Colliani went to the neptune.
+11 Burnhard went back to the venus.
+12 Where is the apple? 	neptune	8 10
+13 Conn journeyed to the mars.
+14 Burnhard journeyed to the earth.
+15 Conn went back to the neptune.
+16 Burnhard went back to the mars.
+17 Burnhard went back to the moon.
+18 Colliani went to the mars.
+19 Burnhard got the football there.
+20 Burnhard went to the mars.
+21 Where is the football? 	mars	19 20
+22 Conn left the milk.
+23 Burnhard put down the football.
+24 Where is the football? 	mars	23 20
+25 Burnhard picked up the football there.
+26 Burnhard put down the football.
+27 Where is the football? 	mars	26 20
+1 Colliani went to the moon.
+2 Conn travelled to the mars.
+3 Colliani journeyed to the mars.
+4 Conn journeyed to the neptune.
+5 Burnhard travelled to the mars.
+6 Doud moved to the jupiter.
+7 Conn went back to the jupiter.
+8 Burnhard went back to the moon.
+9 Colliani grabbed the milk there.
+10 Colliani grabbed the apple there.
+11 Burnhard journeyed to the jupiter.
+12 Doud went to the neptune.
+13 Colliani went to the moon.
+14 Colliani discarded the apple.
+15 Where is the apple? 	moon	14 13
+16 Colliani put down the milk.
+17 Colliani picked up the apple there.
+18 Where is the milk? 	moon	16 13
+19 Conn went back to the moon.
+20 Colliani took the milk there.
+21 Conn travelled to the venus.
+22 Burnhard journeyed to the moon.
+23 Colliani travelled to the mars.
+24 Doud went back to the jupiter.
+25 Where is the milk? 	mars	20 23
+26 Doud moved to the neptune.
+27 Colliani left the milk.
+28 Where is the milk? 	mars	27 23
+29 Colliani went back to the earth.
+30 Colliani left the apple there.
+31 Where is the apple? 	earth	30 29
+1 Conn moved to the jupiter.
+2 Conn travelled to the earth.
+3 Colliani took the milk there.
+4 Colliani travelled to the venus.
+5 Where is the milk? 	venus	3 4
+6 Burnhard moved to the jupiter.
+7 Conn went back to the jupiter.
+8 Where is the milk? 	venus	3 4
+9 Colliani went to the mars.
+10 Doud travelled to the venus.
+11 Colliani picked up the football there.
+12 Colliani dropped the football.
+13 Where is the football? 	mars	12 9
+14 Colliani put down the milk.
+15 Conn moved to the mars.
+16 Where is the football? 	mars	12 9
+17 Doud travelled to the moon.
+18 Conn went to the jupiter.
+19 Where is the football? 	mars	12 9
+1 Conn journeyed to the neptune.
+2 Conn journeyed to the venus.
+3 Doud went back to the mars.
+4 Conn went back to the jupiter.
+5 Doud journeyed to the moon.
+6 Colliani moved to the neptune.
+7 Conn grabbed the football there.
+8 Conn went to the mars.
+9 Where is the football? 	mars	7 8
+10 Conn discarded the football.
+11 Colliani went to the moon.
+12 Where is the football? 	mars	10 8
+13 Conn took the football there.
+14 Colliani travelled to the mars.
+15 Doud travelled to the jupiter.
+16 Colliani travelled to the neptune.
+17 Colliani went back to the jupiter.
+18 Conn journeyed to the earth.
+19 Conn got the milk there.
+20 Conn discarded the milk.
+21 Where is the milk? 	earth	20 18
+22 Burnhard went to the moon.
+23 Doud went back to the earth.
+24 Where is the milk? 	earth	20 18
+25 Conn took the apple there.
+26 Conn dropped the football.
+27 Where is the football? 	earth	26 18
+1 Burnhard moved to the venus.
+2 Conn took the apple there.
+3 Conn dropped the apple.
+4 Burnhard travelled to the jupiter.
+5 Colliani moved to the mars.
+6 Burnhard moved to the venus.
+7 Conn went back to the moon.
+8 Doud travelled to the neptune.
+9 Burnhard went to the moon.
+10 Colliani went back to the earth.
+11 Doud moved to the venus.
+12 Colliani picked up the apple there.
+13 Colliani went back to the mars.
+14 Colliani went back to the venus.
+15 Where is the apple? 	venus	12 14
+16 Doud went to the jupiter.
+17 Conn went to the earth.
+18 Where is the apple? 	venus	12 14
+19 Colliani went to the moon.
+20 Colliani dropped the apple.
+21 Where is the apple? 	moon	20 19
+22 Doud journeyed to the earth.
+23 Burnhard grabbed the apple there.
+24 Conn moved to the mars.
+25 Burnhard left the apple.
+26 Where is the apple? 	moon	25 9
+27 Colliani grabbed the apple there.
+28 Burnhard journeyed to the mars.
+29 Burnhard journeyed to the moon.
+30 Conn travelled to the jupiter.
+31 Colliani put down the apple.
+32 Doud journeyed to the mars.
+33 Where is the apple? 	moon	31 19
+1 Burnhard journeyed to the venus.
+2 Burnhard travelled to the moon.
+3 Conn went back to the venus.
+4 Burnhard got the apple there.
+5 Doud travelled to the earth.
+6 Colliani went to the neptune.
+7 Burnhard travelled to the jupiter.
+8 Doud grabbed the milk there.
+9 Where is the apple? 	jupiter	4 7
+10 Colliani went to the mars.
+11 Doud moved to the neptune.
+12 Where is the milk? 	neptune	8 11
+13 Burnhard discarded the apple.
+14 Doud left the milk.
+15 Where is the milk? 	neptune	14 11
+16 Doud took the milk there.
+17 Doud left the milk.
+18 Where is the milk? 	neptune	17 11
+19 Colliani got the football there.
+20 Colliani moved to the neptune.
+21 Where is the milk? 	neptune	17 11
+1 Conn moved to the earth.
+2 Conn went to the moon.
+3 Colliani moved to the venus.
+4 Doud travelled to the earth.
+5 Burnhard travelled to the venus.
+6 Conn journeyed to the venus.
+7 Burnhard travelled to the neptune.
+8 Colliani got the football there.
+9 Colliani moved to the moon.
+10 Burnhard travelled to the moon.
+11 Where is the football? 	moon	8 9
+12 Conn moved to the earth.
+13 Conn travelled to the mars.
+14 Where is the football? 	moon	8 9
+15 Doud moved to the neptune.
+16 Burnhard travelled to the jupiter.
+17 Conn moved to the neptune.
+18 Conn went back to the mars.
+19 Colliani went back to the neptune.
+20 Conn went back to the neptune.
+21 Conn went to the earth.
+22 Colliani moved to the mars.
+23 Doud moved to the jupiter.
+24 Colliani went back to the venus.
+25 Burnhard took the apple there.
+26 Conn went to the jupiter.
+27 Doud went back to the mars.
+28 Doud went to the earth.
+29 Colliani journeyed to the moon.
+30 Burnhard went back to the neptune.
+31 Burnhard moved to the earth.
+32 Conn moved to the venus.
+33 Colliani went back to the earth.
+34 Doud went back to the jupiter.
+35 Colliani moved to the mars.
+36 Colliani grabbed the milk there.
+37 Conn journeyed to the earth.
+38 Colliani discarded the football.
+39 Where is the football? 	mars	38 35
+40 Colliani left the milk.
+41 Colliani took the milk there.
+42 Where is the football? 	mars	38 35
+43 Colliani picked up the football there.
+44 Colliani put down the football.
+45 Where is the football? 	mars	44 35
+1 Colliani went to the neptune.
+2 Colliani went back to the moon.
+3 Colliani grabbed the milk there.
+4 Burnhard went back to the jupiter.
+5 Burnhard journeyed to the mars.
+6 Burnhard got the apple there.
+7 Burnhard dropped the apple there.
+8 Colliani dropped the milk.
+9 Where is the milk? 	moon	8 2
+10 Doud went back to the venus.
+11 Burnhard journeyed to the neptune.
+12 Where is the apple? 	mars	7 5
+13 Burnhard got the football there.
+14 Doud moved to the mars.
+15 Where is the milk? 	moon	8 2
+16 Burnhard journeyed to the earth.
+17 Doud grabbed the apple there.
+18 Where is the football? 	earth	13 16
+19 Burnhard went back to the jupiter.
+20 Doud discarded the apple.
+21 Where is the apple? 	mars	20 14
+1 Conn moved to the moon.
+2 Burnhard went back to the mars.
+3 Colliani moved to the moon.
+4 Doud picked up the milk there.
+5 Colliani travelled to the venus.
+6 Doud dropped the milk there.
+7 Burnhard journeyed to the earth.
+8 Colliani journeyed to the moon.
+9 Conn went back to the jupiter.
+10 Colliani moved to the neptune.
+11 Doud got the milk there.
+12 Conn took the apple there.
+13 Colliani picked up the football there.
+14 Doud went to the mars.
+15 Where is the milk? 	mars	11 14
+16 Doud dropped the milk.
+17 Conn travelled to the earth.
+18 Where is the milk? 	mars	16 14
+19 Colliani journeyed to the jupiter.
+20 Conn went to the venus.
+21 Where is the milk? 	mars	16 14
+22 Doud picked up the milk there.
+23 Doud left the milk.
+24 Where is the milk? 	mars	23 14
+25 Colliani travelled to the venus.
+26 Doud travelled to the jupiter.
+27 Where is the milk? 	mars	23 14
+1 Doud went to the venus.
+2 Colliani picked up the milk there.
+3 Doud journeyed to the earth.
+4 Burnhard went back to the neptune.
+5 Colliani discarded the milk.
+6 Colliani journeyed to the earth.
+7 Colliani got the football there.
+8 Colliani moved to the moon.
+9 Where is the football? 	moon	7 8
+10 Burnhard went to the jupiter.
+11 Conn went back to the neptune.
+12 Where is the football? 	moon	7 8
+13 Colliani put down the football.
+14 Doud journeyed to the mars.
+15 Where is the football? 	moon	13 8
+16 Doud picked up the milk there.
+17 Doud moved to the neptune.
+18 Where is the football? 	moon	13 8
+19 Colliani went to the venus.
+20 Doud discarded the milk.
+21 Where is the milk? 	neptune	20 17
+1 Doud moved to the moon.
+2 Burnhard went to the mars.
+3 Colliani travelled to the earth.
+4 Doud journeyed to the mars.
+5 Doud moved to the jupiter.
+6 Burnhard travelled to the moon.
+7 Colliani travelled to the moon.
+8 Colliani journeyed to the jupiter.
+9 Colliani took the milk there.
+10 Conn travelled to the venus.
+11 Doud went to the mars.
+12 Conn journeyed to the moon.
+13 Colliani discarded the milk.
+14 Burnhard went back to the mars.
+15 Where is the milk? 	jupiter	13 8
+16 Conn journeyed to the jupiter.
+17 Burnhard went back to the jupiter.
+18 Where is the milk? 	jupiter	13 8
+19 Conn picked up the milk there.
+20 Burnhard went back to the earth.
+21 Colliani went to the venus.
+22 Conn travelled to the mars.
+23 Where is the milk? 	mars	19 22
+24 Colliani journeyed to the earth.
+25 Burnhard journeyed to the venus.
+26 Burnhard moved to the mars.
+27 Conn discarded the milk.
+28 Where is the milk? 	mars	27 22
+29 Colliani picked up the football there.
+30 Conn took the milk there.
+31 Colliani left the football.
+32 Doud went to the earth.
+33 Where is the football? 	earth	31 24
+1 Burnhard took the football there.
+2 Doud travelled to the mars.
+3 Colliani went to the jupiter.
+4 Conn travelled to the earth.
+5 Conn journeyed to the moon.
+6 Doud went back to the earth.
+7 Burnhard travelled to the mars.
+8 Doud went to the moon.
+9 Burnhard went back to the moon.
+10 Burnhard discarded the football.
+11 Where is the football? 	moon	10 9
+12 Doud journeyed to the earth.
+13 Burnhard picked up the football there.
+14 Doud grabbed the milk there.
+15 Doud discarded the milk.
+16 Where is the milk? 	earth	15 12
+17 Conn moved to the earth.
+18 Doud picked up the milk there.
+19 Doud got the apple there.
+20 Burnhard went back to the mars.
+21 Doud discarded the apple there.
+22 Conn took the apple there.
+23 Doud put down the milk there.
+24 Conn travelled to the moon.
+25 Where is the apple? 	moon	22 24
+26 Doud journeyed to the neptune.
+27 Conn went to the mars.
+28 Where is the milk? 	earth	23 12
+29 Conn went back to the moon.
+30 Conn dropped the apple.
+31 Where is the apple? 	moon	30 29
+1 Doud went back to the mars.
+2 Doud travelled to the neptune.
+3 Colliani journeyed to the earth.
+4 Colliani moved to the venus.
+5 Conn went to the neptune.
+6 Colliani moved to the neptune.
+7 Conn journeyed to the moon.
+8 Doud travelled to the venus.
+9 Conn went to the neptune.
+10 Colliani travelled to the jupiter.
+11 Colliani travelled to the earth.
+12 Doud journeyed to the earth.
+13 Colliani picked up the football there.
+14 Colliani dropped the football.
+15 Where is the football? 	earth	14 11
+16 Burnhard travelled to the jupiter.
+17 Doud travelled to the neptune.
+18 Where is the football? 	earth	14 11
+19 Burnhard grabbed the apple there.
+20 Colliani grabbed the football there.
+21 Doud went back to the moon.
+22 Colliani discarded the football.
+23 Where is the football? 	earth	22 11
+24 Colliani picked up the football there.
+25 Conn went to the jupiter.
+26 Burnhard discarded the apple.
+27 Burnhard grabbed the apple there.
+28 Colliani put down the football.
+29 Conn moved to the venus.
+30 Where is the football? 	earth	28 11
+31 Burnhard left the apple.
+32 Colliani journeyed to the venus.
+33 Where is the apple? 	jupiter	31 16
+1 Colliani grabbed the football there.
+2 Colliani journeyed to the jupiter.
+3 Where is the football? 	jupiter	1 2
+4 Colliani went back to the venus.
+5 Colliani went to the neptune.
+6 Where is the football? 	neptune	1 5
+7 Colliani dropped the football.
+8 Colliani grabbed the football there.
+9 Burnhard travelled to the moon.
+10 Burnhard picked up the milk there.
+11 Burnhard went to the jupiter.
+12 Colliani moved to the moon.
+13 Where is the milk? 	jupiter	10 11
+14 Colliani grabbed the apple there.
+15 Burnhard travelled to the earth.
+16 Where is the milk? 	earth	10 15
+17 Colliani discarded the apple.
+18 Doud went back to the neptune.
+19 Where is the apple? 	moon	17 12
+1 Burnhard grabbed the football there.
+2 Burnhard put down the football.
+3 Colliani grabbed the apple there.
+4 Burnhard went to the neptune.
+5 Colliani journeyed to the neptune.
+6 Doud grabbed the milk there.
+7 Where is the apple? 	neptune	3 5
+8 Colliani journeyed to the venus.
+9 Burnhard moved to the moon.
+10 Doud journeyed to the earth.
+11 Colliani picked up the football there.
+12 Where is the milk? 	earth	6 10
+13 Colliani dropped the football.
+14 Colliani discarded the apple.
+15 Where is the apple? 	venus	14 8
+16 Colliani got the apple there.
+17 Colliani picked up the football there.
+18 Conn moved to the venus.
+19 Burnhard journeyed to the mars.
+20 Colliani discarded the football.
+21 Conn travelled to the earth.
+22 Where is the football? 	venus	20 8
+23 Colliani grabbed the football there.
+24 Conn went back to the neptune.
+25 Doud journeyed to the neptune.
+26 Doud went back to the mars.
+27 Colliani dropped the football.
+28 Conn went to the mars.
+29 Where is the football? 	venus	27 8
+1 Conn got the apple there.
+2 Conn dropped the apple.
+3 Doud moved to the earth.
+4 Conn journeyed to the neptune.
+5 Doud travelled to the neptune.
+6 Burnhard moved to the earth.
+7 Doud went back to the moon.
+8 Conn moved to the mars.
+9 Doud went to the mars.
+10 Conn moved to the jupiter.
+11 Doud picked up the football there.
+12 Doud put down the football.
+13 Where is the football? 	mars	12 9
+14 Colliani travelled to the jupiter.
+15 Conn went to the moon.
+16 Where is the football? 	mars	12 9
+17 Doud got the football there.
+18 Doud discarded the football.
+19 Where is the football? 	mars	18 9
+20 Conn went back to the mars.
+21 Conn picked up the football there.
+22 Colliani travelled to the earth.
+23 Conn moved to the earth.
+24 Where is the football? 	earth	21 23
+25 Doud journeyed to the moon.
+26 Doud went back to the mars.
+27 Where is the football? 	earth	21 23
+1 Conn travelled to the neptune.
+2 Doud moved to the mars.
+3 Colliani grabbed the football there.
+4 Colliani discarded the football.
+5 Burnhard journeyed to the mars.
+6 Burnhard picked up the milk there.
+7 Conn moved to the jupiter.
+8 Colliani took the football there.
+9 Colliani went to the mars.
+10 Doud moved to the jupiter.
+11 Where is the football? 	mars	8 9
+12 Burnhard put down the milk.
+13 Colliani left the football.
+14 Where is the football? 	mars	13 9
+15 Colliani moved to the neptune.
+16 Burnhard picked up the football there.
+17 Where is the milk? 	mars	12 5
+18 Conn went to the venus.
+19 Conn went to the moon.
+20 Doud moved to the earth.
+21 Doud took the apple there.
+22 Burnhard went back to the neptune.
+23 Burnhard discarded the football.
+24 Where is the football? 	neptune	23 22
+25 Burnhard grabbed the football there.
+26 Conn moved to the venus.
+27 Conn travelled to the earth.
+28 Conn moved to the venus.
+29 Burnhard discarded the football.
+30 Colliani travelled to the jupiter.
+31 Where is the football? 	neptune	29 22
+1 Burnhard went back to the neptune.
+2 Doud travelled to the neptune.
+3 Doud picked up the football there.
+4 Colliani travelled to the moon.
+5 Conn moved to the earth.
+6 Burnhard moved to the earth.
+7 Burnhard travelled to the neptune.
+8 Burnhard travelled to the jupiter.
+9 Doud moved to the jupiter.
+10 Doud put down the football.
+11 Where is the football? 	jupiter	10 9
+12 Burnhard grabbed the milk there.
+13 Burnhard left the milk.
+14 Where is the milk? 	jupiter	13 8
+15 Doud took the football there.
+16 Burnhard took the milk there.
+17 Doud dropped the football.
+18 Doud travelled to the earth.
+19 Where is the football? 	jupiter	17 9
+20 Colliani went to the neptune.
+21 Burnhard took the football there.
+22 Doud went back to the neptune.
+23 Burnhard travelled to the mars.
+24 Where is the football? 	mars	21 23
+25 Colliani journeyed to the venus.
+26 Burnhard journeyed to the moon.
+27 Where is the football? 	moon	21 26
+1 Conn journeyed to the neptune.
+2 Conn picked up the football there.
+3 Conn journeyed to the earth.
+4 Conn dropped the football.
+5 Where is the football? 	earth	4 3
+6 Burnhard travelled to the earth.
+7 Conn journeyed to the mars.
+8 Where is the football? 	earth	4 3
+9 Burnhard grabbed the football there.
+10 Colliani travelled to the jupiter.
+11 Burnhard discarded the football.
+12 Doud went back to the neptune.
+13 Where is the football? 	earth	11 6
+14 Conn went to the neptune.
+15 Conn travelled to the earth.
+16 Where is the football? 	earth	11 6
+17 Doud travelled to the jupiter.
+18 Colliani journeyed to the mars.
+19 Burnhard went back to the jupiter.
+20 Conn took the football there.
+21 Conn went to the venus.
+22 Doud travelled to the earth.
+23 Where is the football? 	venus	20 21
+1 Colliani got the football there.
+2 Colliani left the football.
+3 Conn went back to the moon.
+4 Doud went back to the moon.
+5 Burnhard travelled to the jupiter.
+6 Conn got the apple there.
+7 Colliani got the football there.
+8 Colliani left the football.
+9 Conn journeyed to the mars.
+10 Colliani moved to the moon.
+11 Where is the apple? 	mars	6 9
+12 Colliani went to the jupiter.
+13 Doud took the milk there.
+14 Colliani journeyed to the venus.
+15 Burnhard went to the venus.
+16 Conn grabbed the football there.
+17 Doud discarded the milk.
+18 Where is the milk? 	moon	17 4
+19 Burnhard moved to the jupiter.
+20 Doud got the milk there.
+21 Doud moved to the venus.
+22 Doud left the milk.
+23 Where is the milk? 	venus	22 21
+24 Conn dropped the apple.
+25 Burnhard went back to the moon.
+26 Where is the apple? 	mars	24 9
+27 Colliani went back to the neptune.
+28 Doud got the milk there.
+29 Where is the apple? 	mars	24 9
+1 Conn travelled to the venus.
+2 Burnhard went back to the earth.
+3 Colliani travelled to the earth.
+4 Burnhard grabbed the apple there.
+5 Conn travelled to the mars.
+6 Burnhard left the apple.
+7 Where is the apple? 	earth	6 2
+8 Burnhard travelled to the jupiter.
+9 Burnhard went back to the moon.
+10 Where is the apple? 	earth	6 2
+11 Colliani travelled to the moon.
+12 Conn went back to the neptune.
+13 Where is the apple? 	earth	6 2
+14 Burnhard travelled to the earth.
+15 Burnhard journeyed to the neptune.
+16 Burnhard went back to the mars.
+17 Doud travelled to the jupiter.
+18 Burnhard journeyed to the neptune.
+19 Doud went back to the neptune.
+20 Doud travelled to the venus.
+21 Doud took the football there.
+22 Doud went to the mars.
+23 Doud grabbed the milk there.
+24 Where is the football? 	mars	21 22
+25 Colliani went to the venus.
+26 Colliani travelled to the mars.
+27 Where is the football? 	mars	21 22
+1 Doud travelled to the moon.
+2 Colliani took the milk there.
+3 Burnhard moved to the neptune.
+4 Burnhard grabbed the football there.
+5 Conn went back to the earth.
+6 Conn travelled to the mars.
+7 Burnhard put down the football.
+8 Colliani moved to the earth.
+9 Where is the football? 	neptune	7 3
+10 Doud journeyed to the neptune.
+11 Colliani dropped the milk.
+12 Where is the football? 	neptune	7 3
+13 Doud travelled to the moon.
+14 Doud moved to the mars.
+15 Where is the milk? 	earth	11 8
+16 Conn travelled to the earth.
+17 Conn travelled to the moon.
+18 Where is the milk? 	earth	11 8
+19 Burnhard grabbed the football there.
+20 Burnhard left the football.
+21 Where is the football? 	neptune	20 3
+1 Colliani moved to the earth.
+2 Burnhard journeyed to the jupiter.
+3 Burnhard moved to the mars.
+4 Conn travelled to the earth.
+5 Colliani went back to the jupiter.
+6 Doud travelled to the venus.
+7 Burnhard moved to the neptune.
+8 Burnhard went to the venus.
+9 Colliani went back to the mars.
+10 Conn went to the jupiter.
+11 Burnhard moved to the neptune.
+12 Conn picked up the apple there.
+13 Doud went to the earth.
+14 Conn went back to the venus.
+15 Where is the apple? 	venus	12 14
+16 Conn left the apple.
+17 Conn grabbed the apple there.
+18 Burnhard took the football there.
+19 Conn discarded the apple.
+20 Where is the apple? 	venus	19 14
+21 Doud journeyed to the mars.
+22 Burnhard journeyed to the mars.
+23 Where is the apple? 	venus	19 14
+24 Conn travelled to the earth.
+25 Burnhard went to the earth.
+26 Where is the apple? 	venus	19 14
+27 Conn went back to the neptune.
+28 Colliani went to the neptune.
+29 Colliani went to the jupiter.
+30 Colliani moved to the mars.
+31 Burnhard dropped the football.
+32 Conn went to the venus.
+33 Where is the football? 	earth	31 25
+1 Colliani went back to the venus.
+2 Conn went to the moon.
+3 Conn went to the neptune.
+4 Conn grabbed the football there.
+5 Conn travelled to the moon.
+6 Conn went to the venus.
+7 Where is the football? 	venus	4 6
+8 Colliani went back to the mars.
+9 Conn discarded the football.
+10 Where is the football? 	venus	9 6
+11 Burnhard picked up the football there.
+12 Doud went back to the jupiter.
+13 Colliani picked up the apple there.
+14 Colliani journeyed to the neptune.
+15 Where is the apple? 	neptune	13 14
+16 Doud travelled to the earth.
+17 Conn went back to the moon.
+18 Where is the apple? 	neptune	13 14
+19 Burnhard went back to the jupiter.
+20 Burnhard discarded the football.
+21 Where is the football? 	jupiter	20 19
+1 Colliani went back to the earth.
+2 Colliani journeyed to the mars.
+3 Colliani took the milk there.
+4 Burnhard took the football there.
+5 Conn travelled to the neptune.
+6 Conn picked up the apple there.
+7 Doud travelled to the earth.
+8 Conn journeyed to the earth.
+9 Where is the apple? 	earth	6 8
+10 Colliani went back to the neptune.
+11 Conn went back to the moon.
+12 Where is the apple? 	moon	6 11
+13 Colliani dropped the milk there.
+14 Burnhard went back to the venus.
+15 Where is the milk? 	neptune	13 10
+16 Colliani went back to the mars.
+17 Doud moved to the jupiter.
+18 Where is the milk? 	neptune	13 10
+19 Burnhard went to the neptune.
+20 Burnhard grabbed the milk there.
+21 Conn dropped the apple.
+22 Colliani went back to the neptune.
+23 Where is the apple? 	moon	21 11
+1 Doud went back to the moon.
+2 Conn went back to the moon.
+3 Doud got the milk there.
+4 Doud journeyed to the mars.
+5 Where is the milk? 	mars	3 4
+6 Doud got the apple there.
+7 Doud moved to the neptune.
+8 Where is the apple? 	neptune	6 7
+9 Doud went back to the earth.
+10 Doud moved to the mars.
+11 Where is the apple? 	mars	6 10
+12 Colliani journeyed to the moon.
+13 Colliani went back to the neptune.
+14 Colliani moved to the earth.
+15 Doud journeyed to the venus.
+16 Conn travelled to the jupiter.
+17 Conn picked up the football there.
+18 Doud journeyed to the jupiter.
+19 Colliani journeyed to the moon.
+20 Conn discarded the football.
+21 Doud discarded the milk.
+22 Where is the milk? 	jupiter	21 18
+23 Doud grabbed the football there.
+24 Burnhard went back to the moon.
+25 Where is the milk? 	jupiter	21 18
+1 Burnhard took the milk there.
+2 Burnhard journeyed to the venus.
+3 Where is the milk? 	venus	1 2
+4 Burnhard dropped the milk there.
+5 Burnhard journeyed to the moon.
+6 Where is the milk? 	venus	4 2
+7 Colliani travelled to the venus.
+8 Colliani went to the mars.
+9 Where is the milk? 	venus	4 2
+10 Colliani got the apple there.
+11 Conn moved to the moon.
+12 Colliani dropped the apple.
+13 Conn moved to the neptune.
+14 Where is the apple? 	mars	12 8
+15 Colliani picked up the apple there.
+16 Doud went back to the jupiter.
+17 Doud journeyed to the mars.
+18 Colliani discarded the apple.
+19 Where is the apple? 	mars	18 8
+1 Burnhard journeyed to the moon.
+2 Doud took the apple there.
+3 Burnhard went back to the mars.
+4 Doud went back to the jupiter.
+5 Where is the apple? 	jupiter	2 4
+6 Burnhard took the milk there.
+7 Doud discarded the apple.
+8 Where is the apple? 	jupiter	7 4
+9 Doud got the apple there.
+10 Conn moved to the earth.
+11 Colliani went to the earth.
+12 Burnhard dropped the milk there.
+13 Where is the milk? 	mars	12 3
+14 Doud put down the apple.
+15 Conn went back to the neptune.
+16 Where is the apple? 	jupiter	14 4
+17 Conn went back to the venus.
+18 Colliani moved to the jupiter.
+19 Where is the milk? 	mars	12 3
+1 Doud travelled to the earth.
+2 Conn grabbed the apple there.
+3 Conn went to the venus.
+4 Colliani travelled to the jupiter.
+5 Where is the apple? 	venus	2 3
+6 Conn left the apple.
+7 Colliani travelled to the neptune.
+8 Where is the apple? 	venus	6 3
+9 Burnhard went to the jupiter.
+10 Conn journeyed to the neptune.
+11 Where is the apple? 	venus	6 3
+12 Conn went to the mars.
+13 Colliani journeyed to the mars.
+14 Doud moved to the jupiter.
+15 Doud went back to the venus.
+16 Doud moved to the jupiter.
+17 Colliani went back to the moon.
+18 Colliani travelled to the jupiter.
+19 Conn went back to the venus.
+20 Colliani travelled to the mars.
+21 Doud went to the earth.
+22 Conn moved to the moon.
+23 Conn picked up the football there.
+24 Burnhard travelled to the neptune.
+25 Conn picked up the milk there.
+26 Conn dropped the milk.
+27 Conn took the milk there.
+28 Conn moved to the earth.
+29 Burnhard went to the venus.
+30 Where is the milk? 	earth	27 28
+31 Burnhard travelled to the mars.
+32 Burnhard travelled to the jupiter.
+33 Where is the milk? 	earth	27 28
+1 Burnhard got the milk there.
+2 Colliani grabbed the apple there.
+3 Colliani journeyed to the moon.
+4 Colliani discarded the apple.
+5 Where is the apple? 	moon	4 3
+6 Colliani journeyed to the venus.
+7 Burnhard travelled to the earth.
+8 Where is the apple? 	moon	4 3
+9 Burnhard went back to the venus.
+10 Burnhard left the milk there.
+11 Where is the milk? 	venus	10 9
+12 Colliani grabbed the milk there.
+13 Colliani went back to the mars.
+14 Where is the milk? 	mars	12 13
+15 Conn went to the venus.
+16 Burnhard journeyed to the mars.
+17 Where is the milk? 	mars	12 13
+1 Doud moved to the neptune.
+2 Doud journeyed to the mars.
+3 Burnhard moved to the jupiter.
+4 Conn journeyed to the jupiter.
+5 Doud travelled to the earth.
+6 Doud went back to the venus.
+7 Burnhard moved to the mars.
+8 Conn went back to the earth.
+9 Doud went to the jupiter.
+10 Doud moved to the venus.
+11 Colliani moved to the neptune.
+12 Colliani travelled to the earth.
+13 Colliani moved to the jupiter.
+14 Conn journeyed to the moon.
+15 Burnhard picked up the milk there.
+16 Burnhard moved to the jupiter.
+17 Where is the milk? 	jupiter	15 16
+18 Colliani travelled to the earth.
+19 Colliani travelled to the moon.
+20 Where is the milk? 	jupiter	15 16
+21 Burnhard went back to the venus.
+22 Colliani went to the neptune.
+23 Burnhard put down the milk.
+24 Doud picked up the milk there.
+25 Colliani went back to the mars.
+26 Colliani went to the venus.
+27 Doud put down the milk.
+28 Burnhard picked up the milk there.
+29 Burnhard went back to the neptune.
+30 Colliani journeyed to the neptune.
+31 Where is the milk? 	neptune	28 29
+32 Colliani moved to the earth.
+33 Burnhard went back to the venus.
+34 Where is the milk? 	venus	28 33
+35 Colliani moved to the neptune.
+36 Burnhard dropped the milk there.
+37 Where is the milk? 	venus	36 33
+1 Burnhard journeyed to the venus.
+2 Conn got the football there.
+3 Doud went back to the mars.
+4 Burnhard went back to the neptune.
+5 Conn put down the football there.
+6 Conn journeyed to the mars.
+7 Burnhard moved to the venus.
+8 Doud went back to the jupiter.
+9 Doud moved to the mars.
+10 Colliani travelled to the moon.
+11 Doud moved to the jupiter.
+12 Doud got the apple there.
+13 Conn moved to the jupiter.
+14 Conn got the milk there.
+15 Doud went back to the venus.
+16 Conn left the milk.
+17 Where is the milk? 	jupiter	16 13
+18 Colliani travelled to the jupiter.
+19 Doud put down the apple.
+20 Where is the milk? 	jupiter	16 13
+21 Conn went to the moon.
+22 Colliani got the milk there.
+23 Where is the apple? 	venus	19 15
+24 Colliani travelled to the moon.
+25 Colliani dropped the milk there.
+26 Where is the milk? 	moon	25 24
+27 Burnhard picked up the apple there.
+28 Conn moved to the jupiter.
+29 Where is the milk? 	moon	25 24
+1 Conn journeyed to the jupiter.
+2 Burnhard went to the moon.
+3 Doud journeyed to the mars.
+4 Doud got the football there.
+5 Doud dropped the football.
+6 Colliani went to the neptune.
+7 Where is the football? 	mars	5 3
+8 Colliani moved to the earth.
+9 Doud travelled to the moon.
+10 Where is the football? 	mars	5 3
+11 Burnhard moved to the jupiter.
+12 Conn journeyed to the earth.
+13 Conn journeyed to the mars.
+14 Conn picked up the football there.
+15 Conn dropped the football.
+16 Burnhard went to the moon.
+17 Where is the football? 	mars	15 13
+18 Doud travelled to the jupiter.
+19 Conn grabbed the football there.
+20 Burnhard moved to the neptune.
+21 Doud moved to the earth.
+22 Doud went back to the neptune.
+23 Colliani went to the jupiter.
+24 Burnhard went back to the mars.
+25 Conn went back to the neptune.
+26 Colliani journeyed to the mars.
+27 Doud went to the venus.
+28 Doud picked up the milk there.
+29 Conn went back to the venus.
+30 Doud travelled to the jupiter.
+31 Doud journeyed to the mars.
+32 Where is the milk? 	mars	28 31
+33 Conn left the football.
+34 Doud put down the milk.
+35 Where is the football? 	venus	33 29
+1 Conn went to the jupiter.
+2 Doud took the football there.
+3 Burnhard journeyed to the venus.
+4 Burnhard went to the earth.
+5 Colliani took the apple there.
+6 Colliani put down the apple.
+7 Doud put down the football.
+8 Colliani took the apple there.
+9 Doud went back to the earth.
+10 Colliani put down the apple.
+11 Doud journeyed to the mars.
+12 Conn moved to the venus.
+13 Burnhard moved to the mars.
+14 Conn picked up the milk there.
+15 Colliani went to the neptune.
+16 Colliani journeyed to the earth.
+17 Burnhard picked up the apple there.
+18 Doud travelled to the earth.
+19 Doud went back to the moon.
+20 Burnhard journeyed to the jupiter.
+21 Where is the apple? 	jupiter	17 20
+22 Colliani went back to the mars.
+23 Colliani moved to the venus.
+24 Burnhard left the apple.
+25 Burnhard took the apple there.
+26 Burnhard put down the apple.
+27 Colliani went back to the moon.
+28 Where is the apple? 	jupiter	26 20
+29 Burnhard travelled to the venus.
+30 Conn went to the moon.
+31 Where is the apple? 	jupiter	26 20
+32 Conn left the milk.
+33 Doud took the milk there.
+34 Doud put down the milk.
+35 Doud journeyed to the mars.
+36 Where is the milk? 	moon	34 19
+37 Doud moved to the earth.
+38 Colliani went to the venus.
+39 Where is the milk? 	moon	34 19
+1 Colliani picked up the apple there.
+2 Colliani moved to the jupiter.
+3 Where is the apple? 	jupiter	1 2
+4 Doud went to the jupiter.
+5 Colliani discarded the apple.
+6 Where is the apple? 	jupiter	5 2
+7 Colliani travelled to the mars.
+8 Doud went back to the neptune.
+9 Where is the apple? 	jupiter	5 2
+10 Conn grabbed the apple there.
+11 Conn left the apple.
+12 Doud grabbed the milk there.
+13 Conn moved to the mars.
+14 Burnhard got the apple there.
+15 Doud travelled to the earth.
+16 Where is the milk? 	earth	12 15
+17 Burnhard went to the earth.
+18 Colliani travelled to the neptune.
+19 Where is the apple? 	earth	14 17
+1 Doud grabbed the football there.
+2 Burnhard travelled to the jupiter.
+3 Burnhard picked up the apple there.
+4 Burnhard journeyed to the earth.
+5 Where is the apple? 	earth	3 4
+6 Burnhard journeyed to the mars.
+7 Doud travelled to the venus.
+8 Where is the apple? 	mars	3 6
+9 Colliani moved to the moon.
+10 Conn went to the moon.
+11 Doud left the football.
+12 Conn took the milk there.
+13 Where is the football? 	venus	11 7
+14 Doud picked up the football there.
+15 Colliani went to the venus.
+16 Doud put down the football there.
+17 Conn put down the milk there.
+18 Where is the milk? 	moon	17 10
+19 Conn grabbed the milk there.
+20 Conn went to the mars.
+21 Where is the football? 	venus	16 7
+1 Conn took the apple there.
+2 Colliani moved to the jupiter.
+3 Colliani moved to the earth.
+4 Burnhard journeyed to the moon.
+5 Burnhard journeyed to the venus.
+6 Doud took the milk there.
+7 Doud put down the milk.
+8 Doud went to the venus.
+9 Burnhard grabbed the football there.
+10 Colliani journeyed to the venus.
+11 Burnhard went to the neptune.
+12 Burnhard went back to the moon.
+13 Where is the football? 	moon	9 12
+14 Burnhard discarded the football.
+15 Conn moved to the mars.
+16 Where is the football? 	moon	14 12
+17 Colliani travelled to the jupiter.
+18 Conn travelled to the venus.
+19 Where is the football? 	moon	14 12
+20 Conn put down the apple.
+21 Conn took the apple there.
+22 Conn discarded the apple there.
+23 Burnhard grabbed the football there.
+24 Where is the apple? 	venus	22 18
+25 Doud picked up the apple there.
+26 Burnhard dropped the football there.
+27 Where is the football? 	moon	26 12
+1 Conn picked up the apple there.
+2 Conn dropped the apple.
+3 Colliani moved to the earth.
+4 Colliani grabbed the apple there.
+5 Conn went to the neptune.
+6 Burnhard grabbed the football there.
+7 Burnhard went back to the mars.
+8 Colliani left the apple.
+9 Where is the apple? 	earth	8 3
+10 Burnhard dropped the football.
+11 Doud journeyed to the earth.
+12 Where is the apple? 	earth	8 3
+13 Doud went back to the neptune.
+14 Burnhard went to the earth.
+15 Where is the football? 	mars	10 7
+16 Burnhard travelled to the mars.
+17 Burnhard travelled to the venus.
+18 Doud went to the earth.
+19 Burnhard grabbed the milk there.
+20 Conn went back to the earth.
+21 Conn picked up the apple there.
+22 Conn travelled to the jupiter.
+23 Conn put down the apple.
+24 Where is the apple? 	jupiter	23 22
+25 Burnhard dropped the milk.
+26 Conn grabbed the apple there.
+27 Where is the milk? 	venus	25 17
+1 Burnhard moved to the neptune.
+2 Doud took the apple there.
+3 Colliani moved to the venus.
+4 Colliani moved to the earth.
+5 Conn moved to the mars.
+6 Colliani went to the venus.
+7 Doud put down the apple there.
+8 Doud picked up the apple there.
+9 Doud moved to the neptune.
+10 Conn journeyed to the jupiter.
+11 Where is the apple? 	neptune	8 9
+12 Colliani journeyed to the earth.
+13 Colliani journeyed to the mars.
+14 Where is the apple? 	neptune	8 9
+15 Doud discarded the apple there.
+16 Doud took the apple there.
+17 Burnhard moved to the moon.
+18 Doud went back to the mars.
+19 Where is the apple? 	mars	16 18
+20 Conn moved to the mars.
+21 Doud journeyed to the moon.
+22 Where is the apple? 	moon	16 21
+23 Doud put down the apple.
+24 Colliani moved to the earth.
+25 Where is the apple? 	moon	23 21
+1 Doud journeyed to the jupiter.
+2 Colliani grabbed the apple there.
+3 Colliani left the apple.
+4 Doud went back to the moon.
+5 Colliani grabbed the apple there.
+6 Doud went back to the venus.
+7 Colliani put down the apple.
+8 Conn got the milk there.
+9 Conn went back to the neptune.
+10 Colliani journeyed to the jupiter.
+11 Where is the milk? 	neptune	8 9
+12 Conn went back to the venus.
+13 Doud got the apple there.
+14 Where is the milk? 	venus	8 12
+15 Conn discarded the milk.
+16 Conn got the football there.
+17 Where is the milk? 	venus	15 12
+18 Conn got the milk there.
+19 Conn discarded the football.
+20 Where is the football? 	venus	19 12
+21 Conn left the milk.
+22 Conn grabbed the milk there.
+23 Where is the football? 	venus	19 12
+1 Conn grabbed the apple there.
+2 Conn went back to the moon.
+3 Where is the apple? 	moon	1 2
+4 Colliani journeyed to the venus.
+5 Conn went back to the neptune.
+6 Where is the apple? 	neptune	1 5
+7 Doud moved to the earth.
+8 Conn left the apple.
+9 Where is the apple? 	neptune	8 5
+10 Burnhard took the football there.
+11 Burnhard discarded the football there.
+12 Where is the apple? 	neptune	8 5
+13 Burnhard took the football there.
+14 Colliani travelled to the mars.
+15 Where is the apple? 	neptune	8 5
+1 Burnhard moved to the mars.
+2 Colliani moved to the moon.
+3 Doud travelled to the venus.
+4 Burnhard moved to the jupiter.
+5 Doud travelled to the neptune.
+6 Conn grabbed the milk there.
+7 Conn went to the moon.
+8 Burnhard got the apple there.
+9 Where is the milk? 	moon	6 7
+10 Conn put down the milk.
+11 Colliani got the milk there.
+12 Burnhard went back to the mars.
+13 Doud went to the jupiter.
+14 Where is the apple? 	mars	8 12
+15 Burnhard journeyed to the neptune.
+16 Burnhard put down the apple.
+17 Where is the apple? 	neptune	16 15
+18 Burnhard journeyed to the mars.
+19 Burnhard picked up the football there.
+20 Where is the apple? 	neptune	16 15
+21 Burnhard put down the football.
+22 Burnhard took the football there.
+23 Where is the apple? 	neptune	16 15
+1 Burnhard went back to the mars.
+2 Colliani picked up the milk there.
+3 Colliani left the milk.
+4 Burnhard went to the venus.
+5 Doud went to the moon.
+6 Conn journeyed to the venus.
+7 Burnhard took the football there.
+8 Conn moved to the mars.
+9 Colliani took the milk there.
+10 Colliani put down the milk there.
+11 Colliani went to the moon.
+12 Burnhard put down the football.
+13 Where is the football? 	venus	12 4
+14 Conn journeyed to the earth.
+15 Burnhard travelled to the moon.
+16 Where is the football? 	venus	12 4
+17 Colliani journeyed to the jupiter.
+18 Colliani grabbed the apple there.
+19 Where is the football? 	venus	12 4
+20 Colliani travelled to the moon.
+21 Colliani left the apple there.
+22 Where is the apple? 	moon	21 20
+23 Conn went to the moon.
+24 Conn grabbed the apple there.
+25 Burnhard moved to the neptune.
+26 Conn journeyed to the neptune.
+27 Where is the apple? 	neptune	24 26
+1 Conn grabbed the apple there.
+2 Conn dropped the apple.
+3 Colliani moved to the neptune.
+4 Conn took the apple there.
+5 Conn left the apple.
+6 Conn went back to the moon.
+7 Colliani travelled to the venus.
+8 Conn travelled to the mars.
+9 Conn went back to the neptune.
+10 Colliani picked up the apple there.
+11 Colliani picked up the football there.
+12 Doud went to the venus.
+13 Colliani left the apple.
+14 Doud travelled to the moon.
+15 Where is the apple? 	venus	13 7
+16 Doud moved to the jupiter.
+17 Conn journeyed to the moon.
+18 Where is the apple? 	venus	13 7
+19 Doud journeyed to the venus.
+20 Doud moved to the jupiter.
+21 Colliani picked up the apple there.
+22 Burnhard travelled to the mars.
+23 Colliani travelled to the moon.
+24 Conn travelled to the neptune.
+25 Where is the apple? 	moon	21 23
+26 Burnhard travelled to the jupiter.
+27 Colliani travelled to the jupiter.
+28 Burnhard travelled to the moon.
+29 Burnhard journeyed to the neptune.
+30 Doud went to the moon.
+31 Colliani journeyed to the moon.
+32 Doud went to the neptune.
+33 Burnhard journeyed to the jupiter.
+34 Colliani left the apple there.
+35 Conn journeyed to the mars.
+36 Where is the apple? 	moon	34 31
+37 Colliani grabbed the apple there.
+38 Doud went back to the jupiter.
+39 Doud went to the mars.
+40 Colliani went back to the venus.
+41 Where is the apple? 	venus	37 40
+1 Colliani travelled to the jupiter.
+2 Conn went back to the venus.
+3 Colliani went back to the mars.
+4 Conn went back to the neptune.
+5 Burnhard journeyed to the earth.
+6 Conn moved to the earth.
+7 Colliani grabbed the football there.
+8 Conn journeyed to the venus.
+9 Colliani put down the football.
+10 Colliani took the apple there.
+11 Where is the football? 	mars	9 3
+12 Colliani journeyed to the jupiter.
+13 Doud journeyed to the neptune.
+14 Where is the apple? 	jupiter	10 12
+15 Doud journeyed to the mars.
+16 Colliani picked up the milk there.
+17 Where is the apple? 	jupiter	10 12
+18 Doud got the football there.
+19 Burnhard journeyed to the neptune.
+20 Doud left the football.
+21 Colliani left the apple.
+22 Where is the football? 	mars	20 15
+23 Doud journeyed to the earth.
+24 Colliani put down the milk.
+25 Where is the apple? 	jupiter	21 12
+1 Burnhard moved to the neptune.
+2 Colliani travelled to the jupiter.
+3 Burnhard took the milk there.
+4 Burnhard put down the milk.
+5 Where is the milk? 	neptune	4 1
+6 Doud went to the earth.
+7 Burnhard went back to the mars.
+8 Where is the milk? 	neptune	4 1
+9 Doud went to the mars.
+10 Burnhard got the apple there.
+11 Where is the milk? 	neptune	4 1
+12 Burnhard dropped the apple.
+13 Conn went back to the jupiter.
+14 Where is the apple? 	mars	12 7
+15 Doud grabbed the apple there.
+16 Conn journeyed to the neptune.
+17 Conn moved to the mars.
+18 Conn travelled to the jupiter.
+19 Burnhard journeyed to the moon.
+20 Doud left the apple.
+21 Where is the apple? 	mars	20 9
+1 Conn journeyed to the moon.
+2 Burnhard went to the moon.
+3 Doud picked up the apple there.
+4 Burnhard took the football there.
+5 Conn journeyed to the earth.
+6 Colliani went back to the moon.
+7 Colliani went back to the venus.
+8 Conn journeyed to the neptune.
+9 Burnhard left the football.
+10 Burnhard went to the jupiter.
+11 Where is the football? 	moon	9 2
+12 Burnhard went back to the moon.
+13 Doud left the apple.
+14 Where is the football? 	moon	9 2
+15 Doud went back to the mars.
+16 Burnhard travelled to the mars.
+17 Conn grabbed the milk there.
+18 Conn moved to the jupiter.
+19 Where is the milk? 	jupiter	17 18
+20 Conn put down the milk.
+21 Conn travelled to the venus.
+22 Where is the milk? 	jupiter	20 18
+23 Conn went back to the mars.
+24 Conn journeyed to the neptune.
+25 Where is the milk? 	jupiter	20 18
+1 Colliani went back to the earth.
+2 Burnhard picked up the apple there.
+3 Doud moved to the earth.
+4 Burnhard left the apple.
+5 Colliani went back to the venus.
+6 Doud went back to the neptune.
+7 Burnhard grabbed the apple there.
+8 Conn went back to the jupiter.
+9 Burnhard left the apple there.
+10 Burnhard took the apple there.
+11 Burnhard discarded the apple.
+12 Conn went to the venus.
+13 Burnhard went back to the venus.
+14 Colliani went back to the earth.
+15 Burnhard grabbed the football there.
+16 Burnhard went back to the earth.
+17 Where is the football? 	earth	15 16
+18 Colliani went to the venus.
+19 Burnhard dropped the football.
+20 Where is the football? 	earth	19 16
+21 Burnhard got the football there.
+22 Burnhard put down the football.
+23 Where is the football? 	earth	22 16
+24 Conn went to the earth.
+25 Conn grabbed the football there.
+26 Doud went back to the jupiter.
+27 Conn discarded the football.
+28 Where is the football? 	earth	27 24
+29 Doud grabbed the milk there.
+30 Burnhard went to the neptune.
+31 Where is the football? 	earth	27 24
+1 Burnhard took the football there.
+2 Burnhard left the football.
+3 Burnhard went to the moon.
+4 Conn went back to the mars.
+5 Conn travelled to the neptune.
+6 Colliani went to the neptune.
+7 Colliani journeyed to the earth.
+8 Colliani picked up the milk there.
+9 Conn took the apple there.
+10 Doud went back to the jupiter.
+11 Conn moved to the jupiter.
+12 Burnhard went back to the neptune.
+13 Where is the apple? 	jupiter	9 11
+14 Doud picked up the football there.
+15 Conn dropped the apple there.
+16 Where is the apple? 	jupiter	15 11
+17 Conn went to the mars.
+18 Burnhard journeyed to the mars.
+19 Where is the apple? 	jupiter	15 11
+20 Conn travelled to the earth.
+21 Burnhard went back to the moon.
+22 Where is the apple? 	jupiter	15 11
+23 Conn moved to the moon.
+24 Colliani put down the milk.
+25 Where is the milk? 	earth	24 7
+1 Burnhard got the football there.
+2 Colliani journeyed to the neptune.
+3 Colliani journeyed to the jupiter.
+4 Conn travelled to the earth.
+5 Colliani went to the earth.
+6 Doud went back to the mars.
+7 Colliani journeyed to the moon.
+8 Burnhard journeyed to the earth.
+9 Burnhard put down the football.
+10 Burnhard picked up the football there.
+11 Colliani went back to the neptune.
+12 Conn moved to the moon.
+13 Colliani grabbed the milk there.
+14 Doud travelled to the venus.
+15 Burnhard moved to the neptune.
+16 Conn went back to the jupiter.
+17 Burnhard left the football there.
+18 Colliani grabbed the football there.
+19 Colliani dropped the football.
+20 Colliani discarded the milk there.
+21 Where is the milk? 	neptune	20 11
+22 Doud went to the jupiter.
+23 Doud travelled to the venus.
+24 Where is the football? 	neptune	19 11
+25 Burnhard moved to the moon.
+26 Burnhard went to the mars.
+27 Where is the milk? 	neptune	20 11
+28 Doud moved to the moon.
+29 Burnhard travelled to the jupiter.
+30 Colliani went to the earth.
+31 Doud grabbed the apple there.
+32 Doud put down the apple.
+33 Doud travelled to the neptune.
+34 Where is the apple? 	moon	32 28
+35 Doud got the milk there.
+36 Colliani moved to the venus.
+37 Where is the apple? 	moon	32 28
+1 Colliani moved to the moon.
+2 Conn moved to the earth.
+3 Doud went back to the earth.
+4 Doud moved to the jupiter.
+5 Burnhard moved to the venus.
+6 Colliani travelled to the venus.
+7 Burnhard went back to the neptune.
+8 Doud took the football there.
+9 Burnhard journeyed to the mars.
+10 Doud went to the earth.
+11 Where is the football? 	earth	8 10
+12 Conn went to the venus.
+13 Colliani travelled to the jupiter.
+14 Where is the football? 	earth	8 10
+15 Doud moved to the jupiter.
+16 Doud discarded the football there.
+17 Where is the football? 	jupiter	16 15
+18 Burnhard moved to the venus.
+19 Colliani took the football there.
+20 Doud travelled to the mars.
+21 Conn journeyed to the moon.
+22 Conn journeyed to the earth.
+23 Doud went back to the jupiter.
+24 Burnhard moved to the jupiter.
+25 Colliani went back to the earth.
+26 Doud travelled to the venus.
+27 Colliani dropped the football.
+28 Where is the football? 	earth	27 25
+29 Burnhard went back to the venus.
+30 Burnhard moved to the neptune.
+31 Where is the football? 	earth	27 25
+1 Doud grabbed the milk there.
+2 Colliani picked up the apple there.
+3 Doud went to the moon.
+4 Conn moved to the venus.
+5 Where is the milk? 	moon	1 3
+6 Colliani put down the apple.
+7 Doud left the milk.
+8 Where is the milk? 	moon	7 3
+9 Colliani went to the moon.
+10 Conn went back to the mars.
+11 Where is the milk? 	moon	7 3
+12 Doud picked up the milk there.
+13 Burnhard moved to the earth.
+14 Doud left the milk.
+15 Doud went back to the earth.
+16 Where is the milk? 	moon	14 3
+17 Conn went back to the earth.
+18 Conn journeyed to the venus.
+19 Where is the milk? 	moon	14 3
+1 Burnhard moved to the moon.
+2 Doud picked up the milk there.
+3 Doud picked up the apple there.
+4 Doud moved to the mars.
+5 Where is the milk? 	mars	2 4
+6 Burnhard moved to the neptune.
+7 Doud dropped the apple.
+8 Where is the milk? 	mars	2 4
+9 Doud dropped the milk.
+10 Conn went to the earth.
+11 Where is the milk? 	mars	9 4
+12 Conn journeyed to the jupiter.
+13 Colliani went back to the jupiter.
+14 Where is the milk? 	mars	9 4
+15 Conn travelled to the neptune.
+16 Doud moved to the neptune.
+17 Colliani journeyed to the neptune.
+18 Colliani travelled to the venus.
+19 Doud went to the venus.
+20 Burnhard moved to the venus.
+21 Colliani moved to the moon.
+22 Doud went to the jupiter.
+23 Doud went back to the venus.
+24 Burnhard went to the neptune.
+25 Conn journeyed to the venus.
+26 Doud journeyed to the jupiter.
+27 Burnhard went back to the earth.
+28 Doud travelled to the moon.
+29 Doud went to the earth.
+30 Conn went to the jupiter.
+31 Doud journeyed to the venus.
+32 Conn moved to the earth.
+33 Conn moved to the mars.
+34 Colliani moved to the earth.
+35 Doud moved to the neptune.
+36 Burnhard moved to the moon.
+37 Colliani moved to the moon.
+38 Conn went to the neptune.
+39 Colliani went to the mars.
+40 Colliani travelled to the moon.
+41 Burnhard travelled to the jupiter.
+42 Burnhard travelled to the mars.
+43 Doud went to the earth.
+44 Conn travelled to the earth.
+45 Doud moved to the moon.
+46 Doud moved to the venus.
+47 Conn went to the moon.
+48 Conn went to the venus.
+49 Burnhard went back to the jupiter.
+50 Colliani went to the jupiter.
+51 Colliani moved to the moon.
+52 Doud travelled to the earth.
+53 Doud moved to the neptune.
+54 Conn travelled to the mars.
+55 Colliani travelled to the mars.
+56 Burnhard travelled to the mars.
+57 Conn picked up the football there.
+58 Colliani got the milk there.
+59 Colliani travelled to the venus.
+60 Colliani went to the mars.
+61 Where is the milk? 	mars	58 60
+1 Conn moved to the mars.
+2 Conn travelled to the earth.
+3 Conn went to the jupiter.
+4 Doud journeyed to the moon.
+5 Conn travelled to the mars.
+6 Colliani went back to the mars.
+7 Conn went back to the jupiter.
+8 Colliani went to the earth.
+9 Burnhard travelled to the venus.
+10 Burnhard went back to the jupiter.
+11 Burnhard got the milk there.
+12 Conn picked up the football there.
+13 Doud went back to the venus.
+14 Doud got the apple there.
+15 Conn moved to the moon.
+16 Conn left the football.
+17 Where is the football? 	moon	16 15
+18 Doud journeyed to the jupiter.
+19 Doud went back to the venus.
+20 Where is the football? 	moon	16 15
+21 Doud moved to the mars.
+22 Doud moved to the earth.
+23 Where is the football? 	moon	16 15
+24 Burnhard left the milk.
+25 Doud moved to the mars.
+26 Where is the milk? 	jupiter	24 10
+27 Burnhard got the milk there.
+28 Colliani journeyed to the jupiter.
+29 Conn got the football there.
+30 Conn went back to the mars.
+31 Where is the football? 	mars	29 30
+1 Conn grabbed the football there.
+2 Burnhard picked up the apple there.
+3 Conn dropped the football.
+4 Burnhard discarded the apple.
+5 Colliani got the football there.
+6 Burnhard got the apple there.
+7 Colliani went to the moon.
+8 Doud journeyed to the venus.
+9 Where is the football? 	moon	5 7
+10 Burnhard dropped the apple.
+11 Conn went back to the earth.
+12 Burnhard got the apple there.
+13 Conn travelled to the venus.
+14 Conn moved to the earth.
+15 Colliani dropped the football.
+16 Where is the football? 	moon	15 7
+17 Burnhard left the apple.
+18 Colliani grabbed the football there.
+19 Conn got the apple there.
+20 Colliani left the football.
+21 Where is the football? 	moon	20 7
+22 Conn discarded the apple.
+23 Burnhard went back to the moon.
+24 Where is the football? 	moon	20 7
+25 Burnhard went to the mars.
+26 Conn travelled to the neptune.
+27 Where is the football? 	moon	20 7
+1 Burnhard went back to the venus.
+2 Conn took the football there.
+3 Colliani went back to the mars.
+4 Burnhard journeyed to the neptune.
+5 Burnhard went to the moon.
+6 Burnhard went to the earth.
+7 Burnhard went to the mars.
+8 Colliani travelled to the moon.
+9 Conn went to the venus.
+10 Doud went to the venus.
+11 Doud grabbed the apple there.
+12 Doud travelled to the moon.
+13 Where is the apple? 	moon	11 12
+14 Colliani went to the neptune.
+15 Colliani journeyed to the jupiter.
+16 Where is the apple? 	moon	11 12
+17 Burnhard went back to the earth.
+18 Conn discarded the football.
+19 Where is the football? 	venus	18 9
+20 Colliani went back to the venus.
+21 Conn travelled to the earth.
+22 Where is the football? 	venus	18 9
+23 Doud discarded the apple there.
+24 Burnhard moved to the venus.
+25 Where is the football? 	venus	18 9
+1 Burnhard journeyed to the venus.
+2 Colliani journeyed to the mars.
+3 Colliani grabbed the apple there.
+4 Burnhard moved to the moon.
+5 Conn journeyed to the mars.
+6 Doud took the football there.
+7 Colliani journeyed to the moon.
+8 Burnhard travelled to the jupiter.
+9 Conn travelled to the jupiter.
+10 Doud moved to the venus.
+11 Where is the football? 	venus	6 10
+12 Conn went to the venus.
+13 Colliani put down the apple.
+14 Where is the apple? 	moon	13 7
+15 Colliani went to the earth.
+16 Doud moved to the neptune.
+17 Where is the apple? 	moon	13 7
+18 Conn moved to the mars.
+19 Doud put down the football there.
+20 Where is the football? 	neptune	19 16
+21 Burnhard moved to the earth.
+22 Colliani grabbed the milk there.
+23 Where is the football? 	neptune	19 16
+1 Colliani went back to the jupiter.
+2 Conn journeyed to the venus.
+3 Doud took the apple there.
+4 Colliani went back to the neptune.
+5 Doud grabbed the milk there.
+6 Conn moved to the earth.
+7 Doud dropped the apple there.
+8 Burnhard grabbed the football there.
+9 Doud travelled to the venus.
+10 Doud went back to the neptune.
+11 Burnhard went back to the mars.
+12 Burnhard went back to the neptune.
+13 Where is the football? 	neptune	8 12
+14 Burnhard put down the football.
+15 Burnhard went to the venus.
+16 Where is the football? 	neptune	14 12
+17 Doud picked up the football there.
+18 Burnhard moved to the neptune.
+19 Burnhard journeyed to the mars.
+20 Conn journeyed to the moon.
+21 Burnhard went to the jupiter.
+22 Burnhard journeyed to the moon.
+23 Doud went to the moon.
+24 Doud moved to the earth.
+25 Doud went to the neptune.
+26 Conn went to the jupiter.
+27 Conn journeyed to the moon.
+28 Conn went back to the venus.
+29 Doud discarded the football.
+30 Conn went to the moon.
+31 Where is the football? 	neptune	29 25
+32 Doud journeyed to the earth.
+33 Colliani moved to the jupiter.
+34 Where is the football? 	neptune	29 25
+35 Colliani journeyed to the earth.
+36 Conn went back to the jupiter.
+37 Conn travelled to the mars.
+38 Conn went to the earth.
+39 Colliani went back to the neptune.
+40 Doud left the milk.
+41 Where is the milk? 	earth	40 32
+1 Colliani travelled to the jupiter.
+2 Colliani journeyed to the venus.
+3 Doud got the football there.
+4 Doud left the football there.
+5 Conn got the football there.
+6 Burnhard got the milk there.
+7 Colliani travelled to the jupiter.
+8 Doud travelled to the venus.
+9 Burnhard travelled to the venus.
+10 Colliani moved to the earth.
+11 Where is the milk? 	venus	6 9
+12 Conn travelled to the neptune.
+13 Burnhard put down the milk.
+14 Where is the milk? 	venus	13 9
+15 Doud grabbed the milk there.
+16 Conn journeyed to the earth.
+17 Colliani journeyed to the neptune.
+18 Colliani went back to the jupiter.
+19 Burnhard went back to the jupiter.
+20 Colliani journeyed to the earth.
+21 Colliani went to the moon.
+22 Colliani travelled to the mars.
+23 Conn moved to the neptune.
+24 Colliani travelled to the earth.
+25 Conn put down the football.
+26 Doud went to the mars.
+27 Where is the football? 	neptune	25 23
+28 Conn travelled to the venus.
+29 Doud journeyed to the neptune.
+30 Where is the football? 	neptune	25 23
+31 Burnhard went back to the earth.
+32 Colliani moved to the jupiter.
+33 Conn journeyed to the neptune.
+34 Doud discarded the milk.
+35 Where is the milk? 	neptune	34 29
+1 Doud journeyed to the jupiter.
+2 Burnhard picked up the milk there.
+3 Colliani went back to the mars.
+4 Burnhard got the apple there.
+5 Doud got the football there.
+6 Doud went back to the venus.
+7 Where is the football? 	venus	5 6
+8 Conn went to the moon.
+9 Colliani went to the moon.
+10 Where is the football? 	venus	5 6
+11 Burnhard went back to the venus.
+12 Burnhard discarded the apple.
+13 Where is the apple? 	venus	12 11
+14 Conn went back to the earth.
+15 Burnhard went back to the moon.
+16 Where is the apple? 	venus	12 11
+17 Doud went back to the moon.
+18 Doud left the football.
+19 Where is the apple? 	venus	12 11
+1 Doud picked up the football there.
+2 Burnhard got the milk there.
+3 Burnhard went back to the earth.
+4 Conn went back to the venus.
+5 Where is the milk? 	earth	2 3
+6 Conn travelled to the jupiter.
+7 Burnhard travelled to the jupiter.
+8 Where is the milk? 	jupiter	2 7
+9 Colliani got the apple there.
+10 Doud moved to the mars.
+11 Burnhard left the milk there.
+12 Conn went to the mars.
+13 Where is the milk? 	jupiter	11 7
+14 Burnhard went to the mars.
+15 Conn journeyed to the earth.
+16 Where is the milk? 	jupiter	11 7
+17 Colliani dropped the apple.
+18 Doud put down the football.
+19 Where is the football? 	mars	18 10
+1 Colliani went to the earth.
+2 Colliani moved to the venus.
+3 Conn travelled to the moon.
+4 Burnhard moved to the neptune.
+5 Burnhard got the football there.
+6 Burnhard put down the football.
+7 Where is the football? 	neptune	6 4
+8 Conn moved to the neptune.
+9 Doud took the milk there.
+10 Where is the football? 	neptune	6 4
+11 Doud moved to the jupiter.
+12 Burnhard went to the venus.
+13 Where is the milk? 	jupiter	9 11
+14 Conn went to the jupiter.
+15 Doud went to the neptune.
+16 Where is the milk? 	neptune	9 15
+17 Colliani journeyed to the neptune.
+18 Doud discarded the milk.
+19 Where is the milk? 	neptune	18 15
+1 Doud went back to the mars.
+2 Conn travelled to the jupiter.
+3 Doud moved to the neptune.
+4 Colliani went to the mars.
+5 Conn went back to the moon.
+6 Colliani travelled to the moon.
+7 Conn moved to the mars.
+8 Burnhard moved to the mars.
+9 Colliani grabbed the football there.
+10 Burnhard journeyed to the moon.
+11 Colliani discarded the football.
+12 Colliani grabbed the football there.
+13 Colliani went back to the earth.
+14 Burnhard went to the jupiter.
+15 Where is the football? 	earth	12 13
+16 Doud moved to the venus.
+17 Conn went to the moon.
+18 Where is the football? 	earth	12 13
+19 Colliani moved to the jupiter.
+20 Doud picked up the milk there.
+21 Burnhard got the apple there.
+22 Burnhard travelled to the earth.
+23 Where is the apple? 	earth	21 22
+24 Conn moved to the jupiter.
+25 Burnhard left the apple.
+26 Where is the apple? 	earth	25 22
+27 Colliani moved to the earth.
+28 Colliani discarded the football there.
+29 Where is the football? 	earth	28 27
+1 Colliani travelled to the neptune.
+2 Conn journeyed to the mars.
+3 Burnhard journeyed to the venus.
+4 Conn grabbed the apple there.
+5 Burnhard got the milk there.
+6 Conn dropped the apple there.
+7 Where is the apple? 	mars	6 2
+8 Burnhard discarded the milk there.
+9 Burnhard went to the neptune.
+10 Where is the apple? 	mars	6 2
+11 Colliani moved to the mars.
+12 Doud moved to the neptune.
+13 Where is the milk? 	venus	8 3
+14 Colliani journeyed to the jupiter.
+15 Conn took the apple there.
+16 Conn put down the apple.
+17 Conn got the apple there.
+18 Colliani journeyed to the neptune.
+19 Conn travelled to the earth.
+20 Where is the apple? 	earth	17 19
+21 Conn put down the apple.
+22 Burnhard went to the jupiter.
+23 Where is the apple? 	earth	21 19
+1 Burnhard travelled to the jupiter.
+2 Conn moved to the mars.
+3 Doud travelled to the moon.
+4 Burnhard took the football there.
+5 Conn picked up the apple there.
+6 Burnhard went back to the mars.
+7 Where is the football? 	mars	4 6
+8 Burnhard left the football there.
+9 Conn dropped the apple there.
+10 Where is the apple? 	mars	9 2
+11 Doud journeyed to the jupiter.
+12 Conn travelled to the neptune.
+13 Where is the apple? 	mars	9 2
+14 Conn got the milk there.
+15 Burnhard went to the neptune.
+16 Where is the apple? 	mars	9 2
+17 Burnhard moved to the moon.
+18 Doud went back to the neptune.
+19 Doud moved to the moon.
+20 Conn discarded the milk.
+21 Where is the milk? 	neptune	20 12
+1 Colliani grabbed the milk there.
+2 Colliani left the milk.
+3 Burnhard took the milk there.
+4 Burnhard moved to the mars.
+5 Where is the milk? 	mars	3 4
+6 Burnhard put down the milk.
+7 Colliani journeyed to the jupiter.
+8 Where is the milk? 	mars	6 4
+9 Conn journeyed to the earth.
+10 Colliani went back to the mars.
+11 Where is the milk? 	mars	6 4
+12 Conn went back to the venus.
+13 Colliani grabbed the apple there.
+14 Burnhard got the milk there.
+15 Conn moved to the moon.
+16 Colliani travelled to the neptune.
+17 Colliani moved to the jupiter.
+18 Where is the apple? 	jupiter	13 17
+19 Burnhard put down the milk there.
+20 Burnhard took the milk there.
+21 Colliani went back to the mars.
+22 Conn picked up the football there.
+23 Colliani went to the jupiter.
+24 Colliani travelled to the neptune.
+25 Colliani went to the jupiter.
+26 Colliani dropped the apple there.
+27 Where is the apple? 	jupiter	26 25
+1 Burnhard grabbed the football there.
+2 Burnhard discarded the football.
+3 Conn travelled to the jupiter.
+4 Burnhard grabbed the football there.
+5 Doud travelled to the mars.
+6 Burnhard went to the moon.
+7 Where is the football? 	moon	4 6
+8 Burnhard dropped the football.
+9 Burnhard took the football there.
+10 Conn journeyed to the mars.
+11 Burnhard discarded the football.
+12 Where is the football? 	moon	11 6
+13 Burnhard picked up the football there.
+14 Conn went to the neptune.
+15 Colliani travelled to the mars.
+16 Burnhard left the football.
+17 Where is the football? 	moon	16 6
+18 Doud went to the jupiter.
+19 Burnhard picked up the football there.
+20 Doud went back to the earth.
+21 Colliani travelled to the moon.
+22 Doud grabbed the milk there.
+23 Colliani went back to the neptune.
+24 Conn travelled to the mars.
+25 Colliani travelled to the jupiter.
+26 Doud discarded the milk.
+27 Burnhard journeyed to the earth.
+28 Where is the milk? 	earth	26 20
+29 Doud journeyed to the moon.
+30 Burnhard moved to the jupiter.
+31 Where is the milk? 	earth	26 20
+1 Burnhard travelled to the moon.
+2 Doud journeyed to the earth.
+3 Colliani travelled to the moon.
+4 Colliani got the football there.
+5 Burnhard got the milk there.
+6 Burnhard left the milk.
+7 Where is the milk? 	moon	6 1
+8 Colliani discarded the football.
+9 Burnhard went to the venus.
+10 Where is the football? 	moon	8 3
+11 Colliani travelled to the venus.
+12 Burnhard journeyed to the jupiter.
+13 Where is the football? 	moon	8 3
+14 Colliani journeyed to the earth.
+15 Doud travelled to the jupiter.
+16 Colliani moved to the jupiter.
+17 Doud travelled to the moon.
+18 Colliani moved to the earth.
+19 Doud journeyed to the neptune.
+20 Doud got the apple there.
+21 Burnhard went back to the venus.
+22 Burnhard went to the mars.
+23 Doud dropped the apple.
+24 Where is the apple? 	neptune	23 19
+25 Colliani went to the neptune.
+26 Burnhard went to the moon.
+27 Where is the apple? 	neptune	23 19
+1 Colliani journeyed to the venus.
+2 Burnhard went to the jupiter.
+3 Burnhard moved to the neptune.
+4 Doud went to the jupiter.
+5 Burnhard picked up the milk there.
+6 Burnhard dropped the milk there.
+7 Where is the milk? 	neptune	6 3
+8 Doud journeyed to the earth.
+9 Burnhard got the milk there.
+10 Colliani moved to the jupiter.
+11 Burnhard travelled to the venus.
+12 Where is the milk? 	venus	9 11
+13 Doud journeyed to the mars.
+14 Doud took the football there.
+15 Where is the milk? 	venus	9 11
+16 Burnhard discarded the milk.
+17 Conn moved to the neptune.
+18 Where is the milk? 	venus	16 11
+19 Doud discarded the football.
+20 Doud travelled to the venus.
+21 Where is the football? 	mars	19 13
+1 Burnhard journeyed to the jupiter.
+2 Doud went back to the mars.
+3 Colliani picked up the football there.
+4 Burnhard journeyed to the earth.
+5 Colliani put down the football.
+6 Burnhard got the apple there.
+7 Colliani went to the jupiter.
+8 Colliani went back to the venus.
+9 Colliani moved to the moon.
+10 Burnhard left the apple.
+11 Where is the apple? 	earth	10 4
+12 Conn journeyed to the jupiter.
+13 Colliani went back to the venus.
+14 Where is the apple? 	earth	10 4
+15 Colliani travelled to the jupiter.
+16 Colliani travelled to the venus.
+17 Where is the apple? 	earth	10 4
+18 Doud went back to the jupiter.
+19 Colliani grabbed the football there.
+20 Colliani left the football.
+21 Colliani travelled to the mars.
+22 Where is the football? 	venus	20 16
+23 Conn moved to the mars.
+24 Burnhard went to the neptune.
+25 Where is the football? 	venus	20 16
+1 Burnhard journeyed to the neptune.
+2 Colliani journeyed to the moon.
+3 Burnhard grabbed the football there.
+4 Conn travelled to the earth.
+5 Colliani got the milk there.
+6 Colliani dropped the milk.
+7 Where is the milk? 	moon	6 2
+8 Burnhard moved to the venus.
+9 Conn went back to the neptune.
+10 Where is the milk? 	moon	6 2
+11 Burnhard discarded the football.
+12 Colliani moved to the neptune.
+13 Where is the football? 	venus	11 8
+14 Colliani went back to the venus.
+15 Burnhard went to the mars.
+16 Where is the football? 	venus	11 8
+17 Conn moved to the earth.
+18 Burnhard journeyed to the neptune.
+19 Burnhard moved to the mars.
+20 Colliani travelled to the jupiter.
+21 Burnhard went to the venus.
+22 Burnhard grabbed the football there.
+23 Burnhard put down the football there.
+24 Conn went back to the mars.
+25 Where is the football? 	venus	23 21
+1 Conn grabbed the football there.
+2 Conn discarded the football.
+3 Colliani got the football there.
+4 Doud went back to the neptune.
+5 Conn moved to the moon.
+6 Colliani dropped the football there.
+7 Burnhard took the apple there.
+8 Conn journeyed to the jupiter.
+9 Doud took the football there.
+10 Doud dropped the football there.
+11 Where is the football? 	neptune	10 4
+12 Doud went to the earth.
+13 Colliani grabbed the football there.
+14 Colliani moved to the moon.
+15 Doud moved to the mars.
+16 Where is the football? 	moon	13 14
+17 Conn moved to the moon.
+18 Doud moved to the jupiter.
+19 Where is the football? 	moon	13 14
+20 Conn went back to the jupiter.
+21 Burnhard put down the apple.
+22 Colliani put down the football.
+23 Doud journeyed to the venus.
+24 Where is the football? 	moon	22 14
+25 Colliani went back to the earth.
+26 Burnhard grabbed the apple there.
+27 Where is the football? 	moon	22 14
+1 Doud travelled to the jupiter.
+2 Conn went to the moon.
+3 Colliani went back to the earth.
+4 Colliani went to the neptune.
+5 Doud journeyed to the moon.
+6 Burnhard picked up the apple there.
+7 Colliani moved to the moon.
+8 Colliani got the milk there.
+9 Conn moved to the earth.
+10 Colliani moved to the venus.
+11 Where is the milk? 	venus	8 10
+12 Burnhard put down the apple.
+13 Colliani got the football there.
+14 Where is the milk? 	venus	8 10
+15 Burnhard journeyed to the jupiter.
+16 Conn picked up the apple there.
+17 Doud journeyed to the mars.
+18 Conn left the apple there.
+19 Where is the apple? 	earth	18 9
+20 Conn got the apple there.
+21 Colliani went back to the moon.
+22 Conn put down the apple.
+23 Colliani moved to the venus.
+24 Where is the apple? 	earth	22 9
+25 Burnhard travelled to the moon.
+26 Burnhard moved to the mars.
+27 Where is the apple? 	earth	22 9
+1 Burnhard journeyed to the earth.
+2 Burnhard picked up the football there.
+3 Burnhard discarded the football.
+4 Doud moved to the jupiter.
+5 Where is the football? 	earth	3 1
+6 Doud went back to the neptune.
+7 Burnhard journeyed to the venus.
+8 Where is the football? 	earth	3 1
+9 Doud picked up the apple there.
+10 Colliani went back to the venus.
+11 Doud put down the apple.
+12 Burnhard went to the neptune.
+13 Where is the apple? 	neptune	11 6
+14 Conn went back to the earth.
+15 Doud travelled to the earth.
+16 Where is the apple? 	neptune	11 6
+17 Burnhard took the apple there.
+18 Conn went back to the mars.
+19 Colliani went to the jupiter.
+20 Colliani went back to the venus.
+21 Conn journeyed to the earth.
+22 Burnhard went back to the moon.
+23 Conn went back to the moon.
+24 Doud moved to the mars.
+25 Colliani travelled to the mars.
+26 Doud went back to the earth.
+27 Doud took the football there.
+28 Conn went back to the venus.
+29 Doud travelled to the jupiter.
+30 Burnhard went back to the venus.
+31 Where is the football? 	jupiter	27 29
+1 Burnhard travelled to the moon.
+2 Colliani travelled to the jupiter.
+3 Colliani grabbed the apple there.
+4 Burnhard took the football there.
+5 Burnhard dropped the football there.
+6 Burnhard took the football there.
+7 Conn moved to the moon.
+8 Colliani journeyed to the mars.
+9 Burnhard travelled to the venus.
+10 Colliani put down the apple.
+11 Where is the apple? 	mars	10 8
+12 Burnhard went to the neptune.
+13 Burnhard went back to the earth.
+14 Where is the apple? 	mars	10 8
+15 Colliani picked up the apple there.
+16 Burnhard moved to the mars.
+17 Burnhard went back to the venus.
+18 Burnhard went to the earth.
+19 Colliani put down the apple.
+20 Colliani grabbed the apple there.
+21 Colliani left the apple there.
+22 Burnhard left the football there.
+23 Where is the apple? 	mars	21 8
+24 Colliani journeyed to the moon.
+25 Doud journeyed to the venus.
+26 Where is the apple? 	mars	21 8
+27 Burnhard took the football there.
+28 Colliani travelled to the venus.
+29 Colliani got the milk there.
+30 Doud moved to the earth.
+31 Colliani moved to the mars.
+32 Conn went to the neptune.
+33 Where is the milk? 	mars	29 31
+1 Conn went back to the neptune.
+2 Doud went back to the venus.
+3 Burnhard went to the mars.
+4 Doud moved to the earth.
+5 Burnhard travelled to the moon.
+6 Doud journeyed to the venus.
+7 Conn went back to the jupiter.
+8 Colliani went back to the venus.
+9 Colliani travelled to the jupiter.
+10 Burnhard got the milk there.
+11 Colliani went back to the mars.
+12 Burnhard left the milk.
+13 Where is the milk? 	moon	12 5
+14 Burnhard took the milk there.
+15 Doud travelled to the earth.
+16 Burnhard left the milk there.
+17 Colliani moved to the venus.
+18 Where is the milk? 	moon	16 5
+19 Burnhard grabbed the milk there.
+20 Burnhard went back to the mars.
+21 Where is the milk? 	mars	19 20
+22 Conn journeyed to the neptune.
+23 Doud moved to the mars.
+24 Where is the milk? 	mars	19 20
+25 Conn travelled to the earth.
+26 Conn went to the jupiter.
+27 Colliani journeyed to the mars.
+28 Colliani went to the moon.
+29 Burnhard travelled to the neptune.
+30 Doud journeyed to the jupiter.
+31 Colliani travelled to the mars.
+32 Burnhard went to the venus.
+33 Colliani went to the venus.
+34 Burnhard moved to the mars.
+35 Conn journeyed to the neptune.
+36 Burnhard left the milk.
+37 Where is the milk? 	mars	36 34
+1 Doud went to the jupiter.
+2 Colliani took the football there.
+3 Colliani journeyed to the earth.
+4 Burnhard went to the earth.
+5 Where is the football? 	earth	2 3
+6 Conn went to the moon.
+7 Burnhard went back to the moon.
+8 Where is the football? 	earth	2 3
+9 Burnhard picked up the apple there.
+10 Burnhard went to the jupiter.
+11 Where is the apple? 	jupiter	9 10
+12 Conn went back to the venus.
+13 Burnhard moved to the neptune.
+14 Where is the apple? 	neptune	9 13
+15 Colliani went to the moon.
+16 Conn moved to the neptune.
+17 Burnhard travelled to the earth.
+18 Burnhard put down the apple there.
+19 Where is the apple? 	earth	18 17
+1 Doud moved to the venus.
+2 Doud took the milk there.
+3 Burnhard went to the earth.
+4 Burnhard went to the mars.
+5 Colliani journeyed to the moon.
+6 Conn went back to the mars.
+7 Burnhard took the apple there.
+8 Burnhard dropped the apple there.
+9 Where is the apple? 	mars	8 4
+10 Burnhard took the apple there.
+11 Burnhard took the football there.
+12 Doud went back to the neptune.
+13 Burnhard put down the football.
+14 Where is the football? 	mars	13 4
+15 Doud discarded the milk.
+16 Doud picked up the milk there.
+17 Where is the football? 	mars	13 4
+18 Doud put down the milk.
+19 Burnhard got the football there.
+20 Where is the milk? 	neptune	18 12
+21 Doud went back to the venus.
+22 Burnhard left the football.
+23 Where is the milk? 	neptune	18 12
+1 Conn journeyed to the neptune.
+2 Colliani moved to the moon.
+3 Burnhard picked up the apple there.
+4 Colliani grabbed the milk there.
+5 Colliani put down the milk there.
+6 Burnhard moved to the moon.
+7 Where is the milk? 	moon	5 2
+8 Burnhard picked up the milk there.
+9 Colliani journeyed to the jupiter.
+10 Burnhard journeyed to the neptune.
+11 Burnhard discarded the milk.
+12 Where is the milk? 	neptune	11 10
+13 Conn travelled to the moon.
+14 Burnhard journeyed to the venus.
+15 Where is the milk? 	neptune	11 10
+16 Burnhard dropped the apple.
+17 Conn went to the mars.
+18 Where is the apple? 	venus	16 14
+19 Conn went back to the venus.
+20 Colliani journeyed to the venus.
+21 Where is the apple? 	venus	16 14
+1 Conn travelled to the neptune.
+2 Burnhard went to the jupiter.
+3 Burnhard moved to the neptune.
+4 Conn got the football there.
+5 Colliani went to the jupiter.
+6 Doud journeyed to the moon.
+7 Conn put down the football there.
+8 Doud went back to the jupiter.
+9 Where is the football? 	neptune	7 1
+10 Burnhard got the football there.
+11 Conn moved to the earth.
+12 Burnhard left the football.
+13 Conn picked up the milk there.
+14 Where is the football? 	neptune	12 3
+15 Colliani moved to the mars.
+16 Burnhard moved to the venus.
+17 Where is the football? 	neptune	12 3
+18 Colliani went to the neptune.
+19 Colliani went to the moon.
+20 Conn went back to the moon.
+21 Doud journeyed to the earth.
+22 Burnhard went back to the earth.
+23 Doud journeyed to the mars.
+24 Burnhard journeyed to the moon.
+25 Conn dropped the milk.
+26 Where is the milk? 	moon	25 20
+27 Conn got the milk there.
+28 Doud grabbed the apple there.
+29 Doud left the apple.
+30 Burnhard went to the venus.
+31 Where is the apple? 	mars	29 23
+1 Doud moved to the neptune.
+2 Burnhard travelled to the mars.
+3 Burnhard travelled to the jupiter.
+4 Conn travelled to the jupiter.
+5 Burnhard went to the mars.
+6 Burnhard got the apple there.
+7 Colliani went to the venus.
+8 Colliani grabbed the milk there.
+9 Doud took the football there.
+10 Colliani discarded the milk.
+11 Where is the milk? 	venus	10 7
+12 Conn moved to the mars.
+13 Colliani took the milk there.
+14 Colliani discarded the milk.
+15 Doud discarded the football.
+16 Where is the football? 	neptune	15 1
+17 Burnhard moved to the earth.
+18 Burnhard journeyed to the neptune.
+19 Where is the football? 	neptune	15 1
+20 Burnhard took the football there.
+21 Conn went back to the moon.
+22 Doud journeyed to the jupiter.
+23 Colliani grabbed the milk there.
+24 Burnhard left the apple.
+25 Colliani left the milk.
+26 Where is the milk? 	venus	25 7
+27 Colliani got the milk there.
+28 Colliani dropped the milk.
+29 Where is the milk? 	venus	28 7
+1 Conn moved to the earth.
+2 Conn took the milk there.
+3 Conn left the milk.
+4 Colliani went to the earth.
+5 Where is the milk? 	earth	3 1
+6 Colliani grabbed the apple there.
+7 Burnhard went back to the venus.
+8 Where is the milk? 	earth	3 1
+9 Doud journeyed to the venus.
+10 Colliani got the milk there.
+11 Colliani travelled to the neptune.
+12 Conn journeyed to the mars.
+13 Where is the milk? 	neptune	10 11
+14 Colliani journeyed to the jupiter.
+15 Doud went to the earth.
+16 Where is the milk? 	jupiter	10 14
+17 Doud journeyed to the jupiter.
+18 Colliani discarded the milk there.
+19 Where is the milk? 	jupiter	18 14
+1 Doud journeyed to the venus.
+2 Colliani went to the neptune.
+3 Colliani went to the mars.
+4 Conn grabbed the apple there.
+5 Conn dropped the apple.
+6 Colliani journeyed to the venus.
+7 Doud travelled to the moon.
+8 Colliani went to the earth.
+9 Burnhard moved to the mars.
+10 Conn went back to the moon.
+11 Burnhard went back to the neptune.
+12 Doud took the milk there.
+13 Colliani grabbed the apple there.
+14 Colliani journeyed to the moon.
+15 Where is the apple? 	moon	13 14
+16 Doud dropped the milk.
+17 Colliani picked up the milk there.
+18 Where is the apple? 	moon	13 14
+19 Conn travelled to the venus.
+20 Burnhard went to the jupiter.
+21 Doud took the football there.
+22 Conn journeyed to the neptune.
+23 Conn went back to the earth.
+24 Doud left the football there.
+25 Where is the football? 	moon	24 7
+26 Doud got the football there.
+27 Conn went to the neptune.
+28 Conn journeyed to the venus.
+29 Colliani went to the mars.
+30 Colliani went back to the jupiter.
+31 Colliani travelled to the neptune.
+32 Doud travelled to the earth.
+33 Doud dropped the football.
+34 Where is the football? 	earth	33 32
+35 Colliani left the milk.
+36 Doud went to the venus.
+37 Where is the milk? 	neptune	35 31
+1 Doud went to the jupiter.
+2 Conn grabbed the football there.
+3 Doud journeyed to the venus.
+4 Conn dropped the football.
+5 Burnhard travelled to the jupiter.
+6 Doud grabbed the milk there.
+7 Burnhard moved to the earth.
+8 Burnhard travelled to the moon.
+9 Conn journeyed to the venus.
+10 Burnhard moved to the mars.
+11 Doud left the milk.
+12 Doud travelled to the moon.
+13 Where is the milk? 	venus	11 3
+14 Conn travelled to the neptune.
+15 Doud travelled to the neptune.
+16 Where is the milk? 	venus	11 3
+17 Conn grabbed the football there.
+18 Doud travelled to the jupiter.
+19 Doud moved to the neptune.
+20 Conn put down the football.
+21 Where is the football? 	neptune	20 14
+22 Colliani went to the jupiter.
+23 Burnhard travelled to the earth.
+24 Where is the football? 	neptune	20 14
+25 Burnhard went to the mars.
+26 Burnhard journeyed to the jupiter.
+27 Where is the football? 	neptune	20 14
+1 Colliani journeyed to the neptune.
+2 Burnhard moved to the moon.
+3 Burnhard grabbed the football there.
+4 Burnhard went to the venus.
+5 Where is the football? 	venus	3 4
+6 Doud went back to the moon.
+7 Burnhard picked up the milk there.
+8 Where is the football? 	venus	3 4
+9 Burnhard left the football.
+10 Conn went back to the moon.
+11 Where is the football? 	venus	9 4
+12 Conn travelled to the jupiter.
+13 Burnhard put down the milk.
+14 Where is the milk? 	venus	13 4
+15 Doud moved to the earth.
+16 Burnhard journeyed to the earth.
+17 Where is the milk? 	venus	13 4
+1 Doud grabbed the football there.
+2 Colliani journeyed to the neptune.
+3 Doud went back to the neptune.
+4 Colliani journeyed to the earth.
+5 Where is the football? 	neptune	1 3
+6 Conn journeyed to the mars.
+7 Doud discarded the football.
+8 Where is the football? 	neptune	7 3
+9 Doud went to the earth.
+10 Burnhard went back to the neptune.
+11 Where is the football? 	neptune	7 3
+12 Doud journeyed to the venus.
+13 Doud grabbed the milk there.
+14 Where is the football? 	neptune	7 3
+15 Colliani moved to the mars.
+16 Doud journeyed to the mars.
+17 Where is the milk? 	mars	13 16
+1 Doud moved to the neptune.
+2 Doud went to the mars.
+3 Doud picked up the milk there.
+4 Colliani went back to the moon.
+5 Doud picked up the football there.
+6 Colliani got the apple there.
+7 Doud went to the jupiter.
+8 Conn travelled to the mars.
+9 Where is the football? 	jupiter	5 7
+10 Colliani dropped the apple there.
+11 Doud put down the football there.
+12 Where is the football? 	jupiter	11 7
+13 Doud grabbed the football there.
+14 Colliani took the apple there.
+15 Colliani went back to the neptune.
+16 Doud travelled to the mars.
+17 Where is the football? 	mars	13 16
+18 Colliani moved to the mars.
+19 Doud left the milk.
+20 Where is the apple? 	mars	14 18
+21 Doud journeyed to the neptune.
+22 Conn got the milk there.
+23 Burnhard travelled to the mars.
+24 Colliani discarded the apple.
+25 Where is the apple? 	mars	24 18
+1 Burnhard journeyed to the mars.
+2 Burnhard went back to the earth.
+3 Conn went back to the venus.
+4 Conn travelled to the moon.
+5 Colliani moved to the moon.
+6 Doud went to the earth.
+7 Doud travelled to the jupiter.
+8 Doud journeyed to the neptune.
+9 Colliani went to the earth.
+10 Conn moved to the venus.
+11 Conn grabbed the apple there.
+12 Colliani travelled to the mars.
+13 Conn travelled to the earth.
+14 Colliani picked up the milk there.
+15 Where is the apple? 	earth	11 13
+16 Doud moved to the moon.
+17 Colliani grabbed the football there.
+18 Burnhard journeyed to the neptune.
+19 Burnhard journeyed to the mars.
+20 Conn went to the neptune.
+21 Conn journeyed to the mars.
+22 Colliani journeyed to the moon.
+23 Colliani left the football.
+24 Where is the football? 	moon	23 22
+25 Colliani dropped the milk.
+26 Doud grabbed the football there.
+27 Where is the milk? 	moon	25 22
+28 Burnhard moved to the moon.
+29 Colliani grabbed the milk there.
+30 Colliani discarded the milk.
+31 Colliani went back to the jupiter.
+32 Where is the milk? 	moon	30 22
+33 Burnhard took the milk there.
+34 Doud dropped the football.
+35 Where is the football? 	moon	34 16
+1 Doud moved to the moon.
+2 Doud went back to the earth.
+3 Burnhard moved to the jupiter.
+4 Colliani went to the earth.
+5 Doud travelled to the neptune.
+6 Burnhard went to the earth.
+7 Doud travelled to the venus.
+8 Colliani went to the moon.
+9 Conn went to the neptune.
+10 Doud moved to the moon.
+11 Conn went to the mars.
+12 Doud travelled to the neptune.
+13 Colliani got the milk there.
+14 Doud went to the jupiter.
+15 Conn journeyed to the moon.
+16 Conn grabbed the apple there.
+17 Colliani put down the milk.
+18 Conn dropped the apple.
+19 Where is the apple? 	moon	18 15
+20 Conn went back to the mars.
+21 Doud journeyed to the mars.
+22 Where is the apple? 	moon	18 15
+23 Colliani took the apple there.
+24 Colliani went back to the jupiter.
+25 Where is the apple? 	jupiter	23 24
+26 Colliani went back to the earth.
+27 Conn moved to the venus.
+28 Where is the apple? 	earth	23 26
+29 Colliani dropped the apple there.
+30 Burnhard went back to the mars.
+31 Where is the apple? 	earth	29 26
+1 Conn travelled to the venus.
+2 Doud journeyed to the moon.
+3 Colliani went back to the mars.
+4 Colliani went back to the neptune.
+5 Colliani travelled to the mars.
+6 Doud journeyed to the jupiter.
+7 Doud got the football there.
+8 Burnhard moved to the jupiter.
+9 Doud left the football.
+10 Colliani went to the jupiter.
+11 Where is the football? 	jupiter	9 6
+12 Burnhard grabbed the football there.
+13 Conn went to the earth.
+14 Colliani travelled to the moon.
+15 Doud journeyed to the moon.
+16 Conn travelled to the jupiter.
+17 Burnhard travelled to the neptune.
+18 Colliani journeyed to the jupiter.
+19 Conn went to the earth.
+20 Burnhard got the milk there.
+21 Burnhard got the apple there.
+22 Doud went to the earth.
+23 Conn went back to the venus.
+24 Doud travelled to the jupiter.
+25 Colliani journeyed to the venus.
+26 Doud journeyed to the mars.
+27 Burnhard discarded the apple.
+28 Where is the apple? 	neptune	27 17
+29 Doud travelled to the neptune.
+30 Doud grabbed the apple there.
+31 Colliani moved to the moon.
+32 Conn travelled to the neptune.
+33 Burnhard discarded the football.
+34 Conn got the football there.
+35 Conn moved to the earth.
+36 Doud put down the apple.
+37 Where is the football? 	earth	34 35
+38 Burnhard put down the milk.
+39 Conn put down the football.
+40 Where is the milk? 	neptune	38 17
+41 Conn went back to the venus.
+42 Colliani travelled to the jupiter.
+43 Where is the milk? 	neptune	38 17
+1 Doud journeyed to the jupiter.
+2 Doud moved to the earth.
+3 Conn moved to the earth.
+4 Conn travelled to the venus.
+5 Conn went to the mars.
+6 Colliani journeyed to the jupiter.
+7 Doud went to the jupiter.
+8 Doud journeyed to the earth.
+9 Colliani grabbed the apple there.
+10 Doud travelled to the venus.
+11 Conn went to the neptune.
+12 Burnhard went back to the venus.
+13 Colliani dropped the apple there.
+14 Colliani went back to the moon.
+15 Where is the apple? 	jupiter	13 6
+16 Doud picked up the milk there.
+17 Burnhard went to the moon.
+18 Where is the apple? 	jupiter	13 6
+19 Doud discarded the milk.
+20 Doud moved to the mars.
+21 Where is the milk? 	venus	19 10
+22 Burnhard went to the venus.
+23 Conn moved to the mars.
+24 Where is the milk? 	venus	19 10
+25 Colliani travelled to the neptune.
+26 Conn went to the venus.
+27 Conn went to the moon.
+28 Doud went to the venus.
+29 Doud moved to the earth.
+30 Doud went to the venus.
+31 Conn went to the mars.
+32 Colliani went back to the mars.
+33 Colliani travelled to the neptune.
+34 Burnhard grabbed the milk there.
+35 Burnhard went to the earth.
+36 Conn travelled to the earth.
+37 Where is the milk? 	earth	34 35
+1 Colliani went to the jupiter.
+2 Doud went to the moon.
+3 Burnhard moved to the mars.
+4 Colliani went to the moon.
+5 Conn went back to the neptune.
+6 Conn picked up the milk there.
+7 Burnhard grabbed the football there.
+8 Colliani travelled to the venus.
+9 Conn journeyed to the earth.
+10 Doud picked up the apple there.
+11 Where is the milk? 	earth	6 9
+12 Colliani journeyed to the mars.
+13 Doud journeyed to the earth.
+14 Where is the apple? 	earth	10 13
+15 Burnhard dropped the football there.
+16 Colliani moved to the neptune.
+17 Where is the football? 	mars	15 3
+18 Conn went to the mars.
+19 Conn left the milk.
+20 Where is the milk? 	mars	19 18
+21 Burnhard took the football there.
+22 Conn went to the moon.
+23 Where is the milk? 	mars	19 18
+1 Colliani went to the mars.
+2 Doud journeyed to the mars.
+3 Colliani journeyed to the earth.
+4 Doud journeyed to the neptune.
+5 Doud moved to the jupiter.
+6 Doud moved to the neptune.
+7 Colliani picked up the football there.
+8 Colliani went to the jupiter.
+9 Where is the football? 	jupiter	7 8
+10 Burnhard journeyed to the earth.
+11 Colliani got the milk there.
+12 Where is the football? 	jupiter	7 8
+13 Burnhard went back to the neptune.
+14 Burnhard journeyed to the venus.
+15 Doud moved to the earth.
+16 Doud travelled to the moon.
+17 Burnhard went to the mars.
+18 Colliani put down the football.
+19 Where is the football? 	jupiter	18 8
+20 Doud travelled to the venus.
+21 Colliani put down the milk there.
+22 Where is the milk? 	jupiter	21 8
+23 Colliani moved to the venus.
+24 Burnhard went to the earth.
+25 Where is the football? 	jupiter	18 8
+1 Conn went back to the venus.
+2 Doud went to the venus.
+3 Burnhard journeyed to the venus.
+4 Conn journeyed to the earth.
+5 Burnhard got the milk there.
+6 Doud travelled to the jupiter.
+7 Doud took the apple there.
+8 Doud left the apple.
+9 Where is the apple? 	jupiter	8 6
+10 Burnhard discarded the milk there.
+11 Burnhard moved to the moon.
+12 Where is the apple? 	jupiter	8 6
+13 Colliani went back to the mars.
+14 Burnhard went to the jupiter.
+15 Where is the apple? 	jupiter	8 6
+16 Colliani moved to the venus.
+17 Doud picked up the apple there.
+18 Colliani picked up the milk there.
+19 Burnhard went back to the mars.
+20 Colliani went back to the moon.
+21 Doud went back to the neptune.
+22 Where is the apple? 	neptune	17 21
+23 Doud went to the moon.
+24 Conn travelled to the neptune.
+25 Doud discarded the apple.
+26 Doud went back to the earth.
+27 Where is the apple? 	moon	25 23
+1 Conn picked up the apple there.
+2 Burnhard travelled to the neptune.
+3 Conn put down the apple there.
+4 Doud went back to the moon.
+5 Colliani moved to the moon.
+6 Colliani travelled to the venus.
+7 Conn journeyed to the neptune.
+8 Doud went back to the earth.
+9 Conn moved to the mars.
+10 Conn journeyed to the earth.
+11 Doud moved to the neptune.
+12 Conn went back to the mars.
+13 Conn moved to the venus.
+14 Colliani went back to the neptune.
+15 Doud moved to the jupiter.
+16 Doud got the apple there.
+17 Burnhard went to the moon.
+18 Doud left the apple.
+19 Where is the apple? 	jupiter	18 15
+20 Doud moved to the moon.
+21 Doud went back to the jupiter.
+22 Where is the apple? 	jupiter	18 15
+23 Burnhard travelled to the venus.
+24 Conn journeyed to the earth.
+25 Where is the apple? 	jupiter	18 15
+26 Conn got the football there.
+27 Conn went to the neptune.
+28 Where is the football? 	neptune	26 27
+29 Colliani went back to the mars.
+30 Conn moved to the venus.
+31 Where is the football? 	venus	26 30
+1 Doud went back to the moon.
+2 Burnhard journeyed to the venus.
+3 Doud went back to the jupiter.
+4 Conn grabbed the football there.
+5 Conn journeyed to the neptune.
+6 Colliani took the milk there.
+7 Where is the football? 	neptune	4 5
+8 Doud picked up the apple there.
+9 Colliani journeyed to the neptune.
+10 Where is the milk? 	neptune	6 9
+11 Burnhard went to the jupiter.
+12 Colliani journeyed to the venus.
+13 Where is the milk? 	venus	6 12
+14 Doud put down the apple.
+15 Burnhard went back to the mars.
+16 Where is the apple? 	jupiter	14 3
+17 Conn went to the mars.
+18 Colliani discarded the milk.
+19 Where is the apple? 	jupiter	14 3
+1 Doud went to the neptune.
+2 Conn went back to the earth.
+3 Burnhard went back to the venus.
+4 Doud went to the jupiter.
+5 Doud journeyed to the mars.
+6 Burnhard moved to the jupiter.
+7 Burnhard journeyed to the neptune.
+8 Conn journeyed to the venus.
+9 Doud journeyed to the moon.
+10 Colliani went back to the moon.
+11 Burnhard travelled to the venus.
+12 Colliani moved to the jupiter.
+13 Conn went back to the mars.
+14 Doud moved to the mars.
+15 Doud moved to the neptune.
+16 Doud went to the mars.
+17 Burnhard went back to the earth.
+18 Burnhard travelled to the neptune.
+19 Burnhard travelled to the mars.
+20 Burnhard moved to the venus.
+21 Conn went to the venus.
+22 Burnhard went back to the moon.
+23 Colliani moved to the venus.
+24 Doud went to the moon.
+25 Conn travelled to the mars.
+26 Colliani went back to the neptune.
+27 Burnhard went back to the neptune.
+28 Doud went to the neptune.
+29 Conn went back to the venus.
+30 Burnhard went back to the jupiter.
+31 Burnhard moved to the mars.
+32 Doud travelled to the venus.
+33 Burnhard went to the venus.
+34 Conn journeyed to the neptune.
+35 Doud went back to the neptune.
+36 Conn travelled to the venus.
+37 Colliani journeyed to the moon.
+38 Conn travelled to the neptune.
+39 Conn travelled to the earth.
+40 Doud went back to the mars.
+41 Conn went to the jupiter.
+42 Colliani journeyed to the neptune.
+43 Colliani went to the mars.
+44 Conn travelled to the neptune.
+45 Burnhard went back to the mars.
+46 Doud moved to the jupiter.
+47 Burnhard went back to the venus.
+48 Burnhard went back to the mars.
+49 Burnhard moved to the venus.
+50 Burnhard moved to the jupiter.
+51 Colliani went back to the neptune.
+52 Conn went to the venus.
+53 Burnhard travelled to the mars.
+54 Burnhard moved to the moon.
+55 Colliani journeyed to the venus.
+56 Doud moved to the neptune.
+57 Colliani went back to the jupiter.
+58 Doud went back to the jupiter.
+59 Conn travelled to the moon.
+60 Burnhard travelled to the neptune.
+61 Burnhard journeyed to the moon.
+62 Burnhard travelled to the earth.
+63 Doud went back to the neptune.
+64 Burnhard travelled to the mars.
+65 Conn travelled to the venus.
+66 Conn journeyed to the earth.
+67 Doud journeyed to the jupiter.
+68 Burnhard went back to the jupiter.
+69 Colliani travelled to the neptune.
+70 Conn picked up the milk there.
+71 Conn picked up the apple there.
+72 Burnhard moved to the neptune.
+73 Colliani journeyed to the earth.
+74 Colliani went back to the venus.
+75 Burnhard journeyed to the jupiter.
+76 Burnhard moved to the earth.
+77 Doud moved to the mars.
+78 Doud went to the jupiter.
+79 Burnhard grabbed the football there.
+80 Burnhard discarded the football.
+81 Where is the football? 	earth	80 76
+82 Conn took the football there.
+83 Conn put down the apple there.
+84 Where is the apple? 	earth	83 66
+85 Conn took the apple there.
+86 Conn travelled to the neptune.
+87 Where is the football? 	neptune	82 86
+88 Burnhard journeyed to the moon.
+89 Conn left the milk there.
+90 Where is the milk? 	neptune	89 86
+91 Conn went to the mars.
+92 Conn went back to the moon.
+93 Where is the milk? 	neptune	89 86
+1 Conn went to the jupiter.
+2 Colliani travelled to the mars.
+3 Doud journeyed to the earth.
+4 Colliani picked up the apple there.
+5 Colliani put down the apple.
+6 Burnhard travelled to the jupiter.
+7 Where is the apple? 	mars	5 2
+8 Burnhard went to the moon.
+9 Conn grabbed the milk there.
+10 Where is the apple? 	mars	5 2
+11 Colliani journeyed to the jupiter.
+12 Colliani travelled to the earth.
+13 Conn left the milk.
+14 Conn grabbed the milk there.
+15 Colliani moved to the venus.
+16 Conn moved to the mars.
+17 Where is the milk? 	mars	14 16
+18 Conn put down the milk.
+19 Doud went to the neptune.
+20 Where is the milk? 	mars	18 16
+21 Burnhard went back to the jupiter.
+22 Conn picked up the milk there.
+23 Colliani took the football there.
+24 Colliani dropped the football.
+25 Where is the football? 	venus	24 15
+1 Colliani journeyed to the earth.
+2 Burnhard went back to the moon.
+3 Burnhard grabbed the football there.
+4 Burnhard journeyed to the jupiter.
+5 Where is the football? 	jupiter	3 4
+6 Conn travelled to the mars.
+7 Doud went to the venus.
+8 Where is the football? 	jupiter	3 4
+9 Doud travelled to the jupiter.
+10 Doud moved to the mars.
+11 Conn went to the venus.
+12 Conn got the milk there.
+13 Conn put down the milk there.
+14 Burnhard went back to the venus.
+15 Where is the milk? 	venus	13 11
+16 Conn got the milk there.
+17 Burnhard travelled to the neptune.
+18 Burnhard picked up the apple there.
+19 Burnhard journeyed to the moon.
+20 Where is the apple? 	moon	18 19
+21 Doud moved to the earth.
+22 Burnhard went back to the earth.
+23 Where is the apple? 	earth	18 22
+1 Burnhard picked up the apple there.
+2 Burnhard put down the apple.
+3 Burnhard moved to the moon.
+4 Conn went to the mars.
+5 Burnhard went to the earth.
+6 Colliani went to the mars.
+7 Conn journeyed to the neptune.
+8 Burnhard journeyed to the moon.
+9 Burnhard took the milk there.
+10 Burnhard went to the jupiter.
+11 Where is the milk? 	jupiter	9 10
+12 Burnhard moved to the moon.
+13 Burnhard put down the milk.
+14 Where is the milk? 	moon	13 12
+15 Colliani went to the moon.
+16 Colliani journeyed to the earth.
+17 Where is the milk? 	moon	13 12
+18 Doud went to the moon.
+19 Colliani picked up the apple there.
+20 Where is the milk? 	moon	13 12
+21 Doud got the football there.
+22 Doud went to the neptune.
+23 Where is the football? 	neptune	21 22
+1 Conn journeyed to the mars.
+2 Colliani went to the mars.
+3 Doud went back to the moon.
+4 Burnhard picked up the football there.
+5 Burnhard took the milk there.
+6 Colliani moved to the jupiter.
+7 Doud got the apple there.
+8 Doud dropped the apple there.
+9 Where is the apple? 	moon	8 3
+10 Burnhard went to the jupiter.
+11 Doud grabbed the apple there.
+12 Burnhard went to the earth.
+13 Conn moved to the moon.
+14 Burnhard put down the football there.
+15 Burnhard took the football there.
+16 Burnhard moved to the moon.
+17 Doud moved to the neptune.
+18 Where is the football? 	moon	15 16
+19 Doud dropped the apple.
+20 Colliani travelled to the earth.
+21 Where is the apple? 	neptune	19 17
+22 Doud grabbed the apple there.
+23 Doud put down the apple.
+24 Where is the apple? 	neptune	23 17
+25 Burnhard put down the milk.
+26 Doud took the apple there.
+27 Where is the milk? 	moon	25 16
+1 Conn grabbed the apple there.
+2 Doud got the milk there.
+3 Doud went back to the mars.
+4 Doud moved to the venus.
+5 Where is the milk? 	venus	2 4
+6 Burnhard went back to the venus.
+7 Doud moved to the jupiter.
+8 Where is the milk? 	jupiter	2 7
+9 Burnhard went back to the moon.
+10 Doud discarded the milk.
+11 Where is the milk? 	jupiter	10 7
+12 Doud grabbed the milk there.
+13 Burnhard went back to the mars.
+14 Burnhard went back to the moon.
+15 Conn journeyed to the moon.
+16 Doud moved to the moon.
+17 Conn journeyed to the jupiter.
+18 Conn discarded the apple.
+19 Doud dropped the milk.
+20 Where is the milk? 	moon	19 16
+21 Colliani picked up the milk there.
+22 Burnhard moved to the jupiter.
+23 Where is the apple? 	jupiter	18 17
+1 Burnhard took the apple there.
+2 Conn went back to the earth.
+3 Conn travelled to the moon.
+4 Colliani went to the moon.
+5 Doud journeyed to the earth.
+6 Conn moved to the earth.
+7 Burnhard moved to the earth.
+8 Conn got the milk there.
+9 Conn dropped the milk.
+10 Burnhard picked up the milk there.
+11 Burnhard put down the apple there.
+12 Doud picked up the apple there.
+13 Doud travelled to the moon.
+14 Burnhard discarded the milk.
+15 Where is the milk? 	earth	14 7
+16 Conn took the milk there.
+17 Colliani moved to the mars.
+18 Where is the apple? 	moon	12 13
+19 Doud dropped the apple.
+20 Doud travelled to the jupiter.
+21 Where is the apple? 	moon	19 13
+22 Doud grabbed the football there.
+23 Conn went back to the mars.
+24 Where is the apple? 	moon	19 13
+25 Doud went back to the venus.
+26 Colliani journeyed to the moon.
+27 Where is the football? 	venus	22 25
+1 Colliani went back to the jupiter.
+2 Conn travelled to the venus.
+3 Conn grabbed the football there.
+4 Colliani journeyed to the venus.
+5 Doud went to the venus.
+6 Burnhard moved to the moon.
+7 Burnhard got the milk there.
+8 Conn journeyed to the jupiter.
+9 Colliani moved to the jupiter.
+10 Conn picked up the apple there.
+11 Doud went back to the moon.
+12 Burnhard travelled to the jupiter.
+13 Burnhard went back to the earth.
+14 Colliani moved to the venus.
+15 Burnhard dropped the milk there.
+16 Conn left the football.
+17 Where is the football? 	jupiter	16 8
+18 Conn travelled to the mars.
+19 Conn travelled to the neptune.
+20 Where is the milk? 	earth	15 13
+21 Conn discarded the apple.
+22 Burnhard took the milk there.
+23 Where is the apple? 	neptune	21 19
+24 Conn took the apple there.
+25 Conn went to the jupiter.
+26 Where is the apple? 	jupiter	24 25
+27 Conn took the football there.
+28 Burnhard put down the milk.
+29 Where is the milk? 	earth	28 13
+1 Burnhard went back to the moon.
+2 Burnhard went to the jupiter.
+3 Colliani went to the earth.
+4 Doud went to the moon.
+5 Doud journeyed to the earth.
+6 Colliani moved to the moon.
+7 Doud picked up the milk there.
+8 Colliani went to the earth.
+9 Colliani went back to the moon.
+10 Burnhard went to the venus.
+11 Doud discarded the milk.
+12 Conn journeyed to the neptune.
+13 Where is the milk? 	earth	11 5
+14 Burnhard journeyed to the mars.
+15 Conn travelled to the mars.
+16 Where is the milk? 	earth	11 5
+17 Burnhard went back to the earth.
+18 Doud journeyed to the venus.
+19 Conn picked up the apple there.
+20 Doud journeyed to the moon.
+21 Doud journeyed to the venus.
+22 Conn travelled to the moon.
+23 Where is the apple? 	moon	19 22
+24 Burnhard got the milk there.
+25 Burnhard went back to the jupiter.
+26 Where is the milk? 	jupiter	24 25
+27 Conn travelled to the jupiter.
+28 Colliani travelled to the mars.
+29 Where is the milk? 	jupiter	24 25
+1 Colliani got the milk there.
+2 Burnhard journeyed to the neptune.
+3 Conn went back to the earth.
+4 Colliani left the milk.
+5 Conn got the apple there.
+6 Burnhard picked up the milk there.
+7 Burnhard went to the moon.
+8 Colliani went to the moon.
+9 Where is the milk? 	moon	6 7
+10 Burnhard journeyed to the earth.
+11 Colliani travelled to the jupiter.
+12 Where is the milk? 	earth	6 10
+13 Doud travelled to the mars.
+14 Burnhard moved to the moon.
+15 Doud went back to the neptune.
+16 Burnhard dropped the milk.
+17 Where is the milk? 	moon	16 14
+18 Burnhard journeyed to the venus.
+19 Colliani went to the venus.
+20 Where is the milk? 	moon	16 14
+21 Doud journeyed to the earth.
+22 Colliani moved to the mars.
+23 Where is the milk? 	moon	16 14
+1 Conn travelled to the venus.
+2 Colliani picked up the milk there.
+3 Doud moved to the venus.
+4 Doud went to the moon.
+5 Doud moved to the earth.
+6 Conn journeyed to the neptune.
+7 Colliani moved to the neptune.
+8 Conn picked up the football there.
+9 Conn discarded the football there.
+10 Doud travelled to the neptune.
+11 Where is the football? 	neptune	9 6
+12 Doud travelled to the venus.
+13 Conn took the football there.
+14 Conn moved to the moon.
+15 Conn travelled to the jupiter.
+16 Where is the football? 	jupiter	13 15
+17 Colliani journeyed to the venus.
+18 Colliani left the milk.
+19 Where is the football? 	jupiter	13 15
+20 Colliani travelled to the mars.
+21 Doud travelled to the earth.
+22 Where is the milk? 	venus	18 17
+23 Conn went to the venus.
+24 Doud travelled to the mars.
+25 Where is the milk? 	venus	18 17
+1 Colliani went back to the neptune.
+2 Conn went back to the venus.
+3 Colliani moved to the earth.
+4 Conn moved to the mars.
+5 Burnhard travelled to the venus.
+6 Conn picked up the football there.
+7 Burnhard took the milk there.
+8 Burnhard left the milk.
+9 Where is the milk? 	venus	8 5
+10 Doud moved to the jupiter.
+11 Burnhard took the milk there.
+12 Conn moved to the venus.
+13 Burnhard discarded the milk.
+14 Where is the milk? 	venus	13 5
+15 Burnhard journeyed to the earth.
+16 Doud journeyed to the mars.
+17 Where is the milk? 	venus	13 5
+18 Doud journeyed to the venus.
+19 Conn went back to the moon.
+20 Where is the milk? 	venus	13 5
+21 Colliani travelled to the neptune.
+22 Doud picked up the milk there.
+23 Burnhard travelled to the mars.
+24 Doud left the milk.
+25 Where is the milk? 	venus	24 18
+1 Burnhard moved to the earth.
+2 Conn moved to the neptune.
+3 Colliani went to the mars.
+4 Colliani got the milk there.
+5 Doud travelled to the mars.
+6 Conn journeyed to the moon.
+7 Doud went to the venus.
+8 Burnhard journeyed to the moon.
+9 Conn picked up the apple there.
+10 Doud travelled to the moon.
+11 Colliani dropped the milk.
+12 Conn travelled to the earth.
+13 Where is the apple? 	earth	9 12
+14 Colliani moved to the neptune.
+15 Colliani travelled to the jupiter.
+16 Where is the milk? 	mars	11 3
+17 Colliani travelled to the earth.
+18 Doud went back to the venus.
+19 Conn put down the apple.
+20 Doud went to the moon.
+21 Where is the apple? 	earth	19 12
+22 Burnhard travelled to the earth.
+23 Conn got the apple there.
+24 Burnhard travelled to the venus.
+25 Conn dropped the apple.
+26 Where is the apple? 	earth	25 12
+27 Conn moved to the jupiter.
+28 Doud went back to the neptune.
+29 Where is the apple? 	earth	25 12
+1 Colliani journeyed to the mars.
+2 Conn travelled to the jupiter.
+3 Burnhard moved to the mars.
+4 Burnhard got the milk there.
+5 Colliani moved to the earth.
+6 Doud went back to the mars.
+7 Burnhard put down the milk.
+8 Doud took the milk there.
+9 Colliani travelled to the moon.
+10 Colliani went back to the neptune.
+11 Conn went back to the mars.
+12 Colliani travelled to the mars.
+13 Doud went back to the neptune.
+14 Doud left the milk there.
+15 Where is the milk? 	neptune	14 13
+16 Colliani moved to the venus.
+17 Conn moved to the earth.
+18 Where is the milk? 	neptune	14 13
+19 Conn travelled to the moon.
+20 Doud took the football there.
+21 Where is the milk? 	neptune	14 13
+22 Colliani went back to the moon.
+23 Colliani journeyed to the earth.
+24 Doud went back to the mars.
+25 Burnhard went back to the earth.
+26 Where is the football? 	mars	20 24
+27 Conn moved to the earth.
+28 Colliani travelled to the jupiter.
+29 Conn went back to the mars.
+30 Colliani got the apple there.
+31 Colliani journeyed to the venus.
+32 Doud travelled to the jupiter.
+33 Where is the apple? 	venus	30 31
+1 Conn moved to the venus.
+2 Conn went back to the earth.
+3 Doud went to the jupiter.
+4 Doud went to the earth.
+5 Doud moved to the venus.
+6 Colliani went to the neptune.
+7 Conn went back to the mars.
+8 Burnhard grabbed the football there.
+9 Conn went to the earth.
+10 Colliani went to the moon.
+11 Conn went to the neptune.
+12 Burnhard left the football.
+13 Conn grabbed the milk there.
+14 Colliani journeyed to the jupiter.
+15 Conn got the apple there.
+16 Burnhard picked up the football there.
+17 Burnhard journeyed to the earth.
+18 Conn moved to the mars.
+19 Where is the apple? 	mars	15 18
+20 Conn discarded the apple.
+21 Colliani went to the mars.
+22 Where is the apple? 	mars	20 18
+23 Colliani grabbed the apple there.
+24 Burnhard journeyed to the venus.
+25 Colliani left the apple.
+26 Conn grabbed the apple there.
+27 Burnhard journeyed to the neptune.
+28 Burnhard put down the football.
+29 Where is the football? 	neptune	28 27
+30 Conn went to the venus.
+31 Burnhard got the football there.
+32 Where is the apple? 	venus	26 30
+33 Colliani went back to the earth.
+34 Burnhard put down the football.
+35 Where is the football? 	neptune	34 27
+1 Colliani took the football there.
+2 Colliani put down the football.
+3 Conn moved to the moon.
+4 Doud went back to the venus.
+5 Conn journeyed to the jupiter.
+6 Doud journeyed to the neptune.
+7 Colliani moved to the moon.
+8 Colliani travelled to the earth.
+9 Colliani got the football there.
+10 Burnhard moved to the jupiter.
+11 Colliani grabbed the milk there.
+12 Colliani left the football.
+13 Where is the football? 	earth	12 8
+14 Colliani put down the milk.
+15 Doud went back to the earth.
+16 Where is the milk? 	earth	14 8
+17 Burnhard travelled to the earth.
+18 Colliani picked up the football there.
+19 Where is the milk? 	earth	14 8
+20 Burnhard went to the mars.
+21 Conn went back to the venus.
+22 Colliani took the milk there.
+23 Burnhard journeyed to the venus.
+24 Colliani travelled to the moon.
+25 Doud travelled to the venus.
+26 Where is the milk? 	moon	22 24
+27 Colliani moved to the mars.
+28 Colliani got the apple there.
+29 Colliani went to the earth.
+30 Colliani went to the neptune.
+31 Where is the apple? 	neptune	28 30
+1 Conn went to the jupiter.
+2 Doud took the apple there.
+3 Doud went back to the venus.
+4 Doud left the apple.
+5 Where is the apple? 	venus	4 3
+6 Burnhard moved to the moon.
+7 Colliani journeyed to the neptune.
+8 Where is the apple? 	venus	4 3
+9 Doud grabbed the milk there.
+10 Burnhard went back to the venus.
+11 Where is the apple? 	venus	4 3
+12 Doud picked up the apple there.
+13 Doud discarded the apple.
+14 Where is the apple? 	venus	13 3
+15 Doud journeyed to the moon.
+16 Burnhard went to the jupiter.
+17 Where is the apple? 	venus	13 3
+1 Burnhard travelled to the moon.
+2 Conn journeyed to the neptune.
+3 Doud moved to the mars.
+4 Conn took the apple there.
+5 Conn put down the apple there.
+6 Conn grabbed the apple there.
+7 Conn travelled to the venus.
+8 Doud went back to the venus.
+9 Where is the apple? 	venus	6 7
+10 Conn went back to the neptune.
+11 Conn discarded the apple.
+12 Where is the apple? 	neptune	11 10
+13 Doud went back to the mars.
+14 Colliani moved to the venus.
+15 Where is the apple? 	neptune	11 10
+16 Conn took the apple there.
+17 Colliani picked up the football there.
+18 Colliani put down the football.
+19 Colliani got the football there.
+20 Burnhard went back to the jupiter.
+21 Conn journeyed to the mars.
+22 Colliani dropped the football.
+23 Doud took the milk there.
+24 Where is the football? 	venus	22 14
+25 Doud left the milk.
+26 Colliani took the football there.
+27 Where is the milk? 	mars	25 13
+1 Colliani went to the neptune.
+2 Doud travelled to the moon.
+3 Colliani took the football there.
+4 Doud travelled to the earth.
+5 Conn got the apple there.
+6 Burnhard went back to the neptune.
+7 Doud journeyed to the mars.
+8 Doud moved to the neptune.
+9 Colliani moved to the earth.
+10 Colliani left the football.
+11 Where is the football? 	earth	10 9
+12 Conn travelled to the moon.
+13 Colliani went to the jupiter.
+14 Where is the football? 	earth	10 9
+15 Colliani went back to the venus.
+16 Colliani went to the neptune.
+17 Where is the football? 	earth	10 9
+18 Conn left the apple.
+19 Doud journeyed to the moon.
+20 Where is the apple? 	moon	18 12
+21 Conn picked up the apple there.
+22 Conn journeyed to the venus.
+23 Where is the apple? 	venus	21 22
+1 Burnhard travelled to the jupiter.
+2 Colliani journeyed to the neptune.
+3 Doud went to the mars.
+4 Burnhard travelled to the earth.
+5 Doud went to the moon.
+6 Colliani went to the mars.
+7 Doud picked up the football there.
+8 Doud journeyed to the mars.
+9 Where is the football? 	mars	7 8
+10 Conn grabbed the milk there.
+11 Burnhard went back to the moon.
+12 Where is the football? 	mars	7 8
+13 Conn moved to the mars.
+14 Colliani moved to the venus.
+15 Where is the milk? 	mars	10 13
+16 Conn journeyed to the moon.
+17 Burnhard journeyed to the jupiter.
+18 Conn dropped the milk.
+19 Burnhard moved to the mars.
+20 Where is the milk? 	moon	18 16
+21 Burnhard went back to the earth.
+22 Burnhard travelled to the neptune.
+23 Where is the milk? 	moon	18 16
+1 Burnhard travelled to the mars.
+2 Burnhard moved to the moon.
+3 Colliani travelled to the earth.
+4 Colliani got the apple there.
+5 Conn moved to the venus.
+6 Burnhard got the football there.
+7 Colliani put down the apple.
+8 Colliani got the apple there.
+9 Colliani journeyed to the mars.
+10 Burnhard left the football.
+11 Where is the football? 	moon	10 2
+12 Conn went back to the neptune.
+13 Burnhard picked up the football there.
+14 Where is the apple? 	mars	8 9
+15 Burnhard put down the football.
+16 Burnhard took the football there.
+17 Colliani dropped the apple.
+18 Conn journeyed to the jupiter.
+19 Where is the apple? 	mars	17 9
+20 Conn got the milk there.
+21 Colliani went back to the jupiter.
+22 Where is the apple? 	mars	17 9
+23 Conn put down the milk.
+24 Burnhard dropped the football.
+25 Where is the milk? 	jupiter	23 18
+1 Doud moved to the jupiter.
+2 Conn went to the venus.
+3 Burnhard went back to the neptune.
+4 Doud journeyed to the moon.
+5 Doud went back to the venus.
+6 Doud travelled to the neptune.
+7 Colliani went to the venus.
+8 Burnhard travelled to the venus.
+9 Conn went to the jupiter.
+10 Conn travelled to the earth.
+11 Colliani took the football there.
+12 Conn grabbed the milk there.
+13 Colliani discarded the football.
+14 Burnhard went to the mars.
+15 Where is the football? 	venus	13 7
+16 Colliani went to the jupiter.
+17 Burnhard travelled to the earth.
+18 Where is the football? 	venus	13 7
+19 Burnhard moved to the moon.
+20 Doud journeyed to the moon.
+21 Conn moved to the venus.
+22 Conn dropped the milk.
+23 Where is the milk? 	venus	22 21
+24 Doud travelled to the neptune.
+25 Conn journeyed to the earth.
+26 Where is the milk? 	venus	22 21
+27 Doud went back to the venus.
+28 Colliani journeyed to the moon.
+29 Where is the milk? 	venus	22 21
+1 Burnhard travelled to the neptune.
+2 Doud grabbed the apple there.
+3 Doud dropped the apple.
+4 Burnhard moved to the jupiter.
+5 Conn went back to the mars.
+6 Colliani picked up the apple there.
+7 Colliani put down the apple there.
+8 Burnhard got the milk there.
+9 Burnhard left the milk there.
+10 Colliani grabbed the apple there.
+11 Where is the milk? 	jupiter	9 4
+12 Colliani journeyed to the jupiter.
+13 Burnhard took the milk there.
+14 Where is the apple? 	jupiter	10 12
+15 Conn journeyed to the venus.
+16 Burnhard moved to the moon.
+17 Where is the milk? 	moon	13 16
+18 Burnhard left the milk.
+19 Colliani left the apple.
+20 Where is the milk? 	moon	18 16
+21 Colliani travelled to the neptune.
+22 Burnhard travelled to the neptune.
+23 Where is the apple? 	jupiter	19 12
+1 Doud went to the mars.
+2 Doud journeyed to the earth.
+3 Burnhard travelled to the jupiter.
+4 Colliani went back to the neptune.
+5 Conn grabbed the football there.
+6 Conn left the football.
+7 Conn got the football there.
+8 Burnhard travelled to the neptune.
+9 Colliani got the apple there.
+10 Conn dropped the football.
+11 Doud picked up the football there.
+12 Conn moved to the venus.
+13 Doud went back to the venus.
+14 Colliani took the milk there.
+15 Where is the football? 	venus	11 13
+16 Conn went back to the mars.
+17 Colliani went to the jupiter.
+18 Where is the milk? 	jupiter	14 17
+19 Burnhard went to the earth.
+20 Burnhard went back to the moon.
+21 Where is the milk? 	jupiter	14 17
+22 Burnhard journeyed to the neptune.
+23 Doud left the football.
+24 Where is the football? 	venus	23 13
+25 Colliani travelled to the earth.
+26 Burnhard travelled to the mars.
+27 Where is the football? 	venus	23 13
+1 Burnhard went back to the jupiter.
+2 Colliani moved to the earth.
+3 Conn took the football there.
+4 Doud moved to the neptune.
+5 Doud moved to the mars.
+6 Conn left the football there.
+7 Conn got the football there.
+8 Doud moved to the neptune.
+9 Burnhard journeyed to the moon.
+10 Colliani went back to the mars.
+11 Doud travelled to the earth.
+12 Conn travelled to the neptune.
+13 Burnhard went back to the mars.
+14 Conn moved to the jupiter.
+15 Burnhard went to the jupiter.
+16 Conn grabbed the apple there.
+17 Burnhard went to the moon.
+18 Conn took the milk there.
+19 Conn dropped the apple.
+20 Colliani travelled to the earth.
+21 Where is the apple? 	jupiter	19 14
+22 Conn went back to the venus.
+23 Colliani journeyed to the moon.
+24 Where is the apple? 	jupiter	19 14
+25 Burnhard moved to the jupiter.
+26 Burnhard went back to the moon.
+27 Colliani travelled to the neptune.
+28 Conn discarded the football.
+29 Where is the football? 	venus	28 22
+30 Colliani journeyed to the moon.
+31 Conn travelled to the mars.
+32 Where is the football? 	venus	28 22
+33 Conn travelled to the earth.
+34 Conn travelled to the venus.
+35 Where is the football? 	venus	28 22
+1 Conn journeyed to the neptune.
+2 Burnhard journeyed to the moon.
+3 Doud moved to the earth.
+4 Burnhard took the football there.
+5 Conn went back to the earth.
+6 Conn journeyed to the mars.
+7 Conn took the apple there.
+8 Burnhard moved to the venus.
+9 Where is the football? 	venus	4 8
+10 Burnhard went back to the mars.
+11 Conn journeyed to the venus.
+12 Where is the apple? 	venus	7 11
+13 Burnhard went back to the moon.
+14 Burnhard discarded the football.
+15 Where is the football? 	moon	14 13
+16 Burnhard grabbed the football there.
+17 Conn dropped the apple there.
+18 Where is the apple? 	venus	17 11
+19 Colliani travelled to the moon.
+20 Conn moved to the moon.
+21 Where is the apple? 	venus	17 11
+1 Conn moved to the jupiter.
+2 Burnhard went back to the jupiter.
+3 Burnhard travelled to the venus.
+4 Burnhard travelled to the neptune.
+5 Colliani journeyed to the jupiter.
+6 Doud went back to the neptune.
+7 Doud moved to the moon.
+8 Colliani journeyed to the moon.
+9 Conn picked up the football there.
+10 Conn left the football.
+11 Where is the football? 	jupiter	10 1
+12 Conn moved to the moon.
+13 Burnhard took the apple there.
+14 Where is the football? 	jupiter	10 1
+15 Doud travelled to the earth.
+16 Burnhard left the apple.
+17 Where is the apple? 	neptune	16 4
+18 Burnhard went back to the jupiter.
+19 Conn went to the jupiter.
+20 Where is the apple? 	neptune	16 4
+21 Conn picked up the football there.
+22 Colliani journeyed to the neptune.
+23 Where is the apple? 	neptune	16 4
+1 Doud went back to the venus.
+2 Doud grabbed the milk there.
+3 Burnhard went to the neptune.
+4 Doud got the football there.
+5 Colliani picked up the apple there.
+6 Conn went back to the mars.
+7 Colliani moved to the mars.
+8 Doud left the milk.
+9 Where is the apple? 	mars	5 7
+10 Doud put down the football.
+11 Doud journeyed to the jupiter.
+12 Where is the football? 	venus	10 1
+13 Conn went to the neptune.
+14 Doud moved to the mars.
+15 Where is the milk? 	venus	8 1
+16 Colliani discarded the apple.
+17 Colliani grabbed the apple there.
+18 Colliani moved to the neptune.
+19 Doud went to the jupiter.
+20 Where is the apple? 	neptune	17 18
+21 Colliani put down the apple.
+22 Colliani got the apple there.
+23 Conn went to the moon.
+24 Colliani dropped the apple there.
+25 Where is the apple? 	neptune	24 18
+1 Conn moved to the mars.
+2 Burnhard went back to the moon.
+3 Burnhard travelled to the jupiter.
+4 Conn went to the jupiter.
+5 Doud moved to the moon.
+6 Conn went to the earth.
+7 Conn grabbed the apple there.
+8 Colliani journeyed to the venus.
+9 Doud picked up the football there.
+10 Doud dropped the football.
+11 Where is the football? 	moon	10 5
+12 Burnhard went back to the moon.
+13 Conn journeyed to the mars.
+14 Where is the football? 	moon	10 5
+15 Colliani went back to the moon.
+16 Colliani took the milk there.
+17 Where is the football? 	moon	10 5
+18 Burnhard went back to the jupiter.
+19 Colliani dropped the milk.
+20 Where is the milk? 	moon	19 15
+21 Conn moved to the jupiter.
+22 Doud journeyed to the jupiter.
+23 Where is the milk? 	moon	19 15
+1 Conn went to the moon.
+2 Doud took the milk there.
+3 Burnhard travelled to the venus.
+4 Colliani journeyed to the venus.
+5 Colliani grabbed the football there.
+6 Colliani put down the football there.
+7 Where is the football? 	venus	6 4
+8 Burnhard went to the jupiter.
+9 Burnhard travelled to the neptune.
+10 Where is the football? 	venus	6 4
+11 Burnhard went to the mars.
+12 Colliani moved to the jupiter.
+13 Where is the football? 	venus	6 4
+14 Doud went back to the earth.
+15 Doud moved to the jupiter.
+16 Colliani went back to the neptune.
+17 Conn went to the earth.
+18 Burnhard journeyed to the neptune.
+19 Conn journeyed to the moon.
+20 Conn moved to the jupiter.
+21 Conn travelled to the moon.
+22 Conn went back to the mars.
+23 Conn went back to the neptune.
+24 Doud discarded the milk.
+25 Doud got the milk there.
+26 Doud went to the moon.
+27 Burnhard moved to the venus.
+28 Where is the milk? 	moon	25 26
+29 Conn moved to the earth.
+30 Colliani travelled to the mars.
+31 Where is the milk? 	moon	25 26
+1 Colliani went to the venus.
+2 Colliani travelled to the earth.
+3 Colliani took the milk there.
+4 Conn moved to the venus.
+5 Burnhard went to the neptune.
+6 Colliani grabbed the football there.
+7 Colliani left the football.
+8 Colliani discarded the milk.
+9 Where is the milk? 	earth	8 2
+10 Burnhard got the apple there.
+11 Doud moved to the neptune.
+12 Where is the football? 	earth	7 2
+13 Burnhard went to the earth.
+14 Burnhard picked up the football there.
+15 Where is the milk? 	earth	8 2
+16 Doud travelled to the earth.
+17 Burnhard travelled to the moon.
+18 Where is the football? 	moon	14 17
+19 Burnhard journeyed to the jupiter.
+20 Colliani journeyed to the jupiter.
+21 Where is the football? 	jupiter	14 19
+1 Burnhard travelled to the venus.
+2 Burnhard journeyed to the earth.
+3 Colliani moved to the jupiter.
+4 Doud moved to the jupiter.
+5 Doud picked up the milk there.
+6 Doud took the apple there.
+7 Colliani went back to the venus.
+8 Conn took the football there.
+9 Doud went back to the mars.
+10 Conn put down the football there.
+11 Where is the apple? 	mars	6 9
+12 Colliani picked up the football there.
+13 Doud journeyed to the jupiter.
+14 Doud travelled to the earth.
+15 Colliani put down the football.
+16 Where is the football? 	venus	15 7
+17 Conn journeyed to the jupiter.
+18 Colliani picked up the football there.
+19 Doud travelled to the jupiter.
+20 Colliani put down the football there.
+21 Where is the football? 	venus	20 7
+22 Burnhard travelled to the neptune.
+23 Colliani grabbed the football there.
+24 Conn went back to the earth.
+25 Colliani went back to the moon.
+26 Where is the football? 	moon	23 25
+27 Colliani discarded the football.
+28 Burnhard went to the jupiter.
+29 Where is the football? 	moon	27 25
+1 Colliani went to the mars.
+2 Doud picked up the apple there.
+3 Doud went back to the earth.
+4 Conn journeyed to the jupiter.
+5 Where is the apple? 	earth	2 3
+6 Conn picked up the milk there.
+7 Colliani travelled to the moon.
+8 Where is the apple? 	earth	2 3
+9 Doud discarded the apple.
+10 Burnhard went to the mars.
+11 Where is the apple? 	earth	9 3
+12 Colliani moved to the jupiter.
+13 Conn left the milk.
+14 Where is the milk? 	jupiter	13 4
+15 Doud grabbed the football there.
+16 Conn journeyed to the moon.
+17 Where is the milk? 	jupiter	13 4
+1 Doud travelled to the earth.
+2 Conn journeyed to the jupiter.
+3 Burnhard got the apple there.
+4 Burnhard travelled to the moon.
+5 Where is the apple? 	moon	3 4
+6 Burnhard dropped the apple.
+7 Doud grabbed the football there.
+8 Where is the apple? 	moon	6 4
+9 Burnhard went to the earth.
+10 Doud travelled to the mars.
+11 Where is the football? 	mars	7 10
+12 Conn travelled to the moon.
+13 Conn journeyed to the neptune.
+14 Where is the football? 	mars	7 10
+15 Burnhard travelled to the moon.
+16 Doud moved to the earth.
+17 Colliani grabbed the apple there.
+18 Conn journeyed to the jupiter.
+19 Doud moved to the moon.
+20 Doud went back to the earth.
+21 Burnhard travelled to the neptune.
+22 Doud went to the venus.
+23 Colliani went to the earth.
+24 Burnhard moved to the jupiter.
+25 Doud left the football.
+26 Doud moved to the mars.
+27 Where is the football? 	venus	25 22
+1 Doud moved to the neptune.
+2 Conn took the milk there.
+3 Burnhard grabbed the apple there.
+4 Conn travelled to the moon.
+5 Where is the milk? 	moon	2 4
+6 Burnhard dropped the apple there.
+7 Conn put down the milk there.
+8 Where is the milk? 	moon	7 4
+9 Conn picked up the milk there.
+10 Conn dropped the milk.
+11 Where is the milk? 	moon	10 4
+12 Conn went back to the mars.
+13 Conn went to the earth.
+14 Where is the milk? 	moon	10 4
+15 Doud went to the moon.
+16 Doud grabbed the milk there.
+17 Burnhard went to the neptune.
+18 Colliani picked up the apple there.
+19 Conn went back to the jupiter.
+20 Conn moved to the earth.
+21 Colliani went back to the jupiter.
+22 Conn travelled to the jupiter.
+23 Where is the apple? 	jupiter	18 21
+1 Doud grabbed the football there.
+2 Burnhard journeyed to the venus.
+3 Doud left the football.
+4 Conn got the football there.
+5 Conn journeyed to the earth.
+6 Doud travelled to the moon.
+7 Where is the football? 	earth	4 5
+8 Colliani travelled to the moon.
+9 Conn put down the football.
+10 Where is the football? 	earth	9 5
+11 Conn journeyed to the mars.
+12 Colliani went to the jupiter.
+13 Where is the football? 	earth	9 5
+14 Doud went to the jupiter.
+15 Burnhard went to the jupiter.
+16 Where is the football? 	earth	9 5
+17 Colliani travelled to the venus.
+18 Doud moved to the mars.
+19 Burnhard moved to the venus.
+20 Doud travelled to the earth.
+21 Doud got the football there.
+22 Doud put down the football.
+23 Where is the football? 	earth	22 20
+1 Burnhard moved to the venus.
+2 Burnhard picked up the apple there.
+3 Colliani journeyed to the jupiter.
+4 Conn travelled to the neptune.
+5 Doud took the football there.
+6 Doud discarded the football.
+7 Doud grabbed the football there.
+8 Colliani got the milk there.
+9 Doud left the football there.
+10 Conn moved to the earth.
+11 Colliani travelled to the venus.
+12 Conn went to the neptune.
+13 Where is the milk? 	venus	8 11
+14 Doud picked up the football there.
+15 Burnhard left the apple.
+16 Where is the apple? 	venus	15 1
+17 Doud left the football there.
+18 Doud took the football there.
+19 Where is the apple? 	venus	15 1
+20 Conn went to the mars.
+21 Colliani got the apple there.
+22 Doud discarded the football.
+23 Burnhard moved to the moon.
+24 Doud got the football there.
+25 Burnhard travelled to the earth.
+26 Doud left the football.
+27 Colliani went back to the jupiter.
+28 Burnhard travelled to the neptune.
+29 Colliani travelled to the venus.
+30 Colliani discarded the apple.
+31 Doud picked up the football there.
+32 Where is the apple? 	venus	30 29
+33 Colliani got the apple there.
+34 Colliani put down the milk there.
+35 Where is the milk? 	venus	34 29
+1 Colliani took the apple there.
+2 Colliani dropped the apple.
+3 Conn went back to the moon.
+4 Colliani grabbed the apple there.
+5 Doud travelled to the mars.
+6 Burnhard went back to the venus.
+7 Colliani dropped the apple.
+8 Colliani took the apple there.
+9 Colliani dropped the apple.
+10 Conn travelled to the jupiter.
+11 Burnhard journeyed to the neptune.
+12 Colliani got the apple there.
+13 Burnhard journeyed to the moon.
+14 Conn took the milk there.
+15 Colliani discarded the apple.
+16 Colliani moved to the mars.
+17 Conn left the milk there.
+18 Conn went back to the moon.
+19 Where is the milk? 	jupiter	17 10
+20 Burnhard journeyed to the venus.
+21 Doud got the football there.
+22 Where is the milk? 	jupiter	17 10
+23 Doud discarded the football.
+24 Colliani journeyed to the moon.
+25 Where is the football? 	mars	23 5
+26 Conn travelled to the jupiter.
+27 Conn travelled to the moon.
+28 Where is the football? 	mars	23 5
+29 Colliani moved to the venus.
+30 Doud went back to the jupiter.
+31 Conn travelled to the jupiter.
+32 Conn picked up the milk there.
+33 Conn discarded the milk.
+34 Colliani travelled to the earth.
+35 Where is the milk? 	jupiter	33 31
+1 Conn grabbed the football there.
+2 Colliani travelled to the jupiter.
+3 Doud moved to the venus.
+4 Doud got the apple there.
+5 Colliani went to the neptune.
+6 Doud dropped the apple.
+7 Where is the apple? 	venus	6 3
+8 Conn discarded the football.
+9 Doud moved to the earth.
+10 Where is the apple? 	venus	6 3
+11 Conn grabbed the football there.
+12 Conn went to the earth.
+13 Where is the football? 	earth	11 12
+14 Burnhard moved to the neptune.
+15 Conn moved to the neptune.
+16 Where is the football? 	neptune	11 15
+17 Conn moved to the jupiter.
+18 Conn put down the football there.
+19 Where is the football? 	jupiter	18 17
+1 Burnhard travelled to the mars.
+2 Conn moved to the neptune.
+3 Doud travelled to the mars.
+4 Doud journeyed to the earth.
+5 Conn moved to the earth.
+6 Burnhard journeyed to the earth.
+7 Conn moved to the mars.
+8 Conn went to the jupiter.
+9 Colliani journeyed to the jupiter.
+10 Colliani moved to the venus.
+11 Conn grabbed the milk there.
+12 Colliani moved to the mars.
+13 Colliani moved to the venus.
+14 Conn took the football there.
+15 Doud went back to the mars.
+16 Doud went back to the jupiter.
+17 Conn left the football.
+18 Doud got the apple there.
+19 Where is the football? 	jupiter	17 8
+20 Colliani travelled to the earth.
+21 Colliani moved to the neptune.
+22 Where is the football? 	jupiter	17 8
+23 Doud grabbed the football there.
+24 Burnhard moved to the venus.
+25 Conn dropped the milk.
+26 Doud moved to the mars.
+27 Where is the football? 	mars	23 26
+28 Burnhard went back to the mars.
+29 Doud put down the apple.
+30 Where is the apple? 	mars	29 26
+31 Burnhard grabbed the apple there.
+32 Doud discarded the football.
+33 Where is the football? 	mars	32 26
+1 Doud took the apple there.
+2 Doud discarded the apple.
+3 Burnhard grabbed the football there.
+4 Burnhard picked up the milk there.
+5 Colliani journeyed to the venus.
+6 Doud took the apple there.
+7 Colliani went to the moon.
+8 Burnhard went to the earth.
+9 Where is the milk? 	earth	4 8
+10 Doud left the apple there.
+11 Burnhard went back to the mars.
+12 Doud moved to the venus.
+13 Doud moved to the earth.
+14 Colliani journeyed to the jupiter.
+15 Burnhard took the apple there.
+16 Burnhard went back to the moon.
+17 Colliani travelled to the mars.
+18 Where is the apple? 	moon	15 16
+19 Doud travelled to the mars.
+20 Burnhard put down the football.
+21 Where is the football? 	moon	20 16
+22 Burnhard discarded the milk.
+23 Burnhard put down the apple.
+24 Where is the milk? 	moon	22 16
+25 Burnhard picked up the milk there.
+26 Burnhard left the milk.
+27 Where is the football? 	moon	20 16
+1 Colliani took the apple there.
+2 Burnhard travelled to the moon.
+3 Doud grabbed the milk there.
+4 Burnhard went to the mars.
+5 Doud went to the neptune.
+6 Doud went to the moon.
+7 Where is the milk? 	moon	3 6
+8 Burnhard journeyed to the earth.
+9 Colliani grabbed the football there.
+10 Colliani put down the apple.
+11 Burnhard went back to the mars.
+12 Burnhard went to the jupiter.
+13 Colliani moved to the moon.
+14 Where is the football? 	moon	9 13
+15 Colliani put down the football.
+16 Doud dropped the milk.
+17 Where is the milk? 	moon	16 6
+18 Colliani picked up the football there.
+19 Conn travelled to the jupiter.
+20 Where is the milk? 	moon	16 6
+21 Doud got the milk there.
+22 Doud left the milk.
+23 Where is the milk? 	moon	22 6
+1 Burnhard travelled to the neptune.
+2 Conn moved to the moon.
+3 Conn went back to the venus.
+4 Burnhard moved to the mars.
+5 Colliani moved to the mars.
+6 Burnhard grabbed the apple there.
+7 Burnhard travelled to the neptune.
+8 Burnhard moved to the venus.
+9 Where is the apple? 	venus	6 8
+10 Colliani got the football there.
+11 Doud journeyed to the neptune.
+12 Where is the apple? 	venus	6 8
+13 Doud journeyed to the mars.
+14 Colliani travelled to the earth.
+15 Where is the football? 	earth	10 14
+16 Doud journeyed to the venus.
+17 Conn moved to the moon.
+18 Doud travelled to the earth.
+19 Colliani went to the neptune.
+20 Colliani went back to the moon.
+21 Burnhard went to the neptune.
+22 Burnhard took the milk there.
+23 Conn went to the mars.
+24 Burnhard went to the venus.
+25 Colliani left the football.
+26 Where is the football? 	moon	25 20
+27 Colliani picked up the football there.
+28 Burnhard went to the neptune.
+29 Colliani discarded the football.
+30 Colliani picked up the football there.
+31 Conn journeyed to the moon.
+32 Burnhard went to the earth.
+33 Burnhard travelled to the mars.
+34 Colliani discarded the football.
+35 Where is the football? 	moon	34 20
+1 Conn grabbed the football there.
+2 Doud picked up the milk there.
+3 Doud left the milk.
+4 Doud got the milk there.
+5 Doud journeyed to the neptune.
+6 Burnhard journeyed to the moon.
+7 Where is the milk? 	neptune	4 5
+8 Colliani grabbed the apple there.
+9 Burnhard went back to the neptune.
+10 Where is the milk? 	neptune	4 5
+11 Conn journeyed to the mars.
+12 Doud left the milk.
+13 Where is the milk? 	neptune	12 5
+14 Doud grabbed the milk there.
+15 Burnhard journeyed to the venus.
+16 Colliani discarded the apple.
+17 Conn put down the football there.
+18 Where is the football? 	mars	17 11
+19 Doud dropped the milk.
+20 Doud journeyed to the venus.
+21 Where is the milk? 	neptune	19 5
+1 Conn got the football there.
+2 Doud travelled to the venus.
+3 Doud moved to the earth.
+4 Conn moved to the jupiter.
+5 Where is the football? 	jupiter	1 4
+6 Conn travelled to the neptune.
+7 Conn left the football.
+8 Where is the football? 	neptune	7 6
+9 Doud went to the moon.
+10 Conn picked up the football there.
+11 Burnhard went back to the neptune.
+12 Conn picked up the milk there.
+13 Doud went to the mars.
+14 Conn moved to the venus.
+15 Where is the football? 	venus	10 14
+16 Doud journeyed to the neptune.
+17 Conn left the football.
+18 Where is the football? 	venus	17 14
+19 Colliani went back to the earth.
+20 Conn went to the earth.
+21 Where is the football? 	venus	17 14
+1 Colliani went back to the mars.
+2 Doud went to the neptune.
+3 Conn took the apple there.
+4 Burnhard journeyed to the mars.
+5 Conn dropped the apple there.
+6 Doud went to the jupiter.
+7 Burnhard travelled to the venus.
+8 Conn travelled to the venus.
+9 Burnhard travelled to the earth.
+10 Conn went to the moon.
+11 Colliani picked up the apple there.
+12 Burnhard went back to the venus.
+13 Colliani discarded the apple.
+14 Doud moved to the venus.
+15 Where is the apple? 	mars	13 1
+16 Colliani journeyed to the moon.
+17 Colliani travelled to the neptune.
+18 Where is the apple? 	mars	13 1
+19 Burnhard journeyed to the mars.
+20 Colliani journeyed to the moon.
+21 Burnhard travelled to the moon.
+22 Doud went back to the moon.
+23 Doud went back to the earth.
+24 Conn went back to the mars.
+25 Colliani went back to the mars.
+26 Burnhard travelled to the mars.
+27 Colliani picked up the apple there.
+28 Burnhard travelled to the jupiter.
+29 Burnhard went to the earth.
+30 Conn journeyed to the earth.
+31 Conn grabbed the milk there.
+32 Burnhard grabbed the football there.
+33 Doud journeyed to the jupiter.
+34 Burnhard put down the football.
+35 Where is the football? 	earth	34 29
+36 Doud went back to the earth.
+37 Burnhard went back to the mars.
+38 Where is the football? 	earth	34 29
+39 Colliani dropped the apple.
+40 Colliani went to the earth.
+41 Where is the football? 	earth	34 29
+1 Burnhard travelled to the venus.
+2 Doud took the football there.
+3 Burnhard picked up the apple there.
+4 Conn went to the jupiter.
+5 Doud put down the football.
+6 Burnhard travelled to the mars.
+7 Where is the apple? 	mars	3 6
+8 Conn got the milk there.
+9 Doud moved to the venus.
+10 Burnhard travelled to the venus.
+11 Conn discarded the milk.
+12 Where is the milk? 	jupiter	11 4
+13 Conn journeyed to the moon.
+14 Burnhard went back to the mars.
+15 Where is the milk? 	jupiter	11 4
+16 Burnhard discarded the apple there.
+17 Colliani travelled to the jupiter.
+18 Where is the apple? 	mars	16 14
+19 Burnhard picked up the apple there.
+20 Doud journeyed to the moon.
+21 Burnhard went back to the moon.
+22 Doud went to the jupiter.
+23 Where is the apple? 	moon	19 21
+1 Burnhard picked up the milk there.
+2 Burnhard journeyed to the mars.
+3 Where is the milk? 	mars	1 2
+4 Conn moved to the moon.
+5 Conn got the apple there.
+6 Where is the milk? 	mars	1 2
+7 Conn left the apple.
+8 Colliani travelled to the neptune.
+9 Where is the apple? 	moon	7 4
+10 Colliani moved to the moon.
+11 Burnhard dropped the milk.
+12 Where is the apple? 	moon	7 4
+13 Doud journeyed to the mars.
+14 Burnhard got the milk there.
+15 Colliani went to the jupiter.
+16 Conn got the apple there.
+17 Burnhard put down the milk.
+18 Conn went back to the earth.
+19 Where is the milk? 	mars	17 2
+1 Conn journeyed to the neptune.
+2 Doud went to the mars.
+3 Colliani went to the earth.
+4 Conn went back to the venus.
+5 Doud journeyed to the moon.
+6 Burnhard journeyed to the moon.
+7 Burnhard went back to the jupiter.
+8 Colliani took the football there.
+9 Colliani journeyed to the mars.
+10 Colliani journeyed to the venus.
+11 Where is the football? 	venus	8 10
+12 Doud went to the neptune.
+13 Colliani left the football.
+14 Where is the football? 	venus	13 10
+15 Doud went back to the earth.
+16 Burnhard went back to the earth.
+17 Where is the football? 	venus	13 10
+18 Conn went back to the mars.
+19 Colliani travelled to the moon.
+20 Where is the football? 	venus	13 10
+21 Conn moved to the moon.
+22 Conn went back to the jupiter.
+23 Colliani went back to the earth.
+24 Colliani moved to the venus.
+25 Colliani got the football there.
+26 Burnhard journeyed to the neptune.
+27 Doud moved to the mars.
+28 Colliani dropped the football.
+29 Where is the football? 	venus	28 24
+1 Colliani went to the venus.
+2 Doud journeyed to the earth.
+3 Conn journeyed to the earth.
+4 Doud journeyed to the moon.
+5 Conn went back to the neptune.
+6 Conn picked up the football there.
+7 Conn journeyed to the moon.
+8 Conn travelled to the mars.
+9 Where is the football? 	mars	6 8
+10 Conn journeyed to the jupiter.
+11 Conn grabbed the milk there.
+12 Where is the football? 	jupiter	6 10
+13 Colliani moved to the neptune.
+14 Doud grabbed the apple there.
+15 Conn discarded the milk.
+16 Conn took the milk there.
+17 Doud discarded the apple.
+18 Colliani went to the jupiter.
+19 Where is the apple? 	moon	17 4
+20 Doud grabbed the apple there.
+21 Conn left the football.
+22 Where is the football? 	jupiter	21 10
+23 Doud went to the venus.
+24 Doud travelled to the jupiter.
+25 Where is the apple? 	jupiter	20 24
+1 Colliani moved to the jupiter.
+2 Burnhard journeyed to the neptune.
+3 Colliani went back to the moon.
+4 Conn went back to the neptune.
+5 Conn moved to the mars.
+6 Doud journeyed to the moon.
+7 Colliani journeyed to the jupiter.
+8 Burnhard went to the venus.
+9 Burnhard grabbed the milk there.
+10 Colliani went to the neptune.
+11 Doud took the apple there.
+12 Doud left the apple.
+13 Where is the apple? 	moon	12 6
+14 Burnhard put down the milk.
+15 Conn journeyed to the venus.
+16 Where is the milk? 	venus	14 8
+17 Conn got the milk there.
+18 Doud went back to the neptune.
+19 Where is the apple? 	moon	12 6
+20 Doud went back to the earth.
+21 Burnhard moved to the earth.
+22 Colliani travelled to the moon.
+23 Colliani grabbed the apple there.
+24 Conn moved to the earth.
+25 Doud picked up the football there.
+26 Doud went to the venus.
+27 Colliani travelled to the mars.
+28 Where is the football? 	venus	25 26
+29 Burnhard journeyed to the jupiter.
+30 Doud moved to the mars.
+31 Where is the football? 	mars	25 30
+1 Colliani moved to the neptune.
+2 Burnhard went to the jupiter.
+3 Conn went to the moon.
+4 Colliani journeyed to the mars.
+5 Burnhard took the apple there.
+6 Burnhard took the football there.
+7 Burnhard left the football.
+8 Burnhard travelled to the neptune.
+9 Where is the football? 	jupiter	7 2
+10 Colliani went back to the earth.
+11 Burnhard dropped the apple there.
+12 Where is the football? 	jupiter	7 2
+13 Burnhard grabbed the apple there.
+14 Colliani picked up the milk there.
+15 Burnhard went to the moon.
+16 Burnhard went back to the neptune.
+17 Where is the apple? 	neptune	13 16
+18 Colliani journeyed to the moon.
+19 Colliani left the milk.
+20 Where is the milk? 	moon	19 18
+21 Burnhard left the apple there.
+22 Burnhard grabbed the apple there.
+23 Where is the milk? 	moon	19 18
+1 Burnhard picked up the football there.
+2 Burnhard travelled to the earth.
+3 Where is the football? 	earth	1 2
+4 Colliani went to the venus.
+5 Doud went back to the moon.
+6 Where is the football? 	earth	1 2
+7 Doud went back to the mars.
+8 Colliani travelled to the moon.
+9 Doud travelled to the venus.
+10 Conn moved to the mars.
+11 Burnhard grabbed the apple there.
+12 Burnhard travelled to the moon.
+13 Where is the apple? 	moon	11 12
+14 Colliani went to the neptune.
+15 Conn travelled to the venus.
+16 Where is the apple? 	moon	11 12
+17 Burnhard journeyed to the jupiter.
+18 Conn went back to the earth.
+19 Burnhard got the milk there.
+20 Burnhard dropped the milk.
+21 Where is the milk? 	jupiter	20 17
+1 Conn picked up the apple there.
+2 Burnhard travelled to the neptune.
+3 Doud picked up the football there.
+4 Conn travelled to the neptune.
+5 Where is the apple? 	neptune	1 4
+6 Doud journeyed to the jupiter.
+7 Burnhard went back to the jupiter.
+8 Where is the football? 	jupiter	3 6
+9 Doud journeyed to the neptune.
+10 Colliani travelled to the venus.
+11 Doud dropped the football.
+12 Conn grabbed the football there.
+13 Colliani went to the mars.
+14 Conn dropped the football.
+15 Where is the football? 	neptune	14 4
+16 Doud travelled to the earth.
+17 Burnhard went to the mars.
+18 Where is the football? 	neptune	14 4
+19 Doud took the milk there.
+20 Burnhard went to the moon.
+21 Where is the football? 	neptune	14 4
+1 Colliani journeyed to the earth.
+2 Doud got the apple there.
+3 Burnhard journeyed to the earth.
+4 Doud moved to the jupiter.
+5 Where is the apple? 	jupiter	2 4
+6 Colliani went back to the neptune.
+7 Burnhard travelled to the neptune.
+8 Where is the apple? 	jupiter	2 4
+9 Colliani journeyed to the mars.
+10 Burnhard went to the mars.
+11 Burnhard got the milk there.
+12 Doud travelled to the earth.
+13 Doud moved to the mars.
+14 Doud dropped the apple there.
+15 Where is the apple? 	mars	14 13
+16 Burnhard put down the milk.
+17 Colliani went back to the moon.
+18 Where is the milk? 	mars	16 10
+19 Colliani moved to the earth.
+20 Doud got the apple there.
+21 Where is the milk? 	mars	16 10
+1 Colliani went to the moon.
+2 Colliani journeyed to the mars.
+3 Doud travelled to the neptune.
+4 Colliani got the football there.
+5 Burnhard journeyed to the moon.
+6 Burnhard travelled to the earth.
+7 Colliani travelled to the earth.
+8 Burnhard moved to the jupiter.
+9 Where is the football? 	earth	4 7
+10 Colliani went back to the mars.
+11 Doud journeyed to the venus.
+12 Colliani journeyed to the moon.
+13 Colliani travelled to the neptune.
+14 Doud took the apple there.
+15 Doud dropped the apple.
+16 Where is the apple? 	venus	15 11
+17 Doud took the apple there.
+18 Conn moved to the neptune.
+19 Doud went back to the jupiter.
+20 Colliani dropped the football.
+21 Where is the apple? 	jupiter	17 19
+22 Doud dropped the apple.
+23 Burnhard journeyed to the venus.
+24 Where is the apple? 	jupiter	22 19
+25 Conn moved to the earth.
+26 Colliani got the football there.
+27 Where is the apple? 	jupiter	22 19
+1 Conn got the football there.
+2 Burnhard travelled to the earth.
+3 Doud went back to the mars.
+4 Burnhard went to the moon.
+5 Doud went back to the earth.
+6 Conn left the football.
+7 Doud journeyed to the neptune.
+8 Burnhard moved to the neptune.
+9 Conn got the football there.
+10 Doud travelled to the earth.
+11 Conn went back to the moon.
+12 Burnhard moved to the mars.
+13 Where is the football? 	moon	9 11
+14 Conn journeyed to the neptune.
+15 Conn dropped the football.
+16 Where is the football? 	neptune	15 14
+17 Conn grabbed the football there.
+18 Colliani went back to the neptune.
+19 Conn dropped the football.
+20 Doud went to the moon.
+21 Where is the football? 	neptune	19 14
+22 Colliani journeyed to the jupiter.
+23 Burnhard travelled to the jupiter.
+24 Where is the football? 	neptune	19 14
+25 Conn travelled to the venus.
+26 Burnhard got the apple there.
+27 Conn grabbed the milk there.
+28 Conn moved to the mars.
+29 Where is the milk? 	mars	27 28
+1 Burnhard went back to the mars.
+2 Conn journeyed to the mars.
+3 Burnhard journeyed to the moon.
+4 Doud moved to the jupiter.
+5 Burnhard journeyed to the jupiter.
+6 Doud went to the moon.
+7 Burnhard went back to the mars.
+8 Burnhard went to the jupiter.
+9 Conn travelled to the jupiter.
+10 Conn went to the mars.
+11 Doud went back to the earth.
+12 Burnhard journeyed to the mars.
+13 Colliani travelled to the earth.
+14 Doud journeyed to the neptune.
+15 Doud moved to the venus.
+16 Doud picked up the apple there.
+17 Doud discarded the apple.
+18 Colliani moved to the venus.
+19 Where is the apple? 	venus	17 15
+20 Doud went back to the neptune.
+21 Colliani journeyed to the neptune.
+22 Where is the apple? 	venus	17 15
+23 Colliani travelled to the moon.
+24 Doud travelled to the earth.
+25 Colliani picked up the milk there.
+26 Doud travelled to the moon.
+27 Colliani moved to the jupiter.
+28 Burnhard travelled to the earth.
+29 Where is the milk? 	jupiter	25 27
+30 Burnhard travelled to the neptune.
+31 Colliani went back to the venus.
+32 Colliani left the milk.
+33 Doud moved to the jupiter.
+34 Where is the milk? 	venus	32 31
+35 Doud journeyed to the earth.
+36 Colliani got the milk there.
+37 Burnhard went back to the mars.
+38 Burnhard journeyed to the moon.
+39 Conn journeyed to the jupiter.
+40 Conn went to the neptune.
+41 Colliani got the apple there.
+42 Colliani put down the apple.
+43 Where is the apple? 	venus	42 31
+1 Doud picked up the football there.
+2 Doud put down the football.
+3 Colliani moved to the venus.
+4 Colliani went to the moon.
+5 Conn went back to the moon.
+6 Doud got the football there.
+7 Doud journeyed to the jupiter.
+8 Conn got the apple there.
+9 Where is the football? 	jupiter	6 7
+10 Colliani went back to the venus.
+11 Burnhard moved to the neptune.
+12 Where is the football? 	jupiter	6 7
+13 Doud travelled to the moon.
+14 Conn travelled to the earth.
+15 Where is the apple? 	earth	8 14
+16 Doud moved to the jupiter.
+17 Conn discarded the apple there.
+18 Where is the apple? 	earth	17 14
+19 Burnhard journeyed to the venus.
+20 Doud went to the venus.
+21 Where is the apple? 	earth	17 14
+1 Conn grabbed the milk there.
+2 Conn discarded the milk.
+3 Colliani went back to the earth.
+4 Conn moved to the mars.
+5 Doud travelled to the neptune.
+6 Conn picked up the apple there.
+7 Burnhard journeyed to the jupiter.
+8 Burnhard picked up the milk there.
+9 Burnhard left the milk.
+10 Colliani went back to the venus.
+11 Where is the milk? 	jupiter	9 7
+12 Conn left the apple.
+13 Conn took the apple there.
+14 Where is the milk? 	jupiter	9 7
+15 Doud went to the moon.
+16 Colliani got the football there.
+17 Doud moved to the jupiter.
+18 Conn put down the apple.
+19 Where is the apple? 	mars	18 4
+20 Burnhard travelled to the mars.
+21 Conn travelled to the moon.
+22 Where is the apple? 	mars	18 4
+23 Colliani journeyed to the mars.
+24 Colliani travelled to the moon.
+25 Where is the apple? 	mars	18 4
+1 Colliani picked up the football there.
+2 Colliani discarded the football.
+3 Colliani took the football there.
+4 Doud went back to the mars.
+5 Burnhard moved to the venus.
+6 Colliani went to the neptune.
+7 Where is the football? 	neptune	3 6
+8 Colliani got the apple there.
+9 Colliani got the milk there.
+10 Doud went to the jupiter.
+11 Burnhard journeyed to the mars.
+12 Colliani travelled to the venus.
+13 Colliani put down the milk there.
+14 Where is the milk? 	venus	13 12
+15 Colliani travelled to the earth.
+16 Colliani left the football.
+17 Where is the football? 	earth	16 15
+18 Colliani moved to the jupiter.
+19 Conn went to the moon.
+20 Where is the football? 	earth	16 15
+21 Burnhard went back to the moon.
+22 Burnhard journeyed to the earth.
+23 Where is the football? 	earth	16 15
+1 Conn went to the earth.
+2 Burnhard moved to the earth.
+3 Conn went to the venus.
+4 Doud moved to the neptune.
+5 Colliani moved to the earth.
+6 Doud travelled to the mars.
+7 Conn grabbed the milk there.
+8 Conn discarded the milk.
+9 Where is the milk? 	venus	8 3
+10 Conn moved to the earth.
+11 Conn journeyed to the venus.
+12 Where is the milk? 	venus	8 3
+13 Conn went back to the earth.
+14 Colliani moved to the neptune.
+15 Where is the milk? 	venus	8 3
+16 Colliani got the football there.
+17 Colliani went back to the mars.
+18 Where is the football? 	mars	16 17
+19 Colliani went to the moon.
+20 Doud went back to the earth.
+21 Where is the football? 	moon	16 19
+1 Burnhard went to the neptune.
+2 Colliani travelled to the venus.
+3 Colliani moved to the moon.
+4 Conn grabbed the football there.
+5 Doud journeyed to the earth.
+6 Doud grabbed the milk there.
+7 Conn travelled to the earth.
+8 Doud left the milk.
+9 Where is the milk? 	earth	8 5
+10 Doud got the milk there.
+11 Conn took the apple there.
+12 Conn left the football.
+13 Conn went to the moon.
+14 Where is the football? 	earth	12 7
+15 Conn went back to the jupiter.
+16 Conn put down the apple.
+17 Where is the football? 	earth	12 7
+18 Colliani travelled to the neptune.
+19 Doud went to the venus.
+20 Where is the apple? 	jupiter	16 15
+21 Conn picked up the apple there.
+22 Conn dropped the apple there.
+23 Where is the apple? 	jupiter	22 15
+1 Doud travelled to the jupiter.
+2 Conn grabbed the football there.
+3 Doud journeyed to the venus.
+4 Conn dropped the football.
+5 Burnhard moved to the jupiter.
+6 Conn grabbed the football there.
+7 Conn travelled to the jupiter.
+8 Colliani went to the venus.
+9 Where is the football? 	jupiter	6 7
+10 Colliani grabbed the apple there.
+11 Colliani discarded the apple.
+12 Where is the football? 	jupiter	6 7
+13 Doud took the apple there.
+14 Doud went back to the mars.
+15 Where is the apple? 	mars	13 14
+16 Burnhard went to the earth.
+17 Conn left the football there.
+18 Where is the football? 	jupiter	17 7
+19 Conn took the football there.
+20 Burnhard grabbed the milk there.
+21 Doud dropped the apple.
+22 Doud got the apple there.
+23 Conn went to the venus.
+24 Burnhard left the milk.
+25 Where is the milk? 	earth	24 16
+1 Conn went back to the earth.
+2 Doud travelled to the neptune.
+3 Colliani journeyed to the earth.
+4 Doud got the football there.
+5 Conn went to the moon.
+6 Doud moved to the mars.
+7 Where is the football? 	mars	4 6
+8 Conn travelled to the venus.
+9 Doud went to the moon.
+10 Where is the football? 	moon	4 9
+11 Doud journeyed to the mars.
+12 Conn journeyed to the moon.
+13 Colliani journeyed to the mars.
+14 Burnhard went to the mars.
+15 Conn went back to the neptune.
+16 Conn moved to the mars.
+17 Conn moved to the neptune.
+18 Burnhard went to the earth.
+19 Doud went to the moon.
+20 Burnhard travelled to the neptune.
+21 Doud journeyed to the jupiter.
+22 Conn went to the mars.
+23 Conn went to the moon.
+24 Doud put down the football.
+25 Where is the football? 	jupiter	24 21
+26 Doud got the football there.
+27 Doud left the football.
+28 Where is the football? 	jupiter	27 21
+29 Conn travelled to the earth.
+30 Doud took the football there.
+31 Doud went back to the earth.
+32 Doud left the football.
+33 Where is the football? 	earth	32 31
+1 Doud picked up the football there.
+2 Doud dropped the football.
+3 Burnhard journeyed to the neptune.
+4 Doud moved to the moon.
+5 Conn travelled to the mars.
+6 Burnhard journeyed to the earth.
+7 Conn went back to the jupiter.
+8 Burnhard picked up the apple there.
+9 Colliani moved to the venus.
+10 Burnhard moved to the mars.
+11 Where is the apple? 	mars	8 10
+12 Doud moved to the neptune.
+13 Burnhard travelled to the jupiter.
+14 Where is the apple? 	jupiter	8 13
+15 Burnhard dropped the apple.
+16 Conn grabbed the apple there.
+17 Burnhard went back to the mars.
+18 Burnhard travelled to the moon.
+19 Doud moved to the jupiter.
+20 Conn travelled to the neptune.
+21 Where is the apple? 	neptune	16 20
+22 Doud travelled to the mars.
+23 Burnhard moved to the neptune.
+24 Burnhard went to the venus.
+25 Colliani got the football there.
+26 Conn journeyed to the earth.
+27 Colliani went to the earth.
+28 Where is the football? 	earth	25 27
+29 Conn dropped the apple.
+30 Conn moved to the mars.
+31 Where is the apple? 	earth	29 26
+1 Doud grabbed the milk there.
+2 Colliani travelled to the earth.
+3 Doud went back to the moon.
+4 Colliani travelled to the venus.
+5 Where is the milk? 	moon	1 3
+6 Conn journeyed to the neptune.
+7 Colliani journeyed to the earth.
+8 Doud went back to the earth.
+9 Burnhard travelled to the jupiter.
+10 Doud moved to the venus.
+11 Burnhard took the football there.
+12 Doud moved to the mars.
+13 Doud moved to the neptune.
+14 Colliani went back to the mars.
+15 Doud discarded the milk there.
+16 Where is the milk? 	neptune	15 13
+17 Conn took the milk there.
+18 Conn left the milk.
+19 Where is the milk? 	neptune	18 6
+20 Doud went to the mars.
+21 Conn journeyed to the venus.
+22 Where is the milk? 	neptune	18 6
+23 Burnhard journeyed to the mars.
+24 Doud went back to the jupiter.
+25 Where is the milk? 	neptune	18 6
+1 Conn went to the neptune.
+2 Doud moved to the jupiter.
+3 Burnhard picked up the football there.
+4 Doud grabbed the milk there.
+5 Doud got the apple there.
+6 Burnhard went back to the neptune.
+7 Where is the football? 	neptune	3 6
+8 Colliani went to the jupiter.
+9 Burnhard left the football there.
+10 Where is the football? 	neptune	9 6
+11 Colliani travelled to the mars.
+12 Burnhard moved to the mars.
+13 Where is the football? 	neptune	9 6
+14 Conn picked up the football there.
+15 Burnhard went back to the jupiter.
+16 Conn moved to the moon.
+17 Burnhard journeyed to the earth.
+18 Where is the football? 	moon	14 16
+19 Colliani went back to the moon.
+20 Doud discarded the apple there.
+21 Where is the apple? 	jupiter	20 2
+1 Colliani moved to the mars.
+2 Burnhard grabbed the apple there.
+3 Doud moved to the venus.
+4 Doud journeyed to the mars.
+5 Colliani journeyed to the venus.
+6 Burnhard left the apple.
+7 Burnhard moved to the earth.
+8 Burnhard picked up the milk there.
+9 Burnhard dropped the milk.
+10 Conn took the milk there.
+11 Colliani grabbed the football there.
+12 Conn went to the mars.
+13 Where is the milk? 	mars	10 12
+14 Conn went to the neptune.
+15 Colliani discarded the football.
+16 Where is the football? 	venus	15 5
+17 Colliani got the football there.
+18 Colliani dropped the football.
+19 Where is the football? 	venus	18 5
+20 Doud travelled to the neptune.
+21 Conn went to the jupiter.
+22 Where is the football? 	venus	18 5
+23 Conn went back to the neptune.
+24 Burnhard moved to the mars.
+25 Where is the football? 	venus	18 5
+1 Conn journeyed to the venus.
+2 Doud moved to the neptune.
+3 Conn journeyed to the earth.
+4 Colliani picked up the football there.
+5 Colliani discarded the football.
+6 Conn went to the neptune.
+7 Burnhard went back to the moon.
+8 Colliani picked up the football there.
+9 Colliani journeyed to the venus.
+10 Burnhard went back to the earth.
+11 Where is the football? 	venus	8 9
+12 Colliani journeyed to the moon.
+13 Conn journeyed to the earth.
+14 Where is the football? 	moon	8 12
+15 Burnhard moved to the venus.
+16 Conn moved to the venus.
+17 Colliani journeyed to the jupiter.
+18 Conn went to the mars.
+19 Doud travelled to the mars.
+20 Colliani travelled to the moon.
+21 Doud went to the earth.
+22 Colliani picked up the apple there.
+23 Burnhard went back to the mars.
+24 Conn moved to the moon.
+25 Burnhard travelled to the jupiter.
+26 Conn travelled to the mars.
+27 Burnhard went back to the moon.
+28 Burnhard travelled to the mars.
+29 Conn picked up the milk there.
+30 Conn moved to the jupiter.
+31 Where is the milk? 	jupiter	29 30
+32 Conn dropped the milk.
+33 Colliani dropped the apple.
+34 Where is the apple? 	moon	33 20
+35 Colliani discarded the football.
+36 Burnhard moved to the jupiter.
+37 Where is the football? 	moon	35 20
+1 Colliani grabbed the apple there.
+2 Colliani journeyed to the jupiter.
+3 Where is the apple? 	jupiter	1 2
+4 Burnhard travelled to the jupiter.
+5 Burnhard took the milk there.
+6 Where is the apple? 	jupiter	1 2
+7 Burnhard discarded the milk.
+8 Colliani picked up the milk there.
+9 Burnhard moved to the earth.
+10 Conn went to the venus.
+11 Conn grabbed the football there.
+12 Burnhard went to the moon.
+13 Conn journeyed to the mars.
+14 Colliani moved to the venus.
+15 Where is the football? 	mars	11 13
+16 Colliani journeyed to the moon.
+17 Colliani left the milk.
+18 Where is the milk? 	moon	17 16
+19 Colliani got the milk there.
+20 Colliani left the apple.
+21 Where is the apple? 	moon	20 16
+1 Colliani travelled to the venus.
+2 Burnhard journeyed to the mars.
+3 Conn went to the earth.
+4 Doud went to the moon.
+5 Burnhard took the milk there.
+6 Burnhard went back to the earth.
+7 Where is the milk? 	earth	5 6
+8 Conn journeyed to the mars.
+9 Doud went to the earth.
+10 Where is the milk? 	earth	5 6
+11 Doud moved to the venus.
+12 Doud went to the neptune.
+13 Burnhard dropped the milk there.
+14 Colliani travelled to the moon.
+15 Where is the milk? 	earth	13 6
+16 Burnhard travelled to the moon.
+17 Burnhard moved to the earth.
+18 Where is the milk? 	earth	13 6
+19 Burnhard grabbed the milk there.
+20 Conn journeyed to the jupiter.
+21 Conn took the football there.
+22 Colliani took the apple there.
+23 Colliani journeyed to the earth.
+24 Burnhard went to the mars.
+25 Where is the apple? 	earth	22 23
+1 Burnhard went back to the mars.
+2 Conn went to the mars.
+3 Doud got the milk there.
+4 Burnhard went back to the moon.
+5 Doud went to the neptune.
+6 Conn moved to the earth.
+7 Where is the milk? 	neptune	3 5
+8 Colliani journeyed to the neptune.
+9 Burnhard journeyed to the neptune.
+10 Doud got the apple there.
+11 Colliani went to the moon.
+12 Conn moved to the neptune.
+13 Doud discarded the apple.
+14 Where is the apple? 	neptune	13 5
+15 Doud put down the milk.
+16 Conn grabbed the apple there.
+17 Where is the milk? 	neptune	15 5
+18 Conn travelled to the venus.
+19 Burnhard moved to the jupiter.
+20 Where is the milk? 	neptune	15 5
+21 Conn dropped the apple.
+22 Doud moved to the venus.
+23 Where is the apple? 	venus	21 18
+1 Doud went back to the moon.
+2 Colliani went to the jupiter.
+3 Conn grabbed the football there.
+4 Burnhard travelled to the moon.
+5 Conn left the football.
+6 Burnhard moved to the earth.
+7 Burnhard journeyed to the mars.
+8 Burnhard travelled to the venus.
+9 Burnhard went back to the moon.
+10 Colliani travelled to the mars.
+11 Conn moved to the venus.
+12 Burnhard moved to the venus.
+13 Doud went to the jupiter.
+14 Conn went to the mars.
+15 Conn got the milk there.
+16 Conn moved to the venus.
+17 Where is the milk? 	venus	15 16
+18 Colliani went to the earth.
+19 Burnhard journeyed to the earth.
+20 Where is the milk? 	venus	15 16
+21 Colliani got the apple there.
+22 Conn put down the milk.
+23 Where is the milk? 	venus	22 16
+24 Colliani went to the jupiter.
+25 Colliani left the apple.
+26 Where is the milk? 	venus	22 16
+27 Colliani took the apple there.
+28 Conn got the milk there.
+29 Burnhard travelled to the mars.
+30 Conn put down the milk there.
+31 Where is the milk? 	venus	30 16
+1 Doud went to the jupiter.
+2 Colliani went to the venus.
+3 Doud journeyed to the earth.
+4 Conn got the milk there.
+5 Conn journeyed to the earth.
+6 Colliani moved to the mars.
+7 Where is the milk? 	earth	4 5
+8 Burnhard went to the moon.
+9 Doud travelled to the jupiter.
+10 Where is the milk? 	earth	4 5
+11 Burnhard went back to the jupiter.
+12 Doud went to the mars.
+13 Doud went back to the neptune.
+14 Conn discarded the milk.
+15 Where is the milk? 	earth	14 5
+16 Burnhard picked up the football there.
+17 Doud moved to the venus.
+18 Where is the milk? 	earth	14 5
+19 Colliani travelled to the venus.
+20 Colliani travelled to the moon.
+21 Where is the milk? 	earth	14 5
+1 Burnhard journeyed to the earth.
+2 Colliani went to the mars.
+3 Burnhard went back to the jupiter.
+4 Conn went back to the earth.
+5 Conn picked up the apple there.
+6 Conn went to the neptune.
+7 Where is the apple? 	neptune	5 6
+8 Colliani moved to the jupiter.
+9 Doud picked up the football there.
+10 Where is the apple? 	neptune	5 6
+11 Doud put down the football there.
+12 Doud picked up the football there.
+13 Conn journeyed to the mars.
+14 Conn travelled to the neptune.
+15 Conn put down the apple.
+16 Doud moved to the mars.
+17 Where is the football? 	mars	12 16
+18 Colliani moved to the neptune.
+19 Colliani journeyed to the mars.
+20 Where is the apple? 	neptune	15 14
+21 Doud discarded the football.
+22 Colliani grabbed the football there.
+23 Colliani travelled to the venus.
+24 Conn grabbed the apple there.
+25 Where is the football? 	venus	22 23
+1 Colliani got the milk there.
+2 Colliani went back to the jupiter.
+3 Where is the milk? 	jupiter	1 2
+4 Burnhard grabbed the football there.
+5 Colliani left the milk.
+6 Where is the milk? 	jupiter	5 2
+7 Colliani grabbed the milk there.
+8 Conn journeyed to the venus.
+9 Burnhard travelled to the jupiter.
+10 Burnhard journeyed to the moon.
+11 Doud went back to the neptune.
+12 Doud took the apple there.
+13 Doud discarded the apple.
+14 Burnhard left the football.
+15 Where is the football? 	moon	14 10
+16 Doud picked up the apple there.
+17 Conn went back to the earth.
+18 Where is the football? 	moon	14 10
+19 Doud went to the venus.
+20 Burnhard picked up the football there.
+21 Where is the apple? 	venus	16 19
+1 Doud went back to the jupiter.
+2 Burnhard journeyed to the jupiter.
+3 Conn picked up the milk there.
+4 Conn left the milk.
+5 Conn picked up the football there.
+6 Conn left the football.
+7 Conn went to the venus.
+8 Burnhard journeyed to the neptune.
+9 Conn went to the earth.
+10 Conn got the apple there.
+11 Colliani journeyed to the earth.
+12 Burnhard picked up the milk there.
+13 Conn journeyed to the venus.
+14 Conn moved to the neptune.
+15 Where is the apple? 	neptune	10 14
+16 Colliani moved to the venus.
+17 Burnhard dropped the milk.
+18 Where is the milk? 	neptune	17 8
+19 Conn discarded the apple.
+20 Conn took the football there.
+21 Where is the apple? 	neptune	19 14
+22 Burnhard got the milk there.
+23 Conn dropped the football there.
+24 Where is the football? 	neptune	23 14
+25 Burnhard left the milk.
+26 Conn went to the venus.
+27 Where is the milk? 	neptune	25 8
+1 Conn moved to the neptune.
+2 Burnhard journeyed to the venus.
+3 Burnhard journeyed to the earth.
+4 Conn went back to the mars.
+5 Conn got the milk there.
+6 Doud travelled to the moon.
+7 Conn discarded the milk there.
+8 Burnhard travelled to the neptune.
+9 Where is the milk? 	mars	7 4
+10 Doud went back to the mars.
+11 Burnhard travelled to the earth.
+12 Where is the milk? 	mars	7 4
+13 Doud moved to the jupiter.
+14 Colliani moved to the moon.
+15 Conn got the milk there.
+16 Conn travelled to the moon.
+17 Where is the milk? 	moon	15 16
+18 Conn left the milk.
+19 Conn picked up the milk there.
+20 Doud moved to the neptune.
+21 Burnhard went back to the jupiter.
+22 Colliani journeyed to the mars.
+23 Conn put down the milk.
+24 Where is the milk? 	moon	23 16
+25 Doud grabbed the football there.
+26 Conn grabbed the milk there.
+27 Colliani journeyed to the neptune.
+28 Conn left the milk.
+29 Where is the milk? 	moon	28 16
+1 Colliani grabbed the football there.
+2 Colliani discarded the football.
+3 Conn went back to the moon.
+4 Doud journeyed to the neptune.
+5 Doud picked up the milk there.
+6 Burnhard travelled to the earth.
+7 Colliani picked up the football there.
+8 Colliani went to the earth.
+9 Where is the football? 	earth	7 8
+10 Doud moved to the mars.
+11 Burnhard got the apple there.
+12 Where is the football? 	earth	7 8
+13 Doud went to the moon.
+14 Burnhard went to the venus.
+15 Where is the apple? 	venus	11 14
+16 Conn went to the jupiter.
+17 Colliani journeyed to the neptune.
+18 Where is the apple? 	venus	11 14
+19 Doud went back to the venus.
+20 Doud discarded the milk.
+21 Where is the milk? 	venus	20 19
+1 Colliani went back to the earth.
+2 Conn took the apple there.
+3 Doud journeyed to the earth.
+4 Doud journeyed to the moon.
+5 Colliani journeyed to the neptune.
+6 Burnhard went back to the earth.
+7 Burnhard went back to the neptune.
+8 Burnhard travelled to the mars.
+9 Colliani journeyed to the mars.
+10 Colliani travelled to the earth.
+11 Burnhard picked up the milk there.
+12 Conn left the apple.
+13 Conn got the apple there.
+14 Colliani travelled to the jupiter.
+15 Burnhard discarded the milk.
+16 Burnhard grabbed the milk there.
+17 Burnhard went back to the neptune.
+18 Burnhard got the football there.
+19 Where is the milk? 	neptune	16 17
+20 Conn put down the apple.
+21 Conn went back to the mars.
+22 Where is the milk? 	neptune	16 17
+23 Doud moved to the earth.
+24 Doud grabbed the apple there.
+25 Doud put down the apple.
+26 Burnhard moved to the venus.
+27 Where is the apple? 	earth	25 23
+28 Burnhard left the milk.
+29 Burnhard went to the mars.
+30 Where is the apple? 	earth	25 23
+31 Burnhard put down the football.
+32 Colliani journeyed to the earth.
+33 Where is the milk? 	venus	28 26
+1 Doud journeyed to the venus.
+2 Burnhard got the football there.
+3 Doud picked up the apple there.
+4 Doud dropped the apple.
+5 Where is the apple? 	venus	4 1
+6 Colliani went back to the venus.
+7 Colliani picked up the apple there.
+8 Colliani put down the apple.
+9 Burnhard left the football.
+10 Where is the apple? 	venus	8 6
+11 Colliani went back to the moon.
+12 Burnhard grabbed the football there.
+13 Where is the apple? 	venus	8 6
+14 Doud journeyed to the earth.
+15 Colliani went back to the jupiter.
+16 Burnhard discarded the football.
+17 Conn moved to the neptune.
+18 Conn journeyed to the jupiter.
+19 Burnhard picked up the football there.
+20 Conn went back to the neptune.
+21 Burnhard discarded the football.
+22 Doud took the football there.
+23 Colliani went back to the earth.
+24 Doud went to the moon.
+25 Burnhard travelled to the jupiter.
+26 Where is the football? 	moon	22 24
+27 Doud dropped the football.
+28 Doud got the football there.
+29 Burnhard went to the mars.
+30 Doud took the milk there.
+31 Conn went back to the venus.
+32 Colliani went to the neptune.
+33 Colliani journeyed to the earth.
+34 Colliani went back to the moon.
+35 Conn went back to the jupiter.
+36 Doud journeyed to the neptune.
+37 Conn went back to the earth.
+38 Burnhard went to the jupiter.
+39 Conn travelled to the venus.
+40 Doud put down the football.
+41 Where is the football? 	neptune	40 36
+1 Colliani journeyed to the mars.
+2 Burnhard went back to the jupiter.
+3 Doud went back to the moon.
+4 Conn went back to the mars.
+5 Conn went to the venus.
+6 Conn took the apple there.
+7 Conn went back to the mars.
+8 Conn went back to the earth.
+9 Where is the apple? 	earth	6 8
+10 Colliani went back to the earth.
+11 Burnhard moved to the venus.
+12 Where is the apple? 	earth	6 8
+13 Doud grabbed the milk there.
+14 Doud got the football there.
+15 Doud moved to the jupiter.
+16 Burnhard went back to the neptune.
+17 Where is the football? 	jupiter	14 15
+18 Conn moved to the neptune.
+19 Conn went to the jupiter.
+20 Where is the football? 	jupiter	14 15
+21 Doud dropped the football.
+22 Conn put down the apple.
+23 Where is the apple? 	jupiter	22 19
+1 Burnhard moved to the moon.
+2 Doud journeyed to the jupiter.
+3 Conn took the apple there.
+4 Doud journeyed to the venus.
+5 Doud got the football there.
+6 Colliani went to the moon.
+7 Burnhard journeyed to the jupiter.
+8 Conn travelled to the earth.
+9 Conn discarded the apple.
+10 Conn moved to the moon.
+11 Where is the apple? 	earth	9 8
+12 Burnhard travelled to the mars.
+13 Burnhard picked up the milk there.
+14 Where is the apple? 	earth	9 8
+15 Colliani went back to the earth.
+16 Colliani got the apple there.
+17 Burnhard left the milk there.
+18 Burnhard journeyed to the neptune.
+19 Where is the milk? 	mars	17 12
+20 Doud discarded the football.
+21 Burnhard travelled to the venus.
+22 Where is the football? 	venus	20 4
+23 Doud got the football there.
+24 Colliani went to the jupiter.
+25 Burnhard went to the mars.
+26 Conn moved to the jupiter.
+27 Doud travelled to the moon.
+28 Doud left the football.
+29 Where is the football? 	moon	28 27
+1 Doud grabbed the milk there.
+2 Conn went back to the moon.
+3 Burnhard picked up the football there.
+4 Doud dropped the milk there.
+5 Burnhard went back to the neptune.
+6 Burnhard discarded the football.
+7 Where is the football? 	neptune	6 5
+8 Colliani journeyed to the mars.
+9 Burnhard took the football there.
+10 Burnhard left the football.
+11 Burnhard went to the mars.
+12 Where is the football? 	neptune	10 5
+13 Doud journeyed to the mars.
+14 Burnhard went back to the venus.
+15 Where is the football? 	neptune	10 5
+16 Doud went back to the neptune.
+17 Doud picked up the football there.
+18 Colliani travelled to the moon.
+19 Burnhard got the milk there.
+20 Burnhard discarded the milk.
+21 Colliani moved to the earth.
+22 Where is the milk? 	venus	20 14
+23 Colliani moved to the jupiter.
+24 Colliani journeyed to the earth.
+25 Where is the milk? 	venus	20 14
+1 Colliani took the football there.
+2 Colliani moved to the earth.
+3 Where is the football? 	earth	1 2
+4 Colliani discarded the football.
+5 Burnhard went to the earth.
+6 Where is the football? 	earth	4 2
+7 Colliani took the football there.
+8 Colliani dropped the football.
+9 Where is the football? 	earth	8 2
+10 Burnhard took the football there.
+11 Burnhard left the football.
+12 Where is the football? 	earth	11 5
+13 Burnhard journeyed to the mars.
+14 Doud went back to the jupiter.
+15 Where is the football? 	earth	11 5
+1 Colliani got the milk there.
+2 Burnhard went back to the venus.
+3 Conn moved to the venus.
+4 Burnhard went to the jupiter.
+5 Colliani dropped the milk.
+6 Conn travelled to the earth.
+7 Colliani took the milk there.
+8 Burnhard went back to the moon.
+9 Colliani moved to the neptune.
+10 Doud went back to the earth.
+11 Where is the milk? 	neptune	7 9
+12 Burnhard went back to the neptune.
+13 Colliani took the football there.
+14 Burnhard picked up the apple there.
+15 Doud travelled to the venus.
+16 Colliani discarded the football there.
+17 Colliani put down the milk.
+18 Where is the football? 	neptune	16 9
+19 Doud travelled to the moon.
+20 Burnhard grabbed the football there.
+21 Where is the milk? 	neptune	17 9
+22 Burnhard dropped the apple.
+23 Colliani took the milk there.
+24 Where is the apple? 	neptune	22 12
+25 Colliani dropped the milk.
+26 Conn went back to the moon.
+27 Where is the milk? 	neptune	25 9
+1 Burnhard travelled to the jupiter.
+2 Colliani journeyed to the earth.
+3 Colliani travelled to the neptune.
+4 Doud moved to the moon.
+5 Colliani journeyed to the mars.
+6 Doud picked up the football there.
+7 Doud left the football.
+8 Doud picked up the football there.
+9 Doud went back to the neptune.
+10 Conn journeyed to the neptune.
+11 Where is the football? 	neptune	8 9
+12 Colliani took the milk there.
+13 Colliani discarded the milk.
+14 Where is the milk? 	mars	13 5
+15 Doud put down the football.
+16 Conn got the football there.
+17 Where is the milk? 	mars	13 5
+18 Conn travelled to the earth.
+19 Conn left the football.
+20 Where is the football? 	earth	19 18
+21 Burnhard moved to the moon.
+22 Burnhard got the apple there.
+23 Where is the football? 	earth	19 18
+1 Doud grabbed the apple there.
+2 Colliani took the milk there.
+3 Doud travelled to the jupiter.
+4 Doud discarded the apple.
+5 Where is the apple? 	jupiter	4 3
+6 Burnhard grabbed the apple there.
+7 Colliani dropped the milk.
+8 Conn travelled to the jupiter.
+9 Colliani picked up the milk there.
+10 Burnhard went back to the mars.
+11 Burnhard grabbed the football there.
+12 Colliani left the milk.
+13 Colliani took the milk there.
+14 Burnhard discarded the football.
+15 Burnhard took the football there.
+16 Colliani moved to the mars.
+17 Burnhard left the apple.
+18 Where is the apple? 	mars	17 10
+19 Doud travelled to the mars.
+20 Conn went to the earth.
+21 Where is the apple? 	mars	17 10
+22 Doud got the apple there.
+23 Doud left the apple.
+24 Where is the apple? 	mars	23 19
+25 Burnhard went back to the jupiter.
+26 Doud picked up the apple there.
+27 Doud travelled to the jupiter.
+28 Colliani moved to the jupiter.
+29 Where is the apple? 	jupiter	26 27
+1 Colliani moved to the moon.
+2 Conn picked up the football there.
+3 Doud journeyed to the moon.
+4 Burnhard grabbed the milk there.
+5 Burnhard put down the milk.
+6 Colliani travelled to the neptune.
+7 Burnhard went back to the moon.
+8 Colliani went back to the earth.
+9 Conn went to the venus.
+10 Conn put down the football.
+11 Where is the football? 	venus	10 9
+12 Conn went back to the earth.
+13 Conn went to the venus.
+14 Where is the football? 	venus	10 9
+15 Conn picked up the football there.
+16 Doud moved to the jupiter.
+17 Conn journeyed to the mars.
+18 Conn grabbed the milk there.
+19 Where is the football? 	mars	15 17
+20 Conn moved to the moon.
+21 Colliani journeyed to the venus.
+22 Where is the milk? 	moon	18 20
+23 Burnhard moved to the neptune.
+24 Doud took the apple there.
+25 Where is the milk? 	moon	18 20
+1 Burnhard journeyed to the earth.
+2 Conn travelled to the neptune.
+3 Doud moved to the moon.
+4 Conn picked up the apple there.
+5 Burnhard travelled to the jupiter.
+6 Doud picked up the football there.
+7 Burnhard went back to the neptune.
+8 Conn discarded the apple.
+9 Where is the apple? 	neptune	8 2
+10 Doud moved to the jupiter.
+11 Burnhard grabbed the apple there.
+12 Where is the football? 	jupiter	6 10
+13 Conn journeyed to the mars.
+14 Burnhard left the apple there.
+15 Where is the apple? 	neptune	14 7
+16 Conn journeyed to the neptune.
+17 Conn took the apple there.
+18 Conn moved to the mars.
+19 Conn went to the earth.
+20 Where is the apple? 	earth	17 19
+21 Burnhard travelled to the moon.
+22 Conn dropped the apple.
+23 Where is the apple? 	earth	22 19
+1 Doud journeyed to the moon.
+2 Burnhard took the milk there.
+3 Colliani took the football there.
+4 Colliani moved to the mars.
+5 Where is the football? 	mars	3 4
+6 Colliani dropped the football.
+7 Conn travelled to the jupiter.
+8 Where is the football? 	mars	6 4
+9 Burnhard travelled to the moon.
+10 Burnhard dropped the milk.
+11 Where is the milk? 	moon	10 9
+12 Doud went back to the venus.
+13 Burnhard grabbed the milk there.
+14 Doud went to the neptune.
+15 Burnhard journeyed to the earth.
+16 Where is the milk? 	earth	13 15
+17 Conn went back to the earth.
+18 Burnhard moved to the venus.
+19 Where is the milk? 	venus	13 18
+1 Burnhard travelled to the jupiter.
+2 Doud grabbed the football there.
+3 Doud put down the football.
+4 Conn picked up the football there.
+5 Colliani travelled to the venus.
+6 Doud moved to the venus.
+7 Colliani went to the jupiter.
+8 Doud got the milk there.
+9 Doud left the milk there.
+10 Conn put down the football.
+11 Where is the milk? 	venus	9 6
+12 Colliani went to the earth.
+13 Doud got the milk there.
+14 Conn journeyed to the venus.
+15 Doud discarded the milk.
+16 Where is the milk? 	venus	15 6
+17 Doud moved to the neptune.
+18 Conn grabbed the milk there.
+19 Conn travelled to the jupiter.
+20 Doud picked up the apple there.
+21 Where is the milk? 	jupiter	18 19
+22 Conn put down the milk there.
+23 Conn got the milk there.
+24 Colliani travelled to the jupiter.
+25 Burnhard went to the neptune.
+26 Burnhard went back to the moon.
+27 Doud went to the venus.
+28 Conn discarded the milk.
+29 Conn got the milk there.
+30 Doud went to the jupiter.
+31 Colliani went back to the neptune.
+32 Colliani moved to the moon.
+33 Colliani went back to the neptune.
+34 Burnhard journeyed to the jupiter.
+35 Conn dropped the milk.
+36 Where is the milk? 	jupiter	35 19
+37 Conn picked up the milk there.
+38 Conn moved to the earth.
+39 Where is the milk? 	earth	37 38
+1 Colliani took the football there.
+2 Colliani left the football.
+3 Doud went back to the moon.
+4 Burnhard got the football there.
+5 Conn journeyed to the mars.
+6 Colliani journeyed to the earth.
+7 Burnhard dropped the football.
+8 Doud moved to the mars.
+9 Conn grabbed the apple there.
+10 Doud went to the moon.
+11 Doud moved to the earth.
+12 Colliani went back to the moon.
+13 Conn discarded the apple there.
+14 Doud travelled to the mars.
+15 Where is the apple? 	mars	13 5
+16 Burnhard picked up the football there.
+17 Burnhard left the football there.
+18 Where is the apple? 	mars	13 5
+19 Doud went to the neptune.
+20 Conn got the apple there.
+21 Conn travelled to the neptune.
+22 Doud took the football there.
+23 Where is the apple? 	neptune	20 21
+24 Colliani travelled to the neptune.
+25 Doud put down the football.
+26 Where is the football? 	neptune	25 19
+27 Doud went back to the earth.
+28 Colliani went back to the jupiter.
+29 Where is the football? 	neptune	25 19

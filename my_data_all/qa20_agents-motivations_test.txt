@@ -1,0 +1,2000 @@
+1 Jason is thirsty.
+2 Where will jason go?	mars	1
+3 Antoine is bored.
+4 Where will antoine go?	venus	3
+5 Jason went to the mars.
+6 Why did jason go to the mars?	thirsty	1
+7 Antoine journeyed to the venus.
+8 Why did antoine go to the venus?	bored	3
+9 Sumit is hungry.
+10 Where will sumit go?	mars	9
+11 Antoine grabbed the football there.
+12 Why did antoine get the football?	bored	3
+13 Sumit went to the mars.
+14 Why did sumit go to the mars?	hungry	9
+15 Jason took the milk there.
+16 Why did jason get the milk?	thirsty	1
+17 Sumit took the apple there.
+18 Why did sumit get the apple?	hungry	9
+19 Yann is thirsty.
+20 Where will yann go?	mars	19
+21 Yann travelled to the mars.
+22 Why did yann go to the mars?	thirsty	19
+1 Yann is thirsty.
+2 Where will yann go?	mars	1
+3 Yann journeyed to the mars.
+4 Why did yann go to the mars?	thirsty	1
+5 Yann took the milk there.
+6 Why did yann get the milk?	thirsty	1
+7 Jason is hungry.
+8 Where will jason go?	mars	7
+9 Antoine is bored.
+10 Where will antoine go?	venus	9
+11 Antoine went back to the venus.
+12 Why did antoine go to the venus?	bored	9
+13 Sumit is hungry.
+14 Where will sumit go?	mars	13
+15 Jason travelled to the mars.
+16 Why did jason go to the mars?	hungry	7
+17 Sumit went to the mars.
+18 Why did sumit go to the mars?	hungry	13
+19 Jason grabbed the apple there.
+20 Why did jason get the apple?	hungry	7
+21 Antoine grabbed the football there.
+22 Why did antoine get the football?	bored	9
+1 Antoine is thirsty.
+2 Where will antoine go?	mars	1
+3 Sumit is hungry.
+4 Where will sumit go?	mars	3
+5 Jason is bored.
+6 Where will jason go?	venus	5
+7 Yann is tired.
+8 Where will yann go?	earth	7
+9 Yann travelled to the earth.
+10 Why did yann go to the earth?	tired	7
+11 Jason went to the venus.
+12 Why did jason go to the venus?	bored	5
+13 Antoine travelled to the mars.
+14 Why did antoine go to the mars?	thirsty	1
+15 Antoine took the milk there.
+16 Why did antoine get the milk?	thirsty	1
+17 Sumit moved to the mars.
+18 Why did sumit go to the mars?	hungry	3
+19 Sumit grabbed the apple there.
+20 Why did sumit get the apple?	hungry	3
+21 Yann got the pajamas there.
+22 Why did yann get the pajamas?	tired	7
+23 Jason grabbed the football there.
+24 Why did jason get the football?	bored	5
+1 Yann is thirsty.
+2 Where will yann go?	mars	1
+3 Yann travelled to the mars.
+4 Why did yann go to the mars?	thirsty	1
+5 Yann took the milk there.
+6 Why did yann get the milk?	thirsty	1
+7 Sumit is bored.
+8 Where will sumit go?	venus	7
+9 Jason is hungry.
+10 Where will jason go?	mars	9
+11 Jason journeyed to the mars.
+12 Why did jason go to the mars?	hungry	9
+13 Sumit journeyed to the venus.
+14 Why did sumit go to the venus?	bored	7
+15 Sumit took the football there.
+16 Why did sumit get the football?	bored	7
+17 Jason took the apple there.
+18 Why did jason get the apple?	hungry	9
+19 Antoine is tired.
+20 Where will antoine go?	earth	19
+21 Antoine went back to the earth.
+22 Why did antoine go to the earth?	tired	19
+23 Antoine picked up the pajamas there.
+24 Why did antoine get the pajamas?	tired	19
+1 Sumit is bored.
+2 Where will sumit go?	venus	1
+3 Antoine is hungry.
+4 Where will antoine go?	mars	3
+5 Yann is bored.
+6 Where will yann go?	venus	5
+7 Sumit journeyed to the venus.
+8 Why did sumit go to the venus?	bored	1
+9 Jason is hungry.
+10 Where will jason go?	mars	9
+11 Sumit picked up the football there.
+12 Why did sumit get the football?	bored	1
+13 Antoine travelled to the mars.
+14 Why did antoine go to the mars?	hungry	3
+15 Yann went to the venus.
+16 Why did yann go to the venus?	bored	5
+17 Jason went to the mars.
+18 Why did jason go to the mars?	hungry	9
+19 Antoine took the apple there.
+20 Why did antoine get the apple?	hungry	3
+1 Jason is tired.
+2 Where will jason go?	earth	1
+3 Yann is thirsty.
+4 Where will yann go?	mars	3
+5 Sumit is hungry.
+6 Where will sumit go?	mars	5
+7 Yann travelled to the mars.
+8 Why did yann go to the mars?	thirsty	3
+9 Jason went to the earth.
+10 Why did jason go to the earth?	tired	1
+11 Sumit went to the mars.
+12 Why did sumit go to the mars?	hungry	5
+13 Antoine is hungry.
+14 Where will antoine go?	mars	13
+15 Antoine went to the mars.
+16 Why did antoine go to the mars?	hungry	13
+17 Jason got the pajamas there.
+18 Why did jason get the pajamas?	tired	1
+19 Antoine got the apple there.
+20 Why did antoine get the apple?	hungry	13
+21 Yann got the milk there.
+22 Why did yann get the milk?	thirsty	3
+1 Jason is tired.
+2 Where will jason go?	earth	1
+3 Jason moved to the earth.
+4 Why did jason go to the earth?	tired	1
+5 Antoine is hungry.
+6 Where will antoine go?	mars	5
+7 Yann is hungry.
+8 Where will yann go?	mars	7
+9 Yann moved to the mars.
+10 Why did yann go to the mars?	hungry	7
+11 Sumit is thirsty.
+12 Where will sumit go?	mars	11
+13 Antoine went to the mars.
+14 Why did antoine go to the mars?	hungry	5
+15 Jason took the pajamas there.
+16 Why did jason get the pajamas?	tired	1
+17 Sumit travelled to the mars.
+18 Why did sumit go to the mars?	thirsty	11
+19 Yann took the apple there.
+20 Why did yann get the apple?	hungry	7
+21 Sumit grabbed the milk there.
+22 Why did sumit get the milk?	thirsty	11
+1 Yann is tired.
+2 Where will yann go?	earth	1
+3 Jason is bored.
+4 Where will jason go?	venus	3
+5 Antoine is bored.
+6 Where will antoine go?	venus	5
+7 Antoine moved to the venus.
+8 Why did antoine go to the venus?	bored	5
+9 Antoine got the football there.
+10 Why did antoine get the football?	bored	5
+11 Sumit is hungry.
+12 Where will sumit go?	mars	11
+13 Sumit travelled to the mars.
+14 Why did sumit go to the mars?	hungry	11
+15 Yann travelled to the earth.
+16 Why did yann go to the earth?	tired	1
+17 Sumit grabbed the apple there.
+18 Why did sumit get the apple?	hungry	11
+19 Yann took the pajamas there.
+20 Why did yann get the pajamas?	tired	1
+21 Jason moved to the venus.
+22 Why did jason go to the venus?	bored	3
+1 Jason is tired.
+2 Where will jason go?	earth	1
+3 Jason travelled to the earth.
+4 Why did jason go to the earth?	tired	1
+5 Sumit is hungry.
+6 Where will sumit go?	mars	5
+7 Antoine is hungry.
+8 Where will antoine go?	mars	7
+9 Yann is bored.
+10 Where will yann go?	venus	9
+11 Yann travelled to the venus.
+12 Why did yann go to the venus?	bored	9
+13 Sumit journeyed to the mars.
+14 Why did sumit go to the mars?	hungry	5
+15 Sumit got the apple there.
+16 Why did sumit get the apple?	hungry	5
+17 Antoine travelled to the mars.
+18 Why did antoine go to the mars?	hungry	7
+19 Jason got the pajamas there.
+20 Why did jason get the pajamas?	tired	1
+21 Yann picked up the football there.
+22 Why did yann get the football?	bored	9
+1 Antoine is bored.
+2 Where will antoine go?	venus	1
+3 Jason is thirsty.
+4 Where will jason go?	mars	3
+5 Antoine journeyed to the venus.
+6 Why did antoine go to the venus?	bored	1
+7 Jason went back to the mars.
+8 Why did jason go to the mars?	thirsty	3
+9 Sumit is hungry.
+10 Where will sumit go?	mars	9
+11 Jason grabbed the milk there.
+12 Why did jason get the milk?	thirsty	3
+13 Antoine got the football there.
+14 Why did antoine get the football?	bored	1
+15 Yann is bored.
+16 Where will yann go?	venus	15
+17 Yann journeyed to the venus.
+18 Why did yann go to the venus?	bored	15
+19 Sumit moved to the mars.
+20 Why did sumit go to the mars?	hungry	9
+21 Sumit got the apple there.
+22 Why did sumit get the apple?	hungry	9
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Yann is thirsty.
+4 Where will yann go?	mars	3
+5 Sumit is tired.
+6 Where will sumit go?	earth	5
+7 Antoine travelled to the earth.
+8 Why did antoine go to the earth?	tired	1
+9 Sumit moved to the earth.
+10 Why did sumit go to the earth?	tired	5
+11 Yann travelled to the mars.
+12 Why did yann go to the mars?	thirsty	3
+13 Antoine grabbed the pajamas there.
+14 Why did antoine get the pajamas?	tired	1
+15 Jason is bored.
+16 Where will jason go?	venus	15
+17 Jason went back to the venus.
+18 Why did jason go to the venus?	bored	15
+19 Jason grabbed the football there.
+20 Why did jason get the football?	bored	15
+21 Yann took the milk there.
+22 Why did yann get the milk?	thirsty	3
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Sumit is thirsty.
+4 Where will sumit go?	mars	3
+5 Jason is hungry.
+6 Where will jason go?	mars	5
+7 Jason moved to the mars.
+8 Why did jason go to the mars?	hungry	5
+9 Jason grabbed the apple there.
+10 Why did jason get the apple?	hungry	5
+11 Antoine went back to the earth.
+12 Why did antoine go to the earth?	tired	1
+13 Antoine picked up the pajamas there.
+14 Why did antoine get the pajamas?	tired	1
+15 Sumit moved to the mars.
+16 Why did sumit go to the mars?	thirsty	3
+17 Sumit took the milk there.
+18 Why did sumit get the milk?	thirsty	3
+19 Yann is hungry.
+20 Where will yann go?	mars	19
+21 Yann went back to the mars.
+22 Why did yann go to the mars?	hungry	19
+1 Jason is thirsty.
+2 Where will jason go?	mars	1
+3 Sumit is bored.
+4 Where will sumit go?	venus	3
+5 Jason journeyed to the mars.
+6 Why did jason go to the mars?	thirsty	1
+7 Jason took the milk there.
+8 Why did jason get the milk?	thirsty	1
+9 Sumit moved to the venus.
+10 Why did sumit go to the venus?	bored	3
+11 Antoine is thirsty.
+12 Where will antoine go?	mars	11
+13 Antoine travelled to the mars.
+14 Why did antoine go to the mars?	thirsty	11
+15 Sumit got the football there.
+16 Why did sumit get the football?	bored	3
+17 Yann is thirsty.
+18 Where will yann go?	mars	17
+19 Yann went to the mars.
+20 Why did yann go to the mars?	thirsty	17
+1 Antoine is bored.
+2 Where will antoine go?	venus	1
+3 Jason is bored.
+4 Where will jason go?	venus	3
+5 Jason travelled to the venus.
+6 Why did jason go to the venus?	bored	3
+7 Yann is hungry.
+8 Where will yann go?	mars	7
+9 Yann journeyed to the mars.
+10 Why did yann go to the mars?	hungry	7
+11 Sumit is hungry.
+12 Where will sumit go?	mars	11
+13 Sumit journeyed to the mars.
+14 Why did sumit go to the mars?	hungry	11
+15 Yann grabbed the apple there.
+16 Why did yann get the apple?	hungry	7
+17 Antoine journeyed to the venus.
+18 Why did antoine go to the venus?	bored	1
+19 Jason picked up the football there.
+20 Why did jason get the football?	bored	3
+1 Sumit is thirsty.
+2 Where will sumit go?	mars	1
+3 Antoine is thirsty.
+4 Where will antoine go?	mars	3
+5 Yann is bored.
+6 Where will yann go?	venus	5
+7 Antoine journeyed to the mars.
+8 Why did antoine go to the mars?	thirsty	3
+9 Yann moved to the venus.
+10 Why did yann go to the venus?	bored	5
+11 Sumit travelled to the mars.
+12 Why did sumit go to the mars?	thirsty	1
+13 Jason is hungry.
+14 Where will jason go?	mars	13
+15 Jason travelled to the mars.
+16 Why did jason go to the mars?	hungry	13
+17 Sumit picked up the milk there.
+18 Why did sumit get the milk?	thirsty	1
+19 Yann picked up the football there.
+20 Why did yann get the football?	bored	5
+21 Jason took the apple there.
+22 Why did jason get the apple?	hungry	13
+1 Sumit is tired.
+2 Where will sumit go?	earth	1
+3 Jason is thirsty.
+4 Where will jason go?	mars	3
+5 Sumit went back to the earth.
+6 Why did sumit go to the earth?	tired	1
+7 Jason moved to the mars.
+8 Why did jason go to the mars?	thirsty	3
+9 Sumit got the pajamas there.
+10 Why did sumit get the pajamas?	tired	1
+11 Antoine is tired.
+12 Where will antoine go?	earth	11
+13 Antoine went to the earth.
+14 Why did antoine go to the earth?	tired	11
+15 Yann is bored.
+16 Where will yann go?	venus	15
+17 Yann journeyed to the venus.
+18 Why did yann go to the venus?	bored	15
+19 Jason took the milk there.
+20 Why did jason get the milk?	thirsty	3
+21 Yann got the football there.
+22 Why did yann get the football?	bored	15
+1 Yann is bored.
+2 Where will yann go?	venus	1
+3 Jason is thirsty.
+4 Where will jason go?	mars	3
+5 Sumit is hungry.
+6 Where will sumit go?	mars	5
+7 Antoine is hungry.
+8 Where will antoine go?	mars	7
+9 Yann journeyed to the venus.
+10 Why did yann go to the venus?	bored	1
+11 Yann got the football there.
+12 Why did yann get the football?	bored	1
+13 Antoine went back to the mars.
+14 Why did antoine go to the mars?	hungry	7
+15 Jason travelled to the mars.
+16 Why did jason go to the mars?	thirsty	3
+17 Antoine picked up the apple there.
+18 Why did antoine get the apple?	hungry	7
+19 Sumit journeyed to the mars.
+20 Why did sumit go to the mars?	hungry	5
+21 Jason got the milk there.
+22 Why did jason get the milk?	thirsty	3
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Sumit is thirsty.
+4 Where will sumit go?	mars	3
+5 Jason is thirsty.
+6 Where will jason go?	mars	5
+7 Jason moved to the mars.
+8 Why did jason go to the mars?	thirsty	5
+9 Yann is hungry.
+10 Where will yann go?	mars	9
+11 Yann moved to the mars.
+12 Why did yann go to the mars?	hungry	9
+13 Sumit went to the mars.
+14 Why did sumit go to the mars?	thirsty	3
+15 Jason picked up the milk there.
+16 Why did jason get the milk?	thirsty	5
+17 Yann picked up the apple there.
+18 Why did yann get the apple?	hungry	9
+19 Antoine travelled to the earth.
+20 Why did antoine go to the earth?	tired	1
+21 Antoine took the pajamas there.
+22 Why did antoine get the pajamas?	tired	1
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Jason is hungry.
+4 Where will jason go?	mars	3
+5 Jason journeyed to the mars.
+6 Why did jason go to the mars?	hungry	3
+7 Sumit is bored.
+8 Where will sumit go?	venus	7
+9 Sumit travelled to the venus.
+10 Why did sumit go to the venus?	bored	7
+11 Jason got the apple there.
+12 Why did jason get the apple?	hungry	3
+13 Antoine went back to the earth.
+14 Why did antoine go to the earth?	tired	1
+15 Yann is bored.
+16 Where will yann go?	venus	15
+17 Yann went to the venus.
+18 Why did yann go to the venus?	bored	15
+19 Yann took the football there.
+20 Why did yann get the football?	bored	15
+21 Antoine got the pajamas there.
+22 Why did antoine get the pajamas?	tired	1
+1 Sumit is thirsty.
+2 Where will sumit go?	mars	1
+3 Jason is bored.
+4 Where will jason go?	venus	3
+5 Antoine is tired.
+6 Where will antoine go?	earth	5
+7 Yann is tired.
+8 Where will yann go?	earth	7
+9 Jason moved to the venus.
+10 Why did jason go to the venus?	bored	3
+11 Sumit travelled to the mars.
+12 Why did sumit go to the mars?	thirsty	1
+13 Yann went to the earth.
+14 Why did yann go to the earth?	tired	7
+15 Yann grabbed the pajamas there.
+16 Why did yann get the pajamas?	tired	7
+17 Sumit grabbed the milk there.
+18 Why did sumit get the milk?	thirsty	1
+19 Jason grabbed the football there.
+20 Why did jason get the football?	bored	3
+21 Antoine journeyed to the earth.
+22 Why did antoine go to the earth?	tired	5
+1 Sumit is hungry.
+2 Where will sumit go?	mars	1
+3 Yann is thirsty.
+4 Where will yann go?	mars	3
+5 Antoine is thirsty.
+6 Where will antoine go?	mars	5
+7 Sumit went to the mars.
+8 Why did sumit go to the mars?	hungry	1
+9 Jason is thirsty.
+10 Where will jason go?	mars	9
+11 Sumit got the apple there.
+12 Why did sumit get the apple?	hungry	1
+13 Jason journeyed to the mars.
+14 Why did jason go to the mars?	thirsty	9
+15 Yann moved to the mars.
+16 Why did yann go to the mars?	thirsty	3
+17 Jason got the milk there.
+18 Why did jason get the milk?	thirsty	9
+19 Antoine went to the mars.
+20 Why did antoine go to the mars?	thirsty	5
+1 Jason is thirsty.
+2 Where will jason go?	mars	1
+3 Yann is bored.
+4 Where will yann go?	venus	3
+5 Jason moved to the mars.
+6 Why did jason go to the mars?	thirsty	1
+7 Jason grabbed the milk there.
+8 Why did jason get the milk?	thirsty	1
+9 Antoine is tired.
+10 Where will antoine go?	earth	9
+11 Sumit is bored.
+12 Where will sumit go?	venus	11
+13 Yann went to the venus.
+14 Why did yann go to the venus?	bored	3
+15 Yann grabbed the football there.
+16 Why did yann get the football?	bored	3
+17 Antoine journeyed to the earth.
+18 Why did antoine go to the earth?	tired	9
+19 Sumit went back to the venus.
+20 Why did sumit go to the venus?	bored	11
+21 Antoine picked up the pajamas there.
+22 Why did antoine get the pajamas?	tired	9
+1 Antoine is hungry.
+2 Where will antoine go?	mars	1
+3 Antoine went to the mars.
+4 Why did antoine go to the mars?	hungry	1
+5 Antoine picked up the apple there.
+6 Why did antoine get the apple?	hungry	1
+7 Jason is tired.
+8 Where will jason go?	earth	7
+9 Yann is thirsty.
+10 Where will yann go?	mars	9
+11 Yann went to the mars.
+12 Why did yann go to the mars?	thirsty	9
+13 Sumit is bored.
+14 Where will sumit go?	venus	13
+15 Sumit went to the venus.
+16 Why did sumit go to the venus?	bored	13
+17 Yann grabbed the milk there.
+18 Why did yann get the milk?	thirsty	9
+19 Sumit took the football there.
+20 Why did sumit get the football?	bored	13
+21 Jason travelled to the earth.
+22 Why did jason go to the earth?	tired	7
+23 Jason took the pajamas there.
+24 Why did jason get the pajamas?	tired	7
+1 Yann is thirsty.
+2 Where will yann go?	mars	1
+3 Antoine is bored.
+4 Where will antoine go?	venus	3
+5 Jason is bored.
+6 Where will jason go?	venus	5
+7 Sumit is hungry.
+8 Where will sumit go?	mars	7
+9 Yann travelled to the mars.
+10 Why did yann go to the mars?	thirsty	1
+11 Jason moved to the venus.
+12 Why did jason go to the venus?	bored	5
+13 Yann grabbed the milk there.
+14 Why did yann get the milk?	thirsty	1
+15 Antoine journeyed to the venus.
+16 Why did antoine go to the venus?	bored	3
+17 Antoine grabbed the football there.
+18 Why did antoine get the football?	bored	3
+19 Sumit moved to the mars.
+20 Why did sumit go to the mars?	hungry	7
+21 Sumit picked up the apple there.
+22 Why did sumit get the apple?	hungry	7
+1 Jason is hungry.
+2 Where will jason go?	mars	1
+3 Antoine is tired.
+4 Where will antoine go?	earth	3
+5 Antoine journeyed to the earth.
+6 Why did antoine go to the earth?	tired	3
+7 Antoine took the pajamas there.
+8 Why did antoine get the pajamas?	tired	3
+9 Yann is tired.
+10 Where will yann go?	earth	9
+11 Jason went to the mars.
+12 Why did jason go to the mars?	hungry	1
+13 Jason got the apple there.
+14 Why did jason get the apple?	hungry	1
+15 Yann journeyed to the earth.
+16 Why did yann go to the earth?	tired	9
+17 Sumit is bored.
+18 Where will sumit go?	venus	17
+19 Sumit journeyed to the venus.
+20 Why did sumit go to the venus?	bored	17
+21 Sumit took the football there.
+22 Why did sumit get the football?	bored	17
+1 Yann is hungry.
+2 Where will yann go?	mars	1
+3 Antoine is tired.
+4 Where will antoine go?	earth	3
+5 Antoine travelled to the earth.
+6 Why did antoine go to the earth?	tired	3
+7 Jason is hungry.
+8 Where will jason go?	mars	7
+9 Antoine took the pajamas there.
+10 Why did antoine get the pajamas?	tired	3
+11 Jason went back to the mars.
+12 Why did jason go to the mars?	hungry	7
+13 Yann went back to the mars.
+14 Why did yann go to the mars?	hungry	1
+15 Sumit is bored.
+16 Where will sumit go?	venus	15
+17 Sumit travelled to the venus.
+18 Why did sumit go to the venus?	bored	15
+19 Yann picked up the apple there.
+20 Why did yann get the apple?	hungry	1
+21 Sumit grabbed the football there.
+22 Why did sumit get the football?	bored	15
+1 Jason is tired.
+2 Where will jason go?	earth	1
+3 Yann is tired.
+4 Where will yann go?	earth	3
+5 Sumit is hungry.
+6 Where will sumit go?	mars	5
+7 Sumit went to the mars.
+8 Why did sumit go to the mars?	hungry	5
+9 Yann journeyed to the earth.
+10 Why did yann go to the earth?	tired	3
+11 Antoine is thirsty.
+12 Where will antoine go?	mars	11
+13 Sumit picked up the apple there.
+14 Why did sumit get the apple?	hungry	5
+15 Yann took the pajamas there.
+16 Why did yann get the pajamas?	tired	3
+17 Jason went back to the earth.
+18 Why did jason go to the earth?	tired	1
+19 Antoine journeyed to the mars.
+20 Why did antoine go to the mars?	thirsty	11
+21 Antoine got the milk there.
+22 Why did antoine get the milk?	thirsty	11
+1 Yann is tired.
+2 Where will yann go?	earth	1
+3 Sumit is thirsty.
+4 Where will sumit go?	mars	3
+5 Jason is tired.
+6 Where will jason go?	earth	5
+7 Yann travelled to the earth.
+8 Why did yann go to the earth?	tired	1
+9 Sumit went to the mars.
+10 Why did sumit go to the mars?	thirsty	3
+11 Yann took the pajamas there.
+12 Why did yann get the pajamas?	tired	1
+13 Antoine is thirsty.
+14 Where will antoine go?	mars	13
+15 Antoine went to the mars.
+16 Why did antoine go to the mars?	thirsty	13
+17 Antoine got the milk there.
+18 Why did antoine get the milk?	thirsty	13
+19 Jason travelled to the earth.
+20 Why did jason go to the earth?	tired	5
+1 Yann is hungry.
+2 Where will yann go?	mars	1
+3 Yann journeyed to the mars.
+4 Why did yann go to the mars?	hungry	1
+5 Jason is bored.
+6 Where will jason go?	venus	5
+7 Jason went back to the venus.
+8 Why did jason go to the venus?	bored	5
+9 Sumit is bored.
+10 Where will sumit go?	venus	9
+11 Antoine is tired.
+12 Where will antoine go?	earth	11
+13 Jason picked up the football there.
+14 Why did jason get the football?	bored	5
+15 Antoine went back to the earth.
+16 Why did antoine go to the earth?	tired	11
+17 Antoine got the pajamas there.
+18 Why did antoine get the pajamas?	tired	11
+19 Sumit journeyed to the venus.
+20 Why did sumit go to the venus?	bored	9
+21 Yann grabbed the apple there.
+22 Why did yann get the apple?	hungry	1
+1 Sumit is thirsty.
+2 Where will sumit go?	mars	1
+3 Jason is thirsty.
+4 Where will jason go?	mars	3
+5 Yann is hungry.
+6 Where will yann go?	mars	5
+7 Sumit went to the mars.
+8 Why did sumit go to the mars?	thirsty	1
+9 Yann travelled to the mars.
+10 Why did yann go to the mars?	hungry	5
+11 Antoine is thirsty.
+12 Where will antoine go?	mars	11
+13 Jason travelled to the mars.
+14 Why did jason go to the mars?	thirsty	3
+15 Sumit picked up the milk there.
+16 Why did sumit get the milk?	thirsty	1
+17 Antoine travelled to the mars.
+18 Why did antoine go to the mars?	thirsty	11
+19 Yann got the apple there.
+20 Why did yann get the apple?	hungry	5
+1 Yann is thirsty.
+2 Where will yann go?	mars	1
+3 Antoine is bored.
+4 Where will antoine go?	venus	3
+5 Antoine journeyed to the venus.
+6 Why did antoine go to the venus?	bored	3
+7 Antoine picked up the football there.
+8 Why did antoine get the football?	bored	3
+9 Jason is thirsty.
+10 Where will jason go?	mars	9
+11 Sumit is bored.
+12 Where will sumit go?	venus	11
+13 Sumit went to the venus.
+14 Why did sumit go to the venus?	bored	11
+15 Jason travelled to the mars.
+16 Why did jason go to the mars?	thirsty	9
+17 Yann journeyed to the mars.
+18 Why did yann go to the mars?	thirsty	1
+19 Jason got the milk there.
+20 Why did jason get the milk?	thirsty	9
+1 Yann is hungry.
+2 Where will yann go?	mars	1
+3 Yann journeyed to the mars.
+4 Why did yann go to the mars?	hungry	1
+5 Sumit is tired.
+6 Where will sumit go?	earth	5
+7 Sumit travelled to the earth.
+8 Why did sumit go to the earth?	tired	5
+9 Sumit got the pajamas there.
+10 Why did sumit get the pajamas?	tired	5
+11 Yann got the apple there.
+12 Why did yann get the apple?	hungry	1
+13 Jason is tired.
+14 Where will jason go?	earth	13
+15 Antoine is bored.
+16 Where will antoine go?	venus	15
+17 Jason went to the earth.
+18 Why did jason go to the earth?	tired	13
+19 Antoine moved to the venus.
+20 Why did antoine go to the venus?	bored	15
+21 Antoine picked up the football there.
+22 Why did antoine get the football?	bored	15
+1 Jason is bored.
+2 Where will jason go?	venus	1
+3 Antoine is bored.
+4 Where will antoine go?	venus	3
+5 Yann is tired.
+6 Where will yann go?	earth	5
+7 Antoine travelled to the venus.
+8 Why did antoine go to the venus?	bored	3
+9 Yann went to the earth.
+10 Why did yann go to the earth?	tired	5
+11 Yann took the pajamas there.
+12 Why did yann get the pajamas?	tired	5
+13 Jason went to the venus.
+14 Why did jason go to the venus?	bored	1
+15 Jason took the football there.
+16 Why did jason get the football?	bored	1
+17 Sumit is thirsty.
+18 Where will sumit go?	mars	17
+19 Sumit went to the mars.
+20 Why did sumit go to the mars?	thirsty	17
+21 Sumit got the milk there.
+22 Why did sumit get the milk?	thirsty	17
+1 Sumit is bored.
+2 Where will sumit go?	venus	1
+3 Antoine is thirsty.
+4 Where will antoine go?	mars	3
+5 Antoine went to the mars.
+6 Why did antoine go to the mars?	thirsty	3
+7 Yann is hungry.
+8 Where will yann go?	mars	7
+9 Antoine picked up the milk there.
+10 Why did antoine get the milk?	thirsty	3
+11 Jason is bored.
+12 Where will jason go?	venus	11
+13 Yann journeyed to the mars.
+14 Why did yann go to the mars?	hungry	7
+15 Yann got the apple there.
+16 Why did yann get the apple?	hungry	7
+17 Jason travelled to the venus.
+18 Why did jason go to the venus?	bored	11
+19 Jason took the football there.
+20 Why did jason get the football?	bored	11
+21 Sumit went back to the venus.
+22 Why did sumit go to the venus?	bored	1
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Yann is hungry.
+4 Where will yann go?	mars	3
+5 Sumit is hungry.
+6 Where will sumit go?	mars	5
+7 Sumit went to the mars.
+8 Why did sumit go to the mars?	hungry	5
+9 Antoine went back to the earth.
+10 Why did antoine go to the earth?	tired	1
+11 Sumit grabbed the apple there.
+12 Why did sumit get the apple?	hungry	5
+13 Jason is thirsty.
+14 Where will jason go?	mars	13
+15 Antoine took the pajamas there.
+16 Why did antoine get the pajamas?	tired	1
+17 Jason moved to the mars.
+18 Why did jason go to the mars?	thirsty	13
+19 Yann journeyed to the mars.
+20 Why did yann go to the mars?	hungry	3
+21 Jason took the milk there.
+22 Why did jason get the milk?	thirsty	13
+1 Sumit is thirsty.
+2 Where will sumit go?	mars	1
+3 Sumit moved to the mars.
+4 Why did sumit go to the mars?	thirsty	1
+5 Yann is tired.
+6 Where will yann go?	earth	5
+7 Sumit picked up the milk there.
+8 Why did sumit get the milk?	thirsty	1
+9 Antoine is hungry.
+10 Where will antoine go?	mars	9
+11 Jason is hungry.
+12 Where will jason go?	mars	11
+13 Antoine journeyed to the mars.
+14 Why did antoine go to the mars?	hungry	9
+15 Yann travelled to the earth.
+16 Why did yann go to the earth?	tired	5
+17 Antoine grabbed the apple there.
+18 Why did antoine get the apple?	hungry	9
+19 Jason went to the mars.
+20 Why did jason go to the mars?	hungry	11
+21 Yann picked up the pajamas there.
+22 Why did yann get the pajamas?	tired	5
+1 Antoine is bored.
+2 Where will antoine go?	venus	1
+3 Jason is bored.
+4 Where will jason go?	venus	3
+5 Yann is hungry.
+6 Where will yann go?	mars	5
+7 Antoine moved to the venus.
+8 Why did antoine go to the venus?	bored	1
+9 Jason travelled to the venus.
+10 Why did jason go to the venus?	bored	3
+11 Antoine picked up the football there.
+12 Why did antoine get the football?	bored	1
+13 Yann went to the mars.
+14 Why did yann go to the mars?	hungry	5
+15 Yann got the apple there.
+16 Why did yann get the apple?	hungry	5
+17 Sumit is hungry.
+18 Where will sumit go?	mars	17
+19 Sumit travelled to the mars.
+20 Why did sumit go to the mars?	hungry	17
+1 Antoine is hungry.
+2 Where will antoine go?	mars	1
+3 Sumit is tired.
+4 Where will sumit go?	earth	3
+5 Sumit moved to the earth.
+6 Why did sumit go to the earth?	tired	3
+7 Sumit took the pajamas there.
+8 Why did sumit get the pajamas?	tired	3
+9 Jason is bored.
+10 Where will jason go?	venus	9
+11 Antoine went back to the mars.
+12 Why did antoine go to the mars?	hungry	1
+13 Yann is hungry.
+14 Where will yann go?	mars	13
+15 Jason went to the venus.
+16 Why did jason go to the venus?	bored	9
+17 Jason took the football there.
+18 Why did jason get the football?	bored	9
+19 Yann went to the mars.
+20 Why did yann go to the mars?	hungry	13
+21 Yann grabbed the apple there.
+22 Why did yann get the apple?	hungry	13
+1 Yann is thirsty.
+2 Where will yann go?	mars	1
+3 Antoine is bored.
+4 Where will antoine go?	venus	3
+5 Yann went back to the mars.
+6 Why did yann go to the mars?	thirsty	1
+7 Yann grabbed the milk there.
+8 Why did yann get the milk?	thirsty	1
+9 Jason is hungry.
+10 Where will jason go?	mars	9
+11 Jason journeyed to the mars.
+12 Why did jason go to the mars?	hungry	9
+13 Antoine went back to the venus.
+14 Why did antoine go to the venus?	bored	3
+15 Jason grabbed the apple there.
+16 Why did jason get the apple?	hungry	9
+17 Sumit is bored.
+18 Where will sumit go?	venus	17
+19 Sumit travelled to the venus.
+20 Why did sumit go to the venus?	bored	17
+21 Sumit grabbed the football there.
+22 Why did sumit get the football?	bored	17
+1 Yann is bored.
+2 Where will yann go?	venus	1
+3 Sumit is tired.
+4 Where will sumit go?	earth	3
+5 Antoine is thirsty.
+6 Where will antoine go?	mars	5
+7 Jason is tired.
+8 Where will jason go?	earth	7
+9 Sumit journeyed to the earth.
+10 Why did sumit go to the earth?	tired	3
+11 Antoine travelled to the mars.
+12 Why did antoine go to the mars?	thirsty	5
+13 Yann travelled to the venus.
+14 Why did yann go to the venus?	bored	1
+15 Sumit grabbed the pajamas there.
+16 Why did sumit get the pajamas?	tired	3
+17 Yann grabbed the football there.
+18 Why did yann get the football?	bored	1
+19 Jason journeyed to the earth.
+20 Why did jason go to the earth?	tired	7
+21 Antoine took the milk there.
+22 Why did antoine get the milk?	thirsty	5
+1 Jason is tired.
+2 Where will jason go?	earth	1
+3 Antoine is hungry.
+4 Where will antoine go?	mars	3
+5 Yann is hungry.
+6 Where will yann go?	mars	5
+7 Jason journeyed to the earth.
+8 Why did jason go to the earth?	tired	1
+9 Yann travelled to the mars.
+10 Why did yann go to the mars?	hungry	5
+11 Yann grabbed the apple there.
+12 Why did yann get the apple?	hungry	5
+13 Jason took the pajamas there.
+14 Why did jason get the pajamas?	tired	1
+15 Sumit is bored.
+16 Where will sumit go?	venus	15
+17 Sumit went back to the venus.
+18 Why did sumit go to the venus?	bored	15
+19 Antoine moved to the mars.
+20 Why did antoine go to the mars?	hungry	3
+21 Sumit took the football there.
+22 Why did sumit get the football?	bored	15
+1 Yann is thirsty.
+2 Where will yann go?	mars	1
+3 Yann journeyed to the mars.
+4 Why did yann go to the mars?	thirsty	1
+5 Sumit is thirsty.
+6 Where will sumit go?	mars	5
+7 Yann picked up the milk there.
+8 Why did yann get the milk?	thirsty	1
+9 Antoine is tired.
+10 Where will antoine go?	earth	9
+11 Jason is tired.
+12 Where will jason go?	earth	11
+13 Sumit went back to the mars.
+14 Why did sumit go to the mars?	thirsty	5
+15 Antoine went back to the earth.
+16 Why did antoine go to the earth?	tired	9
+17 Antoine took the pajamas there.
+18 Why did antoine get the pajamas?	tired	9
+19 Jason travelled to the earth.
+20 Why did jason go to the earth?	tired	11
+1 Jason is thirsty.
+2 Where will jason go?	mars	1
+3 Sumit is thirsty.
+4 Where will sumit go?	mars	3
+5 Yann is bored.
+6 Where will yann go?	venus	5
+7 Yann travelled to the venus.
+8 Why did yann go to the venus?	bored	5
+9 Antoine is thirsty.
+10 Where will antoine go?	mars	9
+11 Yann got the football there.
+12 Why did yann get the football?	bored	5
+13 Sumit went to the mars.
+14 Why did sumit go to the mars?	thirsty	3
+15 Antoine went back to the mars.
+16 Why did antoine go to the mars?	thirsty	9
+17 Jason moved to the mars.
+18 Why did jason go to the mars?	thirsty	1
+19 Jason got the milk there.
+20 Why did jason get the milk?	thirsty	1
+1 Antoine is thirsty.
+2 Where will antoine go?	mars	1
+3 Yann is tired.
+4 Where will yann go?	earth	3
+5 Jason is tired.
+6 Where will jason go?	earth	5
+7 Jason went to the earth.
+8 Why did jason go to the earth?	tired	5
+9 Antoine travelled to the mars.
+10 Why did antoine go to the mars?	thirsty	1
+11 Yann journeyed to the earth.
+12 Why did yann go to the earth?	tired	3
+13 Jason picked up the pajamas there.
+14 Why did jason get the pajamas?	tired	5
+15 Sumit is tired.
+16 Where will sumit go?	earth	15
+17 Sumit went to the earth.
+18 Why did sumit go to the earth?	tired	15
+19 Antoine took the milk there.
+20 Why did antoine get the milk?	thirsty	1
+1 Antoine is thirsty.
+2 Where will antoine go?	mars	1
+3 Antoine went back to the mars.
+4 Why did antoine go to the mars?	thirsty	1
+5 Sumit is thirsty.
+6 Where will sumit go?	mars	5
+7 Sumit travelled to the mars.
+8 Why did sumit go to the mars?	thirsty	5
+9 Sumit got the milk there.
+10 Why did sumit get the milk?	thirsty	5
+11 Yann is hungry.
+12 Where will yann go?	mars	11
+13 Jason is hungry.
+14 Where will jason go?	mars	13
+15 Jason travelled to the mars.
+16 Why did jason go to the mars?	hungry	13
+17 Yann travelled to the mars.
+18 Why did yann go to the mars?	hungry	11
+19 Jason grabbed the apple there.
+20 Why did jason get the apple?	hungry	13
+1 Yann is thirsty.
+2 Where will yann go?	mars	1
+3 Sumit is thirsty.
+4 Where will sumit go?	mars	3
+5 Jason is thirsty.
+6 Where will jason go?	mars	5
+7 Sumit journeyed to the mars.
+8 Why did sumit go to the mars?	thirsty	3
+9 Jason travelled to the mars.
+10 Why did jason go to the mars?	thirsty	5
+11 Yann moved to the mars.
+12 Why did yann go to the mars?	thirsty	1
+13 Sumit took the milk there.
+14 Why did sumit get the milk?	thirsty	3
+15 Antoine is hungry.
+16 Where will antoine go?	mars	15
+17 Antoine travelled to the mars.
+18 Why did antoine go to the mars?	hungry	15
+19 Antoine grabbed the apple there.
+20 Why did antoine get the apple?	hungry	15
+1 Yann is thirsty.
+2 Where will yann go?	mars	1
+3 Yann moved to the mars.
+4 Why did yann go to the mars?	thirsty	1
+5 Antoine is bored.
+6 Where will antoine go?	venus	5
+7 Sumit is hungry.
+8 Where will sumit go?	mars	7
+9 Sumit went back to the mars.
+10 Why did sumit go to the mars?	hungry	7
+11 Antoine went back to the venus.
+12 Why did antoine go to the venus?	bored	5
+13 Yann took the milk there.
+14 Why did yann get the milk?	thirsty	1
+15 Antoine picked up the football there.
+16 Why did antoine get the football?	bored	5
+17 Sumit got the apple there.
+18 Why did sumit get the apple?	hungry	7
+19 Jason is tired.
+20 Where will jason go?	earth	19
+21 Jason went to the earth.
+22 Why did jason go to the earth?	tired	19
+23 Jason picked up the pajamas there.
+24 Why did jason get the pajamas?	tired	19
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Jason is bored.
+4 Where will jason go?	venus	3
+5 Sumit is bored.
+6 Where will sumit go?	venus	5
+7 Yann is bored.
+8 Where will yann go?	venus	7
+9 Yann journeyed to the venus.
+10 Why did yann go to the venus?	bored	7
+11 Jason went to the venus.
+12 Why did jason go to the venus?	bored	3
+13 Jason picked up the football there.
+14 Why did jason get the football?	bored	3
+15 Sumit went back to the venus.
+16 Why did sumit go to the venus?	bored	5
+17 Antoine journeyed to the earth.
+18 Why did antoine go to the earth?	tired	1
+19 Antoine took the pajamas there.
+20 Why did antoine get the pajamas?	tired	1
+1 Sumit is hungry.
+2 Where will sumit go?	mars	1
+3 Sumit journeyed to the mars.
+4 Why did sumit go to the mars?	hungry	1
+5 Antoine is thirsty.
+6 Where will antoine go?	mars	5
+7 Yann is tired.
+8 Where will yann go?	earth	7
+9 Jason is hungry.
+10 Where will jason go?	mars	9
+11 Antoine went to the mars.
+12 Why did antoine go to the mars?	thirsty	5
+13 Yann moved to the earth.
+14 Why did yann go to the earth?	tired	7
+15 Yann took the pajamas there.
+16 Why did yann get the pajamas?	tired	7
+17 Sumit got the apple there.
+18 Why did sumit get the apple?	hungry	1
+19 Antoine grabbed the milk there.
+20 Why did antoine get the milk?	thirsty	5
+21 Jason went back to the mars.
+22 Why did jason go to the mars?	hungry	9
+1 Jason is hungry.
+2 Where will jason go?	mars	1
+3 Yann is bored.
+4 Where will yann go?	venus	3
+5 Sumit is bored.
+6 Where will sumit go?	venus	5
+7 Antoine is hungry.
+8 Where will antoine go?	mars	7
+9 Antoine went back to the mars.
+10 Why did antoine go to the mars?	hungry	7
+11 Antoine grabbed the apple there.
+12 Why did antoine get the apple?	hungry	7
+13 Yann went to the venus.
+14 Why did yann go to the venus?	bored	3
+15 Jason journeyed to the mars.
+16 Why did jason go to the mars?	hungry	1
+17 Sumit travelled to the venus.
+18 Why did sumit go to the venus?	bored	5
+19 Sumit grabbed the football there.
+20 Why did sumit get the football?	bored	5
+1 Sumit is bored.
+2 Where will sumit go?	venus	1
+3 Antoine is thirsty.
+4 Where will antoine go?	mars	3
+5 Jason is thirsty.
+6 Where will jason go?	mars	5
+7 Sumit travelled to the venus.
+8 Why did sumit go to the venus?	bored	1
+9 Antoine went back to the mars.
+10 Why did antoine go to the mars?	thirsty	3
+11 Jason moved to the mars.
+12 Why did jason go to the mars?	thirsty	5
+13 Jason grabbed the milk there.
+14 Why did jason get the milk?	thirsty	5
+15 Sumit picked up the football there.
+16 Why did sumit get the football?	bored	1
+17 Yann is bored.
+18 Where will yann go?	venus	17
+19 Yann moved to the venus.
+20 Why did yann go to the venus?	bored	17
+1 Antoine is hungry.
+2 Where will antoine go?	mars	1
+3 Antoine went to the mars.
+4 Why did antoine go to the mars?	hungry	1
+5 Sumit is thirsty.
+6 Where will sumit go?	mars	5
+7 Yann is bored.
+8 Where will yann go?	venus	7
+9 Yann moved to the venus.
+10 Why did yann go to the venus?	bored	7
+11 Antoine grabbed the apple there.
+12 Why did antoine get the apple?	hungry	1
+13 Jason is bored.
+14 Where will jason go?	venus	13
+15 Yann picked up the football there.
+16 Why did yann get the football?	bored	7
+17 Jason went to the venus.
+18 Why did jason go to the venus?	bored	13
+19 Sumit moved to the mars.
+20 Why did sumit go to the mars?	thirsty	5
+21 Sumit picked up the milk there.
+22 Why did sumit get the milk?	thirsty	5
+1 Yann is bored.
+2 Where will yann go?	venus	1
+3 Yann went back to the venus.
+4 Why did yann go to the venus?	bored	1
+5 Antoine is hungry.
+6 Where will antoine go?	mars	5
+7 Sumit is bored.
+8 Where will sumit go?	venus	7
+9 Sumit went to the venus.
+10 Why did sumit go to the venus?	bored	7
+11 Sumit took the football there.
+12 Why did sumit get the football?	bored	7
+13 Jason is tired.
+14 Where will jason go?	earth	13
+15 Jason journeyed to the earth.
+16 Why did jason go to the earth?	tired	13
+17 Antoine went to the mars.
+18 Why did antoine go to the mars?	hungry	5
+19 Jason picked up the pajamas there.
+20 Why did jason get the pajamas?	tired	13
+21 Antoine took the apple there.
+22 Why did antoine get the apple?	hungry	5
+1 Sumit is thirsty.
+2 Where will sumit go?	mars	1
+3 Yann is thirsty.
+4 Where will yann go?	mars	3
+5 Antoine is hungry.
+6 Where will antoine go?	mars	5
+7 Sumit travelled to the mars.
+8 Why did sumit go to the mars?	thirsty	1
+9 Antoine journeyed to the mars.
+10 Why did antoine go to the mars?	hungry	5
+11 Yann journeyed to the mars.
+12 Why did yann go to the mars?	thirsty	3
+13 Sumit got the milk there.
+14 Why did sumit get the milk?	thirsty	1
+15 Jason is tired.
+16 Where will jason go?	earth	15
+17 Jason journeyed to the earth.
+18 Why did jason go to the earth?	tired	15
+19 Jason took the pajamas there.
+20 Why did jason get the pajamas?	tired	15
+21 Antoine picked up the apple there.
+22 Why did antoine get the apple?	hungry	5
+1 Antoine is bored.
+2 Where will antoine go?	venus	1
+3 Sumit is thirsty.
+4 Where will sumit go?	mars	3
+5 Sumit went to the mars.
+6 Why did sumit go to the mars?	thirsty	3
+7 Sumit grabbed the milk there.
+8 Why did sumit get the milk?	thirsty	3
+9 Jason is thirsty.
+10 Where will jason go?	mars	9
+11 Antoine went back to the venus.
+12 Why did antoine go to the venus?	bored	1
+13 Antoine took the football there.
+14 Why did antoine get the football?	bored	1
+15 Yann is tired.
+16 Where will yann go?	earth	15
+17 Yann went to the earth.
+18 Why did yann go to the earth?	tired	15
+19 Yann took the pajamas there.
+20 Why did yann get the pajamas?	tired	15
+21 Jason travelled to the mars.
+22 Why did jason go to the mars?	thirsty	9
+1 Yann is tired.
+2 Where will yann go?	earth	1
+3 Sumit is bored.
+4 Where will sumit go?	venus	3
+5 Yann travelled to the earth.
+6 Why did yann go to the earth?	tired	1
+7 Jason is thirsty.
+8 Where will jason go?	mars	7
+9 Jason went to the mars.
+10 Why did jason go to the mars?	thirsty	7
+11 Yann picked up the pajamas there.
+12 Why did yann get the pajamas?	tired	1
+13 Jason picked up the milk there.
+14 Why did jason get the milk?	thirsty	7
+15 Sumit moved to the venus.
+16 Why did sumit go to the venus?	bored	3
+17 Antoine is thirsty.
+18 Where will antoine go?	mars	17
+19 Antoine went back to the mars.
+20 Why did antoine go to the mars?	thirsty	17
+21 Sumit picked up the football there.
+22 Why did sumit get the football?	bored	3
+1 Sumit is hungry.
+2 Where will sumit go?	mars	1
+3 Antoine is thirsty.
+4 Where will antoine go?	mars	3
+5 Sumit went back to the mars.
+6 Why did sumit go to the mars?	hungry	1
+7 Antoine moved to the mars.
+8 Why did antoine go to the mars?	thirsty	3
+9 Antoine picked up the milk there.
+10 Why did antoine get the milk?	thirsty	3
+11 Sumit picked up the apple there.
+12 Why did sumit get the apple?	hungry	1
+13 Yann is bored.
+14 Where will yann go?	venus	13
+15 Yann moved to the venus.
+16 Why did yann go to the venus?	bored	13
+17 Yann got the football there.
+18 Why did yann get the football?	bored	13
+19 Jason is tired.
+20 Where will jason go?	earth	19
+21 Jason journeyed to the earth.
+22 Why did jason go to the earth?	tired	19
+23 Jason grabbed the pajamas there.
+24 Why did jason get the pajamas?	tired	19
+1 Antoine is hungry.
+2 Where will antoine go?	mars	1
+3 Yann is hungry.
+4 Where will yann go?	mars	3
+5 Antoine went back to the mars.
+6 Why did antoine go to the mars?	hungry	1
+7 Antoine took the apple there.
+8 Why did antoine get the apple?	hungry	1
+9 Sumit is hungry.
+10 Where will sumit go?	mars	9
+11 Sumit went to the mars.
+12 Why did sumit go to the mars?	hungry	9
+13 Jason is tired.
+14 Where will jason go?	earth	13
+15 Yann journeyed to the mars.
+16 Why did yann go to the mars?	hungry	3
+17 Jason travelled to the earth.
+18 Why did jason go to the earth?	tired	13
+19 Jason took the pajamas there.
+20 Why did jason get the pajamas?	tired	13
+1 Sumit is bored.
+2 Where will sumit go?	venus	1
+3 Sumit went to the venus.
+4 Why did sumit go to the venus?	bored	1
+5 Antoine is tired.
+6 Where will antoine go?	earth	5
+7 Sumit picked up the football there.
+8 Why did sumit get the football?	bored	1
+9 Yann is tired.
+10 Where will yann go?	earth	9
+11 Antoine moved to the earth.
+12 Why did antoine go to the earth?	tired	5
+13 Yann went back to the earth.
+14 Why did yann go to the earth?	tired	9
+15 Yann took the pajamas there.
+16 Why did yann get the pajamas?	tired	9
+17 Jason is bored.
+18 Where will jason go?	venus	17
+19 Jason travelled to the venus.
+20 Why did jason go to the venus?	bored	17
+1 Sumit is bored.
+2 Where will sumit go?	venus	1
+3 Jason is hungry.
+4 Where will jason go?	mars	3
+5 Yann is bored.
+6 Where will yann go?	venus	5
+7 Antoine is bored.
+8 Where will antoine go?	venus	7
+9 Yann journeyed to the venus.
+10 Why did yann go to the venus?	bored	5
+11 Yann grabbed the football there.
+12 Why did yann get the football?	bored	5
+13 Sumit journeyed to the venus.
+14 Why did sumit go to the venus?	bored	1
+15 Jason journeyed to the mars.
+16 Why did jason go to the mars?	hungry	3
+17 Jason grabbed the apple there.
+18 Why did jason get the apple?	hungry	3
+19 Antoine moved to the venus.
+20 Why did antoine go to the venus?	bored	7
+1 Yann is tired.
+2 Where will yann go?	earth	1
+3 Yann travelled to the earth.
+4 Why did yann go to the earth?	tired	1
+5 Sumit is tired.
+6 Where will sumit go?	earth	5
+7 Sumit went back to the earth.
+8 Why did sumit go to the earth?	tired	5
+9 Antoine is bored.
+10 Where will antoine go?	venus	9
+11 Sumit picked up the pajamas there.
+12 Why did sumit get the pajamas?	tired	5
+13 Jason is tired.
+14 Where will jason go?	earth	13
+15 Jason travelled to the earth.
+16 Why did jason go to the earth?	tired	13
+17 Antoine travelled to the venus.
+18 Why did antoine go to the venus?	bored	9
+19 Antoine got the football there.
+20 Why did antoine get the football?	bored	9
+1 Jason is bored.
+2 Where will jason go?	venus	1
+3 Antoine is tired.
+4 Where will antoine go?	earth	3
+5 Yann is thirsty.
+6 Where will yann go?	mars	5
+7 Yann went to the mars.
+8 Why did yann go to the mars?	thirsty	5
+9 Yann grabbed the milk there.
+10 Why did yann get the milk?	thirsty	5
+11 Antoine moved to the earth.
+12 Why did antoine go to the earth?	tired	3
+13 Antoine took the pajamas there.
+14 Why did antoine get the pajamas?	tired	3
+15 Sumit is hungry.
+16 Where will sumit go?	mars	15
+17 Jason moved to the venus.
+18 Why did jason go to the venus?	bored	1
+19 Jason picked up the football there.
+20 Why did jason get the football?	bored	1
+21 Sumit went to the mars.
+22 Why did sumit go to the mars?	hungry	15
+23 Sumit took the apple there.
+24 Why did sumit get the apple?	hungry	15
+1 Jason is hungry.
+2 Where will jason go?	mars	1
+3 Antoine is hungry.
+4 Where will antoine go?	mars	3
+5 Yann is bored.
+6 Where will yann go?	venus	5
+7 Sumit is tired.
+8 Where will sumit go?	earth	7
+9 Yann travelled to the venus.
+10 Why did yann go to the venus?	bored	5
+11 Antoine went back to the mars.
+12 Why did antoine go to the mars?	hungry	3
+13 Jason went back to the mars.
+14 Why did jason go to the mars?	hungry	1
+15 Antoine took the apple there.
+16 Why did antoine get the apple?	hungry	3
+17 Yann picked up the football there.
+18 Why did yann get the football?	bored	5
+19 Sumit went back to the earth.
+20 Why did sumit go to the earth?	tired	7
+21 Sumit grabbed the pajamas there.
+22 Why did sumit get the pajamas?	tired	7
+1 Jason is tired.
+2 Where will jason go?	earth	1
+3 Jason moved to the earth.
+4 Why did jason go to the earth?	tired	1
+5 Sumit is thirsty.
+6 Where will sumit go?	mars	5
+7 Antoine is hungry.
+8 Where will antoine go?	mars	7
+9 Antoine journeyed to the mars.
+10 Why did antoine go to the mars?	hungry	7
+11 Sumit journeyed to the mars.
+12 Why did sumit go to the mars?	thirsty	5
+13 Jason grabbed the pajamas there.
+14 Why did jason get the pajamas?	tired	1
+15 Antoine got the apple there.
+16 Why did antoine get the apple?	hungry	7
+17 Yann is thirsty.
+18 Where will yann go?	mars	17
+19 Sumit picked up the milk there.
+20 Why did sumit get the milk?	thirsty	5
+21 Yann journeyed to the mars.
+22 Why did yann go to the mars?	thirsty	17
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Antoine went back to the earth.
+4 Why did antoine go to the earth?	tired	1
+5 Sumit is hungry.
+6 Where will sumit go?	mars	5
+7 Yann is bored.
+8 Where will yann go?	venus	7
+9 Sumit journeyed to the mars.
+10 Why did sumit go to the mars?	hungry	5
+11 Sumit picked up the apple there.
+12 Why did sumit get the apple?	hungry	5
+13 Antoine picked up the pajamas there.
+14 Why did antoine get the pajamas?	tired	1
+15 Jason is hungry.
+16 Where will jason go?	mars	15
+17 Jason journeyed to the mars.
+18 Why did jason go to the mars?	hungry	15
+19 Yann moved to the venus.
+20 Why did yann go to the venus?	bored	7
+21 Yann picked up the football there.
+22 Why did yann get the football?	bored	7
+1 Jason is bored.
+2 Where will jason go?	venus	1
+3 Antoine is hungry.
+4 Where will antoine go?	mars	3
+5 Sumit is thirsty.
+6 Where will sumit go?	mars	5
+7 Yann is bored.
+8 Where will yann go?	venus	7
+9 Antoine moved to the mars.
+10 Why did antoine go to the mars?	hungry	3
+11 Antoine got the apple there.
+12 Why did antoine get the apple?	hungry	3
+13 Yann went back to the venus.
+14 Why did yann go to the venus?	bored	7
+15 Yann grabbed the football there.
+16 Why did yann get the football?	bored	7
+17 Jason moved to the venus.
+18 Why did jason go to the venus?	bored	1
+19 Sumit went back to the mars.
+20 Why did sumit go to the mars?	thirsty	5
+21 Sumit got the milk there.
+22 Why did sumit get the milk?	thirsty	5
+1 Yann is bored.
+2 Where will yann go?	venus	1
+3 Antoine is tired.
+4 Where will antoine go?	earth	3
+5 Antoine went back to the earth.
+6 Why did antoine go to the earth?	tired	3
+7 Jason is hungry.
+8 Where will jason go?	mars	7
+9 Jason went back to the mars.
+10 Why did jason go to the mars?	hungry	7
+11 Antoine grabbed the pajamas there.
+12 Why did antoine get the pajamas?	tired	3
+13 Sumit is tired.
+14 Where will sumit go?	earth	13
+15 Yann travelled to the venus.
+16 Why did yann go to the venus?	bored	1
+17 Jason grabbed the apple there.
+18 Why did jason get the apple?	hungry	7
+19 Sumit travelled to the earth.
+20 Why did sumit go to the earth?	tired	13
+21 Yann got the football there.
+22 Why did yann get the football?	bored	1
+1 Sumit is bored.
+2 Where will sumit go?	venus	1
+3 Jason is thirsty.
+4 Where will jason go?	mars	3
+5 Antoine is bored.
+6 Where will antoine go?	venus	5
+7 Yann is bored.
+8 Where will yann go?	venus	7
+9 Sumit went to the venus.
+10 Why did sumit go to the venus?	bored	1
+11 Yann moved to the venus.
+12 Why did yann go to the venus?	bored	7
+13 Antoine went to the venus.
+14 Why did antoine go to the venus?	bored	5
+15 Antoine took the football there.
+16 Why did antoine get the football?	bored	5
+17 Jason went back to the mars.
+18 Why did jason go to the mars?	thirsty	3
+19 Jason picked up the milk there.
+20 Why did jason get the milk?	thirsty	3
+1 Jason is bored.
+2 Where will jason go?	venus	1
+3 Antoine is tired.
+4 Where will antoine go?	earth	3
+5 Sumit is thirsty.
+6 Where will sumit go?	mars	5
+7 Yann is tired.
+8 Where will yann go?	earth	7
+9 Antoine went to the earth.
+10 Why did antoine go to the earth?	tired	3
+11 Jason went back to the venus.
+12 Why did jason go to the venus?	bored	1
+13 Yann journeyed to the earth.
+14 Why did yann go to the earth?	tired	7
+15 Antoine grabbed the pajamas there.
+16 Why did antoine get the pajamas?	tired	3
+17 Sumit went back to the mars.
+18 Why did sumit go to the mars?	thirsty	5
+19 Sumit picked up the milk there.
+20 Why did sumit get the milk?	thirsty	5
+21 Jason took the football there.
+22 Why did jason get the football?	bored	1
+1 Yann is bored.
+2 Where will yann go?	venus	1
+3 Sumit is hungry.
+4 Where will sumit go?	mars	3
+5 Jason is hungry.
+6 Where will jason go?	mars	5
+7 Jason went to the mars.
+8 Why did jason go to the mars?	hungry	5
+9 Sumit moved to the mars.
+10 Why did sumit go to the mars?	hungry	3
+11 Antoine is hungry.
+12 Where will antoine go?	mars	11
+13 Antoine journeyed to the mars.
+14 Why did antoine go to the mars?	hungry	11
+15 Jason grabbed the apple there.
+16 Why did jason get the apple?	hungry	5
+17 Yann travelled to the venus.
+18 Why did yann go to the venus?	bored	1
+19 Yann picked up the football there.
+20 Why did yann get the football?	bored	1
+1 Jason is thirsty.
+2 Where will jason go?	mars	1
+3 Yann is tired.
+4 Where will yann go?	earth	3
+5 Jason travelled to the mars.
+6 Why did jason go to the mars?	thirsty	1
+7 Yann journeyed to the earth.
+8 Why did yann go to the earth?	tired	3
+9 Jason picked up the milk there.
+10 Why did jason get the milk?	thirsty	1
+11 Antoine is tired.
+12 Where will antoine go?	earth	11
+13 Yann grabbed the pajamas there.
+14 Why did yann get the pajamas?	tired	3
+15 Sumit is thirsty.
+16 Where will sumit go?	mars	15
+17 Antoine travelled to the earth.
+18 Why did antoine go to the earth?	tired	11
+19 Sumit went to the mars.
+20 Why did sumit go to the mars?	thirsty	15
+1 Sumit is bored.
+2 Where will sumit go?	venus	1
+3 Sumit moved to the venus.
+4 Why did sumit go to the venus?	bored	1
+5 Sumit got the football there.
+6 Why did sumit get the football?	bored	1
+7 Yann is thirsty.
+8 Where will yann go?	mars	7
+9 Jason is hungry.
+10 Where will jason go?	mars	9
+11 Antoine is tired.
+12 Where will antoine go?	earth	11
+13 Jason travelled to the mars.
+14 Why did jason go to the mars?	hungry	9
+15 Jason picked up the apple there.
+16 Why did jason get the apple?	hungry	9
+17 Yann moved to the mars.
+18 Why did yann go to the mars?	thirsty	7
+19 Antoine travelled to the earth.
+20 Why did antoine go to the earth?	tired	11
+21 Antoine picked up the pajamas there.
+22 Why did antoine get the pajamas?	tired	11
+23 Yann grabbed the milk there.
+24 Why did yann get the milk?	thirsty	7
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Jason is bored.
+4 Where will jason go?	venus	3
+5 Antoine went to the earth.
+6 Why did antoine go to the earth?	tired	1
+7 Sumit is bored.
+8 Where will sumit go?	venus	7
+9 Yann is tired.
+10 Where will yann go?	earth	9
+11 Sumit moved to the venus.
+12 Why did sumit go to the venus?	bored	7
+13 Sumit took the football there.
+14 Why did sumit get the football?	bored	7
+15 Yann went back to the earth.
+16 Why did yann go to the earth?	tired	9
+17 Yann took the pajamas there.
+18 Why did yann get the pajamas?	tired	9
+19 Jason travelled to the venus.
+20 Why did jason go to the venus?	bored	3
+1 Jason is bored.
+2 Where will jason go?	venus	1
+3 Jason moved to the venus.
+4 Why did jason go to the venus?	bored	1
+5 Sumit is thirsty.
+6 Where will sumit go?	mars	5
+7 Yann is bored.
+8 Where will yann go?	venus	7
+9 Yann went to the venus.
+10 Why did yann go to the venus?	bored	7
+11 Jason got the football there.
+12 Why did jason get the football?	bored	1
+13 Antoine is tired.
+14 Where will antoine go?	earth	13
+15 Sumit journeyed to the mars.
+16 Why did sumit go to the mars?	thirsty	5
+17 Sumit got the milk there.
+18 Why did sumit get the milk?	thirsty	5
+19 Antoine moved to the earth.
+20 Why did antoine go to the earth?	tired	13
+21 Antoine grabbed the pajamas there.
+22 Why did antoine get the pajamas?	tired	13
+1 Jason is thirsty.
+2 Where will jason go?	mars	1
+3 Antoine is thirsty.
+4 Where will antoine go?	mars	3
+5 Sumit is bored.
+6 Where will sumit go?	venus	5
+7 Sumit went back to the venus.
+8 Why did sumit go to the venus?	bored	5
+9 Jason moved to the mars.
+10 Why did jason go to the mars?	thirsty	1
+11 Sumit got the football there.
+12 Why did sumit get the football?	bored	5
+13 Antoine went back to the mars.
+14 Why did antoine go to the mars?	thirsty	3
+15 Antoine got the milk there.
+16 Why did antoine get the milk?	thirsty	3
+17 Yann is hungry.
+18 Where will yann go?	mars	17
+19 Yann journeyed to the mars.
+20 Why did yann go to the mars?	hungry	17
+21 Yann got the apple there.
+22 Why did yann get the apple?	hungry	17
+1 Yann is tired.
+2 Where will yann go?	earth	1
+3 Antoine is thirsty.
+4 Where will antoine go?	mars	3
+5 Antoine journeyed to the mars.
+6 Why did antoine go to the mars?	thirsty	3
+7 Jason is tired.
+8 Where will jason go?	earth	7
+9 Jason travelled to the earth.
+10 Why did jason go to the earth?	tired	7
+11 Antoine grabbed the milk there.
+12 Why did antoine get the milk?	thirsty	3
+13 Yann went back to the earth.
+14 Why did yann go to the earth?	tired	1
+15 Jason grabbed the pajamas there.
+16 Why did jason get the pajamas?	tired	7
+17 Sumit is tired.
+18 Where will sumit go?	earth	17
+19 Sumit travelled to the earth.
+20 Why did sumit go to the earth?	tired	17
+1 Yann is thirsty.
+2 Where will yann go?	mars	1
+3 Antoine is hungry.
+4 Where will antoine go?	mars	3
+5 Jason is tired.
+6 Where will jason go?	earth	5
+7 Jason went back to the earth.
+8 Why did jason go to the earth?	tired	5
+9 Antoine went to the mars.
+10 Why did antoine go to the mars?	hungry	3
+11 Sumit is tired.
+12 Where will sumit go?	earth	11
+13 Yann went to the mars.
+14 Why did yann go to the mars?	thirsty	1
+15 Jason took the pajamas there.
+16 Why did jason get the pajamas?	tired	5
+17 Antoine took the apple there.
+18 Why did antoine get the apple?	hungry	3
+19 Sumit went to the earth.
+20 Why did sumit go to the earth?	tired	11
+21 Yann picked up the milk there.
+22 Why did yann get the milk?	thirsty	1
+1 Sumit is hungry.
+2 Where will sumit go?	mars	1
+3 Antoine is tired.
+4 Where will antoine go?	earth	3
+5 Antoine went to the earth.
+6 Why did antoine go to the earth?	tired	3
+7 Yann is tired.
+8 Where will yann go?	earth	7
+9 Yann journeyed to the earth.
+10 Why did yann go to the earth?	tired	7
+11 Antoine grabbed the pajamas there.
+12 Why did antoine get the pajamas?	tired	3
+13 Jason is hungry.
+14 Where will jason go?	mars	13
+15 Jason moved to the mars.
+16 Why did jason go to the mars?	hungry	13
+17 Sumit went back to the mars.
+18 Why did sumit go to the mars?	hungry	1
+19 Sumit grabbed the apple there.
+20 Why did sumit get the apple?	hungry	1
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Jason is bored.
+4 Where will jason go?	venus	3
+5 Yann is tired.
+6 Where will yann go?	earth	5
+7 Jason journeyed to the venus.
+8 Why did jason go to the venus?	bored	3
+9 Sumit is hungry.
+10 Where will sumit go?	mars	9
+11 Yann travelled to the earth.
+12 Why did yann go to the earth?	tired	5
+13 Antoine went to the earth.
+14 Why did antoine go to the earth?	tired	1
+15 Antoine got the pajamas there.
+16 Why did antoine get the pajamas?	tired	1
+17 Jason got the football there.
+18 Why did jason get the football?	bored	3
+19 Sumit journeyed to the mars.
+20 Why did sumit go to the mars?	hungry	9
+21 Sumit took the apple there.
+22 Why did sumit get the apple?	hungry	9
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Antoine went back to the earth.
+4 Why did antoine go to the earth?	tired	1
+5 Jason is hungry.
+6 Where will jason go?	mars	5
+7 Sumit is tired.
+8 Where will sumit go?	earth	7
+9 Yann is bored.
+10 Where will yann go?	venus	9
+11 Sumit went back to the earth.
+12 Why did sumit go to the earth?	tired	7
+13 Yann went to the venus.
+14 Why did yann go to the venus?	bored	9
+15 Antoine picked up the pajamas there.
+16 Why did antoine get the pajamas?	tired	1
+17 Yann got the football there.
+18 Why did yann get the football?	bored	9
+19 Jason moved to the mars.
+20 Why did jason go to the mars?	hungry	5
+21 Jason grabbed the apple there.
+22 Why did jason get the apple?	hungry	5
+1 Antoine is thirsty.
+2 Where will antoine go?	mars	1
+3 Sumit is hungry.
+4 Where will sumit go?	mars	3
+5 Jason is hungry.
+6 Where will jason go?	mars	5
+7 Sumit travelled to the mars.
+8 Why did sumit go to the mars?	hungry	3
+9 Antoine travelled to the mars.
+10 Why did antoine go to the mars?	thirsty	1
+11 Yann is tired.
+12 Where will yann go?	earth	11
+13 Jason went back to the mars.
+14 Why did jason go to the mars?	hungry	5
+15 Sumit picked up the apple there.
+16 Why did sumit get the apple?	hungry	3
+17 Yann moved to the earth.
+18 Why did yann go to the earth?	tired	11
+19 Antoine got the milk there.
+20 Why did antoine get the milk?	thirsty	1
+21 Yann got the pajamas there.
+22 Why did yann get the pajamas?	tired	11
+1 Antoine is hungry.
+2 Where will antoine go?	mars	1
+3 Yann is tired.
+4 Where will yann go?	earth	3
+5 Sumit is tired.
+6 Where will sumit go?	earth	5
+7 Sumit went back to the earth.
+8 Why did sumit go to the earth?	tired	5
+9 Antoine journeyed to the mars.
+10 Why did antoine go to the mars?	hungry	1
+11 Antoine got the apple there.
+12 Why did antoine get the apple?	hungry	1
+13 Jason is thirsty.
+14 Where will jason go?	mars	13
+15 Yann journeyed to the earth.
+16 Why did yann go to the earth?	tired	3
+17 Yann got the pajamas there.
+18 Why did yann get the pajamas?	tired	3
+19 Jason journeyed to the mars.
+20 Why did jason go to the mars?	thirsty	13
+21 Jason got the milk there.
+22 Why did jason get the milk?	thirsty	13
+1 Yann is bored.
+2 Where will yann go?	venus	1
+3 Antoine is tired.
+4 Where will antoine go?	earth	3
+5 Yann moved to the venus.
+6 Why did yann go to the venus?	bored	1
+7 Antoine moved to the earth.
+8 Why did antoine go to the earth?	tired	3
+9 Yann picked up the football there.
+10 Why did yann get the football?	bored	1
+11 Sumit is thirsty.
+12 Where will sumit go?	mars	11
+13 Antoine grabbed the pajamas there.
+14 Why did antoine get the pajamas?	tired	3
+15 Jason is tired.
+16 Where will jason go?	earth	15
+17 Jason went back to the earth.
+18 Why did jason go to the earth?	tired	15
+19 Sumit went back to the mars.
+20 Why did sumit go to the mars?	thirsty	11
+21 Sumit picked up the milk there.
+22 Why did sumit get the milk?	thirsty	11
+1 Sumit is tired.
+2 Where will sumit go?	earth	1
+3 Antoine is bored.
+4 Where will antoine go?	venus	3
+5 Jason is hungry.
+6 Where will jason go?	mars	5
+7 Antoine journeyed to the venus.
+8 Why did antoine go to the venus?	bored	3
+9 Yann is tired.
+10 Where will yann go?	earth	9
+11 Sumit travelled to the earth.
+12 Why did sumit go to the earth?	tired	1
+13 Sumit took the pajamas there.
+14 Why did sumit get the pajamas?	tired	1
+15 Jason moved to the mars.
+16 Why did jason go to the mars?	hungry	5
+17 Jason got the apple there.
+18 Why did jason get the apple?	hungry	5
+19 Antoine took the football there.
+20 Why did antoine get the football?	bored	3
+21 Yann journeyed to the earth.
+22 Why did yann go to the earth?	tired	9
+1 Sumit is hungry.
+2 Where will sumit go?	mars	1
+3 Sumit went back to the mars.
+4 Why did sumit go to the mars?	hungry	1
+5 Yann is thirsty.
+6 Where will yann go?	mars	5
+7 Yann moved to the mars.
+8 Why did yann go to the mars?	thirsty	5
+9 Yann grabbed the milk there.
+10 Why did yann get the milk?	thirsty	5
+11 Sumit grabbed the apple there.
+12 Why did sumit get the apple?	hungry	1
+13 Jason is bored.
+14 Where will jason go?	venus	13
+15 Antoine is bored.
+16 Where will antoine go?	venus	15
+17 Jason journeyed to the venus.
+18 Why did jason go to the venus?	bored	13
+19 Jason picked up the football there.
+20 Why did jason get the football?	bored	13
+21 Antoine moved to the venus.
+22 Why did antoine go to the venus?	bored	15
+1 Sumit is tired.
+2 Where will sumit go?	earth	1
+3 Jason is bored.
+4 Where will jason go?	venus	3
+5 Sumit moved to the earth.
+6 Why did sumit go to the earth?	tired	1
+7 Sumit took the pajamas there.
+8 Why did sumit get the pajamas?	tired	1
+9 Antoine is tired.
+10 Where will antoine go?	earth	9
+11 Antoine journeyed to the earth.
+12 Why did antoine go to the earth?	tired	9
+13 Yann is hungry.
+14 Where will yann go?	mars	13
+15 Jason journeyed to the venus.
+16 Why did jason go to the venus?	bored	3
+17 Jason got the football there.
+18 Why did jason get the football?	bored	3
+19 Yann journeyed to the mars.
+20 Why did yann go to the mars?	hungry	13
+21 Yann took the apple there.
+22 Why did yann get the apple?	hungry	13
+1 Jason is tired.
+2 Where will jason go?	earth	1
+3 Yann is bored.
+4 Where will yann go?	venus	3
+5 Sumit is thirsty.
+6 Where will sumit go?	mars	5
+7 Antoine is hungry.
+8 Where will antoine go?	mars	7
+9 Sumit travelled to the mars.
+10 Why did sumit go to the mars?	thirsty	5
+11 Yann moved to the venus.
+12 Why did yann go to the venus?	bored	3
+13 Yann grabbed the football there.
+14 Why did yann get the football?	bored	3
+15 Sumit took the milk there.
+16 Why did sumit get the milk?	thirsty	5
+17 Jason went back to the earth.
+18 Why did jason go to the earth?	tired	1
+19 Antoine travelled to the mars.
+20 Why did antoine go to the mars?	hungry	7
+21 Jason picked up the pajamas there.
+22 Why did jason get the pajamas?	tired	1
+23 Antoine picked up the apple there.
+24 Why did antoine get the apple?	hungry	7
+1 Yann is tired.
+2 Where will yann go?	earth	1
+3 Antoine is thirsty.
+4 Where will antoine go?	mars	3
+5 Sumit is bored.
+6 Where will sumit go?	venus	5
+7 Yann travelled to the earth.
+8 Why did yann go to the earth?	tired	1
+9 Sumit moved to the venus.
+10 Why did sumit go to the venus?	bored	5
+11 Antoine went back to the mars.
+12 Why did antoine go to the mars?	thirsty	3
+13 Antoine took the milk there.
+14 Why did antoine get the milk?	thirsty	3
+15 Jason is tired.
+16 Where will jason go?	earth	15
+17 Yann took the pajamas there.
+18 Why did yann get the pajamas?	tired	1
+19 Jason travelled to the earth.
+20 Why did jason go to the earth?	tired	15
+21 Sumit got the football there.
+22 Why did sumit get the football?	bored	5
+1 Jason is thirsty.
+2 Where will jason go?	mars	1
+3 Sumit is bored.
+4 Where will sumit go?	venus	3
+5 Yann is hungry.
+6 Where will yann go?	mars	5
+7 Sumit journeyed to the venus.
+8 Why did sumit go to the venus?	bored	3
+9 Sumit picked up the football there.
+10 Why did sumit get the football?	bored	3
+11 Jason went back to the mars.
+12 Why did jason go to the mars?	thirsty	1
+13 Yann journeyed to the mars.
+14 Why did yann go to the mars?	hungry	5
+15 Yann grabbed the apple there.
+16 Why did yann get the apple?	hungry	5
+17 Antoine is thirsty.
+18 Where will antoine go?	mars	17
+19 Jason picked up the milk there.
+20 Why did jason get the milk?	thirsty	1
+21 Antoine travelled to the mars.
+22 Why did antoine go to the mars?	thirsty	17
+1 Jason is hungry.
+2 Where will jason go?	mars	1
+3 Yann is tired.
+4 Where will yann go?	earth	3
+5 Jason journeyed to the mars.
+6 Why did jason go to the mars?	hungry	1
+7 Sumit is tired.
+8 Where will sumit go?	earth	7
+9 Antoine is thirsty.
+10 Where will antoine go?	mars	9
+11 Antoine journeyed to the mars.
+12 Why did antoine go to the mars?	thirsty	9
+13 Antoine got the milk there.
+14 Why did antoine get the milk?	thirsty	9
+15 Jason took the apple there.
+16 Why did jason get the apple?	hungry	1
+17 Sumit journeyed to the earth.
+18 Why did sumit go to the earth?	tired	7
+19 Yann travelled to the earth.
+20 Why did yann go to the earth?	tired	3
+21 Yann grabbed the pajamas there.
+22 Why did yann get the pajamas?	tired	3
+1 Antoine is tired.
+2 Where will antoine go?	earth	1
+3 Jason is tired.
+4 Where will jason go?	earth	3
+5 Jason went back to the earth.
+6 Why did jason go to the earth?	tired	3
+7 Antoine journeyed to the earth.
+8 Why did antoine go to the earth?	tired	1
+9 Jason got the pajamas there.
+10 Why did jason get the pajamas?	tired	3
+11 Sumit is thirsty.
+12 Where will sumit go?	mars	11
+13 Yann is tired.
+14 Where will yann go?	earth	13
+15 Sumit travelled to the mars.
+16 Why did sumit go to the mars?	thirsty	11
+17 Yann went to the earth.
+18 Why did yann go to the earth?	tired	13
+19 Sumit took the milk there.
+20 Why did sumit get the milk?	thirsty	11
+1 Sumit is thirsty.
+2 Where will sumit go?	mars	1
+3 Antoine is hungry.
+4 Where will antoine go?	mars	3
+5 Yann is thirsty.
+6 Where will yann go?	mars	5
+7 Sumit travelled to the mars.
+8 Why did sumit go to the mars?	thirsty	1
+9 Yann journeyed to the mars.
+10 Why did yann go to the mars?	thirsty	5
+11 Jason is tired.
+12 Where will jason go?	earth	11
+13 Yann took the milk there.
+14 Why did yann get the milk?	thirsty	5
+15 Jason went back to the earth.
+16 Why did jason go to the earth?	tired	11
+17 Antoine went back to the mars.
+18 Why did antoine go to the mars?	hungry	3
+19 Jason got the pajamas there.
+20 Why did jason get the pajamas?	tired	11
+21 Antoine picked up the apple there.
+22 Why did antoine get the apple?	hungry	3
+1 Yann is hungry.
+2 Where will yann go?	mars	1
+3 Jason is tired.
+4 Where will jason go?	earth	3
+5 Jason travelled to the earth.
+6 Why did jason go to the earth?	tired	3
+7 Yann travelled to the mars.
+8 Why did yann go to the mars?	hungry	1
+9 Sumit is bored.
+10 Where will sumit go?	venus	9
+11 Yann took the apple there.
+12 Why did yann get the apple?	hungry	1
+13 Sumit travelled to the venus.
+14 Why did sumit go to the venus?	bored	9

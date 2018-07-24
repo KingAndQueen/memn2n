@@ -1,0 +1,3000 @@
+1 Colliani journeyed to the neptune.
+2 After that he journeyed to the venus.
+3 Where is Colliani? 	venus	1 2
+4 Colliani moved to the jupiter.
+5 Following that he went to the neptune.
+6 Where is Colliani? 	neptune	4 5
+7 Burnhard travelled to the earth.
+8 Then she moved to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Doud travelled to the neptune.
+11 Afterwards she went to the moon.
+12 Where is Burnhard? 	neptune	7 8
+13 Colliani went back to the jupiter.
+14 After that he moved to the moon.
+15 Where is Doud? 	moon	10 11
+1 Conn travelled to the jupiter.
+2 After that he went back to the mars.
+3 Where is Conn? 	mars	1 2
+4 Conn journeyed to the jupiter.
+5 After that he went to the mars.
+6 Where is Conn? 	mars	4 5
+7 Doud journeyed to the moon.
+8 Following that she travelled to the neptune.
+9 Where is Doud? 	neptune	7 8
+10 Conn went back to the neptune.
+11 Afterwards he went back to the venus.
+12 Where is Conn? 	venus	10 11
+13 Doud travelled to the moon.
+14 Following that she went back to the mars.
+15 Where is Doud? 	mars	13 14
+1 Colliani went to the neptune.
+2 Following that he went back to the mars.
+3 Where is Colliani? 	mars	1 2
+4 Burnhard travelled to the mars.
+5 After that she went back to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Colliani travelled to the venus.
+8 Then he went to the neptune.
+9 Where is Colliani? 	neptune	7 8
+10 Conn journeyed to the venus.
+11 Following that he travelled to the moon.
+12 Where is Conn? 	moon	10 11
+13 Colliani travelled to the mars.
+14 Following that he travelled to the moon.
+15 Where is Conn? 	moon	10 11
+1 Burnhard moved to the jupiter.
+2 Afterwards she journeyed to the mars.
+3 Where is Burnhard? 	mars	1 2
+4 Conn went to the neptune.
+5 Then he journeyed to the mars.
+6 Where is Burnhard? 	mars	1 2
+7 Burnhard travelled to the neptune.
+8 Afterwards she journeyed to the mars.
+9 Where is Burnhard? 	mars	7 8
+10 Conn moved to the venus.
+11 Then he went to the earth.
+12 Where is Conn? 	earth	10 11
+13 Burnhard went to the moon.
+14 Afterwards she went to the neptune.
+15 Where is Conn? 	earth	10 11
+1 Burnhard journeyed to the neptune.
+2 Then she journeyed to the mars.
+3 Where is Burnhard? 	mars	1 2
+4 Conn travelled to the mars.
+5 Afterwards he went back to the earth.
+6 Where is Conn? 	earth	4 5
+7 Conn moved to the moon.
+8 Then he travelled to the venus.
+9 Where is Conn? 	venus	7 8
+10 Conn went back to the jupiter.
+11 After that he moved to the moon.
+12 Where is Conn? 	moon	10 11
+13 Doud moved to the jupiter.
+14 Then she moved to the earth.
+15 Where is Doud? 	earth	13 14
+1 Colliani journeyed to the mars.
+2 Afterwards he moved to the earth.
+3 Where is Colliani? 	earth	1 2
+4 Doud moved to the moon.
+5 Afterwards she journeyed to the earth.
+6 Where is Colliani? 	earth	1 2
+7 Colliani went to the jupiter.
+8 Following that he travelled to the earth.
+9 Where is Colliani? 	earth	7 8
+10 Burnhard went to the moon.
+11 Then she went back to the neptune.
+12 Where is Colliani? 	earth	7 8
+13 Conn went back to the mars.
+14 Afterwards he went to the neptune.
+15 Where is Burnhard? 	neptune	10 11
+1 Doud moved to the mars.
+2 After that she went back to the neptune.
+3 Where is Doud? 	neptune	1 2
+4 Doud moved to the earth.
+5 Then she went to the neptune.
+6 Where is Doud? 	neptune	4 5
+7 Burnhard moved to the earth.
+8 Afterwards she travelled to the moon.
+9 Where is Doud? 	neptune	4 5
+10 Burnhard went back to the neptune.
+11 Then she travelled to the jupiter.
+12 Where is Burnhard? 	jupiter	10 11
+13 Conn moved to the neptune.
+14 After that he went back to the mars.
+15 Where is Burnhard? 	jupiter	10 11
+1 Doud travelled to the neptune.
+2 Afterwards she went to the mars.
+3 Where is Doud? 	mars	1 2
+4 Conn went back to the earth.
+5 After that he journeyed to the mars.
+6 Where is Doud? 	mars	1 2
+7 Conn went back to the jupiter.
+8 After that he journeyed to the neptune.
+9 Where is Conn? 	neptune	7 8
+10 Doud journeyed to the neptune.
+11 Afterwards she went to the mars.
+12 Where is Doud? 	mars	10 11
+13 Doud journeyed to the jupiter.
+14 Following that she travelled to the moon.
+15 Where is Conn? 	neptune	7 8
+1 Burnhard moved to the venus.
+2 After that she moved to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Doud went back to the neptune.
+5 Then she went back to the moon.
+6 Where is Burnhard? 	jupiter	1 2
+7 Burnhard went back to the earth.
+8 After that she journeyed to the jupiter.
+9 Where is Burnhard? 	jupiter	7 8
+10 Burnhard moved to the moon.
+11 After that she journeyed to the earth.
+12 Where is Burnhard? 	earth	10 11
+13 Colliani went to the jupiter.
+14 Afterwards he moved to the earth.
+15 Where is Burnhard? 	earth	10 11
+1 Burnhard moved to the venus.
+2 Then she journeyed to the earth.
+3 Where is Burnhard? 	earth	1 2
+4 Colliani went back to the mars.
+5 Then he went to the moon.
+6 Where is Colliani? 	moon	4 5
+7 Doud travelled to the mars.
+8 Following that she travelled to the earth.
+9 Where is Burnhard? 	earth	1 2
+10 Conn went to the earth.
+11 After that he went to the jupiter.
+12 Where is Doud? 	earth	7 8
+13 Conn moved to the neptune.
+14 Following that he went to the moon.
+15 Where is Doud? 	earth	7 8
+1 Colliani travelled to the moon.
+2 Following that he moved to the jupiter.
+3 Where is Colliani? 	jupiter	1 2
+4 Burnhard travelled to the mars.
+5 Then she went back to the earth.
+6 Where is Burnhard? 	earth	4 5
+7 Conn moved to the mars.
+8 Then he travelled to the neptune.
+9 Where is Colliani? 	jupiter	1 2
+10 Burnhard moved to the neptune.
+11 Then she went back to the venus.
+12 Where is Burnhard? 	venus	10 11
+13 Colliani went to the neptune.
+14 After that he moved to the venus.
+15 Where is Colliani? 	venus	13 14
+1 Colliani journeyed to the mars.
+2 Then he travelled to the venus.
+3 Where is Colliani? 	venus	1 2
+4 Colliani travelled to the moon.
+5 After that he went to the mars.
+6 Where is Colliani? 	mars	4 5
+7 Colliani travelled to the venus.
+8 Afterwards he went to the neptune.
+9 Where is Colliani? 	neptune	7 8
+10 Doud journeyed to the venus.
+11 Then she went to the earth.
+12 Where is Doud? 	earth	10 11
+13 Doud journeyed to the jupiter.
+14 Following that she moved to the venus.
+15 Where is Colliani? 	neptune	7 8
+1 Doud travelled to the venus.
+2 Following that she journeyed to the mars.
+3 Where is Doud? 	mars	1 2
+4 Burnhard travelled to the neptune.
+5 Then she went to the venus.
+6 Where is Burnhard? 	venus	4 5
+7 Burnhard journeyed to the jupiter.
+8 Following that she journeyed to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Conn went to the jupiter.
+11 Then he travelled to the mars.
+12 Where is Conn? 	mars	10 11
+13 Burnhard moved to the mars.
+14 Afterwards she journeyed to the jupiter.
+15 Where is Conn? 	mars	10 11
+1 Conn went back to the earth.
+2 Then he moved to the neptune.
+3 Where is Conn? 	neptune	1 2
+4 Colliani went back to the moon.
+5 Following that he went back to the venus.
+6 Where is Colliani? 	venus	4 5
+7 Doud moved to the jupiter.
+8 Following that she moved to the moon.
+9 Where is Colliani? 	venus	4 5
+10 Conn moved to the earth.
+11 After that he journeyed to the moon.
+12 Where is Conn? 	moon	10 11
+13 Burnhard journeyed to the jupiter.
+14 After that she moved to the neptune.
+15 Where is Doud? 	moon	7 8
+1 Doud journeyed to the earth.
+2 Following that she went back to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Conn moved to the earth.
+5 After that he journeyed to the venus.
+6 Where is Conn? 	venus	4 5
+7 Burnhard went back to the venus.
+8 Following that she went to the jupiter.
+9 Where is Doud? 	jupiter	1 2
+10 Conn travelled to the moon.
+11 Then he went back to the jupiter.
+12 Where is Conn? 	jupiter	10 11
+13 Burnhard travelled to the venus.
+14 After that she travelled to the neptune.
+15 Where is Burnhard? 	neptune	13 14
+1 Conn journeyed to the neptune.
+2 Then he journeyed to the moon.
+3 Where is Conn? 	moon	1 2
+4 Burnhard journeyed to the moon.
+5 Then she went back to the jupiter.
+6 Where is Conn? 	moon	1 2
+7 Colliani travelled to the mars.
+8 After that he journeyed to the venus.
+9 Where is Burnhard? 	jupiter	4 5
+10 Doud went to the venus.
+11 After that she moved to the mars.
+12 Where is Colliani? 	venus	7 8
+13 Colliani went to the jupiter.
+14 After that he moved to the earth.
+15 Where is Colliani? 	earth	13 14
+1 Conn journeyed to the venus.
+2 Afterwards he journeyed to the mars.
+3 Where is Conn? 	mars	1 2
+4 Burnhard went back to the mars.
+5 Then she moved to the jupiter.
+6 Where is Conn? 	mars	1 2
+7 Colliani moved to the jupiter.
+8 Afterwards he journeyed to the earth.
+9 Where is Colliani? 	earth	7 8
+10 Conn journeyed to the jupiter.
+11 After that he moved to the neptune.
+12 Where is Colliani? 	earth	7 8
+13 Burnhard went to the neptune.
+14 Following that she journeyed to the moon.
+15 Where is Conn? 	neptune	10 11
+1 Burnhard travelled to the moon.
+2 Then she went to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Burnhard moved to the earth.
+5 Afterwards she journeyed to the moon.
+6 Where is Burnhard? 	moon	4 5
+7 Colliani journeyed to the moon.
+8 After that he went to the venus.
+9 Where is Colliani? 	venus	7 8
+10 Burnhard went to the jupiter.
+11 Then she moved to the neptune.
+12 Where is Burnhard? 	neptune	10 11
+13 Burnhard journeyed to the mars.
+14 Afterwards she journeyed to the earth.
+15 Where is Burnhard? 	earth	13 14
+1 Colliani travelled to the mars.
+2 Afterwards he moved to the neptune.
+3 Where is Colliani? 	neptune	1 2
+4 Burnhard went back to the mars.
+5 Then she travelled to the moon.
+6 Where is Burnhard? 	moon	4 5
+7 Colliani went to the mars.
+8 Afterwards he went to the neptune.
+9 Where is Colliani? 	neptune	7 8
+10 Conn went to the earth.
+11 After that he went back to the jupiter.
+12 Where is Burnhard? 	moon	4 5
+13 Conn went back to the mars.
+14 Afterwards he travelled to the earth.
+15 Where is Conn? 	earth	13 14
+1 Burnhard moved to the neptune.
+2 Following that she went back to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Doud moved to the mars.
+5 Afterwards she moved to the moon.
+6 Where is Burnhard? 	moon	1 2
+7 Doud travelled to the neptune.
+8 Afterwards she went to the jupiter.
+9 Where is Doud? 	jupiter	7 8
+10 Burnhard moved to the neptune.
+11 After that she moved to the jupiter.
+12 Where is Burnhard? 	jupiter	10 11
+13 Colliani journeyed to the mars.
+14 Then he went back to the moon.
+15 Where is Burnhard? 	jupiter	10 11
+1 Doud travelled to the mars.
+2 Following that she journeyed to the venus.
+3 Where is Doud? 	venus	1 2
+4 Colliani journeyed to the mars.
+5 Afterwards he travelled to the earth.
+6 Where is Doud? 	venus	1 2
+7 Colliani journeyed to the mars.
+8 Then he went back to the jupiter.
+9 Where is Colliani? 	jupiter	7 8
+10 Conn journeyed to the neptune.
+11 After that he went to the earth.
+12 Where is Colliani? 	jupiter	7 8
+13 Doud went to the mars.
+14 Afterwards she went back to the venus.
+15 Where is Colliani? 	jupiter	7 8
+1 Conn went to the jupiter.
+2 After that he moved to the venus.
+3 Where is Conn? 	venus	1 2
+4 Colliani travelled to the mars.
+5 Afterwards he moved to the venus.
+6 Where is Conn? 	venus	1 2
+7 Colliani went back to the moon.
+8 Following that he moved to the earth.
+9 Where is Colliani? 	earth	7 8
+10 Doud moved to the jupiter.
+11 Following that she travelled to the venus.
+12 Where is Doud? 	venus	10 11
+13 Colliani went back to the mars.
+14 Afterwards he travelled to the moon.
+15 Where is Colliani? 	moon	13 14
+1 Conn moved to the venus.
+2 Afterwards he journeyed to the earth.
+3 Where is Conn? 	earth	1 2
+4 Conn moved to the jupiter.
+5 Then he went to the neptune.
+6 Where is Conn? 	neptune	4 5
+7 Burnhard moved to the earth.
+8 Then she moved to the neptune.
+9 Where is Conn? 	neptune	4 5
+10 Burnhard travelled to the mars.
+11 Then she went back to the neptune.
+12 Where is Burnhard? 	neptune	10 11
+13 Burnhard went to the venus.
+14 Following that she went back to the earth.
+15 Where is Burnhard? 	earth	13 14
+1 Doud went back to the mars.
+2 Following that she went to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Conn went back to the neptune.
+5 Then he went back to the jupiter.
+6 Where is Conn? 	jupiter	4 5
+7 Burnhard went to the earth.
+8 Then she went to the moon.
+9 Where is Burnhard? 	moon	7 8
+10 Colliani went to the neptune.
+11 Then he went back to the venus.
+12 Where is Conn? 	jupiter	4 5
+13 Doud moved to the mars.
+14 Afterwards she moved to the venus.
+15 Where is Burnhard? 	moon	7 8
+1 Conn moved to the mars.
+2 Following that he travelled to the jupiter.
+3 Where is Conn? 	jupiter	1 2
+4 Colliani travelled to the venus.
+5 Following that he journeyed to the mars.
+6 Where is Colliani? 	mars	4 5
+7 Doud went to the mars.
+8 After that she went back to the moon.
+9 Where is Doud? 	moon	7 8
+10 Doud went back to the venus.
+11 Afterwards she went back to the mars.
+12 Where is Doud? 	mars	10 11
+13 Colliani travelled to the earth.
+14 Following that he travelled to the jupiter.
+15 Where is Doud? 	mars	10 11
+1 Colliani went to the mars.
+2 After that he went back to the earth.
+3 Where is Colliani? 	earth	1 2
+4 Burnhard went to the jupiter.
+5 Then she travelled to the mars.
+6 Where is Colliani? 	earth	1 2
+7 Conn journeyed to the mars.
+8 Then he travelled to the moon.
+9 Where is Colliani? 	earth	1 2
+10 Burnhard moved to the neptune.
+11 After that she travelled to the earth.
+12 Where is Burnhard? 	earth	10 11
+13 Conn went to the jupiter.
+14 Afterwards he went back to the neptune.
+15 Where is Conn? 	neptune	13 14
+1 Conn travelled to the venus.
+2 Afterwards he journeyed to the neptune.
+3 Where is Conn? 	neptune	1 2
+4 Conn went to the venus.
+5 Following that he went to the neptune.
+6 Where is Conn? 	neptune	4 5
+7 Colliani travelled to the mars.
+8 After that he went back to the neptune.
+9 Where is Conn? 	neptune	4 5
+10 Colliani went to the venus.
+11 Following that he travelled to the earth.
+12 Where is Colliani? 	earth	10 11
+13 Colliani journeyed to the mars.
+14 Following that he went back to the moon.
+15 Where is Colliani? 	moon	13 14
+1 Doud went back to the mars.
+2 Then she went to the venus.
+3 Where is Doud? 	venus	1 2
+4 Colliani travelled to the venus.
+5 After that he moved to the moon.
+6 Where is Doud? 	venus	1 2
+7 Conn went to the venus.
+8 After that he went to the jupiter.
+9 Where is Conn? 	jupiter	7 8
+10 Doud travelled to the mars.
+11 Afterwards she journeyed to the neptune.
+12 Where is Conn? 	jupiter	7 8
+13 Colliani travelled to the jupiter.
+14 Following that he went back to the neptune.
+15 Where is Doud? 	neptune	10 11
+1 Colliani journeyed to the jupiter.
+2 After that he went to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Doud travelled to the jupiter.
+5 Afterwards she went to the venus.
+6 Where is Doud? 	venus	4 5
+7 Colliani went to the neptune.
+8 After that he travelled to the venus.
+9 Where is Colliani? 	venus	7 8
+10 Conn moved to the neptune.
+11 Afterwards he moved to the moon.
+12 Where is Colliani? 	venus	7 8
+13 Burnhard went back to the moon.
+14 Afterwards she moved to the venus.
+15 Where is Conn? 	moon	10 11
+1 Conn moved to the jupiter.
+2 Then he went to the venus.
+3 Where is Conn? 	venus	1 2
+4 Doud went to the neptune.
+5 Then she went to the jupiter.
+6 Where is Conn? 	venus	1 2
+7 Burnhard travelled to the neptune.
+8 Following that she went back to the earth.
+9 Where is Conn? 	venus	1 2
+10 Doud went to the earth.
+11 After that she went to the jupiter.
+12 Where is Doud? 	jupiter	10 11
+13 Burnhard journeyed to the neptune.
+14 Then she journeyed to the mars.
+15 Where is Doud? 	jupiter	10 11
+1 Doud went to the moon.
+2 Afterwards she went to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Doud travelled to the mars.
+5 Afterwards she journeyed to the moon.
+6 Where is Doud? 	moon	4 5
+7 Burnhard went to the jupiter.
+8 Then she went to the earth.
+9 Where is Burnhard? 	earth	7 8
+10 Burnhard went back to the jupiter.
+11 Following that she went to the mars.
+12 Where is Burnhard? 	mars	10 11
+13 Conn journeyed to the venus.
+14 Afterwards he travelled to the jupiter.
+15 Where is Conn? 	jupiter	13 14
+1 Burnhard went back to the earth.
+2 After that she moved to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Burnhard travelled to the earth.
+5 After that she went to the venus.
+6 Where is Burnhard? 	venus	4 5
+7 Colliani went to the earth.
+8 Following that he moved to the jupiter.
+9 Where is Colliani? 	jupiter	7 8
+10 Conn journeyed to the neptune.
+11 Following that he moved to the jupiter.
+12 Where is Colliani? 	jupiter	7 8
+13 Doud went back to the neptune.
+14 After that she travelled to the moon.
+15 Where is Conn? 	jupiter	10 11
+1 Colliani journeyed to the moon.
+2 Following that he moved to the mars.
+3 Where is Colliani? 	mars	1 2
+4 Colliani moved to the neptune.
+5 Then he travelled to the mars.
+6 Where is Colliani? 	mars	4 5
+7 Burnhard went back to the neptune.
+8 Following that she went back to the venus.
+9 Where is Burnhard? 	venus	7 8
+10 Colliani went back to the moon.
+11 Following that he went back to the mars.
+12 Where is Burnhard? 	venus	7 8
+13 Conn moved to the venus.
+14 Then he went to the mars.
+15 Where is Burnhard? 	venus	7 8
+1 Colliani journeyed to the venus.
+2 After that he moved to the jupiter.
+3 Where is Colliani? 	jupiter	1 2
+4 Burnhard went to the jupiter.
+5 Then she moved to the earth.
+6 Where is Burnhard? 	earth	4 5
+7 Conn moved to the jupiter.
+8 Following that he moved to the venus.
+9 Where is Burnhard? 	earth	4 5
+10 Colliani went back to the venus.
+11 Following that he journeyed to the jupiter.
+12 Where is Colliani? 	jupiter	10 11
+13 Doud went to the earth.
+14 Then she journeyed to the moon.
+15 Where is Colliani? 	jupiter	10 11
+1 Doud went back to the mars.
+2 After that she travelled to the neptune.
+3 Where is Doud? 	neptune	1 2
+4 Conn travelled to the earth.
+5 Afterwards he travelled to the moon.
+6 Where is Doud? 	neptune	1 2
+7 Doud journeyed to the jupiter.
+8 Following that she travelled to the earth.
+9 Where is Doud? 	earth	7 8
+10 Conn moved to the venus.
+11 Following that he went back to the neptune.
+12 Where is Conn? 	neptune	10 11
+13 Burnhard moved to the moon.
+14 Following that she went back to the venus.
+15 Where is Burnhard? 	venus	13 14
+1 Doud journeyed to the neptune.
+2 Following that she travelled to the mars.
+3 Where is Doud? 	mars	1 2
+4 Conn journeyed to the jupiter.
+5 After that he journeyed to the venus.
+6 Where is Doud? 	mars	1 2
+7 Burnhard travelled to the mars.
+8 Then she went to the earth.
+9 Where is Burnhard? 	earth	7 8
+10 Conn went to the mars.
+11 Then he travelled to the earth.
+12 Where is Conn? 	earth	10 11
+13 Doud went to the jupiter.
+14 Then she moved to the mars.
+15 Where is Doud? 	mars	13 14
+1 Conn went back to the mars.
+2 Following that he journeyed to the jupiter.
+3 Where is Conn? 	jupiter	1 2
+4 Doud journeyed to the venus.
+5 Afterwards she moved to the earth.
+6 Where is Conn? 	jupiter	1 2
+7 Doud went to the neptune.
+8 Afterwards she travelled to the venus.
+9 Where is Doud? 	venus	7 8
+10 Colliani travelled to the venus.
+11 After that he travelled to the earth.
+12 Where is Colliani? 	earth	10 11
+13 Conn moved to the mars.
+14 After that he went back to the earth.
+15 Where is Conn? 	earth	13 14
+1 Burnhard journeyed to the neptune.
+2 Following that she travelled to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Conn went to the neptune.
+5 Afterwards he went back to the jupiter.
+6 Where is Conn? 	jupiter	4 5
+7 Burnhard travelled to the earth.
+8 After that she moved to the neptune.
+9 Where is Conn? 	jupiter	4 5
+10 Doud went to the neptune.
+11 After that she travelled to the mars.
+12 Where is Burnhard? 	neptune	7 8
+13 Colliani went to the moon.
+14 Then he journeyed to the neptune.
+15 Where is Burnhard? 	neptune	7 8
+1 Burnhard went back to the venus.
+2 Following that she moved to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Burnhard travelled to the neptune.
+5 Following that she went back to the jupiter.
+6 Where is Burnhard? 	jupiter	4 5
+7 Burnhard went back to the earth.
+8 Afterwards she went to the moon.
+9 Where is Burnhard? 	moon	7 8
+10 Burnhard went back to the mars.
+11 After that she travelled to the neptune.
+12 Where is Burnhard? 	neptune	10 11
+13 Conn moved to the mars.
+14 After that he moved to the venus.
+15 Where is Burnhard? 	neptune	10 11
+1 Doud went to the venus.
+2 Following that she journeyed to the earth.
+3 Where is Doud? 	earth	1 2
+4 Colliani travelled to the earth.
+5 After that he journeyed to the jupiter.
+6 Where is Doud? 	earth	1 2
+7 Colliani went to the moon.
+8 Afterwards he travelled to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Colliani went to the moon.
+11 Afterwards he moved to the jupiter.
+12 Where is Colliani? 	jupiter	10 11
+13 Burnhard moved to the jupiter.
+14 Then she moved to the neptune.
+15 Where is Colliani? 	jupiter	10 11
+1 Doud went back to the moon.
+2 Following that she went to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Doud went back to the venus.
+5 Afterwards she went to the jupiter.
+6 Where is Doud? 	jupiter	4 5
+7 Conn travelled to the venus.
+8 Then he journeyed to the neptune.
+9 Where is Doud? 	jupiter	4 5
+10 Burnhard moved to the earth.
+11 Then she travelled to the jupiter.
+12 Where is Conn? 	neptune	7 8
+13 Burnhard went back to the neptune.
+14 Then she journeyed to the jupiter.
+15 Where is Burnhard? 	jupiter	13 14
+1 Burnhard journeyed to the moon.
+2 Afterwards she went to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Doud moved to the jupiter.
+5 Then she went back to the mars.
+6 Where is Doud? 	mars	4 5
+7 Burnhard journeyed to the moon.
+8 Then she moved to the earth.
+9 Where is Doud? 	mars	4 5
+10 Conn journeyed to the venus.
+11 Following that he went to the earth.
+12 Where is Burnhard? 	earth	7 8
+13 Doud moved to the jupiter.
+14 Then she journeyed to the moon.
+15 Where is Conn? 	earth	10 11
+1 Doud moved to the mars.
+2 Following that she journeyed to the neptune.
+3 Where is Doud? 	neptune	1 2
+4 Conn went to the neptune.
+5 Then he went back to the venus.
+6 Where is Conn? 	venus	4 5
+7 Colliani travelled to the moon.
+8 After that he moved to the venus.
+9 Where is Colliani? 	venus	7 8
+10 Conn moved to the neptune.
+11 After that he moved to the mars.
+12 Where is Conn? 	mars	10 11
+13 Doud travelled to the moon.
+14 Afterwards she journeyed to the neptune.
+15 Where is Conn? 	mars	10 11
+1 Doud went back to the earth.
+2 Following that she went back to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Burnhard went to the venus.
+5 Following that she went to the earth.
+6 Where is Burnhard? 	earth	4 5
+7 Colliani went to the neptune.
+8 Then he journeyed to the venus.
+9 Where is Colliani? 	venus	7 8
+10 Conn went back to the neptune.
+11 After that he went to the venus.
+12 Where is Burnhard? 	earth	4 5
+13 Burnhard moved to the jupiter.
+14 Following that she went to the venus.
+15 Where is Burnhard? 	venus	13 14
+1 Conn journeyed to the neptune.
+2 Following that he travelled to the moon.
+3 Where is Conn? 	moon	1 2
+4 Doud travelled to the neptune.
+5 Following that she travelled to the jupiter.
+6 Where is Doud? 	jupiter	4 5
+7 Colliani went back to the neptune.
+8 After that he went to the earth.
+9 Where is Colliani? 	earth	7 8
+10 Conn went to the earth.
+11 After that he journeyed to the moon.
+12 Where is Doud? 	jupiter	4 5
+13 Burnhard moved to the venus.
+14 Following that she journeyed to the moon.
+15 Where is Colliani? 	earth	7 8
+1 Colliani travelled to the moon.
+2 Following that he moved to the venus.
+3 Where is Colliani? 	venus	1 2
+4 Burnhard went back to the earth.
+5 Following that she went to the moon.
+6 Where is Burnhard? 	moon	4 5
+7 Burnhard went back to the neptune.
+8 After that she travelled to the venus.
+9 Where is Burnhard? 	venus	7 8
+10 Burnhard journeyed to the neptune.
+11 Then she went back to the venus.
+12 Where is Burnhard? 	venus	10 11
+13 Burnhard travelled to the mars.
+14 Then she went to the venus.
+15 Where is Burnhard? 	venus	13 14
+1 Doud journeyed to the venus.
+2 After that she went to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Conn went to the jupiter.
+5 Afterwards he went back to the neptune.
+6 Where is Conn? 	neptune	4 5
+7 Burnhard went back to the moon.
+8 Following that she journeyed to the mars.
+9 Where is Burnhard? 	mars	7 8
+10 Colliani went to the earth.
+11 Then he moved to the neptune.
+12 Where is Colliani? 	neptune	10 11
+13 Burnhard journeyed to the earth.
+14 Then she moved to the neptune.
+15 Where is Colliani? 	neptune	10 11
+1 Doud went to the venus.
+2 Then she journeyed to the earth.
+3 Where is Doud? 	earth	1 2
+4 Burnhard went back to the moon.
+5 Afterwards she moved to the venus.
+6 Where is Burnhard? 	venus	4 5
+7 Conn travelled to the jupiter.
+8 Then he moved to the moon.
+9 Where is Conn? 	moon	7 8
+10 Doud moved to the venus.
+11 After that she journeyed to the moon.
+12 Where is Conn? 	moon	7 8
+13 Conn went to the mars.
+14 After that he journeyed to the earth.
+15 Where is Doud? 	moon	10 11
+1 Colliani travelled to the venus.
+2 Then he went back to the earth.
+3 Where is Colliani? 	earth	1 2
+4 Conn went back to the earth.
+5 After that he moved to the venus.
+6 Where is Conn? 	venus	4 5
+7 Doud went to the jupiter.
+8 Then she moved to the moon.
+9 Where is Doud? 	moon	7 8
+10 Colliani moved to the jupiter.
+11 After that he went to the moon.
+12 Where is Doud? 	moon	7 8
+13 Conn travelled to the jupiter.
+14 Then he went back to the mars.
+15 Where is Conn? 	mars	13 14
+1 Doud moved to the mars.
+2 Then she travelled to the moon.
+3 Where is Doud? 	moon	1 2
+4 Burnhard went back to the jupiter.
+5 Then she went back to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Colliani went to the earth.
+8 Following that he moved to the jupiter.
+9 Where is Doud? 	moon	1 2
+10 Colliani journeyed to the neptune.
+11 After that he went to the mars.
+12 Where is Colliani? 	mars	10 11
+13 Burnhard went back to the jupiter.
+14 Following that she went back to the venus.
+15 Where is Colliani? 	mars	10 11
+1 Doud journeyed to the earth.
+2 Following that she went to the venus.
+3 Where is Doud? 	venus	1 2
+4 Doud went to the moon.
+5 Afterwards she moved to the neptune.
+6 Where is Doud? 	neptune	4 5
+7 Colliani moved to the neptune.
+8 Afterwards he travelled to the earth.
+9 Where is Doud? 	neptune	4 5
+10 Colliani journeyed to the neptune.
+11 Afterwards he went to the moon.
+12 Where is Doud? 	neptune	4 5
+13 Colliani went to the jupiter.
+14 Afterwards he went back to the neptune.
+15 Where is Colliani? 	neptune	13 14
+1 Conn moved to the venus.
+2 Following that he went back to the moon.
+3 Where is Conn? 	moon	1 2
+4 Colliani moved to the mars.
+5 After that he journeyed to the venus.
+6 Where is Conn? 	moon	1 2
+7 Burnhard journeyed to the moon.
+8 Afterwards she journeyed to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Doud went to the moon.
+11 Following that she went to the neptune.
+12 Where is Colliani? 	venus	4 5
+13 Conn moved to the venus.
+14 Afterwards he went to the jupiter.
+15 Where is Doud? 	neptune	10 11
+1 Doud went to the mars.
+2 Afterwards she journeyed to the neptune.
+3 Where is Doud? 	neptune	1 2
+4 Conn moved to the mars.
+5 Afterwards he travelled to the moon.
+6 Where is Doud? 	neptune	1 2
+7 Burnhard went back to the mars.
+8 After that she went back to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Colliani journeyed to the venus.
+11 Then he went back to the mars.
+12 Where is Colliani? 	mars	10 11
+13 Doud moved to the mars.
+14 Afterwards she went back to the moon.
+15 Where is Colliani? 	mars	10 11
+1 Burnhard went back to the venus.
+2 Following that she went back to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Colliani moved to the moon.
+5 Following that he travelled to the earth.
+6 Where is Burnhard? 	moon	1 2
+7 Colliani journeyed to the jupiter.
+8 After that he went back to the moon.
+9 Where is Burnhard? 	moon	1 2
+10 Burnhard moved to the jupiter.
+11 After that she journeyed to the neptune.
+12 Where is Colliani? 	moon	7 8
+13 Doud went to the earth.
+14 Then she went to the mars.
+15 Where is Doud? 	mars	13 14
+1 Colliani travelled to the neptune.
+2 After that he moved to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Doud went to the moon.
+5 Then she journeyed to the earth.
+6 Where is Doud? 	earth	4 5
+7 Doud went back to the jupiter.
+8 Following that she travelled to the neptune.
+9 Where is Doud? 	neptune	7 8
+10 Doud went back to the earth.
+11 Afterwards she travelled to the mars.
+12 Where is Doud? 	mars	10 11
+13 Burnhard journeyed to the venus.
+14 After that she travelled to the jupiter.
+15 Where is Doud? 	mars	10 11
+1 Colliani moved to the neptune.
+2 After that he went to the mars.
+3 Where is Colliani? 	mars	1 2
+4 Colliani went to the jupiter.
+5 Afterwards he moved to the venus.
+6 Where is Colliani? 	venus	4 5
+7 Doud travelled to the jupiter.
+8 Then she moved to the venus.
+9 Where is Colliani? 	venus	4 5
+10 Burnhard travelled to the moon.
+11 Then she went back to the mars.
+12 Where is Doud? 	venus	7 8
+13 Colliani travelled to the neptune.
+14 After that he travelled to the earth.
+15 Where is Burnhard? 	mars	10 11
+1 Burnhard journeyed to the moon.
+2 After that she went to the venus.
+3 Where is Burnhard? 	venus	1 2
+4 Doud moved to the mars.
+5 Then she travelled to the venus.
+6 Where is Doud? 	venus	4 5
+7 Burnhard went back to the mars.
+8 Following that she went to the moon.
+9 Where is Burnhard? 	moon	7 8
+10 Colliani went to the moon.
+11 Afterwards he travelled to the venus.
+12 Where is Colliani? 	venus	10 11
+13 Conn moved to the venus.
+14 Then he journeyed to the moon.
+15 Where is Conn? 	moon	13 14
+1 Burnhard journeyed to the jupiter.
+2 After that she went to the mars.
+3 Where is Burnhard? 	mars	1 2
+4 Colliani moved to the mars.
+5 Afterwards he went back to the jupiter.
+6 Where is Colliani? 	jupiter	4 5
+7 Burnhard travelled to the moon.
+8 After that she journeyed to the jupiter.
+9 Where is Burnhard? 	jupiter	7 8
+10 Colliani went to the moon.
+11 Then he moved to the earth.
+12 Where is Colliani? 	earth	10 11
+13 Doud went back to the mars.
+14 After that she travelled to the venus.
+15 Where is Colliani? 	earth	10 11
+1 Conn went back to the earth.
+2 Afterwards he journeyed to the jupiter.
+3 Where is Conn? 	jupiter	1 2
+4 Doud journeyed to the moon.
+5 After that she journeyed to the jupiter.
+6 Where is Doud? 	jupiter	4 5
+7 Conn travelled to the venus.
+8 Afterwards he travelled to the jupiter.
+9 Where is Conn? 	jupiter	7 8
+10 Conn went to the venus.
+11 Then he travelled to the jupiter.
+12 Where is Conn? 	jupiter	10 11
+13 Conn went back to the moon.
+14 Afterwards he journeyed to the jupiter.
+15 Where is Conn? 	jupiter	13 14
+1 Burnhard went back to the jupiter.
+2 Then she moved to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Burnhard went to the venus.
+5 Afterwards she moved to the mars.
+6 Where is Burnhard? 	mars	4 5
+7 Colliani journeyed to the mars.
+8 Afterwards he travelled to the earth.
+9 Where is Burnhard? 	mars	4 5
+10 Conn moved to the venus.
+11 After that he journeyed to the moon.
+12 Where is Conn? 	moon	10 11
+13 Conn moved to the neptune.
+14 After that he moved to the mars.
+15 Where is Conn? 	mars	13 14
+1 Burnhard went back to the jupiter.
+2 Following that she journeyed to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Doud went to the venus.
+5 Afterwards she travelled to the earth.
+6 Where is Burnhard? 	moon	1 2
+7 Conn travelled to the earth.
+8 Afterwards he went back to the mars.
+9 Where is Conn? 	mars	7 8
+10 Conn travelled to the jupiter.
+11 After that he journeyed to the neptune.
+12 Where is Conn? 	neptune	10 11
+13 Doud went to the jupiter.
+14 Following that she journeyed to the mars.
+15 Where is Doud? 	mars	13 14
+1 Colliani went back to the jupiter.
+2 Following that he went back to the earth.
+3 Where is Colliani? 	earth	1 2
+4 Burnhard travelled to the earth.
+5 Then she moved to the venus.
+6 Where is Burnhard? 	venus	4 5
+7 Burnhard travelled to the mars.
+8 Following that she travelled to the venus.
+9 Where is Burnhard? 	venus	7 8
+10 Doud journeyed to the neptune.
+11 Afterwards she journeyed to the venus.
+12 Where is Burnhard? 	venus	7 8
+13 Doud moved to the moon.
+14 Afterwards she travelled to the jupiter.
+15 Where is Doud? 	jupiter	13 14
+1 Burnhard journeyed to the mars.
+2 Then she travelled to the earth.
+3 Where is Burnhard? 	earth	1 2
+4 Doud moved to the mars.
+5 After that she went back to the venus.
+6 Where is Doud? 	venus	4 5
+7 Burnhard journeyed to the mars.
+8 Afterwards she went to the venus.
+9 Where is Burnhard? 	venus	7 8
+10 Colliani went back to the mars.
+11 After that he journeyed to the neptune.
+12 Where is Burnhard? 	venus	7 8
+13 Burnhard journeyed to the moon.
+14 After that she journeyed to the mars.
+15 Where is Burnhard? 	mars	13 14
+1 Conn went back to the moon.
+2 After that he moved to the venus.
+3 Where is Conn? 	venus	1 2
+4 Conn went to the earth.
+5 After that he moved to the venus.
+6 Where is Conn? 	venus	4 5
+7 Colliani journeyed to the mars.
+8 Afterwards he moved to the venus.
+9 Where is Colliani? 	venus	7 8
+10 Doud journeyed to the venus.
+11 Afterwards she moved to the neptune.
+12 Where is Colliani? 	venus	7 8
+13 Colliani travelled to the mars.
+14 Then he travelled to the neptune.
+15 Where is Colliani? 	neptune	13 14
+1 Burnhard journeyed to the mars.
+2 Following that she went back to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Burnhard went to the mars.
+5 Following that she journeyed to the venus.
+6 Where is Burnhard? 	venus	4 5
+7 Colliani journeyed to the neptune.
+8 Following that he went back to the jupiter.
+9 Where is Colliani? 	jupiter	7 8
+10 Conn travelled to the earth.
+11 After that he journeyed to the venus.
+12 Where is Colliani? 	jupiter	7 8
+13 Conn went back to the earth.
+14 After that he moved to the mars.
+15 Where is Conn? 	mars	13 14
+1 Conn went back to the mars.
+2 Then he went back to the venus.
+3 Where is Conn? 	venus	1 2
+4 Conn moved to the earth.
+5 Then he went back to the neptune.
+6 Where is Conn? 	neptune	4 5
+7 Doud travelled to the mars.
+8 After that she went to the moon.
+9 Where is Conn? 	neptune	4 5
+10 Conn moved to the venus.
+11 Following that he went back to the moon.
+12 Where is Doud? 	moon	7 8
+13 Burnhard went back to the earth.
+14 After that she journeyed to the moon.
+15 Where is Burnhard? 	moon	13 14
+1 Conn journeyed to the neptune.
+2 After that he moved to the mars.
+3 Where is Conn? 	mars	1 2
+4 Conn travelled to the neptune.
+5 Following that he went to the venus.
+6 Where is Conn? 	venus	4 5
+7 Burnhard went back to the jupiter.
+8 Following that she journeyed to the mars.
+9 Where is Burnhard? 	mars	7 8
+10 Burnhard moved to the venus.
+11 Afterwards she journeyed to the neptune.
+12 Where is Burnhard? 	neptune	10 11
+13 Doud went back to the venus.
+14 Then she journeyed to the mars.
+15 Where is Doud? 	mars	13 14
+1 Conn moved to the mars.
+2 Afterwards he went to the neptune.
+3 Where is Conn? 	neptune	1 2
+4 Doud journeyed to the venus.
+5 After that she went to the neptune.
+6 Where is Conn? 	neptune	1 2
+7 Doud journeyed to the earth.
+8 After that she went back to the venus.
+9 Where is Conn? 	neptune	1 2
+10 Burnhard travelled to the neptune.
+11 Then she went to the mars.
+12 Where is Doud? 	venus	7 8
+13 Doud moved to the jupiter.
+14 After that she travelled to the neptune.
+15 Where is Doud? 	neptune	13 14
+1 Conn travelled to the jupiter.
+2 Then he went to the moon.
+3 Where is Conn? 	moon	1 2
+4 Colliani journeyed to the moon.
+5 Afterwards he journeyed to the venus.
+6 Where is Colliani? 	venus	4 5
+7 Burnhard journeyed to the moon.
+8 Following that she went to the mars.
+9 Where is Burnhard? 	mars	7 8
+10 Doud went back to the moon.
+11 Then she journeyed to the neptune.
+12 Where is Doud? 	neptune	10 11
+13 Conn went back to the jupiter.
+14 After that he went to the earth.
+15 Where is Conn? 	earth	13 14
+1 Burnhard went back to the neptune.
+2 Following that she went back to the mars.
+3 Where is Burnhard? 	mars	1 2
+4 Conn went back to the moon.
+5 Following that he travelled to the mars.
+6 Where is Burnhard? 	mars	1 2
+7 Colliani travelled to the neptune.
+8 Following that he went back to the venus.
+9 Where is Conn? 	mars	4 5
+10 Burnhard went back to the neptune.
+11 Following that she went back to the jupiter.
+12 Where is Burnhard? 	jupiter	10 11
+13 Burnhard moved to the neptune.
+14 Following that she travelled to the mars.
+15 Where is Burnhard? 	mars	13 14
+1 Burnhard went to the jupiter.
+2 Then she went to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Doud went to the moon.
+5 Following that she went back to the earth.
+6 Where is Burnhard? 	moon	1 2
+7 Colliani went back to the neptune.
+8 Afterwards he moved to the venus.
+9 Where is Doud? 	earth	4 5
+10 Doud journeyed to the jupiter.
+11 Afterwards she travelled to the neptune.
+12 Where is Doud? 	neptune	10 11
+13 Conn went back to the neptune.
+14 Following that he moved to the mars.
+15 Where is Doud? 	neptune	10 11
+1 Doud went back to the jupiter.
+2 After that she went to the venus.
+3 Where is Doud? 	venus	1 2
+4 Doud went back to the neptune.
+5 Then she travelled to the venus.
+6 Where is Doud? 	venus	4 5
+7 Colliani went back to the jupiter.
+8 Afterwards he journeyed to the venus.
+9 Where is Doud? 	venus	4 5
+10 Colliani journeyed to the mars.
+11 Following that he travelled to the jupiter.
+12 Where is Colliani? 	jupiter	10 11
+13 Burnhard went back to the neptune.
+14 Afterwards she went back to the earth.
+15 Where is Colliani? 	jupiter	10 11
+1 Burnhard went back to the moon.
+2 Following that she travelled to the venus.
+3 Where is Burnhard? 	venus	1 2
+4 Burnhard travelled to the mars.
+5 Following that she moved to the venus.
+6 Where is Burnhard? 	venus	4 5
+7 Doud went to the moon.
+8 Then she journeyed to the venus.
+9 Where is Burnhard? 	venus	4 5
+10 Conn went to the mars.
+11 Following that he travelled to the neptune.
+12 Where is Burnhard? 	venus	4 5
+13 Doud moved to the earth.
+14 Then she journeyed to the neptune.
+15 Where is Doud? 	neptune	13 14
+1 Doud went back to the mars.
+2 After that she went to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Conn went to the moon.
+5 Then he went back to the venus.
+6 Where is Doud? 	jupiter	1 2
+7 Doud journeyed to the venus.
+8 Afterwards she went to the mars.
+9 Where is Doud? 	mars	7 8
+10 Conn went back to the mars.
+11 Afterwards he travelled to the jupiter.
+12 Where is Conn? 	jupiter	10 11
+13 Colliani journeyed to the jupiter.
+14 Afterwards he went to the neptune.
+15 Where is Colliani? 	neptune	13 14
+1 Conn went to the moon.
+2 Following that he went back to the mars.
+3 Where is Conn? 	mars	1 2
+4 Doud went to the earth.
+5 Afterwards she went back to the mars.
+6 Where is Conn? 	mars	1 2
+7 Doud journeyed to the venus.
+8 After that she moved to the jupiter.
+9 Where is Conn? 	mars	1 2
+10 Colliani moved to the jupiter.
+11 After that he travelled to the mars.
+12 Where is Colliani? 	mars	10 11
+13 Doud went to the earth.
+14 Afterwards she went back to the moon.
+15 Where is Colliani? 	mars	10 11
+1 Doud travelled to the venus.
+2 Afterwards she travelled to the earth.
+3 Where is Doud? 	earth	1 2
+4 Doud travelled to the mars.
+5 Then she went back to the venus.
+6 Where is Doud? 	venus	4 5
+7 Burnhard journeyed to the neptune.
+8 Then she journeyed to the jupiter.
+9 Where is Doud? 	venus	4 5
+10 Burnhard moved to the mars.
+11 Following that she journeyed to the moon.
+12 Where is Burnhard? 	moon	10 11
+13 Burnhard travelled to the neptune.
+14 Afterwards she went to the venus.
+15 Where is Burnhard? 	venus	13 14
+1 Burnhard travelled to the earth.
+2 After that she travelled to the neptune.
+3 Where is Burnhard? 	neptune	1 2
+4 Conn travelled to the neptune.
+5 Then he travelled to the mars.
+6 Where is Conn? 	mars	4 5
+7 Conn went to the jupiter.
+8 Then he went back to the neptune.
+9 Where is Conn? 	neptune	7 8
+10 Burnhard moved to the venus.
+11 Afterwards she went back to the earth.
+12 Where is Conn? 	neptune	7 8
+13 Conn journeyed to the earth.
+14 Following that he travelled to the moon.
+15 Where is Conn? 	moon	13 14
+1 Doud went back to the mars.
+2 Then she journeyed to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Burnhard journeyed to the moon.
+5 Following that she moved to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Burnhard moved to the moon.
+8 Afterwards she travelled to the venus.
+9 Where is Doud? 	jupiter	1 2
+10 Doud journeyed to the neptune.
+11 Following that she went to the jupiter.
+12 Where is Doud? 	jupiter	10 11
+13 Doud journeyed to the moon.
+14 Following that she travelled to the neptune.
+15 Where is Burnhard? 	venus	7 8
+1 Doud went back to the mars.
+2 After that she went to the moon.
+3 Where is Doud? 	moon	1 2
+4 Burnhard went back to the earth.
+5 Then she journeyed to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Burnhard moved to the jupiter.
+8 Following that she went back to the earth.
+9 Where is Doud? 	moon	1 2
+10 Colliani travelled to the jupiter.
+11 Following that he travelled to the neptune.
+12 Where is Burnhard? 	earth	7 8
+13 Burnhard travelled to the mars.
+14 Then she moved to the neptune.
+15 Where is Burnhard? 	neptune	13 14
+1 Burnhard went back to the jupiter.
+2 Afterwards she moved to the venus.
+3 Where is Burnhard? 	venus	1 2
+4 Conn went back to the jupiter.
+5 Then he went back to the venus.
+6 Where is Burnhard? 	venus	1 2
+7 Colliani moved to the neptune.
+8 After that he moved to the moon.
+9 Where is Colliani? 	moon	7 8
+10 Doud moved to the jupiter.
+11 Afterwards she travelled to the venus.
+12 Where is Colliani? 	moon	7 8
+13 Doud moved to the moon.
+14 Then she went back to the neptune.
+15 Where is Doud? 	neptune	13 14
+1 Burnhard travelled to the moon.
+2 Following that she moved to the mars.
+3 Where is Burnhard? 	mars	1 2
+4 Burnhard travelled to the jupiter.
+5 After that she journeyed to the earth.
+6 Where is Burnhard? 	earth	4 5
+7 Burnhard travelled to the mars.
+8 After that she went to the moon.
+9 Where is Burnhard? 	moon	7 8
+10 Doud went to the mars.
+11 Then she travelled to the neptune.
+12 Where is Burnhard? 	moon	7 8
+13 Doud went to the mars.
+14 Afterwards she journeyed to the moon.
+15 Where is Doud? 	moon	13 14
+1 Colliani went back to the moon.
+2 Then he went to the earth.
+3 Where is Colliani? 	earth	1 2
+4 Doud went to the neptune.
+5 After that she journeyed to the earth.
+6 Where is Doud? 	earth	4 5
+7 Doud journeyed to the mars.
+8 After that she travelled to the moon.
+9 Where is Doud? 	moon	7 8
+10 Colliani went back to the venus.
+11 After that he went to the mars.
+12 Where is Colliani? 	mars	10 11
+13 Conn journeyed to the moon.
+14 After that he went to the earth.
+15 Where is Colliani? 	mars	10 11
+1 Doud went to the jupiter.
+2 Afterwards she went back to the earth.
+3 Where is Doud? 	earth	1 2
+4 Colliani moved to the neptune.
+5 Then he went back to the earth.
+6 Where is Doud? 	earth	1 2
+7 Colliani travelled to the venus.
+8 Following that he journeyed to the jupiter.
+9 Where is Colliani? 	jupiter	7 8
+10 Burnhard journeyed to the moon.
+11 Afterwards she went back to the neptune.
+12 Where is Burnhard? 	neptune	10 11
+13 Doud moved to the jupiter.
+14 Afterwards she travelled to the mars.
+15 Where is Burnhard? 	neptune	10 11
+1 Burnhard moved to the neptune.
+2 Afterwards she went to the earth.
+3 Where is Burnhard? 	earth	1 2
+4 Doud journeyed to the moon.
+5 Afterwards she travelled to the venus.
+6 Where is Burnhard? 	earth	1 2
+7 Doud travelled to the neptune.
+8 Afterwards she travelled to the mars.
+9 Where is Doud? 	mars	7 8
+10 Colliani moved to the jupiter.
+11 Then he moved to the earth.
+12 Where is Doud? 	mars	7 8
+13 Burnhard journeyed to the venus.
+14 Following that she went to the neptune.
+15 Where is Doud? 	mars	7 8
+1 Doud moved to the jupiter.
+2 Then she went back to the mars.
+3 Where is Doud? 	mars	1 2
+4 Colliani journeyed to the mars.
+5 Afterwards he travelled to the earth.
+6 Where is Colliani? 	earth	4 5
+7 Conn travelled to the neptune.
+8 Then he went back to the mars.
+9 Where is Colliani? 	earth	4 5
+10 Burnhard went back to the jupiter.
+11 After that she went to the venus.
+12 Where is Burnhard? 	venus	10 11
+13 Doud moved to the jupiter.
+14 After that she went back to the moon.
+15 Where is Burnhard? 	venus	10 11
+1 Colliani went back to the moon.
+2 After that he went back to the jupiter.
+3 Where is Colliani? 	jupiter	1 2
+4 Doud went to the neptune.
+5 Following that she travelled to the moon.
+6 Where is Colliani? 	jupiter	1 2
+7 Conn went back to the moon.
+8 Following that he journeyed to the mars.
+9 Where is Conn? 	mars	7 8
+10 Burnhard went back to the venus.
+11 Following that she went to the mars.
+12 Where is Conn? 	mars	7 8
+13 Doud journeyed to the mars.
+14 After that she went to the neptune.
+15 Where is Burnhard? 	mars	10 11
+1 Doud moved to the earth.
+2 Afterwards she went back to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Burnhard journeyed to the earth.
+5 After that she went back to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Burnhard went back to the jupiter.
+8 Then she went to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Conn journeyed to the moon.
+11 Following that he travelled to the earth.
+12 Where is Burnhard? 	neptune	7 8
+13 Conn travelled to the mars.
+14 Then he went to the moon.
+15 Where is Conn? 	moon	13 14
+1 Conn travelled to the earth.
+2 Afterwards he went to the moon.
+3 Where is Conn? 	moon	1 2
+4 Conn travelled to the earth.
+5 Following that he moved to the neptune.
+6 Where is Conn? 	neptune	4 5
+7 Conn went to the venus.
+8 Then he journeyed to the earth.
+9 Where is Conn? 	earth	7 8
+10 Colliani travelled to the venus.
+11 Then he went to the earth.
+12 Where is Colliani? 	earth	10 11
+13 Colliani went to the jupiter.
+14 Then he went to the earth.
+15 Where is Colliani? 	earth	13 14
+1 Conn journeyed to the moon.
+2 After that he moved to the earth.
+3 Where is Conn? 	earth	1 2
+4 Conn journeyed to the mars.
+5 Afterwards he went back to the venus.
+6 Where is Conn? 	venus	4 5
+7 Conn went to the moon.
+8 After that he went to the jupiter.
+9 Where is Conn? 	jupiter	7 8
+10 Colliani travelled to the mars.
+11 Afterwards he moved to the neptune.
+12 Where is Conn? 	jupiter	7 8
+13 Conn went back to the venus.
+14 Then he went back to the moon.
+15 Where is Colliani? 	neptune	10 11
+1 Conn went to the mars.
+2 Following that he travelled to the earth.
+3 Where is Conn? 	earth	1 2
+4 Burnhard went back to the mars.
+5 Then she journeyed to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Colliani travelled to the earth.
+8 Following that he moved to the venus.
+9 Where is Burnhard? 	neptune	4 5
+10 Doud went to the jupiter.
+11 Following that she moved to the venus.
+12 Where is Colliani? 	venus	7 8
+13 Burnhard went to the mars.
+14 Then she went back to the moon.
+15 Where is Doud? 	venus	10 11
+1 Colliani journeyed to the mars.
+2 After that he went to the earth.
+3 Where is Colliani? 	earth	1 2
+4 Doud moved to the earth.
+5 Then she travelled to the venus.
+6 Where is Doud? 	venus	4 5
+7 Conn journeyed to the jupiter.
+8 After that he moved to the mars.
+9 Where is Conn? 	mars	7 8
+10 Doud travelled to the mars.
+11 Following that she went to the jupiter.
+12 Where is Doud? 	jupiter	10 11
+13 Burnhard journeyed to the neptune.
+14 Then she went back to the moon.
+15 Where is Doud? 	jupiter	10 11
+1 Conn travelled to the venus.
+2 Then he went to the moon.
+3 Where is Conn? 	moon	1 2
+4 Colliani went to the mars.
+5 Then he went to the venus.
+6 Where is Colliani? 	venus	4 5
+7 Burnhard travelled to the neptune.
+8 After that she went back to the venus.
+9 Where is Colliani? 	venus	4 5
+10 Colliani journeyed to the moon.
+11 Then he went to the earth.
+12 Where is Colliani? 	earth	10 11
+13 Doud moved to the jupiter.
+14 After that she journeyed to the earth.
+15 Where is Burnhard? 	venus	7 8
+1 Burnhard went to the moon.
+2 After that she travelled to the neptune.
+3 Where is Burnhard? 	neptune	1 2
+4 Colliani went back to the jupiter.
+5 Following that he went back to the earth.
+6 Where is Colliani? 	earth	4 5
+7 Colliani went to the moon.
+8 Following that he went back to the earth.
+9 Where is Colliani? 	earth	7 8
+10 Conn went to the neptune.
+11 After that he went to the moon.
+12 Where is Colliani? 	earth	7 8
+13 Conn went to the jupiter.
+14 Following that he went to the moon.
+15 Where is Conn? 	moon	13 14
+1 Doud went to the neptune.
+2 After that she moved to the mars.
+3 Where is Doud? 	mars	1 2
+4 Burnhard travelled to the venus.
+5 Then she travelled to the earth.
+6 Where is Burnhard? 	earth	4 5
+7 Colliani went to the neptune.
+8 Following that he went to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Doud moved to the venus.
+11 Afterwards she went back to the mars.
+12 Where is Colliani? 	mars	7 8
+13 Doud travelled to the earth.
+14 After that she moved to the neptune.
+15 Where is Doud? 	neptune	13 14
+1 Colliani travelled to the venus.
+2 Afterwards he moved to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Doud journeyed to the neptune.
+5 Following that she went to the moon.
+6 Where is Doud? 	moon	4 5
+7 Colliani journeyed to the earth.
+8 Following that he travelled to the moon.
+9 Where is Doud? 	moon	4 5
+10 Conn went back to the venus.
+11 Afterwards he moved to the mars.
+12 Where is Conn? 	mars	10 11
+13 Colliani went back to the venus.
+14 After that he went to the jupiter.
+15 Where is Colliani? 	jupiter	13 14
+1 Doud went back to the mars.
+2 Afterwards she travelled to the moon.
+3 Where is Doud? 	moon	1 2
+4 Colliani journeyed to the neptune.
+5 Following that he journeyed to the jupiter.
+6 Where is Colliani? 	jupiter	4 5
+7 Conn went to the neptune.
+8 After that he travelled to the jupiter.
+9 Where is Doud? 	moon	1 2
+10 Conn moved to the earth.
+11 Following that he went to the jupiter.
+12 Where is Conn? 	jupiter	10 11
+13 Conn travelled to the neptune.
+14 Following that he went to the venus.
+15 Where is Conn? 	venus	13 14
+1 Burnhard went back to the venus.
+2 Following that she went back to the earth.
+3 Where is Burnhard? 	earth	1 2
+4 Burnhard went back to the mars.
+5 After that she travelled to the moon.
+6 Where is Burnhard? 	moon	4 5
+7 Burnhard went to the earth.
+8 Then she went to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Colliani journeyed to the mars.
+11 Following that he travelled to the moon.
+12 Where is Burnhard? 	neptune	7 8
+13 Colliani moved to the mars.
+14 After that he travelled to the earth.
+15 Where is Burnhard? 	neptune	7 8
+1 Conn journeyed to the earth.
+2 Afterwards he journeyed to the neptune.
+3 Where is Conn? 	neptune	1 2
+4 Doud journeyed to the neptune.
+5 Then she travelled to the moon.
+6 Where is Conn? 	neptune	1 2
+7 Colliani went to the venus.
+8 After that he went back to the moon.
+9 Where is Colliani? 	moon	7 8
+10 Burnhard went to the moon.
+11 After that she moved to the mars.
+12 Where is Doud? 	moon	4 5
+13 Doud moved to the earth.
+14 Following that she journeyed to the moon.
+15 Where is Burnhard? 	mars	10 11
+1 Doud moved to the jupiter.
+2 After that she went to the earth.
+3 Where is Doud? 	earth	1 2
+4 Conn travelled to the jupiter.
+5 After that he went back to the earth.
+6 Where is Conn? 	earth	4 5
+7 Burnhard moved to the moon.
+8 After that she journeyed to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Doud went back to the moon.
+11 Then she travelled to the jupiter.
+12 Where is Doud? 	jupiter	10 11
+13 Doud went back to the neptune.
+14 Then she journeyed to the earth.
+15 Where is Doud? 	earth	13 14
+1 Conn journeyed to the moon.
+2 After that he moved to the earth.
+3 Where is Conn? 	earth	1 2
+4 Conn went back to the jupiter.
+5 Then he went to the neptune.
+6 Where is Conn? 	neptune	4 5
+7 Colliani went to the earth.
+8 Following that he journeyed to the moon.
+9 Where is Colliani? 	moon	7 8
+10 Burnhard travelled to the neptune.
+11 Following that she went to the moon.
+12 Where is Burnhard? 	moon	10 11
+13 Doud moved to the moon.
+14 Then she journeyed to the venus.
+15 Where is Doud? 	venus	13 14
+1 Conn travelled to the earth.
+2 Afterwards he went to the moon.
+3 Where is Conn? 	moon	1 2
+4 Colliani went to the jupiter.
+5 Following that he went to the earth.
+6 Where is Colliani? 	earth	4 5
+7 Conn journeyed to the venus.
+8 After that he journeyed to the moon.
+9 Where is Conn? 	moon	7 8
+10 Burnhard went to the moon.
+11 Then she went to the venus.
+12 Where is Burnhard? 	venus	10 11
+13 Colliani travelled to the jupiter.
+14 After that he went to the moon.
+15 Where is Burnhard? 	venus	10 11
+1 Conn moved to the mars.
+2 Following that he went back to the earth.
+3 Where is Conn? 	earth	1 2
+4 Doud went back to the neptune.
+5 After that she went back to the jupiter.
+6 Where is Conn? 	earth	1 2
+7 Doud journeyed to the mars.
+8 Following that she moved to the earth.
+9 Where is Doud? 	earth	7 8
+10 Conn went to the venus.
+11 Following that he went back to the earth.
+12 Where is Doud? 	earth	7 8
+13 Burnhard went back to the mars.
+14 Afterwards she moved to the earth.
+15 Where is Burnhard? 	earth	13 14
+1 Burnhard journeyed to the earth.
+2 Following that she travelled to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Colliani moved to the jupiter.
+5 Following that he travelled to the venus.
+6 Where is Burnhard? 	jupiter	1 2
+7 Burnhard went back to the earth.
+8 After that she travelled to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Colliani travelled to the neptune.
+11 Following that he travelled to the moon.
+12 Where is Colliani? 	moon	10 11
+13 Burnhard went back to the mars.
+14 Afterwards she went back to the neptune.
+15 Where is Burnhard? 	neptune	13 14
+1 Colliani travelled to the moon.
+2 Then he went back to the neptune.
+3 Where is Colliani? 	neptune	1 2
+4 Burnhard moved to the jupiter.
+5 After that she went back to the moon.
+6 Where is Burnhard? 	moon	4 5
+7 Doud went to the neptune.
+8 Afterwards she went back to the venus.
+9 Where is Doud? 	venus	7 8
+10 Conn travelled to the neptune.
+11 Then he went back to the earth.
+12 Where is Conn? 	earth	10 11
+13 Colliani travelled to the earth.
+14 Then he travelled to the moon.
+15 Where is Doud? 	venus	7 8
+1 Conn journeyed to the neptune.
+2 After that he journeyed to the earth.
+3 Where is Conn? 	earth	1 2
+4 Burnhard travelled to the moon.
+5 After that she went back to the earth.
+6 Where is Conn? 	earth	1 2
+7 Conn went to the jupiter.
+8 After that he travelled to the moon.
+9 Where is Conn? 	moon	7 8
+10 Colliani travelled to the neptune.
+11 After that he travelled to the mars.
+12 Where is Colliani? 	mars	10 11
+13 Conn went back to the jupiter.
+14 Following that he travelled to the mars.
+15 Where is Colliani? 	mars	10 11
+1 Colliani journeyed to the jupiter.
+2 After that he travelled to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Doud journeyed to the earth.
+5 Then she moved to the mars.
+6 Where is Colliani? 	moon	1 2
+7 Colliani travelled to the earth.
+8 Then he went to the venus.
+9 Where is Doud? 	mars	4 5
+10 Colliani journeyed to the moon.
+11 Afterwards he went to the jupiter.
+12 Where is Doud? 	mars	4 5
+13 Burnhard went to the jupiter.
+14 Following that she moved to the mars.
+15 Where is Colliani? 	jupiter	10 11
+1 Colliani journeyed to the venus.
+2 After that he travelled to the earth.
+3 Where is Colliani? 	earth	1 2
+4 Burnhard went to the neptune.
+5 Then she went to the earth.
+6 Where is Burnhard? 	earth	4 5
+7 Conn moved to the venus.
+8 Afterwards he journeyed to the jupiter.
+9 Where is Conn? 	jupiter	7 8
+10 Burnhard moved to the venus.
+11 Then she moved to the earth.
+12 Where is Burnhard? 	earth	10 11
+13 Colliani travelled to the mars.
+14 Then he went back to the jupiter.
+15 Where is Burnhard? 	earth	10 11
+1 Colliani travelled to the moon.
+2 Following that he went to the venus.
+3 Where is Colliani? 	venus	1 2
+4 Doud went to the venus.
+5 Then she went to the moon.
+6 Where is Doud? 	moon	4 5
+7 Burnhard went back to the moon.
+8 After that she moved to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Colliani moved to the mars.
+11 Then he journeyed to the neptune.
+12 Where is Colliani? 	neptune	10 11
+13 Burnhard went to the venus.
+14 Following that she went back to the mars.
+15 Where is Burnhard? 	mars	13 14
+1 Colliani moved to the jupiter.
+2 Following that he journeyed to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Colliani journeyed to the earth.
+5 Following that he travelled to the neptune.
+6 Where is Colliani? 	neptune	4 5
+7 Burnhard journeyed to the neptune.
+8 After that she moved to the mars.
+9 Where is Colliani? 	neptune	4 5
+10 Burnhard travelled to the moon.
+11 Afterwards she went back to the jupiter.
+12 Where is Burnhard? 	jupiter	10 11
+13 Doud went to the mars.
+14 After that she went to the moon.
+15 Where is Burnhard? 	jupiter	10 11
+1 Colliani journeyed to the mars.
+2 Following that he moved to the venus.
+3 Where is Colliani? 	venus	1 2
+4 Doud travelled to the jupiter.
+5 Afterwards she moved to the mars.
+6 Where is Doud? 	mars	4 5
+7 Burnhard went to the earth.
+8 Then she journeyed to the moon.
+9 Where is Colliani? 	venus	1 2
+10 Doud went to the jupiter.
+11 Following that she went to the moon.
+12 Where is Doud? 	moon	10 11
+13 Burnhard went back to the venus.
+14 Following that she went back to the earth.
+15 Where is Burnhard? 	earth	13 14
+1 Burnhard travelled to the neptune.
+2 After that she went to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Colliani travelled to the mars.
+5 Then he moved to the earth.
+6 Where is Burnhard? 	moon	1 2
+7 Colliani went back to the neptune.
+8 Following that he travelled to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Conn went back to the jupiter.
+11 Following that he went back to the mars.
+12 Where is Conn? 	mars	10 11
+13 Colliani journeyed to the jupiter.
+14 Afterwards he journeyed to the venus.
+15 Where is Colliani? 	venus	13 14
+1 Doud moved to the mars.
+2 Afterwards she went to the venus.
+3 Where is Doud? 	venus	1 2
+4 Burnhard moved to the jupiter.
+5 Following that she went back to the venus.
+6 Where is Burnhard? 	venus	4 5
+7 Burnhard moved to the moon.
+8 Then she went to the venus.
+9 Where is Doud? 	venus	1 2
+10 Doud moved to the neptune.
+11 Following that she travelled to the mars.
+12 Where is Doud? 	mars	10 11
+13 Conn went to the moon.
+14 After that he moved to the jupiter.
+15 Where is Conn? 	jupiter	13 14
+1 Colliani went back to the jupiter.
+2 Afterwards he went back to the neptune.
+3 Where is Colliani? 	neptune	1 2
+4 Doud went to the moon.
+5 Following that she travelled to the neptune.
+6 Where is Colliani? 	neptune	1 2
+7 Conn went to the earth.
+8 Afterwards he went to the neptune.
+9 Where is Colliani? 	neptune	1 2
+10 Conn journeyed to the jupiter.
+11 After that he journeyed to the earth.
+12 Where is Conn? 	earth	10 11
+13 Doud moved to the earth.
+14 Then she went to the moon.
+15 Where is Doud? 	moon	13 14
+1 Burnhard journeyed to the jupiter.
+2 Then she journeyed to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Colliani moved to the earth.
+5 Following that he went to the venus.
+6 Where is Burnhard? 	moon	1 2
+7 Doud went to the moon.
+8 Afterwards she moved to the mars.
+9 Where is Doud? 	mars	7 8
+10 Burnhard went back to the neptune.
+11 Afterwards she moved to the jupiter.
+12 Where is Colliani? 	venus	4 5
+13 Colliani journeyed to the mars.
+14 After that he went to the venus.
+15 Where is Colliani? 	venus	13 14
+1 Burnhard travelled to the earth.
+2 Following that she travelled to the venus.
+3 Where is Burnhard? 	venus	1 2
+4 Colliani went back to the moon.
+5 Afterwards he travelled to the neptune.
+6 Where is Colliani? 	neptune	4 5
+7 Burnhard travelled to the jupiter.
+8 Then she went back to the neptune.
+9 Where is Colliani? 	neptune	4 5
+10 Doud went back to the moon.
+11 Afterwards she travelled to the venus.
+12 Where is Colliani? 	neptune	4 5
+13 Doud went back to the moon.
+14 Following that she moved to the neptune.
+15 Where is Doud? 	neptune	13 14
+1 Burnhard went back to the venus.
+2 Following that she moved to the neptune.
+3 Where is Burnhard? 	neptune	1 2
+4 Doud went back to the venus.
+5 Then she went back to the mars.
+6 Where is Doud? 	mars	4 5
+7 Burnhard travelled to the moon.
+8 Following that she journeyed to the venus.
+9 Where is Burnhard? 	venus	7 8
+10 Conn travelled to the mars.
+11 Then he journeyed to the earth.
+12 Where is Burnhard? 	venus	7 8
+13 Burnhard moved to the earth.
+14 Following that she moved to the moon.
+15 Where is Conn? 	earth	10 11
+1 Conn went to the mars.
+2 After that he travelled to the jupiter.
+3 Where is Conn? 	jupiter	1 2
+4 Doud went back to the venus.
+5 After that she travelled to the mars.
+6 Where is Conn? 	jupiter	1 2
+7 Burnhard journeyed to the neptune.
+8 Then she travelled to the jupiter.
+9 Where is Burnhard? 	jupiter	7 8
+10 Burnhard journeyed to the venus.
+11 After that she moved to the earth.
+12 Where is Burnhard? 	earth	10 11
+13 Burnhard travelled to the mars.
+14 After that she journeyed to the venus.
+15 Where is Burnhard? 	venus	13 14
+1 Doud journeyed to the earth.
+2 After that she went to the venus.
+3 Where is Doud? 	venus	1 2
+4 Conn moved to the moon.
+5 Following that he moved to the mars.
+6 Where is Conn? 	mars	4 5
+7 Doud went back to the jupiter.
+8 Following that she journeyed to the mars.
+9 Where is Conn? 	mars	4 5
+10 Conn journeyed to the earth.
+11 Then he went back to the mars.
+12 Where is Doud? 	mars	7 8
+13 Doud went back to the moon.
+14 Then she moved to the earth.
+15 Where is Doud? 	earth	13 14
+1 Conn went back to the jupiter.
+2 After that he travelled to the moon.
+3 Where is Conn? 	moon	1 2
+4 Conn travelled to the jupiter.
+5 Then he moved to the earth.
+6 Where is Conn? 	earth	4 5
+7 Doud travelled to the moon.
+8 Then she went to the venus.
+9 Where is Doud? 	venus	7 8
+10 Conn went to the mars.
+11 After that he moved to the moon.
+12 Where is Doud? 	venus	7 8
+13 Doud moved to the earth.
+14 Then she moved to the neptune.
+15 Where is Doud? 	neptune	13 14
+1 Colliani went to the earth.
+2 Then he went back to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Doud moved to the venus.
+5 Following that she travelled to the earth.
+6 Where is Doud? 	earth	4 5
+7 Colliani went to the neptune.
+8 Following that he went back to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Burnhard journeyed to the jupiter.
+11 Afterwards she travelled to the mars.
+12 Where is Doud? 	earth	4 5
+13 Conn moved to the earth.
+14 Following that he went to the moon.
+15 Where is Colliani? 	mars	7 8
+1 Doud moved to the venus.
+2 Then she moved to the neptune.
+3 Where is Doud? 	neptune	1 2
+4 Colliani journeyed to the neptune.
+5 Then he travelled to the venus.
+6 Where is Colliani? 	venus	4 5
+7 Conn went back to the earth.
+8 Following that he went to the venus.
+9 Where is Colliani? 	venus	4 5
+10 Colliani travelled to the moon.
+11 After that he moved to the mars.
+12 Where is Conn? 	venus	7 8
+13 Burnhard travelled to the neptune.
+14 Then she went back to the earth.
+15 Where is Burnhard? 	earth	13 14
+1 Doud went to the moon.
+2 Following that she travelled to the mars.
+3 Where is Doud? 	mars	1 2
+4 Colliani journeyed to the venus.
+5 Following that he travelled to the mars.
+6 Where is Colliani? 	mars	4 5
+7 Burnhard went to the neptune.
+8 Following that she went back to the venus.
+9 Where is Doud? 	mars	1 2
+10 Burnhard went to the mars.
+11 Following that she journeyed to the venus.
+12 Where is Burnhard? 	venus	10 11
+13 Doud travelled to the moon.
+14 Afterwards she moved to the earth.
+15 Where is Doud? 	earth	13 14
+1 Colliani moved to the venus.
+2 After that he journeyed to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Colliani went to the mars.
+5 Afterwards he journeyed to the earth.
+6 Where is Colliani? 	earth	4 5
+7 Colliani went to the neptune.
+8 Following that he travelled to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Burnhard moved to the moon.
+11 Then she journeyed to the earth.
+12 Where is Colliani? 	mars	7 8
+13 Conn journeyed to the venus.
+14 After that he journeyed to the jupiter.
+15 Where is Burnhard? 	earth	10 11
+1 Conn moved to the mars.
+2 Then he went back to the earth.
+3 Where is Conn? 	earth	1 2
+4 Doud travelled to the mars.
+5 Afterwards she journeyed to the jupiter.
+6 Where is Conn? 	earth	1 2
+7 Doud travelled to the neptune.
+8 Then she journeyed to the jupiter.
+9 Where is Conn? 	earth	1 2
+10 Conn went back to the jupiter.
+11 Afterwards he moved to the venus.
+12 Where is Doud? 	jupiter	7 8
+13 Colliani travelled to the venus.
+14 Afterwards he went to the moon.
+15 Where is Conn? 	venus	10 11
+1 Doud journeyed to the mars.
+2 Then she went back to the venus.
+3 Where is Doud? 	venus	1 2
+4 Doud went back to the mars.
+5 Then she went back to the jupiter.
+6 Where is Doud? 	jupiter	4 5
+7 Conn went back to the mars.
+8 Following that he journeyed to the earth.
+9 Where is Doud? 	jupiter	4 5
+10 Conn went back to the jupiter.
+11 Then he travelled to the mars.
+12 Where is Conn? 	mars	10 11
+13 Colliani moved to the venus.
+14 Following that he journeyed to the mars.
+15 Where is Colliani? 	mars	13 14
+1 Conn journeyed to the earth.
+2 Afterwards he went to the neptune.
+3 Where is Conn? 	neptune	1 2
+4 Burnhard went back to the jupiter.
+5 Following that she went to the mars.
+6 Where is Burnhard? 	mars	4 5
+7 Burnhard journeyed to the jupiter.
+8 After that she went to the earth.
+9 Where is Burnhard? 	earth	7 8
+10 Colliani moved to the moon.
+11 Then he travelled to the mars.
+12 Where is Burnhard? 	earth	7 8
+13 Doud journeyed to the moon.
+14 After that she went back to the jupiter.
+15 Where is Doud? 	jupiter	13 14
+1 Burnhard travelled to the venus.
+2 After that she went back to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Burnhard went back to the venus.
+5 Afterwards she journeyed to the mars.
+6 Where is Burnhard? 	mars	4 5
+7 Colliani went to the venus.
+8 Afterwards he journeyed to the earth.
+9 Where is Burnhard? 	mars	4 5
+10 Doud moved to the venus.
+11 Afterwards she travelled to the neptune.
+12 Where is Colliani? 	earth	7 8
+13 Burnhard went back to the neptune.
+14 Following that she went back to the moon.
+15 Where is Doud? 	neptune	10 11
+1 Burnhard went back to the neptune.
+2 Then she travelled to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Conn journeyed to the moon.
+5 Afterwards he went back to the mars.
+6 Where is Conn? 	mars	4 5
+7 Conn went back to the venus.
+8 After that he went back to the neptune.
+9 Where is Conn? 	neptune	7 8
+10 Burnhard went back to the moon.
+11 Then she went back to the neptune.
+12 Where is Conn? 	neptune	7 8
+13 Colliani journeyed to the venus.
+14 Then he journeyed to the moon.
+15 Where is Conn? 	neptune	7 8
+1 Doud moved to the jupiter.
+2 After that she travelled to the moon.
+3 Where is Doud? 	moon	1 2
+4 Conn travelled to the mars.
+5 Then he journeyed to the jupiter.
+6 Where is Conn? 	jupiter	4 5
+7 Conn moved to the moon.
+8 Then he journeyed to the jupiter.
+9 Where is Conn? 	jupiter	7 8
+10 Burnhard went to the moon.
+11 After that she went back to the jupiter.
+12 Where is Conn? 	jupiter	7 8
+13 Colliani moved to the neptune.
+14 Following that he went to the earth.
+15 Where is Colliani? 	earth	13 14
+1 Conn went to the earth.
+2 Afterwards he moved to the neptune.
+3 Where is Conn? 	neptune	1 2
+4 Colliani moved to the earth.
+5 After that he moved to the neptune.
+6 Where is Conn? 	neptune	1 2
+7 Doud went back to the earth.
+8 Following that she moved to the mars.
+9 Where is Conn? 	neptune	1 2
+10 Doud travelled to the earth.
+11 Afterwards she journeyed to the mars.
+12 Where is Doud? 	mars	10 11
+13 Conn travelled to the earth.
+14 Then he travelled to the moon.
+15 Where is Conn? 	moon	13 14
+1 Doud moved to the moon.
+2 After that she travelled to the neptune.
+3 Where is Doud? 	neptune	1 2
+4 Conn went back to the neptune.
+5 Afterwards he moved to the moon.
+6 Where is Doud? 	neptune	1 2
+7 Colliani went back to the mars.
+8 Following that he went to the earth.
+9 Where is Colliani? 	earth	7 8
+10 Colliani travelled to the moon.
+11 Afterwards he went back to the jupiter.
+12 Where is Colliani? 	jupiter	10 11
+13 Colliani went to the earth.
+14 Afterwards he travelled to the moon.
+15 Where is Colliani? 	moon	13 14
+1 Conn went back to the venus.
+2 After that he went back to the earth.
+3 Where is Conn? 	earth	1 2
+4 Conn travelled to the venus.
+5 Following that he journeyed to the moon.
+6 Where is Conn? 	moon	4 5
+7 Colliani went back to the mars.
+8 After that he travelled to the jupiter.
+9 Where is Colliani? 	jupiter	7 8
+10 Burnhard moved to the moon.
+11 Following that she went back to the jupiter.
+12 Where is Conn? 	moon	4 5
+13 Burnhard went to the earth.
+14 Following that she travelled to the mars.
+15 Where is Burnhard? 	mars	13 14
+1 Doud went to the venus.
+2 Afterwards she moved to the neptune.
+3 Where is Doud? 	neptune	1 2
+4 Burnhard travelled to the earth.
+5 Following that she went back to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Burnhard went back to the mars.
+8 Then she went back to the neptune.
+9 Where is Doud? 	neptune	1 2
+10 Burnhard journeyed to the earth.
+11 After that she travelled to the moon.
+12 Where is Burnhard? 	moon	10 11
+13 Doud moved to the earth.
+14 Then she went to the mars.
+15 Where is Doud? 	mars	13 14
+1 Conn journeyed to the jupiter.
+2 Afterwards he travelled to the mars.
+3 Where is Conn? 	mars	1 2
+4 Conn journeyed to the jupiter.
+5 Then he went back to the earth.
+6 Where is Conn? 	earth	4 5
+7 Colliani went back to the moon.
+8 After that he journeyed to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Conn journeyed to the venus.
+11 Afterwards he went to the mars.
+12 Where is Conn? 	mars	10 11
+13 Colliani moved to the neptune.
+14 Then he travelled to the earth.
+15 Where is Colliani? 	earth	13 14
+1 Doud journeyed to the venus.
+2 Following that she moved to the mars.
+3 Where is Doud? 	mars	1 2
+4 Doud journeyed to the moon.
+5 Then she journeyed to the neptune.
+6 Where is Doud? 	neptune	4 5
+7 Burnhard went back to the earth.
+8 Afterwards she went to the jupiter.
+9 Where is Doud? 	neptune	4 5
+10 Colliani went to the earth.
+11 Afterwards he travelled to the mars.
+12 Where is Doud? 	neptune	4 5
+13 Burnhard went to the neptune.
+14 Afterwards she travelled to the earth.
+15 Where is Colliani? 	mars	10 11
+1 Burnhard travelled to the mars.
+2 Then she travelled to the neptune.
+3 Where is Burnhard? 	neptune	1 2
+4 Burnhard went to the earth.
+5 Afterwards she travelled to the jupiter.
+6 Where is Burnhard? 	jupiter	4 5
+7 Colliani went back to the neptune.
+8 Then he moved to the venus.
+9 Where is Burnhard? 	jupiter	4 5
+10 Doud journeyed to the neptune.
+11 Following that she travelled to the moon.
+12 Where is Colliani? 	venus	7 8
+13 Colliani went to the neptune.
+14 Following that he journeyed to the jupiter.
+15 Where is Doud? 	moon	10 11
+1 Conn went back to the mars.
+2 Afterwards he moved to the earth.
+3 Where is Conn? 	earth	1 2
+4 Burnhard travelled to the moon.
+5 Afterwards she went to the jupiter.
+6 Where is Burnhard? 	jupiter	4 5
+7 Conn went back to the jupiter.
+8 Following that he travelled to the earth.
+9 Where is Conn? 	earth	7 8
+10 Conn moved to the jupiter.
+11 Then he journeyed to the mars.
+12 Where is Burnhard? 	jupiter	4 5
+13 Burnhard moved to the moon.
+14 Then she travelled to the jupiter.
+15 Where is Conn? 	mars	10 11
+1 Doud went back to the neptune.
+2 Then she went back to the earth.
+3 Where is Doud? 	earth	1 2
+4 Burnhard went to the mars.
+5 After that she journeyed to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Colliani went back to the earth.
+8 Afterwards he went back to the venus.
+9 Where is Burnhard? 	neptune	4 5
+10 Colliani moved to the mars.
+11 Following that he journeyed to the venus.
+12 Where is Colliani? 	venus	10 11
+13 Burnhard travelled to the earth.
+14 Afterwards she journeyed to the jupiter.
+15 Where is Colliani? 	venus	10 11
+1 Colliani went back to the earth.
+2 Following that he journeyed to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Doud travelled to the mars.
+5 After that she went back to the venus.
+6 Where is Doud? 	venus	4 5
+7 Burnhard travelled to the jupiter.
+8 After that she went to the earth.
+9 Where is Burnhard? 	earth	7 8
+10 Conn went back to the jupiter.
+11 After that he went back to the earth.
+12 Where is Doud? 	venus	4 5
+13 Doud moved to the mars.
+14 Afterwards she moved to the earth.
+15 Where is Conn? 	earth	10 11
+1 Doud went back to the moon.
+2 Afterwards she went back to the mars.
+3 Where is Doud? 	mars	1 2
+4 Doud went to the neptune.
+5 After that she went back to the mars.
+6 Where is Doud? 	mars	4 5
+7 Doud travelled to the neptune.
+8 Afterwards she travelled to the venus.
+9 Where is Doud? 	venus	7 8
+10 Burnhard went back to the neptune.
+11 Afterwards she went back to the venus.
+12 Where is Doud? 	venus	7 8
+13 Burnhard travelled to the jupiter.
+14 Afterwards she journeyed to the venus.
+15 Where is Burnhard? 	venus	13 14
+1 Conn moved to the venus.
+2 Afterwards he journeyed to the earth.
+3 Where is Conn? 	earth	1 2
+4 Colliani went to the mars.
+5 Then he moved to the venus.
+6 Where is Colliani? 	venus	4 5
+7 Conn went back to the neptune.
+8 After that he went back to the jupiter.
+9 Where is Colliani? 	venus	4 5
+10 Conn went to the moon.
+11 After that he went to the earth.
+12 Where is Conn? 	earth	10 11
+13 Doud went to the neptune.
+14 Following that she journeyed to the moon.
+15 Where is Conn? 	earth	10 11
+1 Burnhard journeyed to the mars.
+2 Afterwards she went back to the neptune.
+3 Where is Burnhard? 	neptune	1 2
+4 Doud moved to the venus.
+5 Afterwards she travelled to the moon.
+6 Where is Doud? 	moon	4 5
+7 Doud went to the venus.
+8 Then she moved to the earth.
+9 Where is Doud? 	earth	7 8
+10 Conn travelled to the jupiter.
+11 Afterwards he travelled to the venus.
+12 Where is Doud? 	earth	7 8
+13 Burnhard moved to the venus.
+14 Following that she went to the jupiter.
+15 Where is Burnhard? 	jupiter	13 14
+1 Conn went back to the mars.
+2 Following that he went back to the moon.
+3 Where is Conn? 	moon	1 2
+4 Burnhard journeyed to the moon.
+5 Then she went to the earth.
+6 Where is Burnhard? 	earth	4 5
+7 Doud moved to the moon.
+8 Afterwards she journeyed to the venus.
+9 Where is Doud? 	venus	7 8
+10 Conn journeyed to the neptune.
+11 After that he moved to the jupiter.
+12 Where is Conn? 	jupiter	10 11
+13 Conn journeyed to the venus.
+14 Then he journeyed to the moon.
+15 Where is Conn? 	moon	13 14
+1 Conn moved to the jupiter.
+2 Then he went back to the earth.
+3 Where is Conn? 	earth	1 2
+4 Conn travelled to the jupiter.
+5 Then he went back to the neptune.
+6 Where is Conn? 	neptune	4 5
+7 Conn went back to the mars.
+8 Afterwards he went back to the jupiter.
+9 Where is Conn? 	jupiter	7 8
+10 Conn moved to the moon.
+11 After that he went to the mars.
+12 Where is Conn? 	mars	10 11
+13 Burnhard went to the mars.
+14 Following that she went to the jupiter.
+15 Where is Conn? 	mars	10 11
+1 Burnhard moved to the venus.
+2 Then she went back to the mars.
+3 Where is Burnhard? 	mars	1 2
+4 Doud went back to the jupiter.
+5 Afterwards she went to the mars.
+6 Where is Doud? 	mars	4 5
+7 Doud journeyed to the neptune.
+8 Then she went to the venus.
+9 Where is Burnhard? 	mars	1 2
+10 Colliani went to the earth.
+11 Afterwards he travelled to the venus.
+12 Where is Doud? 	venus	7 8
+13 Burnhard went back to the jupiter.
+14 Then she went back to the neptune.
+15 Where is Doud? 	venus	7 8
+1 Burnhard travelled to the earth.
+2 After that she travelled to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Colliani moved to the moon.
+5 Then he travelled to the earth.
+6 Where is Colliani? 	earth	4 5
+7 Doud moved to the mars.
+8 Afterwards she moved to the jupiter.
+9 Where is Doud? 	jupiter	7 8
+10 Burnhard went back to the neptune.
+11 After that she went to the jupiter.
+12 Where is Doud? 	jupiter	7 8
+13 Doud journeyed to the moon.
+14 After that she moved to the mars.
+15 Where is Doud? 	mars	13 14
+1 Conn went to the mars.
+2 After that he moved to the jupiter.
+3 Where is Conn? 	jupiter	1 2
+4 Colliani went back to the moon.
+5 Afterwards he moved to the jupiter.
+6 Where is Colliani? 	jupiter	4 5
+7 Colliani journeyed to the venus.
+8 Following that he journeyed to the neptune.
+9 Where is Colliani? 	neptune	7 8
+10 Doud went back to the moon.
+11 Following that she travelled to the venus.
+12 Where is Doud? 	venus	10 11
+13 Conn went to the venus.
+14 Following that he went to the jupiter.
+15 Where is Colliani? 	neptune	7 8
+1 Burnhard moved to the neptune.
+2 Following that she went to the venus.
+3 Where is Burnhard? 	venus	1 2
+4 Burnhard went to the jupiter.
+5 Then she travelled to the moon.
+6 Where is Burnhard? 	moon	4 5
+7 Conn moved to the neptune.
+8 Following that he journeyed to the venus.
+9 Where is Conn? 	venus	7 8
+10 Colliani moved to the jupiter.
+11 After that he moved to the moon.
+12 Where is Colliani? 	moon	10 11
+13 Burnhard went to the mars.
+14 Then she moved to the moon.
+15 Where is Conn? 	venus	7 8
+1 Doud journeyed to the venus.
+2 After that she travelled to the mars.
+3 Where is Doud? 	mars	1 2
+4 Colliani travelled to the venus.
+5 Following that he travelled to the earth.
+6 Where is Colliani? 	earth	4 5
+7 Doud journeyed to the venus.
+8 Afterwards she moved to the moon.
+9 Where is Doud? 	moon	7 8
+10 Colliani went to the jupiter.
+11 Afterwards he went back to the neptune.
+12 Where is Colliani? 	neptune	10 11
+13 Colliani journeyed to the venus.
+14 Following that he travelled to the mars.
+15 Where is Colliani? 	mars	13 14
+1 Colliani travelled to the jupiter.
+2 After that he went back to the mars.
+3 Where is Colliani? 	mars	1 2
+4 Conn journeyed to the neptune.
+5 Then he travelled to the venus.
+6 Where is Conn? 	venus	4 5
+7 Conn went to the mars.
+8 Then he travelled to the neptune.
+9 Where is Conn? 	neptune	7 8
+10 Doud went to the venus.
+11 Then she travelled to the jupiter.
+12 Where is Conn? 	neptune	7 8
+13 Doud went back to the moon.
+14 After that she travelled to the venus.
+15 Where is Doud? 	venus	13 14
+1 Doud travelled to the moon.
+2 Afterwards she journeyed to the neptune.
+3 Where is Doud? 	neptune	1 2
+4 Colliani went to the neptune.
+5 Following that he went back to the earth.
+6 Where is Doud? 	neptune	1 2
+7 Conn journeyed to the mars.
+8 Following that he journeyed to the earth.
+9 Where is Conn? 	earth	7 8
+10 Burnhard travelled to the jupiter.
+11 Afterwards she travelled to the neptune.
+12 Where is Conn? 	earth	7 8
+13 Doud travelled to the venus.
+14 Afterwards she went back to the neptune.
+15 Where is Burnhard? 	neptune	10 11
+1 Burnhard moved to the venus.
+2 Then she went to the earth.
+3 Where is Burnhard? 	earth	1 2
+4 Burnhard moved to the venus.
+5 After that she travelled to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Conn went back to the mars.
+8 Following that he travelled to the neptune.
+9 Where is Burnhard? 	neptune	4 5
+10 Colliani went to the earth.
+11 After that he journeyed to the mars.
+12 Where is Colliani? 	mars	10 11
+13 Doud travelled to the venus.
+14 After that she moved to the mars.
+15 Where is Doud? 	mars	13 14
+1 Colliani went back to the earth.
+2 Afterwards he went to the jupiter.
+3 Where is Colliani? 	jupiter	1 2
+4 Conn went back to the jupiter.
+5 After that he went to the moon.
+6 Where is Conn? 	moon	4 5
+7 Conn travelled to the mars.
+8 Afterwards he went to the jupiter.
+9 Where is Conn? 	jupiter	7 8
+10 Doud journeyed to the mars.
+11 Following that she moved to the jupiter.
+12 Where is Conn? 	jupiter	7 8
+13 Doud travelled to the earth.
+14 Following that she went to the jupiter.
+15 Where is Conn? 	jupiter	7 8
+1 Burnhard journeyed to the earth.
+2 After that she went to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Colliani journeyed to the venus.
+5 Then he moved to the neptune.
+6 Where is Burnhard? 	jupiter	1 2
+7 Burnhard went back to the earth.
+8 Then she travelled to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Colliani went to the jupiter.
+11 Afterwards he journeyed to the mars.
+12 Where is Colliani? 	mars	10 11
+13 Colliani journeyed to the moon.
+14 After that he went back to the venus.
+15 Where is Colliani? 	venus	13 14
+1 Conn journeyed to the earth.
+2 Following that he moved to the venus.
+3 Where is Conn? 	venus	1 2
+4 Colliani went back to the venus.
+5 Then he journeyed to the earth.
+6 Where is Colliani? 	earth	4 5
+7 Colliani went back to the moon.
+8 Then he went to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Colliani travelled to the neptune.
+11 After that he travelled to the mars.
+12 Where is Colliani? 	mars	10 11
+13 Doud travelled to the moon.
+14 Then she went to the jupiter.
+15 Where is Doud? 	jupiter	13 14
+1 Burnhard travelled to the mars.
+2 Then she moved to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Doud went back to the moon.
+5 Afterwards she travelled to the venus.
+6 Where is Burnhard? 	jupiter	1 2
+7 Colliani moved to the earth.
+8 Following that he went back to the mars.
+9 Where is Doud? 	venus	4 5
+10 Doud moved to the jupiter.
+11 Then she moved to the venus.
+12 Where is Doud? 	venus	10 11
+13 Conn went to the earth.
+14 Following that he moved to the neptune.
+15 Where is Conn? 	neptune	13 14
+1 Colliani travelled to the moon.
+2 Afterwards he went back to the jupiter.
+3 Where is Colliani? 	jupiter	1 2
+4 Colliani went to the venus.
+5 Afterwards he travelled to the neptune.
+6 Where is Colliani? 	neptune	4 5
+7 Burnhard travelled to the earth.
+8 Afterwards she journeyed to the neptune.
+9 Where is Colliani? 	neptune	4 5
+10 Colliani travelled to the mars.
+11 Afterwards he travelled to the jupiter.
+12 Where is Colliani? 	jupiter	10 11
+13 Conn journeyed to the earth.
+14 After that he travelled to the jupiter.
+15 Where is Conn? 	jupiter	13 14
+1 Conn went to the moon.
+2 Following that he moved to the venus.
+3 Where is Conn? 	venus	1 2
+4 Burnhard moved to the moon.
+5 Following that she went to the neptune.
+6 Where is Conn? 	venus	1 2
+7 Colliani journeyed to the mars.
+8 After that he journeyed to the jupiter.
+9 Where is Burnhard? 	neptune	4 5
+10 Colliani went back to the moon.
+11 Afterwards he travelled to the earth.
+12 Where is Colliani? 	earth	10 11
+13 Conn travelled to the mars.
+14 Then he travelled to the venus.
+15 Where is Colliani? 	earth	10 11
+1 Doud went to the venus.
+2 Following that she moved to the moon.
+3 Where is Doud? 	moon	1 2
+4 Colliani moved to the jupiter.
+5 Afterwards he journeyed to the venus.
+6 Where is Doud? 	moon	1 2
+7 Burnhard journeyed to the moon.
+8 After that she went to the jupiter.
+9 Where is Burnhard? 	jupiter	7 8
+10 Burnhard travelled to the venus.
+11 Afterwards she went to the jupiter.
+12 Where is Burnhard? 	jupiter	10 11
+13 Burnhard travelled to the earth.
+14 Following that she went to the neptune.
+15 Where is Burnhard? 	neptune	13 14
+1 Doud travelled to the moon.
+2 Following that she journeyed to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Burnhard went to the mars.
+5 After that she journeyed to the earth.
+6 Where is Doud? 	jupiter	1 2
+7 Conn journeyed to the neptune.
+8 Afterwards he went back to the moon.
+9 Where is Conn? 	moon	7 8
+10 Burnhard went back to the venus.
+11 Following that she went to the earth.
+12 Where is Burnhard? 	earth	10 11
+13 Burnhard went to the mars.
+14 Afterwards she went to the venus.
+15 Where is Burnhard? 	venus	13 14
+1 Colliani went back to the moon.
+2 Following that he journeyed to the neptune.
+3 Where is Colliani? 	neptune	1 2
+4 Doud went back to the earth.
+5 Following that she moved to the venus.
+6 Where is Colliani? 	neptune	1 2
+7 Conn went to the venus.
+8 Then he journeyed to the earth.
+9 Where is Colliani? 	neptune	1 2
+10 Doud journeyed to the moon.
+11 After that she journeyed to the venus.
+12 Where is Doud? 	venus	10 11
+13 Colliani moved to the earth.
+14 Afterwards he went back to the jupiter.
+15 Where is Colliani? 	jupiter	13 14
+1 Burnhard moved to the venus.
+2 After that she went to the earth.
+3 Where is Burnhard? 	earth	1 2
+4 Doud went to the jupiter.
+5 After that she went to the venus.
+6 Where is Doud? 	venus	4 5
+7 Conn went to the earth.
+8 Afterwards he went back to the venus.
+9 Where is Burnhard? 	earth	1 2
+10 Colliani went back to the mars.
+11 Following that he went to the neptune.
+12 Where is Colliani? 	neptune	10 11
+13 Doud went back to the jupiter.
+14 Then she moved to the mars.
+15 Where is Doud? 	mars	13 14
+1 Colliani journeyed to the mars.
+2 Then he went to the neptune.
+3 Where is Colliani? 	neptune	1 2
+4 Burnhard went to the neptune.
+5 Afterwards she went to the mars.
+6 Where is Colliani? 	neptune	1 2
+7 Colliani travelled to the venus.
+8 Afterwards he went back to the moon.
+9 Where is Burnhard? 	mars	4 5
+10 Burnhard went back to the venus.
+11 Afterwards she journeyed to the mars.
+12 Where is Burnhard? 	mars	10 11
+13 Doud went back to the neptune.
+14 Following that she moved to the moon.
+15 Where is Doud? 	moon	13 14
+1 Colliani travelled to the neptune.
+2 Then he went to the earth.
+3 Where is Colliani? 	earth	1 2
+4 Burnhard went back to the mars.
+5 Following that she journeyed to the neptune.
+6 Where is Colliani? 	earth	1 2
+7 Doud travelled to the earth.
+8 Following that she went to the neptune.
+9 Where is Doud? 	neptune	7 8
+10 Burnhard went back to the earth.
+11 After that she went back to the mars.
+12 Where is Burnhard? 	mars	10 11
+13 Burnhard travelled to the venus.
+14 After that she travelled to the neptune.
+15 Where is Burnhard? 	neptune	13 14
+1 Colliani travelled to the earth.
+2 Following that he went back to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Colliani journeyed to the mars.
+5 Following that he went back to the neptune.
+6 Where is Colliani? 	neptune	4 5
+7 Doud went back to the mars.
+8 Following that she travelled to the moon.
+9 Where is Colliani? 	neptune	4 5
+10 Burnhard moved to the mars.
+11 Then she went back to the moon.
+12 Where is Doud? 	moon	7 8
+13 Colliani went back to the venus.
+14 Afterwards he travelled to the neptune.
+15 Where is Colliani? 	neptune	13 14
+1 Colliani travelled to the earth.
+2 Following that he journeyed to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Colliani travelled to the venus.
+5 Then he travelled to the mars.
+6 Where is Colliani? 	mars	4 5
+7 Doud travelled to the mars.
+8 Following that she went back to the earth.
+9 Where is Colliani? 	mars	4 5
+10 Conn went to the jupiter.
+11 Following that he moved to the neptune.
+12 Where is Colliani? 	mars	4 5
+13 Doud went to the jupiter.
+14 Then she moved to the moon.
+15 Where is Conn? 	neptune	10 11
+1 Conn moved to the venus.
+2 After that he journeyed to the earth.
+3 Where is Conn? 	earth	1 2
+4 Colliani moved to the moon.
+5 Following that he went to the neptune.
+6 Where is Conn? 	earth	1 2
+7 Burnhard went to the moon.
+8 Then she travelled to the jupiter.
+9 Where is Colliani? 	neptune	4 5
+10 Colliani went back to the jupiter.
+11 Then he went to the moon.
+12 Where is Burnhard? 	jupiter	7 8
+13 Burnhard travelled to the neptune.
+14 Following that she journeyed to the earth.
+15 Where is Burnhard? 	earth	13 14
+1 Doud travelled to the neptune.
+2 Afterwards she journeyed to the venus.
+3 Where is Doud? 	venus	1 2
+4 Colliani moved to the earth.
+5 After that he went to the venus.
+6 Where is Colliani? 	venus	4 5
+7 Colliani travelled to the moon.
+8 Afterwards he moved to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Doud travelled to the neptune.
+11 Following that she went to the venus.
+12 Where is Doud? 	venus	10 11
+13 Burnhard travelled to the neptune.
+14 Following that she went to the earth.
+15 Where is Colliani? 	mars	7 8
+1 Conn moved to the neptune.
+2 Then he moved to the venus.
+3 Where is Conn? 	venus	1 2
+4 Doud went to the moon.
+5 Then she went to the mars.
+6 Where is Doud? 	mars	4 5
+7 Doud journeyed to the neptune.
+8 Following that she went back to the mars.
+9 Where is Doud? 	mars	7 8
+10 Conn went to the mars.
+11 After that he went back to the venus.
+12 Where is Doud? 	mars	7 8
+13 Doud went back to the earth.
+14 Afterwards she journeyed to the moon.
+15 Where is Doud? 	moon	13 14
+1 Doud moved to the moon.
+2 Afterwards she went back to the venus.
+3 Where is Doud? 	venus	1 2
+4 Doud journeyed to the jupiter.
+5 Afterwards she travelled to the earth.
+6 Where is Doud? 	earth	4 5
+7 Conn went to the neptune.
+8 Then he went back to the mars.
+9 Where is Doud? 	earth	4 5
+10 Burnhard moved to the venus.
+11 Afterwards she went back to the earth.
+12 Where is Conn? 	mars	7 8
+13 Burnhard went to the neptune.
+14 Following that she moved to the venus.
+15 Where is Conn? 	mars	7 8
+1 Conn travelled to the mars.
+2 Afterwards he moved to the moon.
+3 Where is Conn? 	moon	1 2
+4 Burnhard travelled to the venus.
+5 Following that she travelled to the neptune.
+6 Where is Conn? 	moon	1 2
+7 Burnhard journeyed to the earth.
+8 Afterwards she moved to the jupiter.
+9 Where is Conn? 	moon	1 2
+10 Conn went back to the jupiter.
+11 Afterwards he went back to the venus.
+12 Where is Burnhard? 	jupiter	7 8
+13 Doud went back to the earth.
+14 Then she went to the neptune.
+15 Where is Doud? 	neptune	13 14
+1 Doud moved to the jupiter.
+2 Afterwards she went back to the earth.
+3 Where is Doud? 	earth	1 2
+4 Colliani went back to the venus.
+5 Following that he moved to the earth.
+6 Where is Doud? 	earth	1 2
+7 Colliani went to the venus.
+8 Following that he travelled to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Doud went to the venus.
+11 Afterwards she travelled to the mars.
+12 Where is Doud? 	mars	10 11
+13 Colliani went to the jupiter.
+14 Afterwards he went to the moon.
+15 Where is Colliani? 	moon	13 14
+1 Doud travelled to the jupiter.
+2 Afterwards she journeyed to the neptune.
+3 Where is Doud? 	neptune	1 2
+4 Conn travelled to the jupiter.
+5 Then he travelled to the moon.
+6 Where is Doud? 	neptune	1 2
+7 Conn went to the mars.
+8 Following that he journeyed to the moon.
+9 Where is Conn? 	moon	7 8
+10 Colliani journeyed to the earth.
+11 Afterwards he travelled to the moon.
+12 Where is Conn? 	moon	7 8
+13 Burnhard went back to the moon.
+14 Afterwards she went to the neptune.
+15 Where is Colliani? 	moon	10 11
+1 Doud travelled to the neptune.
+2 Then she journeyed to the jupiter.
+3 Where is Doud? 	jupiter	1 2
+4 Doud journeyed to the venus.
+5 After that she journeyed to the earth.
+6 Where is Doud? 	earth	4 5
+7 Burnhard went back to the venus.
+8 Then she journeyed to the earth.
+9 Where is Doud? 	earth	4 5
+10 Colliani went back to the moon.
+11 Then he went back to the neptune.
+12 Where is Doud? 	earth	4 5
+13 Colliani travelled to the jupiter.
+14 Afterwards he moved to the mars.
+15 Where is Colliani? 	mars	13 14
+1 Conn went to the moon.
+2 Following that he went back to the venus.
+3 Where is Conn? 	venus	1 2
+4 Burnhard travelled to the mars.
+5 Afterwards she went back to the jupiter.
+6 Where is Burnhard? 	jupiter	4 5
+7 Doud journeyed to the jupiter.
+8 Then she travelled to the venus.
+9 Where is Burnhard? 	jupiter	4 5
+10 Burnhard journeyed to the earth.
+11 After that she journeyed to the moon.
+12 Where is Burnhard? 	moon	10 11
+13 Doud travelled to the moon.
+14 Afterwards she moved to the neptune.
+15 Where is Doud? 	neptune	13 14
+1 Burnhard journeyed to the earth.
+2 Afterwards she journeyed to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Colliani went back to the moon.
+5 After that he went to the venus.
+6 Where is Colliani? 	venus	4 5
+7 Colliani went to the moon.
+8 Following that he went back to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Doud travelled to the jupiter.
+11 Afterwards she journeyed to the venus.
+12 Where is Colliani? 	mars	7 8
+13 Doud travelled to the neptune.
+14 Afterwards she journeyed to the earth.
+15 Where is Doud? 	earth	13 14
+1 Burnhard went back to the neptune.
+2 After that she went to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Doud moved to the earth.
+5 Afterwards she travelled to the mars.
+6 Where is Burnhard? 	moon	1 2
+7 Burnhard travelled to the earth.
+8 Afterwards she travelled to the jupiter.
+9 Where is Burnhard? 	jupiter	7 8
+10 Conn went back to the mars.
+11 Following that he went back to the neptune.
+12 Where is Conn? 	neptune	10 11
+13 Colliani moved to the venus.
+14 After that he went back to the earth.
+15 Where is Burnhard? 	jupiter	7 8
+1 Burnhard moved to the earth.
+2 Following that she journeyed to the mars.
+3 Where is Burnhard? 	mars	1 2
+4 Doud travelled to the neptune.
+5 Afterwards she journeyed to the earth.
+6 Where is Burnhard? 	mars	1 2
+7 Burnhard moved to the venus.
+8 Then she moved to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Conn went to the moon.
+11 After that he went to the jupiter.
+12 Where is Burnhard? 	neptune	7 8
+13 Burnhard travelled to the moon.
+14 Then she travelled to the mars.
+15 Where is Burnhard? 	mars	13 14
+1 Colliani moved to the earth.
+2 Then he moved to the jupiter.
+3 Where is Colliani? 	jupiter	1 2
+4 Doud went back to the earth.
+5 After that she went back to the neptune.
+6 Where is Colliani? 	jupiter	1 2
+7 Burnhard travelled to the moon.
+8 Then she went back to the venus.
+9 Where is Burnhard? 	venus	7 8
+10 Doud went back to the jupiter.
+11 Then she journeyed to the neptune.
+12 Where is Burnhard? 	venus	7 8
+13 Conn travelled to the moon.
+14 Then he went to the jupiter.
+15 Where is Conn? 	jupiter	13 14
+1 Conn went to the venus.
+2 Afterwards he moved to the earth.
+3 Where is Conn? 	earth	1 2
+4 Burnhard travelled to the moon.
+5 Afterwards she journeyed to the mars.
+6 Where is Burnhard? 	mars	4 5
+7 Burnhard went back to the moon.
+8 After that she went to the venus.
+9 Where is Burnhard? 	venus	7 8
+10 Burnhard travelled to the earth.
+11 Then she went to the neptune.
+12 Where is Burnhard? 	neptune	10 11
+13 Conn went to the mars.
+14 Afterwards he moved to the neptune.
+15 Where is Conn? 	neptune	13 14
+1 Burnhard went to the moon.
+2 Afterwards she went back to the jupiter.
+3 Where is Burnhard? 	jupiter	1 2
+4 Burnhard travelled to the venus.
+5 Then she journeyed to the moon.
+6 Where is Burnhard? 	moon	4 5
+7 Colliani moved to the venus.
+8 Then he journeyed to the jupiter.
+9 Where is Burnhard? 	moon	4 5
+10 Doud went to the jupiter.
+11 Following that she journeyed to the moon.
+12 Where is Colliani? 	jupiter	7 8
+13 Burnhard travelled to the venus.
+14 After that she went to the moon.
+15 Where is Doud? 	moon	10 11
+1 Burnhard went back to the earth.
+2 After that she journeyed to the neptune.
+3 Where is Burnhard? 	neptune	1 2
+4 Conn went to the venus.
+5 After that he went to the neptune.
+6 Where is Conn? 	neptune	4 5
+7 Doud went to the jupiter.
+8 Following that she went back to the neptune.
+9 Where is Burnhard? 	neptune	1 2
+10 Conn journeyed to the earth.
+11 Afterwards he went back to the jupiter.
+12 Where is Conn? 	jupiter	10 11
+13 Colliani went to the jupiter.
+14 After that he went to the venus.
+15 Where is Conn? 	jupiter	10 11
+1 Conn moved to the mars.
+2 After that he went to the venus.
+3 Where is Conn? 	venus	1 2
+4 Doud moved to the jupiter.
+5 Afterwards she went to the earth.
+6 Where is Conn? 	venus	1 2
+7 Burnhard travelled to the moon.
+8 Afterwards she journeyed to the earth.
+9 Where is Doud? 	earth	4 5
+10 Conn travelled to the jupiter.
+11 After that he journeyed to the earth.
+12 Where is Burnhard? 	earth	7 8
+13 Conn journeyed to the mars.
+14 Then he journeyed to the earth.
+15 Where is Conn? 	earth	13 14
+1 Burnhard travelled to the venus.
+2 Following that she travelled to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Burnhard moved to the mars.
+5 After that she went to the moon.
+6 Where is Burnhard? 	moon	4 5
+7 Doud went to the mars.
+8 Then she journeyed to the earth.
+9 Where is Burnhard? 	moon	4 5
+10 Colliani went back to the neptune.
+11 Then he travelled to the mars.
+12 Where is Colliani? 	mars	10 11
+13 Colliani journeyed to the jupiter.
+14 Afterwards he travelled to the mars.
+15 Where is Colliani? 	mars	13 14
+1 Colliani went back to the mars.
+2 Following that he moved to the moon.
+3 Where is Colliani? 	moon	1 2
+4 Conn went to the earth.
+5 Following that he journeyed to the moon.
+6 Where is Colliani? 	moon	1 2
+7 Conn moved to the neptune.
+8 Then he went back to the mars.
+9 Where is Conn? 	mars	7 8
+10 Conn went to the venus.
+11 Then he travelled to the earth.
+12 Where is Conn? 	earth	10 11
+13 Colliani travelled to the mars.
+14 Afterwards he went back to the earth.
+15 Where is Colliani? 	earth	13 14
+1 Colliani went to the venus.
+2 Afterwards he travelled to the earth.
+3 Where is Colliani? 	earth	1 2
+4 Conn travelled to the moon.
+5 After that he went back to the mars.
+6 Where is Colliani? 	earth	1 2
+7 Conn went back to the venus.
+8 Then he went to the mars.
+9 Where is Conn? 	mars	7 8
+10 Conn went back to the jupiter.
+11 Then he went to the moon.
+12 Where is Conn? 	moon	10 11
+13 Conn went to the venus.
+14 Afterwards he went back to the mars.
+15 Where is Conn? 	mars	13 14
+1 Conn moved to the earth.
+2 Following that he journeyed to the neptune.
+3 Where is Conn? 	neptune	1 2
+4 Colliani went to the neptune.
+5 Afterwards he moved to the moon.
+6 Where is Conn? 	neptune	1 2
+7 Burnhard went back to the mars.
+8 Following that she moved to the neptune.
+9 Where is Colliani? 	moon	4 5
+10 Burnhard journeyed to the moon.
+11 Following that she went back to the venus.
+12 Where is Burnhard? 	venus	10 11
+13 Colliani travelled to the jupiter.
+14 After that he went to the venus.
+15 Where is Colliani? 	venus	13 14
+1 Colliani travelled to the earth.
+2 Following that he went to the venus.
+3 Where is Colliani? 	venus	1 2
+4 Burnhard journeyed to the venus.
+5 Following that she moved to the mars.
+6 Where is Colliani? 	venus	1 2
+7 Doud moved to the earth.
+8 After that she travelled to the moon.
+9 Where is Doud? 	moon	7 8
+10 Colliani travelled to the neptune.
+11 After that he travelled to the moon.
+12 Where is Doud? 	moon	7 8
+13 Burnhard went back to the earth.
+14 Afterwards she travelled to the neptune.
+15 Where is Burnhard? 	neptune	13 14
+1 Burnhard went to the earth.
+2 Then she journeyed to the neptune.
+3 Where is Burnhard? 	neptune	1 2
+4 Doud went to the moon.
+5 Following that she moved to the venus.
+6 Where is Doud? 	venus	4 5
+7 Colliani went to the neptune.
+8 After that he went to the mars.
+9 Where is Colliani? 	mars	7 8
+10 Doud went back to the earth.
+11 Afterwards she moved to the venus.
+12 Where is Colliani? 	mars	7 8
+13 Conn went back to the neptune.
+14 Following that he went back to the moon.
+15 Where is Conn? 	moon	13 14
+1 Conn moved to the jupiter.
+2 Then he moved to the earth.
+3 Where is Conn? 	earth	1 2
+4 Doud moved to the mars.
+5 Following that she moved to the earth.
+6 Where is Conn? 	earth	1 2
+7 Doud went back to the venus.
+8 Following that she went to the jupiter.
+9 Where is Conn? 	earth	1 2
+10 Burnhard journeyed to the moon.
+11 Afterwards she went back to the earth.
+12 Where is Burnhard? 	earth	10 11
+13 Colliani went back to the earth.
+14 Following that he travelled to the neptune.
+15 Where is Colliani? 	neptune	13 14
+1 Conn went to the venus.
+2 Afterwards he journeyed to the jupiter.
+3 Where is Conn? 	jupiter	1 2
+4 Burnhard travelled to the venus.
+5 Following that she travelled to the neptune.
+6 Where is Burnhard? 	neptune	4 5
+7 Doud journeyed to the jupiter.
+8 Then she went back to the venus.
+9 Where is Conn? 	jupiter	1 2
+10 Doud travelled to the earth.
+11 After that she went to the venus.
+12 Where is Doud? 	venus	10 11
+13 Burnhard went to the venus.
+14 Then she journeyed to the moon.
+15 Where is Doud? 	venus	10 11
+1 Doud went back to the mars.
+2 After that she went to the earth.
+3 Where is Doud? 	earth	1 2
+4 Conn travelled to the earth.
+5 Afterwards he moved to the neptune.
+6 Where is Conn? 	neptune	4 5
+7 Doud travelled to the neptune.
+8 Then she went to the jupiter.
+9 Where is Conn? 	neptune	4 5
+10 Colliani moved to the mars.
+11 After that he travelled to the venus.
+12 Where is Colliani? 	venus	10 11
+13 Conn journeyed to the moon.
+14 Following that he went back to the jupiter.
+15 Where is Conn? 	jupiter	13 14
+1 Doud journeyed to the neptune.
+2 After that she journeyed to the moon.
+3 Where is Doud? 	moon	1 2
+4 Doud journeyed to the venus.
+5 Then she went to the jupiter.
+6 Where is Doud? 	jupiter	4 5
+7 Burnhard journeyed to the venus.
+8 Then she went to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Doud went to the mars.
+11 Afterwards she moved to the venus.
+12 Where is Doud? 	venus	10 11
+13 Conn went to the jupiter.
+14 After that he journeyed to the venus.
+15 Where is Burnhard? 	neptune	7 8
+1 Colliani travelled to the mars.
+2 After that he went to the jupiter.
+3 Where is Colliani? 	jupiter	1 2
+4 Burnhard travelled to the moon.
+5 Then she went to the neptune.
+6 Where is Colliani? 	jupiter	1 2
+7 Burnhard journeyed to the venus.
+8 Following that she went to the neptune.
+9 Where is Burnhard? 	neptune	7 8
+10 Colliani went back to the venus.
+11 Then he moved to the jupiter.
+12 Where is Burnhard? 	neptune	7 8
+13 Burnhard moved to the mars.
+14 Afterwards she moved to the earth.
+15 Where is Burnhard? 	earth	13 14
+1 Conn moved to the earth.
+2 Afterwards he moved to the mars.
+3 Where is Conn? 	mars	1 2
+4 Conn moved to the neptune.
+5 Then he went back to the earth.
+6 Where is Conn? 	earth	4 5
+7 Conn travelled to the mars.
+8 Following that he went back to the neptune.
+9 Where is Conn? 	neptune	7 8
+10 Burnhard went back to the jupiter.
+11 Afterwards she travelled to the venus.
+12 Where is Conn? 	neptune	7 8
+13 Doud went to the mars.
+14 After that she travelled to the jupiter.
+15 Where is Doud? 	jupiter	13 14
+1 Burnhard moved to the mars.
+2 Then she travelled to the moon.
+3 Where is Burnhard? 	moon	1 2
+4 Burnhard went to the neptune.
+5 Then she went back to the jupiter.
+6 Where is Burnhard? 	jupiter	4 5
+7 Colliani journeyed to the venus.
+8 Then he went back to the moon.
+9 Where is Colliani? 	moon	7 8
+10 Conn went to the venus.
+11 Then he moved to the neptune.
+12 Where is Conn? 	neptune	10 11
+13 Conn moved to the moon.
+14 After that he travelled to the venus.
+15 Where is Colliani? 	moon	7 8
+1 Burnhard went back to the moon.
+2 Following that she went back to the mars.
+3 Where is Burnhard? 	mars	1 2
+4 Conn went back to the moon.
+5 Afterwards he journeyed to the jupiter.
+6 Where is Burnhard? 	mars	1 2
+7 Doud went back to the venus.
+8 Then she went back to the jupiter.
+9 Where is Doud? 	jupiter	7 8
+10 Conn travelled to the earth.
+11 Afterwards he moved to the moon.
+12 Where is Doud? 	jupiter	7 8
+13 Burnhard travelled to the venus.
+14 Following that she travelled to the jupiter.
+15 Where is Conn? 	moon	10 11
+1 Colliani journeyed to the jupiter.
+2 After that he moved to the mars.
+3 Where is Colliani? 	mars	1 2
+4 Burnhard went to the mars.
+5 After that she moved to the neptune.
+6 Where is Colliani? 	mars	1 2
+7 Doud journeyed to the earth.
+8 Following that she went back to the mars.
+9 Where is Burnhard? 	neptune	4 5
+10 Colliani journeyed to the neptune.
+11 Following that he moved to the moon.
+12 Where is Colliani? 	moon	10 11
+13 Doud journeyed to the earth.
+14 Then she travelled to the neptune.
+15 Where is Doud? 	neptune	13 14
+1 Doud journeyed to the neptune.
+2 Following that she went to the earth.
+3 Where is Doud? 	earth	1 2
+4 Burnhard went to the moon.
+5 Afterwards she journeyed to the earth.
+6 Where is Burnhard? 	earth	4 5
+7 Burnhard travelled to the mars.
+8 Afterwards she went back to the moon.
+9 Where is Burnhard? 	moon	7 8
+10 Colliani moved to the neptune.
+11 Following that he journeyed to the venus.
+12 Where is Burnhard? 	moon	7 8
+13 Colliani went back to the earth.
+14 Then he travelled to the mars.
+15 Where is Burnhard? 	moon	7 8
+1 Burnhard moved to the venus.
+2 Following that she moved to the mars.
+3 Where is Burnhard? 	mars	1 2
+4 Colliani went to the moon.
+5 Afterwards he travelled to the mars.
+6 Where is Colliani? 	mars	4 5
+7 Burnhard journeyed to the jupiter.
+8 Afterwards she went back to the earth.
+9 Where is Burnhard? 	earth	7 8
+10 Doud went back to the neptune.
+11 After that she went to the moon.
+12 Where is Doud? 	moon	10 11
+13 Conn went to the moon.
+14 After that he journeyed to the venus.
+15 Where is Conn? 	venus	13 14

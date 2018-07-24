@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa58bbb6-8fe9-4fb9-b79e-33af944fe654" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/draw.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all_single_tasks.py" afterPath="$PROJECT_DIR$/all_single_tasks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/memn2n/memn2n.py" afterPath="$PROJECT_DIR$/memn2n/memn2n.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.py" afterPath="$PROJECT_DIR$/single.py" />
+    <list default="true" id="6930157c-19e0-4497-9ba5-c94ca7e6d41b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa10_indefinite-knowledge_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa11_basic-coreference_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa11_basic-coreference_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa12_conjunction_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa12_conjunction_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa13_compound-coreference_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa13_compound-coreference_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa14_time-reasoning_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa15_basic-deduction_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa16_basic-induction_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa17_positional-reasoning_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa18_size-reasoning_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa19_path-finding_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa1_single-supporting-fact_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa1_single-supporting-fact_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa20_agents-motivations_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa2_two-supporting-facts_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa2_two-supporting-facts_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa3_three-supporting-facts_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa3_three-supporting-facts_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa4_two-arg-relations_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa5_three-arg-relations_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa6_yes-no-questions_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa6_yes-no-questions_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa7_counting_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa7_counting_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa8_lists-sets_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa8_lists-sets_train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa9_simple-negation_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_all/qa9_simple-negation_train.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +45,8 @@
       <file leaf-file-name="data_utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="72" column="19" lean-forward="false" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+            <state relative-caret-position="476">
+              <caret line="72" column="40" lean-forward="false" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -32,8 +57,8 @@
       <file leaf-file-name="single.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/single.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2790">
-              <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+            <state relative-caret-position="274">
+              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
               <folding>
                 <element signature="e#90#128#0" expanded="true" />
               </folding>
@@ -41,21 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all_single_tasks.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/all_single_tasks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="memn2n.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="memn2n.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/memn2n/memn2n.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2094">
-              <caret line="468" column="60" lean-forward="false" selection-start-line="468" selection-start-column="60" selection-end-line="468" selection-end-column="60" />
+            <state relative-caret-position="5976">
+              <caret line="332" column="49" lean-forward="false" selection-start-line="332" selection-start-column="49" selection-end-line="332" selection-end-column="49" />
               <folding>
                 <element signature="e#103#141#0" expanded="true" />
               </folding>
@@ -63,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="draw.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/draw.py">
+      <file leaf-file-name="all_single_tasks.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all_single_tasks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="66" column="38" lean-forward="false" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+            <state relative-caret-position="257">
+              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -103,18 +118,20 @@
         <option value="$PROJECT_DIR$/my_data1/qa2_two-supporting-facts_test.txt" />
         <option value="$PROJECT_DIR$/my_data1/qa2_two-supporting-facts_train.txt" />
         <option value="$PROJECT_DIR$/memn2n/__init__.py" />
-        <option value="$PROJECT_DIR$/data_utils.py" />
         <option value="$PROJECT_DIR$/result_log/embedding_test.txt" />
-        <option value="$PROJECT_DIR$/draw.py" />
+        <option value="$PROJECT_DIR$/data_utils.py" />
         <option value="$PROJECT_DIR$/memn2n/memn2n.py" />
+        <option value="$PROJECT_DIR$/draw.py" />
         <option value="$PROJECT_DIR$/single.py" />
         <option value="$PROJECT_DIR$/all_single_tasks.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="323" />
+    <option name="y" value="27" />
+    <option name="width" value="1252" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -167,17 +184,12 @@
             <path>
               <item name="memn2n" type="b2602c69:ProjectViewProjectNode" />
               <item name="memn2n" type="462c0819:PsiDirectoryNode" />
-              <item name="my_data_replace" type="462c0819:PsiDirectoryNode" />
+              <item name="my_data_all" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="memn2n" type="b2602c69:ProjectViewProjectNode" />
               <item name="memn2n" type="462c0819:PsiDirectoryNode" />
-              <item name="result_log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memn2n" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memn2n" type="462c0819:PsiDirectoryNode" />
-              <item name="results" type="462c0819:PsiDirectoryNode" />
+              <item name="my_data_rename" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,8 +198,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -275,118 +286,80 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="fa58bbb6-8fe9-4fb9-b79e-33af944fe654" name="Default" comment="" />
-      <created>1529547982607</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1529547982607</updated>
-    </task>
-    <task id="LOCAL-00001" summary="first">
-      <created>1531209801524</created>
+    <task id="LOCAL-00001" summary="fix">
+      <created>1531825184415</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1531209801524</updated>
+      <updated>1531825184415</updated>
     </task>
-    <task id="LOCAL-00002" summary="first">
-      <created>1531209911393</created>
+    <task id="LOCAL-00002" summary="add drew function to show the embedding">
+      <created>1532054122880</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1531209911393</updated>
+      <updated>1532054122880</updated>
     </task>
-    <task id="LOCAL-00003" summary="first">
-      <created>1531210174676</created>
+    <task id="LOCAL-00003" summary="tune">
+      <created>1532054191720</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1531210174676</updated>
+      <updated>1532054191720</updated>
     </task>
-    <task id="LOCAL-00004" summary="first">
-      <created>1531210468130</created>
+    <task id="LOCAL-00004" summary="fix tag bug">
+      <created>1532071111586</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1531210468130</updated>
+      <updated>1532071111586</updated>
     </task>
-    <task id="LOCAL-00005" summary="update">
-      <created>1531304460841</created>
+    <task id="LOCAL-00005" summary="fix tag bug">
+      <created>1532313196655</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1531304460841</updated>
+      <updated>1532313196655</updated>
     </task>
-    <task id="LOCAL-00006" summary="add automatically construct word map">
-      <created>1531461124198</created>
+    <task id="LOCAL-00006" summary="tune">
+      <created>1532315517134</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1531461124198</updated>
+      <updated>1532315517134</updated>
     </task>
-    <task id="LOCAL-00007" summary="fix answer bug">
-      <created>1531476921610</created>
+    <task id="LOCAL-00007" summary="tune">
+      <created>1532328782605</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1531476921610</updated>
+      <updated>1532328782605</updated>
     </task>
-    <task id="LOCAL-00008" summary="run all single tasks">
-      <created>1531733496866</created>
+    <task id="LOCAL-00008" summary="tune">
+      <created>1532333648400</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1531733496866</updated>
+      <updated>1532333648400</updated>
     </task>
-    <task id="LOCAL-00009" summary="run rename data">
-      <created>1531733609114</created>
+    <task id="LOCAL-00009" summary="add all entities oov data">
+      <created>1532429943763</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1531733609114</updated>
+      <updated>1532429943763</updated>
     </task>
-    <task id="LOCAL-00010" summary="add data">
-      <created>1531733820452</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1531733820453</updated>
-    </task>
-    <task id="LOCAL-00011" summary="fix">
-      <created>1531794217037</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1531794217037</updated>
-    </task>
-    <task id="LOCAL-00012" summary="fix">
-      <created>1531794371548</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1531794371548</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="10" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24177396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46432889" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -406,94 +379,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first" />
-    <MESSAGE value="update" />
-    <MESSAGE value="add automatically construct word map" />
-    <MESSAGE value="fix answer bug" />
-    <MESSAGE value="run all single tasks" />
-    <MESSAGE value="run rename data" />
-    <MESSAGE value="add data" />
-    <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="add drew function to show the embedding" />
+    <MESSAGE value="fix tag bug" />
+    <MESSAGE value="tune" />
+    <MESSAGE value="add all entities oov data" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all entities oov data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/memn2n/memn2n.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          <folding>
-            <element signature="e#103#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/single.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="12" />
-          <folding>
-            <element signature="e#90#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow/lib/python2.7/site-packages/sklearn/cross_validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/random_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_array_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="3026" column="4" lean-forward="false" selection-start-line="3026" selection-start-column="4" selection-end-line="3026" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/array_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-395">
-          <caret line="512" column="28" lean-forward="true" selection-start-line="512" selection-start-column="28" selection-end-line="512" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_bAbI/my_qa2_train.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="60" column="20" lean-forward="false" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_data1/rename_qa2_test.txt" />
-    <entry file="file://$PROJECT_DIR$/data/qa2_two-supporting-facts_train.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/qa2_two-supporting-facts_test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my_bAbI/my_qa1_test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -736,37 +632,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_data_replace/qa18_size-reasoning_test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_data_replace/qa19_path-finding_test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my_data_replace/qa20_agents-motivations_test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="72" column="19" lean-forward="false" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -778,32 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/draw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="66" column="38" lean-forward="false" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-1472728138/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="479" column="4" lean-forward="false" selection-start-line="479" selection-start-column="4" selection-end-line="479" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/memn2n/memn2n.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2094">
-          <caret line="468" column="60" lean-forward="false" selection-start-line="468" selection-start-column="60" selection-end-line="468" selection-end-column="60" />
-          <folding>
-            <element signature="e#103#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/result_log/embedding_test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -812,21 +656,153 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="72" column="40" lean-forward="false" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-1472728138/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="455" column="4" lean-forward="false" selection-start-line="455" selection-start-column="4" selection-end-line="455" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tensorflow/lib/python2.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="3721" column="4" lean-forward="false" selection-start-line="3721" selection-start-column="4" selection-end-line="3721" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_replace/qa19_path-finding_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="185" column="45" lean-forward="false" selection-start-line="185" selection-start-column="44" selection-end-line="185" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_replace/qa18_size-reasoning_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_replace/qa19_path-finding_train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1999">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/draw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_all/qa1_single-supporting-fact_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_all/qa2_two-supporting-facts_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_all/qa3_three-supporting-facts_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_all/qa4_two-arg-relations_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_all/qa6_yes-no-questions_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_all/qa7_counting_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_all/qa8_lists-sets_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_data_all/qa5_three-arg-relations_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_single_tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/single.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2790">
-          <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+        <state relative-caret-position="274">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding>
             <element signature="e#90#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/all_single_tasks.py">
+    <entry file="file://$PROJECT_DIR$/memn2n/memn2n.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding />
+        <state relative-caret-position="5976">
+          <caret line="332" column="49" lean-forward="false" selection-start-line="332" selection-start-column="49" selection-end-line="332" selection-end-column="49" />
+          <folding>
+            <element signature="e#103#141#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
