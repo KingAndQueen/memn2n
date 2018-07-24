@@ -12,18 +12,78 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 def draw_line():
-    #draw the distribution of roles in scenes
-    train = [1.44,0.53,0.35,0.29,0.24,0.23,0.21,0.20,0.19,0.19]
-    x1=range(10)
-    suftrain=[0.84,0.40,0.27]
-    x2=range(3)
+    #draw the loss of replace
+    # train = [0.79,0.46,0.36,0.30,0.27,0.25,0.23,0.23,0.22]
+    train = [0.79, 0.36, 0.27, 0.23, 0.22]
+    train = [1286, 882, 547, 355, 273]
+    train = [1212, 400, 99, 29, 18]
+    train = [305, 133, 61, 40, 33]
+    train = [144, 23, 9,6, 5]
+    train = [630, 535, 409, 291, 232]
+    train = [297, 74, 39, 28, 23]
+    train = [285, 76, 45, 33, 30]
+    train = [442, 134, 34, 15, 10]
+    train = [382, 75, 25, 12, 9.5]
+    train = [163, 29, 9.7, 5.9, 4.8]
+    train = [1.5, 0.4, 0.3, 0.25, 0.23]
+    train = [146, 31, 10, 6.3, 5.2]
+    train = [126, 2, 0.85, 0.64, 0.56]
+    train = [2151, 1941, 1718, 1594, 1584]
+    train = [1.07, 0.55, 0.42, 0.37, 0.35]
+    # rename:
+    train = [0.57, 0.30, 0.23, 0.20, 0.19]
+    train = [884, 178, 12, 4.64, 3.0]
+    train = [1155, 398, 120, 48, 34]
+    train = [621, 47, 11, 3.2, 2]
+    train = [493, 196, 68, 34, 25]
+    train = [378, 104, 47, 32, 27]
+    train = [386, 119, 47, 28, 23]
+    train = [226, 60, 31, 23, 17.9]
+    train = [0.84, 0.34, 0.25, 0.22, 0.2]
+    train = [122, 61, 40, 28, 23]
 
-    plt.figure(figsize=(8, 4))
-    plt.plot(x1, train, "r", linewidth=1)
-    plt.plot(x2, suftrain, "b--", linewidth=1)
-    plt.xlabel("Time(s)")
-    plt.ylabel("Volt")
-    plt.title("Line plot")
+    # suftrain=[0.47,0.29,0.21,0.17,0.13,0.11,0.10,0.08,0.08]
+    suftrain = [0.47, 0.21, 0.13, 0.10, 0.08]
+    suftrain = [462, 253, 99, 5, 2]
+    suftrain = [608, 322, 271, 309, 91]
+    suftrain = [40, 2, 1, 0.4, 0.3]
+    suftrain = [3.3, 1.5, 0.9, 0.6, 0.5]
+    suftrain = [451, 370, 287, 248, 204]
+    suftrain = [82, 15, 8.7, 10, 4.9]
+    suftrain = [97, 97, 38, 36, 43]
+    suftrain = [69, 1.4, 0.6, 0.4, 0.3]
+    suftrain = [175, 66, 37, 2.6, 1.25]
+    suftrain = [75, 32, 2.3, 1.1, 0.75]
+    suftrain = [0.46, 0.21, 0.13, 0.09, 0.07]
+    suftrain = [100, 70, 22, 3.5, 1.6]
+    suftrain = [87, 2.9, 0.6, 0.36, 0.23]
+    suftrain = [2182, 2123, 2061, 2050, 2055]
+    suftrain = [0.68, 0.34, 0.22, 0.17, 0.13]
+    # rename:
+    suftrain = [0.35, 0.17, 0.11, 0.08, 0.06]
+    suftrain = [143, 78.6, 1.12, 0.39, 0.24]
+    suftrain = [651, 503, 402, 375, 425]
+    suftrain = [1.4, 0.44, 0.24, 0.16, 0.12]
+    suftrain = [218, 137, 172, 66, 13]
+    suftrain = [97, 60, 35, 15, 49]
+    suftrain = [25, 1.1, 0.5, 0.38, 0.28]
+    suftrain = [160, 87, 13, 45, 5.9]
+    suftrain = [0.35, 0.16, 0.1, 0.08, 0.06]
+    suftrain = [98, 68, 52, 53, 37]
+
+    x1 = range(20, 101, 20)
+    x2=range(20,101,20)
+
+
+
+    plt.figure(figsize=(5.1, 4))
+    plt.xticks(x1)
+    plt.plot(x1, train, "r", linewidth=1, label='Train')
+    plt.plot(x2, suftrain, "b--", linewidth=1, label='Suf-train')
+    plt.xlabel("Training Epoch")
+    plt.ylabel("Loss")
+    plt.title("Task 13")
+    plt.legend()
     plt.show()
 
     # plt.plot(values)
