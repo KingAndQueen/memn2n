@@ -41,7 +41,7 @@ if FLAGS.joint:
         train_tags+=tr_tag
         test = te
         test_tags=te_tag
-    pdb.set_trace()
+    # pdb.set_trace()
 
 else:
 # task data
