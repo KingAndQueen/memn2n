@@ -24,15 +24,30 @@ tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matr
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
-tf.flags.DEFINE_string("data_dir", "my_data_all", "Directory containing bAbI tasks")
+tf.flags.DEFINE_string("data_dir", "my_data_mix", "Directory containing bAbI tasks")
 tf.flags.DEFINE_boolean('visual',False,'whether visualize the embedding')
+tf.flags.DEFINE_boolean('joint',True,'whether to train all tasks')
 FLAGS = tf.flags.FLAGS
 
 print("Started Task:", FLAGS.task_id)
 
+if FLAGS.joint:
+    ids = range(1, 21)
+    train, test ,train_tags,test_tags= [], [],[],[]
+    # pdb.set_trace()
+    for i in ids:
+        tr, te, tr_tag,te_tag= load_task(FLAGS.data_dir, i,joint=True)
+        train+=tr
+        train_tags+=tr_tag
+        test = te
+        test_tags=te_tag
+    pdb.set_trace()
+
+else:
 # task data
-train, test,train_tags,test_tags = load_task(FLAGS.data_dir, FLAGS.task_id)
+    train, test,train_tags,test_tags = load_task(FLAGS.data_dir, FLAGS.task_id)
 data = train + test
+
 #pdb.set_trace()
 # vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
 vocab_my=[]

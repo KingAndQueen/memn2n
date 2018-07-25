@@ -5,7 +5,7 @@ import re
 import numpy as np
 import nltk,pdb
 
-def load_task(data_dir, task_id, only_supporting=False):
+def load_task(data_dir, task_id, joint=False):
     '''Load the nth task. There are 20 tasks in total.
 
     Returns a tuple containing the training and testing data for the task.
@@ -16,9 +16,12 @@ def load_task(data_dir, task_id, only_supporting=False):
     files = [os.path.join(data_dir, f) for f in files]
     s = 'qa{}_'.format(task_id)
     train_file = [f for f in files if s in f and 'train' in f][0]
-    test_file = [f for f in files if s in f and 'test' in f][0]
-    train_data,tags_train = get_stories(train_file, only_supporting)
-    test_data,tags_test = get_stories(test_file, only_supporting)
+    if not joint:
+        test_file = [f for f in files if s in f and 'test' in f][0]
+    else:
+        test_file = [f for f in files if 'joint_test' in f][0]
+    train_data,tags_train = get_stories(train_file,)
+    test_data,tags_test = get_stories(test_file,)
     return train_data, test_data, tags_train,tags_test
 
 def tokenize(sent):
