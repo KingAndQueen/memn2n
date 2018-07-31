@@ -152,8 +152,8 @@ class MemN2N(object):
         self._nonlin = nonlin
         self._init = initializer
         self._name = name
-        self._my_embedding = trained_embedding
-        self.trained_embedding = _my_embedding
+        self._my_embedding = _my_embedding
+        self.trained_embedding =trained_embedding
 
         self._build_inputs()
         self._build_vars()
@@ -213,6 +213,7 @@ class MemN2N(object):
             # C = tf.concat(axis=0, values=[ nil_word_slot, self._init([self._vocab_size-1, self._embedding_size]) ])
             A = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
             C = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
+            pdb.set_trace()
             if self.trained_embedding:
                 A = tf.get_variable('embedding_word', shape=[self._vocab_size, self._embedding_size],
                                                    initializer=tf.constant_initializer(value=self._my_embedding,

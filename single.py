@@ -62,10 +62,6 @@ for s, q, a in data:
 vocab = vocab_my
 word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
 
-data_path = FLAGS.data_dir + '/vocab.pkl'
-f = open(data_path, 'wb')
-pkl.dump(word_idx, f)
-f.close()
 # pdb.set_trace()
 
 train_set = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in train)))
@@ -85,8 +81,14 @@ print('oov words', oov_word_ - _oov_word)
 # print('vocab word length:',len(word_idx))
 for i in range(memory_size):
     word_idx['time{}'.format(i + 1)] = 'time{}'.format(i + 1)
-
+word_idx['<pad>']=0
 print('vocab word+time length:', len(word_idx))
+
+data_path = FLAGS.data_dir + '/vocab.pkl'
+f = open(data_path, 'wb')
+pkl.dump(word_idx, f)
+f.close()
+# pdb.set_trace()
 
 vocab_size = len(word_idx) + 1  # +1 for nil word
 sentence_size = max(query_size, sentence_size)  # for the position
