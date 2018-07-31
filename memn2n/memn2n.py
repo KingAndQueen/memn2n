@@ -152,6 +152,8 @@ class MemN2N(object):
         self._nonlin = nonlin
         self._init = initializer
         self._name = name
+        self._my_embedding = trained_embedding
+        self.trained_embedding = _my_embedding
 
         self._build_inputs()
         self._build_vars()
@@ -159,8 +161,7 @@ class MemN2N(object):
         self._opt = tf.train.GradientDescentOptimizer(learning_rate=self._lr)
 
         self._encoding = tf.constant(encoding(self._sentence_size, self._embedding_size), name="encoding")
-        self._my_embedding=trained_embedding
-        self.trained_embedding=_my_embedding
+
         # cross entropy
         logits = self._inference(self._stories, self._queries)  # (batch_size, vocab_size)
         cross_entropy = tf.nn.softmax_cross_entropy_with_logits(logits=logits,
