@@ -127,7 +127,7 @@ batches = zip(range(0, n_train - batch_size, batch_size), range(batch_size, n_tr
 batches = [(start, end) for start, end in batches]
 
 if FLAGS.trained_emb:
-    my_embedding = pkl.load(open(FLAGS.data_dir + '/my_embedding.pkl', 'rb'))
+    my_embedding = pkl.load(open(FLAGS.data_dir + '/new_embed.pkl', 'rb'))
 else:
     my_embedding = None
 
