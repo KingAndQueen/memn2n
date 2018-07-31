@@ -29,7 +29,7 @@ def update_emb(emb,word2idx,vocab_glove,emb_glove,pickle_path='my_embedding.pkl'
             if word in vocab_glove:
                 idx_g = vocab_glove.index(word)
                 emb_g=emb_glove[idx_g]
-                pdb.set_trace()
+                # pdb.set_trace()
                 emb[idx]=emb_g
             else:
                 count_unk+=1
