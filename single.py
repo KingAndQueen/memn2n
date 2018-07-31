@@ -26,7 +26,7 @@ tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matr
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
-tf.flags.DEFINE_string("data_dir", "my_data_rename", "Directory containing bAbI tasks")
+tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI tasks")
 tf.flags.DEFINE_boolean('visual', False, 'whether visualize the embedding')
 tf.flags.DEFINE_boolean('joint', False, 'whether to train all tasks')
 tf.flags.DEFINE_boolean('trained_embedding', True, 'whether use trained embedding, such as Glove')
@@ -60,14 +60,14 @@ for s, q, a in data:
         if word not in vocab_my:
             vocab_my.append(word)
 vocab = vocab_my
-
-data_path = FLAGS.data_dir + 'vocab.pkl'
-f = open(data_path, 'wb')
-pkl.dump(vocab, f)
-f.close()
-
 word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
-# pdb.set_trace()
+
+data_path = FLAGS.data_dir + '/vocab.pkl'
+f = open(data_path, 'wb')
+pkl.dump(word_idx, f)
+f.close()
+pdb.set_trace()
+
 train_set = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in train)))
 train_set = [word_idx[id] for id in train_set]
 

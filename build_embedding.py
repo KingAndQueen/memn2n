@@ -9,12 +9,12 @@ def idx_to_emb(pickle_path,emb_size=100):
     if not os.path.exists(pickle_path):
         print('vocab path not exist!')
     else:
-        vocab_ = pkl.load(open(pickle_path, 'rb'))
+        word2idx = pkl.load(open(pickle_path, 'rb'))
         # word2idx=vocab_class.word2idx
         # idx2word=vocab_class.idx2word
-        vocab_size=len(vocab_)
+        vocab_size=len(word2idx)
         emb=np.random.normal(size=(vocab_size,emb_size))
-        return emb,word2idx,idx2word
+        return emb,word2idx
 
 
 def update_emb(emb,word2idx,vocab_glove,emb_glove,pickle_path='my_embedding.pkl'):
@@ -62,5 +62,5 @@ if __name__=='__main__':
     vocab_g,emb_g=loadGlove(glove_path)
     print('glove vocab_size' , len(vocab_g))
     print('glove embedding_dim', len(emb_g[0]))
-    emb,word2idx,idx2word=idx_to_emb('./vocab.pkl',emb_size=25)
-    emb_new=update_emb(emb,word2idx,vocab_g,emb_g,'./new_embed.pkl')
+    emb,word2idx=idx_to_emb('./my_data_replece/vocab.pkl',emb_size=25)
+    emb_new=update_emb(emb,word2idx,vocab_g,emb_g,'./my_data_replace/new_embed.pkl')
