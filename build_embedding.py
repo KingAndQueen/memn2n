@@ -13,6 +13,7 @@ def idx_to_emb(pickle_path,emb_size=100):
         # word2idx=vocab_class.word2idx
         # idx2word=vocab_class.idx2word
         vocab_size=len(word2idx)
+        print('old vocab size:',vocab_size)
         emb=np.random.normal(size=(vocab_size,emb_size))
         return emb,word2idx
 
@@ -28,7 +29,7 @@ def update_emb(emb,word2idx,vocab_glove,emb_glove,pickle_path='my_embedding.pkl'
             if word in vocab_glove:
                 idx_g = vocab_glove.index(word)
                 emb_g=emb_glove[idx_g]
-        #       pdb.set_trace()
+                pdb.set_trace()
                 emb[idx]=emb_g
             else:
                 count_unk+=1
@@ -62,6 +63,6 @@ if __name__=='__main__':
     vocab_g,emb_g=loadGlove(glove_path,emb_size=25)
     print('glove vocab_size' , len(vocab_g))
     print('glove embedding_dim', len(emb_g[0]))
-    pdb.set_trace()
+    # pdb.set_trace()
     emb,word2idx=idx_to_emb('./my_data_replace/vocab.pkl',emb_size=25)
     emb_new=update_emb(emb,word2idx,vocab_g,emb_g,'./my_data_replace/new_embed.pkl')
