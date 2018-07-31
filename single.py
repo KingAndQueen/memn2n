@@ -29,7 +29,7 @@ tf.flags.DEFINE_integer("random_state", None, "Random state.")
 tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI tasks")
 tf.flags.DEFINE_boolean('visual', False, 'whether visualize the embedding')
 tf.flags.DEFINE_boolean('joint', False, 'whether to train all tasks')
-tf.flags.DEFINE_boolean('trained_embedding', True, 'whether use trained embedding, such as Glove')
+tf.flags.DEFINE_boolean('trained_emb', True, 'whether use trained embedding, such as Glove')
 FLAGS = tf.flags.FLAGS
 
 print("Started Task:", FLAGS.task_id)
@@ -66,7 +66,7 @@ data_path = FLAGS.data_dir + '/vocab.pkl'
 f = open(data_path, 'wb')
 pkl.dump(word_idx, f)
 f.close()
-pdb.set_trace()
+# pdb.set_trace()
 
 train_set = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in train)))
 train_set = [word_idx[id] for id in train_set]
@@ -133,7 +133,7 @@ else:
 
 with tf.Session() as sess:
     model = MemN2N(batch_size, vocab_size, sentence_size, memory_size, FLAGS.embedding_size, session=sess,
-                   hops=FLAGS.hops, max_grad_norm=FLAGS.max_grad_norm, trained_embedding=FLAGS.trained_embedding,
+                   hops=FLAGS.hops, max_grad_norm=FLAGS.max_grad_norm, trained_embedding=FLAGS.trained_emb,
                    _my_embedding=my_embedding)
     for t in range(1, FLAGS.epochs + 1):
         # Stepped learning rate

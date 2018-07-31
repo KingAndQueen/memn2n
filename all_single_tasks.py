@@ -28,7 +28,7 @@ def find_param(type):
         call_training(param_dict['task_id'])
 
 def main():
-    find_param('all')
+    find_param('replace')
 
 if __name__ == '__main__':
     main()
