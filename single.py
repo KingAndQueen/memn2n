@@ -14,6 +14,7 @@ import numpy as np
 import pickle as pkl
 import pdb
 
+
 tf.flags.DEFINE_float("learning_rate", 0.01, "Learning rate for SGD.")
 tf.flags.DEFINE_float("anneal_rate", 25, "Number of epochs between halving the learnign rate.")
 tf.flags.DEFINE_float("anneal_stop_epoch", 100, "Epoch number to end annealed lr schedule.")
@@ -22,7 +23,7 @@ tf.flags.DEFINE_integer("evaluation_interval", 10, "Evaluate and print results e
 tf.flags.DEFINE_integer("batch_size", 32, "Batch size for training.")
 tf.flags.DEFINE_integer("hops", 3, "Number of hops in the Memory Network.")
 tf.flags.DEFINE_integer("epochs", 100, "Number of epochs to train for.")
-tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matrices.")
+tf.flags.DEFINE_integer("embedding_size", 25, "Embedding size for embedding matrices.")
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
@@ -30,6 +31,7 @@ tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI
 tf.flags.DEFINE_boolean('visual', False, 'whether visualize the embedding')
 tf.flags.DEFINE_boolean('joint', False, 'whether to train all tasks')
 tf.flags.DEFINE_boolean('trained_emb', True, 'whether use trained embedding, such as Glove')
+tf.flags.DEFINE_boolean('introspect', False, 'whether use the introspect unit')
 FLAGS = tf.flags.FLAGS
 
 print("Started Task:", FLAGS.task_id)
@@ -81,13 +83,10 @@ print('oov words', oov_word_ - _oov_word)
 # print('vocab word length:',len(word_idx))
 for i in range(memory_size):
     word_idx['time{}'.format(i + 1)] = 'time{}'.format(i + 1)
-word_idx['<pad>']=0
+# word_idx['<pad>']=0
 print('vocab word+time length:', len(word_idx))
 
-data_path = FLAGS.data_dir + '/vocab.pkl'
-f = open(data_path, 'wb')
-pkl.dump(word_idx, f)
-f.close()
+
 # pdb.set_trace()
 
 vocab_size = len(word_idx) + 1  # +1 for nil word
@@ -129,6 +128,19 @@ batches = zip(range(0, n_train - batch_size, batch_size), range(batch_size, n_tr
 batches = [(start, end) for start, end in batches]
 
 if FLAGS.trained_emb:
+    import build_embedding
+    word_idx['<pad>'] = 0
+    data_path = FLAGS.data_dir + '/vocab.pkl'
+    f = open(data_path, 'wb')
+    pkl.dump(word_idx, f)
+    f.close()
+    glove_path = './glove.twitter.27B.25d.txt'
+    vocab_g, emb_g = build_embedding.loadGlove(glove_path, emb_size=25)
+    print('glove vocab_size', len(vocab_g))
+    print('glove embedding_dim', len(emb_g[0]))
+    # pdb.set_trace()
+    emb, word2idx = build_embedding.idx_to_emb('./my_data_replace/vocab.pkl', emb_size=25)
+    emb_new = build_embedding.update_emb(emb, word2idx, vocab_g, emb_g, './my_data_replace/new_embed.pkl')
     my_embedding = pkl.load(open(FLAGS.data_dir + '/new_embed.pkl', 'rb'))
 else:
     my_embedding = None
@@ -178,20 +190,13 @@ with tf.Session() as sess:
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Testing Accuracy:", test_acc)
 
-    # pdb.set_trace()
-    # f=open('./result_log/embedding_test.txt','w')
-    # f.write(str(word_embedding))
-    # f.write('\n\n')
-    test_preds, word_embedding_iu = model.predict(testS, testQ, type='introspect', test_tags=test_tags,
+    if FLAGS.introspect:
+        test_preds, word_embedding_iu = model.predict(testS, testQ, type='introspect', test_tags=test_tags,
                                                   train_data=[S, Q, A, train_tags],
                                                   word_idx=word_idx, train_set=train_set)
-
-    # f.write(str(word_embedding))
-    # f.close()
-    test_acc = metrics.accuracy_score(test_preds, test_labels)
-    print("Introspection Testing Accuracy:", test_acc)
+        test_acc = metrics.accuracy_score(test_preds, test_labels)
+        print("Introspection Testing Accuracy:", test_acc)
     if FLAGS.visual:
         import draw
-
         draw.draw_relation(word_embedding[_oov_word:oov_word_], word_embedding_iu[_oov_word:oov_word_])
         # draw.draw_relation(word_embedding, word_embedding_iu)

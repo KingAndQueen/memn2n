@@ -174,6 +174,7 @@ class MemN2N(object):
 
         # gradient pipeline
         grads_and_vars = self._opt.compute_gradients(loss_op)
+        pdb.set_trace()
         grads_and_vars = [(tf.clip_by_norm(g, self._max_grad_norm), v) for g, v in grads_and_vars]
         # grads_and_vars = [(add_gradient_noise(g), v) for g,v in grads_and_vars]
         nil_grads_and_vars = []
@@ -211,14 +212,16 @@ class MemN2N(object):
             # nil_word_slot = tf.zeros([1, self._embedding_size])
             # A = tf.concat(axis=0, values=[ nil_word_slot, self._init([self._vocab_size-1, self._embedding_size]) ])
             # C = tf.concat(axis=0, values=[ nil_word_slot, self._init([self._vocab_size-1, self._embedding_size]) ])
-            A = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
+            #
             C = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
-            pdb.set_trace()
+            # pdb.set_trace()
             if self.trained_embedding:
-                A = tf.get_variable('embedding_word', shape=[self._vocab_size, self._embedding_size],
+                self.A_1 = tf.get_variable('embedding_word', shape=[self._vocab_size, self._embedding_size],
                                                    initializer=tf.constant_initializer(value=self._my_embedding,
                                                                                        dtype=tf.float32),trainable=True)
-            self.A_1 = tf.Variable(A, name="A")
+            else:
+                A = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
+                self.A_1 = tf.Variable(A, name="A")
 
             self.C = []
 
