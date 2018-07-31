@@ -14,7 +14,7 @@ def idx_to_emb(pickle_path,emb_size=100):
         # idx2word=vocab_class.idx2word
         vocab_size=len(word2idx)
         print('old vocab size:',vocab_size)
-        emb=np.random.normal(size=(vocab_size,emb_size))
+        emb=np.random.normal(size=(vocab_size+1,emb_size))
         return emb,word2idx
 
 
