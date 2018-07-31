@@ -59,8 +59,9 @@ def loadGlove(filename,emb_size=100):
 
 if __name__=='__main__':
     glove_path='./glove.twitter.27B.25d.txt'
-    vocab_g,emb_g=loadGlove(glove_path)
+    vocab_g,emb_g=loadGlove(glove_path,emb_size=25)
     print('glove vocab_size' , len(vocab_g))
     print('glove embedding_dim', len(emb_g[0]))
+    pdb.set_trace()
     emb,word2idx=idx_to_emb('./my_data_replece/vocab.pkl',emb_size=25)
     emb_new=update_emb(emb,word2idx,vocab_g,emb_g,'./my_data_replace/new_embed.pkl')

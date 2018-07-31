@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6930157c-19e0-4497-9ba5-c94ca7e6d41b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_data_replace/vocab.pkl" />
+    <list default="true" id="6930157c-19e0-4497-9ba5-c94ca7e6d41b" name="Default" comment="tune">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build_embedding.py" afterPath="$PROJECT_DIR$/build_embedding.py" />
     </list>
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="single.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/single.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+            <state relative-caret-position="55">
+              <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
               <folding>
                 <element signature="e#90#128#0" expanded="true" />
               </folding>
@@ -40,7 +40,7 @@
       <file leaf-file-name="memn2n.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/memn2n/memn2n.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2537">
+            <state relative-caret-position="2623">
               <caret line="166" column="32" lean-forward="true" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
               <folding>
                 <element signature="e#103#141#0" expanded="true" />
@@ -49,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build_embedding.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build_embedding.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build_embedding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="65" column="84" lean-forward="true" selection-start-line="65" selection-start-column="84" selection-end-line="65" selection-end-column="84" />
+            <state relative-caret-position="405">
+              <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -369,13 +369,21 @@
       <option name="project" value="LOCAL" />
       <updated>1533022786515</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="tune">
+      <created>1533023067290</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1533023067290</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24177396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24177396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -401,11 +409,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add drew function to show the embedding" />
     <MESSAGE value="fix tag bug" />
-    <MESSAGE value="tune" />
     <MESSAGE value="add all entities oov data" />
     <MESSAGE value="add mix data" />
     <MESSAGE value="add trained vocab" />
-    <option name="LAST_COMMIT_MESSAGE" value="add trained vocab" />
+    <MESSAGE value="tune" />
+    <option name="LAST_COMMIT_MESSAGE" value="tune" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -792,16 +800,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/memn2n/memn2n.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2537">
-          <caret line="166" column="32" lean-forward="true" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
-          <folding>
-            <element signature="e#103#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my_data_replace/qa1_single-supporting-fact_test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -810,22 +808,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build_embedding.py">
+    <entry file="file://$PROJECT_DIR$/memn2n/memn2n.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="65" column="84" lean-forward="true" selection-start-line="65" selection-start-column="84" selection-end-line="65" selection-end-column="84" />
+        <state relative-caret-position="2623">
+          <caret line="166" column="32" lean-forward="true" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#103#141#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/single.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        <state relative-caret-position="55">
+          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
           <folding>
             <element signature="e#90#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_embedding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
