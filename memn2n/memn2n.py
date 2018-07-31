@@ -106,7 +106,7 @@ class MemN2N(object):
                  initializer=tf.random_normal_initializer(stddev=0.1),
                  encoding=position_encoding,
                  session=tf.Session(),
-                 name='MemN2N'):
+                 name='MemN2N',trained_embedding=False,_my_embedding=None):
         """Creates an End-To-End Memory Network
 
         Args:
@@ -159,7 +159,8 @@ class MemN2N(object):
         self._opt = tf.train.GradientDescentOptimizer(learning_rate=self._lr)
 
         self._encoding = tf.constant(encoding(self._sentence_size, self._embedding_size), name="encoding")
-
+        self._my_embedding=trained_embedding
+        self.trained_embedding=_my_embedding
         # cross entropy
         logits = self._inference(self._stories, self._queries)  # (batch_size, vocab_size)
         cross_entropy = tf.nn.softmax_cross_entropy_with_logits(logits=logits,
@@ -211,6 +212,10 @@ class MemN2N(object):
             # C = tf.concat(axis=0, values=[ nil_word_slot, self._init([self._vocab_size-1, self._embedding_size]) ])
             A = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
             C = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
+            if self.trained_embedding:
+                A = tf.get_variable('embedding_word', shape=[self._vocab_size, self._embedding_size],
+                                                   initializer=tf.constant_initializer(value=self._my_embedding,
+                                                                                       dtype=tf.float32),trainable=True)
             self.A_1 = tf.Variable(A, name="A")
 
             self.C = []

@@ -11,7 +11,9 @@ from six.moves import range, reduce
 
 import tensorflow as tf
 import numpy as np
-import  pdb
+import pickle as pkl
+import pdb
+
 tf.flags.DEFINE_float("learning_rate", 0.01, "Learning rate for SGD.")
 tf.flags.DEFINE_float("anneal_rate", 25, "Number of epochs between halving the learnign rate.")
 tf.flags.DEFINE_float("anneal_stop_epoch", 100, "Epoch number to end annealed lr schedule.")
@@ -24,43 +26,50 @@ tf.flags.DEFINE_integer("embedding_size", 20, "Embedding size for embedding matr
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
-tf.flags.DEFINE_string("data_dir", "my_data_mix", "Directory containing bAbI tasks")
-tf.flags.DEFINE_boolean('visual',False,'whether visualize the embedding')
-tf.flags.DEFINE_boolean('joint',True,'whether to train all tasks')
+tf.flags.DEFINE_string("data_dir", "my_data_rename", "Directory containing bAbI tasks")
+tf.flags.DEFINE_boolean('visual', False, 'whether visualize the embedding')
+tf.flags.DEFINE_boolean('joint', False, 'whether to train all tasks')
+tf.flags.DEFINE_boolean('trained_embedding', True, 'whether use trained embedding, such as Glove')
 FLAGS = tf.flags.FLAGS
 
 print("Started Task:", FLAGS.task_id)
 
 if FLAGS.joint:
     ids = range(1, 21)
-    train, test ,train_tags,test_tags= [], [],[],[]
+    train, test, train_tags, test_tags = [], [], [], []
     # pdb.set_trace()
     for i in ids:
-        tr, te, tr_tag,te_tag= load_task(FLAGS.data_dir, i,joint=True)
-        train+=tr
-        train_tags+=tr_tag
+        tr, te, tr_tag, te_tag = load_task(FLAGS.data_dir, i, joint=True)
+        train += tr
+        train_tags += tr_tag
         test = te
-        test_tags=te_tag
-    # pdb.set_trace()
+        test_tags = te_tag
+        # pdb.set_trace()
 
 else:
-# task data
-    train, test,train_tags,test_tags = load_task(FLAGS.data_dir, FLAGS.task_id)
+    # task data
+    train, test, train_tags, test_tags = load_task(FLAGS.data_dir, FLAGS.task_id)
 data = train + test
 
-#pdb.set_trace()
+# pdb.set_trace()
 # vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
-vocab_my=[]
+vocab_my = []
 for s, q, a in data:
-    sample=list(list(chain.from_iterable(s)) + q + a)
+    sample = list(list(chain.from_iterable(s)) + q + a)
     for word in sample:
         if word not in vocab_my:
             vocab_my.append(word)
-vocab=vocab_my
+vocab = vocab_my
+
+data_path = FLAGS.data_dir + 'vocab.pkl'
+f = open(data_path, 'wb')
+pkl.dump(vocab, f)
+f.close()
+
 word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
 # pdb.set_trace()
 train_set = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in train)))
-train_set=[word_idx[id]for id in train_set]
+train_set = [word_idx[id] for id in train_set]
 
 max_story_size = max(map(len, (s for s, _, _ in data)))
 mean_story_size = int(np.mean([len(s) for s, _, _ in data]))
@@ -68,9 +77,9 @@ sentence_size = max(map(len, chain.from_iterable(s for s, _, _ in data)))
 query_size = max(map(len, (q for _, q, _ in data)))
 memory_size = min(FLAGS.memory_size, max_story_size)
 
-_oov_word=len(train_set)
-oov_word_=len(vocab)
-print('oov words',oov_word_-_oov_word)
+_oov_word = len(train_set)
+oov_word_ = len(vocab)
+print('oov words', oov_word_ - _oov_word)
 # pdb.set_trace()
 # Add time words/indexes
 # print('vocab word length:',len(word_idx))
@@ -117,9 +126,15 @@ batch_size = FLAGS.batch_size
 batches = zip(range(0, n_train - batch_size, batch_size), range(batch_size, n_train, batch_size))
 batches = [(start, end) for start, end in batches]
 
+if FLAGS.trained_emb:
+    my_embedding = pkl.load(open(FLAGS.data_dir + 'my_embedding.pkl', 'rb'))
+else:
+    my_embedding = None
+
 with tf.Session() as sess:
     model = MemN2N(batch_size, vocab_size, sentence_size, memory_size, FLAGS.embedding_size, session=sess,
-                   hops=FLAGS.hops, max_grad_norm=FLAGS.max_grad_norm)
+                   hops=FLAGS.hops, max_grad_norm=FLAGS.max_grad_norm, trained_embedding=FLAGS.trained_embedding,
+                   _my_embedding=my_embedding)
     for t in range(1, FLAGS.epochs + 1):
         # Stepped learning rate
         if t - 1 <= FLAGS.anneal_stop_epoch:
@@ -143,10 +158,10 @@ with tf.Session() as sess:
                 end = start + batch_size
                 s = trainS[start:end]
                 q = trainQ[start:end]
-                pred,_ = model.predict(s, q)
+                pred, _ = model.predict(s, q)
                 train_preds += list(pred)
 
-            val_preds,_ = model.predict(valS, valQ)
+            val_preds, _ = model.predict(valS, valQ)
             train_acc = metrics.accuracy_score(np.array(train_preds), train_labels)
             val_acc = metrics.accuracy_score(val_preds, val_labels)
 
@@ -157,7 +172,7 @@ with tf.Session() as sess:
             print('Validation Accuracy:', val_acc)
             print('-----------------------')
 
-    test_preds,word_embedding = model.predict(testS, testQ, type='test')
+    test_preds, word_embedding = model.predict(testS, testQ, type='test')
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Testing Accuracy:", test_acc)
 
@@ -165,8 +180,9 @@ with tf.Session() as sess:
     # f=open('./result_log/embedding_test.txt','w')
     # f.write(str(word_embedding))
     # f.write('\n\n')
-    test_preds,word_embedding_iu = model.predict(testS, testQ,type='introspect',test_tags=test_tags, train_data=[S, Q, A,train_tags],
-                               word_idx=word_idx,train_set=train_set)
+    test_preds, word_embedding_iu = model.predict(testS, testQ, type='introspect', test_tags=test_tags,
+                                                  train_data=[S, Q, A, train_tags],
+                                                  word_idx=word_idx, train_set=train_set)
 
     # f.write(str(word_embedding))
     # f.close()
@@ -174,5 +190,6 @@ with tf.Session() as sess:
     print("Introspection Testing Accuracy:", test_acc)
     if FLAGS.visual:
         import draw
+
         draw.draw_relation(word_embedding[_oov_word:oov_word_], word_embedding_iu[_oov_word:oov_word_])
-    # draw.draw_relation(word_embedding, word_embedding_iu)
+        # draw.draw_relation(word_embedding, word_embedding_iu)
