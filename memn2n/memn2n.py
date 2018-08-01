@@ -216,9 +216,11 @@ class MemN2N(object):
 
             # pdb.set_trace()
             if self.trained_embedding:
-                self.A_1 = tf.get_variable('embedding_word', shape=[self._vocab_size, self._embedding_size],
-                                                   initializer=tf.constant_initializer(value=self._my_embedding,
-                                                                                       dtype=tf.float32),trainable=True)
+                # self.A_1 = tf.get_variable('embedding_word', shape=[self._vocab_size, self._embedding_size],
+                #                                    initializer=tf.constant_initializer(value=self._my_embedding,
+                #                                                                        dtype=tf.float32),trainable=True)
+                A = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
+                self.A_1 = tf.Variable(A, name="A")
                 self.C = []
 
                 for hopn in range(self._hops):
