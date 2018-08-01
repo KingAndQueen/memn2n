@@ -28,9 +28,9 @@ tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
 tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI tasks")
-tf.flags.DEFINE_boolean('visual', False, 'whether visualize the embedding')
+tf.flags.DEFINE_boolean('visual', True, 'whether visualize the embedding')
 tf.flags.DEFINE_boolean('joint', False, 'whether to train all tasks')
-tf.flags.DEFINE_boolean('trained_emb', True, 'whether use trained embedding, such as Glove')
+tf.flags.DEFINE_boolean('trained_emb', False, 'whether use trained embedding, such as Glove')
 tf.flags.DEFINE_boolean('introspect', False, 'whether use the introspect unit')
 FLAGS = tf.flags.FLAGS
 
@@ -145,6 +145,8 @@ if FLAGS.trained_emb:
 else:
     my_embedding = None
 
+idx_word={value:key for key, value in word_idx.items()}
+
 with tf.Session() as sess:
     model = MemN2N(batch_size, vocab_size, sentence_size, memory_size, FLAGS.embedding_size, session=sess,
                    hops=FLAGS.hops, max_grad_norm=FLAGS.max_grad_norm, trained_embedding=FLAGS.trained_emb,
@@ -198,5 +200,6 @@ with tf.Session() as sess:
         print("Introspection Testing Accuracy:", test_acc)
     if FLAGS.visual:
         import draw
-        draw.draw_relation(word_embedding[_oov_word:oov_word_], word_embedding_iu[_oov_word:oov_word_])
+        draw.drew_embedding(word_embedding,idx_word)
+        # draw.draw_relation(word_embedding[_oov_word:oov_word_], word_embedding_iu[_oov_word:oov_word_])
         # draw.draw_relation(word_embedding, word_embedding_iu)

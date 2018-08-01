@@ -3,7 +3,7 @@
 # from string import ascii_letters
 # Libraries
 import matplotlib
-
+import pdb
 # import pandas as pd
 # import numpy as np
 
@@ -11,6 +11,7 @@ matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
+
 def draw_line():
     #draw the loss of replace
     # train = [0.79,0.46,0.36,0.30,0.27,0.25,0.23,0.23,0.22]
@@ -160,7 +161,43 @@ def draw_eval():
     # plt.boxplot(x=df.values, labels=df.columns, whis=1.5)
     plt.show()
 
+def drew_embedding(final_embeddings,reverse_dictionary):
+    def plot_with_labels(low_dim_embs, labels, filename='myUserData.png'):
+        assert low_dim_embs.shape[0] >= len(labels), "More labels than embeddings"
+        # zhfont = mpl.font_manager.FontProperties(fname='/usr/share/fonts/truetype/droid/DroidSansFallbackFull.ttf', size=5)
+        plt.figure(figsize=(38, 38))  # in inches
+        for i, label in enumerate(labels):
+            x, y = low_dim_embs[i, :]
+            plt.scatter(x, y)
+            plt.annotate(label,
+                         xy=(x, y),
+                         xytext=(5, 2),
+                         textcoords='offset points',
+                         ha='right',
+                         va='bottom')#, fontproperties=zhfont)
+
+        plt.savefig(filename)
+
+
+    try:
+        from sklearn.manifold import TSNE
+        import matplotlib.pyplot as plt
+        import matplotlib as mpl
+        reverse_dictionary[0]='<pad>'
+        tsne = TSNE(perplexity=30, n_components=2, init='pca', n_iter=5000)
+        # plot_only = 200
+        low_dim_embs = tsne.fit_transform(final_embeddings)
+        # pdb.set_trace()
+        labels = reverse_dictionary.values()
+        plot_with_labels(low_dim_embs, labels)
+
+    except ImportError:
+        print("Please install sklearn and matplotlib to visualize embeddings.")
+
 if __name__=='__main__':
-    draw_line()
+    embedding=[[1,0,2,1,0,0,1,0.4]]
+    idx_word={0:'test',1:'test1'}
+    drew_embedding(embedding,idx_word)
+    # draw_line()
     # draw_relation([ 1.40497342E-01	,	1.3055712E-01],[ 1.40497342E-01	,	1.3055712E-01])
     # draw_eval()
