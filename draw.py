@@ -161,17 +161,17 @@ def draw_eval():
     # plt.boxplot(x=df.values, labels=df.columns, whis=1.5)
     plt.show()
 
-def drew_embedding(final_embeddings,reverse_dictionary):
-    def plot_with_labels(low_dim_embs, labels, filename='myUserData.png'):
+def drew_embedding(final_embeddings,reverse_dictionary,name=None):
+    def plot_with_labels(low_dim_embs, labels, filename=name+'.png'):
         assert low_dim_embs.shape[0] >= len(labels), "More labels than embeddings"
         # zhfont = mpl.font_manager.FontProperties(fname='/usr/share/fonts/truetype/droid/DroidSansFallbackFull.ttf', size=5)
         plt.figure(figsize=(38, 38))  # in inches
         for i, label in enumerate(labels):
             x, y = low_dim_embs[i, :]
-            plt.scatter(x, y)
+            plt.scatter(x, y, 100,color='black')
             plt.annotate(label,
                          xy=(x, y),
-                         xytext=(5, 2),
+                         xytext=(15, 12),
                          textcoords='offset points',
                          ha='right',
                          va='bottom')#, fontproperties=zhfont)

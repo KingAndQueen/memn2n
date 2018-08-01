@@ -82,7 +82,7 @@ print('oov words', oov_word_ - _oov_word)
 # Add time words/indexes
 # print('vocab word length:',len(word_idx))
 for i in range(memory_size):
-    word_idx['time{}'.format(i + 1)] = 'time{}'.format(i + 1)
+    word_idx['sents{}'.format(i + 1)] = 'sents{}'.format(i + 1)
 # word_idx['<pad>']=0
 print('vocab word+time length:', len(word_idx))
 
@@ -200,6 +200,7 @@ with tf.Session() as sess:
         print("Introspection Testing Accuracy:", test_acc)
     if FLAGS.visual:
         import draw
-        draw.drew_embedding(word_embedding,idx_word)
+        draw.drew_embedding(word_embedding,idx_word,name='trained_word_emb')
+        draw.drew_embedding(word_embedding_iu, idx_word, name='IU_word_emb')
         # draw.draw_relation(word_embedding[_oov_word:oov_word_], word_embedding_iu[_oov_word:oov_word_])
         # draw.draw_relation(word_embedding, word_embedding_iu)
