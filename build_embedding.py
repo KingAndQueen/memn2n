@@ -22,7 +22,7 @@ def update_emb(emb,word2idx,vocab_glove,emb_glove,pickle_path='my_embedding.pkl'
         count=0
         count_unk=0
         for word, idx in word2idx.items():
-            print('%d / %d' % (count,len(word2idx)) )
+            # print('%d / %d' % (count,len(word2idx)) )
             word=word.lower()
             count+=1
        #     pdb.set_trace()
@@ -33,7 +33,7 @@ def update_emb(emb,word2idx,vocab_glove,emb_glove,pickle_path='my_embedding.pkl'
                 emb[idx]=emb_g
             else:
                 count_unk+=1
-                print('word not in glove',word)
+                # print('word not in glove',word)
         print('unfind word: ',count_unk)
         pkl.dump(emb, open(pickle_path, 'wb'))
 

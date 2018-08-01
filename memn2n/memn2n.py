@@ -213,21 +213,28 @@ class MemN2N(object):
             # A = tf.concat(axis=0, values=[ nil_word_slot, self._init([self._vocab_size-1, self._embedding_size]) ])
             # C = tf.concat(axis=0, values=[ nil_word_slot, self._init([self._vocab_size-1, self._embedding_size]) ])
             #
-            C = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
+
             # pdb.set_trace()
             if self.trained_embedding:
                 self.A_1 = tf.get_variable('embedding_word', shape=[self._vocab_size, self._embedding_size],
                                                    initializer=tf.constant_initializer(value=self._my_embedding,
                                                                                        dtype=tf.float32),trainable=True)
+                self.C = []
+
+                for hopn in range(self._hops):
+                    with tf.variable_scope('hop_{}'.format(hopn)):
+                        self.C.append(tf.get_variable('embedding_word', shape=[self._vocab_size, self._embedding_size],
+                                                   initializer=tf.constant_initializer(value=self._my_embedding,
+                                                                                       dtype=tf.float32),trainable=True))
             else:
                 A = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
                 self.A_1 = tf.Variable(A, name="A")
+                C = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
+                self.C = []
 
-            self.C = []
-
-            for hopn in range(self._hops):
-                with tf.variable_scope('hop_{}'.format(hopn)):
-                    self.C.append(tf.Variable(C, name="C"))
+                for hopn in range(self._hops):
+                    with tf.variable_scope('hop_{}'.format(hopn)):
+                        self.C.append(tf.Variable(C, name="C"))
 
                     # Dont use projection for layerwise weight sharing
                     # self.H = tf.Variable(self._init([self._embedding_size, self._embedding_size]), name="H")
