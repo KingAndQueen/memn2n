@@ -170,10 +170,12 @@ with tf.Session() as sess:
                 end = start + batch_size
                 s = trainS[start:end]
                 q = trainQ[start:end]
-                pred, _ = model.predict(s, q)
+                s_c = trainS_char[start:end]
+                q_c = trainQ_char[start:end]
+                pred, _ = model.predict(s, q,s_c,q_c)
                 train_preds += list(pred)
 
-            val_preds, _ = model.predict(valS, valQ)
+            val_preds, _ = model.predict(valS, valQ,valS_char,valQ_char)
             train_acc = metrics.accuracy_score(np.array(train_preds), train_labels)
             val_acc = metrics.accuracy_score(val_preds, val_labels)
 
@@ -184,7 +186,7 @@ with tf.Session() as sess:
             print('Validation Accuracy:', val_acc)
             print('-----------------------')
 
-    test_preds, word_embedding = model.predict(testS, testQ, type='test')
+    test_preds, word_embedding = model.predict(testS, testQ,testS_char ,testQ_char,type='test')
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Testing Accuracy:", test_acc)
 

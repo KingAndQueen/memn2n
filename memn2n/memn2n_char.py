@@ -252,19 +252,22 @@ class MemN2N_char(object):
 
     def _cnn_character(self, word_emb, char_emb):
         # pdb.set_trace()
+        char_emb=tf.transpose(char_emb,[0,2,3,1])
         conv1_weights = tf.Variable(
-            tf.truncated_normal([1, 10, self._embedding_size, self._embedding_size], stddev=0.1))
-        conv1_biases = tf.Variable(tf.zeros([self._embedding_size]), dtype=tf.float32)
+            tf.truncated_normal([1, 5, self._sentence_size, self._sentence_size], stddev=0.1))
+        conv1_biases = tf.Variable(tf.zeros([self._sentence_size]), dtype=tf.float32)
         # fc1_weights = tf.Variable(tf.truncated_normal(
         #     [self._embedding_size, self._embedding_size], stddev=0.1))
         # fc1_biases = tf.Variable(tf.constant(0.1, shape=[self._embedding_size]))
         # pdb.set_trace()
-        conv = tf.nn.conv2d(char_emb, conv1_weights, strides=[1, 1, 10, 1], padding='SAME')
+        conv = tf.nn.conv2d(char_emb, conv1_weights, strides=[1, 10, 1, 1], padding='SAME')
         relu = tf.nn.relu(tf.nn.bias_add(conv, conv1_biases))
-        word_emb=tf.expand_dims(word_emb,2)
-        conv_char_word = tf.concat([word_emb, relu], -1)
-        pool_c_ = tf.nn.max_pool(conv_char_word, ksize=[1, 1, 1, 5], strides=[1, 1,1, 2], padding='SAME')
-        cnn_output=tf.squeeze(pool_c_)
+        word_emb=tf.expand_dims(word_emb,1)
+        word_emb=tf.transpose(word_emb,[0,1,3,2])
+        conv_char_word = tf.concat([word_emb, relu], 2)
+        pool_c_ = tf.nn.max_pool(conv_char_word, ksize=[1, 1, 5, 1], strides=[1, 1,2, 1], padding='SAME')
+        pool_c_=tf.squeeze(pool_c_)
+        cnn_output=tf.transpose(pool_c_,[0,2,1])
         # pool_shape = pool_c_.get_shape().as_list()
         # reshape_c = tf.reshape(pool_c_, [-1, pool_shape[1] * pool_shape[2] * pool_shape[3]])
         # cnn_output = tf.nn.relu(tf.matmul(reshape_c, fc1_weights) + fc1_biases)  # shape(pool_c)=word lens * 256
@@ -283,14 +286,15 @@ class MemN2N_char(object):
             input_shape = char_emb.get_shape().as_list()
             cnn_input = tf.reshape(char_emb, [-1, input_shape[1], input_shape[2] * input_shape[3], input_shape[4]])
             conv1_weights = tf.Variable(
-                tf.truncated_normal([1, 10, self._embedding_size, self._embedding_size], stddev=0.1))
-            conv1_biases = tf.Variable(tf.zeros([self._embedding_size]), dtype=tf.float32)
-            conv = tf.nn.conv2d(cnn_input, conv1_weights, strides=[1, 1,10, 1], padding='SAME')
+                tf.truncated_normal([1, 5, self._memory_size, self._memory_size], stddev=0.1))
+            conv1_biases = tf.Variable(tf.zeros([self._memory_size]), dtype=tf.float32)
+            cnn_input=tf.transpose(cnn_input,[0,2,3,1])
+            conv = tf.nn.conv2d(cnn_input, conv1_weights, strides=[1, 10,1, 1], padding='SAME')
             relu = tf.nn.relu(tf.nn.bias_add(conv, conv1_biases))
-
-            conv_char_word = tf.concat([word_emb, relu], -1)
-            pool_c_ = tf.nn.max_pool(conv_char_word, ksize=[1, 1, 1, 5], strides=[1, 1, 1, 2], padding='SAME')
-            cnn_output = pool_c_
+            word_emb=tf.transpose(word_emb,[0,2,3,1])
+            conv_char_word = tf.concat([word_emb, relu], 2)
+            pool_c_ = tf.nn.max_pool(conv_char_word, ksize=[1, 1, 5, 1], strides=[1, 1, 2, 1], padding='SAME')
+            cnn_output =tf.transpose(pool_c_,[0,3,1,2])
 
         return cnn_output
 
@@ -536,7 +540,7 @@ class MemN2N_char(object):
             total_cost = self.batch_fit(stories, queries, answers, lr)
         return total_cost
 
-    def predict(self, stories, queries, type=None, test_tags=None, train_data=None, word_idx=None, train_set=None):
+    def predict(self, stories, queries,stories_char, queries_char, type=None, test_tags=None, train_data=None, word_idx=None, train_set=None):
         """Predicts answers as one-hot encoding.
 
         Args:
@@ -551,7 +555,7 @@ class MemN2N_char(object):
             feed_dict = {self._stories: stories, self._queries: queries}
             return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
         else:
-            feed_dict = {self._stories: stories, self._queries: queries}
+            feed_dict = {self._stories: stories, self._queries: queries,self._stories_char:stories_char,self._queries_char:queries_char}
             return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
 
     def predict_proba(self, stories, queries):
