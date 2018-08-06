@@ -7,7 +7,7 @@ import os
 def call_training(task_id=1, result_dir='result_log/'):
     # os.makedirs(result_dir + datetime.now().strftime('%Y_%m_%d_%H_%M_%S') + "/")  # , exist_ok=True)
 
-    run = subprocess.call(['python', 'single.py',
+    run = subprocess.call(['python', 'single_char.py',
                            '--task_id', str(task_id)])
 
 
