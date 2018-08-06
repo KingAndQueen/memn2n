@@ -22,13 +22,15 @@ def find_param(type):
         tasks =[1,2,3,4,5,6,7,8,9,10,11,12,13,14,19,20]
     if type=='all':
         tasks=[1,2,3,6,7,8,9,11,12,13]
+    if type=='babi':
+        tasks=range(1,21,1)
     for task_id in tasks:#[1,2,3,4,5,6,7,8,9,10,11,12,13,14,19,20]:#[1,2,3,6,7,8,9,11,12,13]:
         # pdb.set_trace()
         param_dict['task_id'] = task_id
         call_training(param_dict['task_id'])
 
 def main():
-    find_param('replace')
+    find_param('babi')
 
 if __name__ == '__main__':
     main()
