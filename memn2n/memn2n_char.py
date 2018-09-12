@@ -207,9 +207,9 @@ class MemN2N_char(object):
     def _build_inputs(self):
         self._stories_char = tf.placeholder(tf.int32,
                                             [None, self._memory_size, self._sentence_size, self._character_size],
-                                            name="stories")
-        self._queries_char = tf.placeholder(tf.int32, [None, self._sentence_size, self._character_size], name="queries")
-        self._answers_char = tf.placeholder(tf.int32, [None, self._vocab_size], name="answers")
+                                            name="char_stories")
+        self._queries_char = tf.placeholder(tf.int32, [None, self._sentence_size, self._character_size], name="char_queries")
+        self._answers_char = tf.placeholder(tf.int32, [None, self._vocab_size], name="char_answers")
         self._stories = tf.placeholder(tf.int32, [None, self._memory_size, self._sentence_size], name="stories")
         self._queries = tf.placeholder(tf.int32, [None, self._sentence_size], name="queries")
         self._answers = tf.placeholder(tf.int32, [None, self._vocab_size], name="answers")
@@ -374,38 +374,17 @@ class MemN2N_char(object):
         loss, _ = self._sess.run([self.loss_op, self.train_op], feed_dict=feed_dict)
         return loss
 
-    def simulate_query(self, test_stories, test_queries, test_tags, train_data, word_idx, train_word_set):
-        # babi_fb_map = {'daniel': 'conn',
-        #                'john': 'colliani',
-        #                'mary': 'doud',
-        #                'sandra': 'burnhard'}
-        # babi_fb_map = {'daniel': 'burnhard',
-        #                'john': 'conn',
-        #                'mary': 'colliani',
-        #                'sandra': 'doud'}
-        # babi_fb_map = {'bathroom': 'moon',
-        #                'bedroom': 'earth',
-        #                'cinema': 'mercury',
-        #                'garden': 'venus',
-        #                'kitchen': 'mars',
-        #                'office': 'jupiter',
-        #                'park': 'saturn',
-        #                'school': 'uranus',
-        #                'hallway': 'neptune'
-        #                }
-        # name_map = {}
-        # for key in babi_fb_map:
-        #     if key in word_idx:
-        #         name_map[word_idx[key]] = word_idx[babi_fb_map[key]]
-
-        # pdb.set_trace()
+    def simulate_query(self, test_stories, test_queries, test_tags, train_data, char_data, word_idx, train_word_set):
+        print('simulating ....')
         s = train_data[0]
         q = train_data[1]
         a = train_data[2]
         tags_train = train_data[3]
         tags_test = test_tags
+        train_char=char_data[0] #for introspection training to use char embedding
+        test_char=char_data[1]
         # pdb.set_trace()
-        name_map_ = self.entities_map(tags_test, tags_train, s, test_stories, train_word_set)
+        name_map_,char_name_map = self.entities_map(tags_test, tags_train, s, test_stories, train_word_set)
         # pdb.set_trace()
         name_map = {}
         for test_entity, train_entities in name_map_.items():
@@ -429,7 +408,7 @@ class MemN2N_char(object):
 
         # losses = 0
         for s_e in range(100):
-            losses = self.simulate_train(name_map, s, q, a, 0.01)
+            losses = self.simulate_train(name_map, s, q, a, 0.01,train_char, test_char)
             print('The %d th simulation loss:%f' % (s_e, losses))
 
     def entities_map(self, tags_test, tags_train, train_stories, test_stories, train_set):
@@ -477,7 +456,7 @@ class MemN2N_char(object):
                                                                            position)
                         # pdb.set_trace()
                         for train_position in similar_smaple_in_train_positions:
-                            try:
+                            # try:
                                 if tags_train[train_position[0]][train_position[1]][position] == \
                                         tags_test[idx_story][idx_sents][position]:
                                     # pdb.set_trace()
@@ -486,13 +465,14 @@ class MemN2N_char(object):
                                         name_map[sents[position]] = [value]
                                     elif value not in name_map[sents[position]]:
                                         name_map[sents[position]].append(value)
-                            except:
-                                pdb.set_trace()
+                            # except:
+                            #     pdb.set_trace()
 
         return name_map
 
-    def simulate_train(self, name_map, story, query, answer, lr):
+    def simulate_train(self, name_map, story, query, answer, lr,train_char, test_char):
         stories, queries, answers = [], [], []
+        stories_char,queries_char=[],[]
         # for key,value in name_map.items():
         #     name_map_temp={value:key}
         flag = False
@@ -521,6 +501,8 @@ class MemN2N_char(object):
                 stories.append(s)
                 queries.append(q)
                 answers.append(a)
+                stories_char.append(train_char[i][0])
+                queries_char.append(train_char[i][1])
                 flag = False
 
         if len(queries) <= 0: pdb.set_trace()
@@ -534,13 +516,13 @@ class MemN2N_char(object):
                 s = stories[start:end]
                 q = queries[start:end]
                 a = answers[start:end]
-                cost_t = self.batch_fit(s, q, a, lr)
+                cost_t = self.batch_fit(s, q, a, lr, stories_char, queries_char)
                 total_cost += cost_t
         else:
-            total_cost = self.batch_fit(stories, queries, answers, lr)
+            total_cost = self.batch_fit(stories, queries, answers, lr, stories_char, queries_char)
         return total_cost
 
-    def predict(self, stories, queries,stories_char, queries_char, type=None, test_tags=None, train_data=None, word_idx=None, train_set=None):
+    def predict(self, stories, queries,stories_char,queries_char,char_train=None, type=None, test_tags=None, train_data=None, word_idx=None, train_set=None):
         """Predicts answers as one-hot encoding.
 
         Args:
@@ -551,10 +533,12 @@ class MemN2N_char(object):
             answers: Tensor (None, vocab_size)
         """
         if type == 'introspect':
-            self.simulate_query(stories, queries, test_tags, train_data, word_idx, train_set)
+            char_test=[stories_char,queries_char]
+            self.simulate_query(stories, queries, test_tags, train_data,[char_train,char_test], word_idx, train_set)
             feed_dict = {self._stories: stories, self._queries: queries}
             return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
         else:
+            # pdb.set_trace()
             feed_dict = {self._stories: stories, self._queries: queries,self._stories_char:stories_char,self._queries_char:queries_char}
             return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
 

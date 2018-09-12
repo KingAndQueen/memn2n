@@ -168,13 +168,21 @@ def drew_embedding(final_embeddings,reverse_dictionary,name=None):
         plt.figure(figsize=(38, 38))  # in inches
         for i, label in enumerate(labels):
             x, y = low_dim_embs[i, :]
-            plt.scatter(x, y, 100,color='black')
+            color='black'
+            marker='o'
+            if label in ['sandra','john','daniel', 'mary']:
+                color='red'
+                marker = 's'
+            if label in ['burnhard','conn', 'colliani','doud']:
+                color='blue'
+                marker='^'
+            plt.scatter(x, y, 800,marker=marker,color=color)
             plt.annotate(label,
                          xy=(x, y),
                          xytext=(15, 12),
                          textcoords='offset points',
                          ha='right',
-                         va='bottom')#, fontproperties=zhfont)
+                         va='bottom',size='xx-large',linespacing=3)#, fontproperties=zhfont)
 
         plt.savefig(filename)
 
