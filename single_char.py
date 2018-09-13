@@ -23,7 +23,7 @@ tf.flags.DEFINE_float("max_grad_norm", 40.0, "Clip gradients to this norm.")
 tf.flags.DEFINE_integer("evaluation_interval", 10, "Evaluate and print results every x epochs")
 tf.flags.DEFINE_integer("batch_size", 32, "Batch size for training.")
 tf.flags.DEFINE_integer("hops", 3, "Number of hops in the Memory Network.")
-tf.flags.DEFINE_integer("epochs", 10, "Number of epochs to train for.")
+tf.flags.DEFINE_integer("epochs", 100, "Number of epochs to train for.")
 tf.flags.DEFINE_integer("embedding_size", 25, "Embedding size for embedding matrices.")
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
@@ -131,6 +131,7 @@ batches = [(start, end) for start, end in batches]
 idx_word = {value: key for key, value in word_idx.items()}
 
 vocab_character_size = 128  # ascii number as character idx
+
 S_, Q_, A_ = character_data(train, word_idx, idx_word, sentence_size, memory_size)
 
 trainS_char, valS_char, trainQ_char, valQ_char, trainA_char, valA_char = model_selection.train_test_split(S_, Q_, A_,
@@ -191,7 +192,7 @@ with tf.Session() as sess:
     print("Testing Accuracy:", test_acc)
 
     if FLAGS.introspect:
-        test_preds, word_embedding_iu = model.predict(testS, testQ,testS_char ,testQ_char,[trainS_char,trainQ_char], type='introspect', test_tags=test_tags,
+        test_preds, word_embedding_iu = model.predict(testS, testQ,testS_char ,testQ_char,[S_,Q_], type='introspect', test_tags=test_tags,
                                                       train_data=[S, Q, A, train_tags],
                                                       word_idx=word_idx, train_set=train_set)
         test_acc = metrics.accuracy_score(test_preds, test_labels)

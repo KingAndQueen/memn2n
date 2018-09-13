@@ -166,7 +166,8 @@ class MemN2N_char(object):
         self._encoding = tf.constant(encoding(self._sentence_size, self._embedding_size), name="encoding")
 
         # cross entropy
-        logits = self._inference(self._stories, self._queries,self._stories_char,self._queries_char)  # (batch_size, vocab_size)
+        logits = self._inference(self._stories, self._queries, self._stories_char,
+                                 self._queries_char)  # (batch_size, vocab_size)
         cross_entropy = tf.nn.softmax_cross_entropy_with_logits(logits=logits,
                                                                 labels=tf.cast(self._answers, tf.float32),
                                                                 name="cross_entropy")
@@ -208,7 +209,8 @@ class MemN2N_char(object):
         self._stories_char = tf.placeholder(tf.int32,
                                             [None, self._memory_size, self._sentence_size, self._character_size],
                                             name="char_stories")
-        self._queries_char = tf.placeholder(tf.int32, [None, self._sentence_size, self._character_size], name="char_queries")
+        self._queries_char = tf.placeholder(tf.int32, [None, self._sentence_size, self._character_size],
+                                            name="char_queries")
         self._answers_char = tf.placeholder(tf.int32, [None, self._vocab_size], name="char_answers")
         self._stories = tf.placeholder(tf.int32, [None, self._memory_size, self._sentence_size], name="stories")
         self._queries = tf.placeholder(tf.int32, [None, self._sentence_size], name="queries")
@@ -252,7 +254,7 @@ class MemN2N_char(object):
 
     def _cnn_character(self, word_emb, char_emb):
         # pdb.set_trace()
-        char_emb=tf.transpose(char_emb,[0,2,3,1])
+        char_emb = tf.transpose(char_emb, [0, 2, 3, 1])
         conv1_weights = tf.Variable(
             tf.truncated_normal([1, 5, self._sentence_size, self._sentence_size], stddev=0.1))
         conv1_biases = tf.Variable(tf.zeros([self._sentence_size]), dtype=tf.float32)
@@ -262,12 +264,12 @@ class MemN2N_char(object):
         # pdb.set_trace()
         conv = tf.nn.conv2d(char_emb, conv1_weights, strides=[1, 10, 1, 1], padding='SAME')
         relu = tf.nn.relu(tf.nn.bias_add(conv, conv1_biases))
-        word_emb=tf.expand_dims(word_emb,1)
-        word_emb=tf.transpose(word_emb,[0,1,3,2])
+        word_emb = tf.expand_dims(word_emb, 1)
+        word_emb = tf.transpose(word_emb, [0, 1, 3, 2])
         conv_char_word = tf.concat([word_emb, relu], 2)
-        pool_c_ = tf.nn.max_pool(conv_char_word, ksize=[1, 1, 5, 1], strides=[1, 1,2, 1], padding='SAME')
-        pool_c_=tf.squeeze(pool_c_)
-        cnn_output=tf.transpose(pool_c_,[0,2,1])
+        pool_c_ = tf.nn.max_pool(conv_char_word, ksize=[1, 1, 5, 1], strides=[1, 1, 2, 1], padding='SAME')
+        pool_c_ = tf.squeeze(pool_c_)
+        cnn_output = tf.transpose(pool_c_, [0, 2, 1])
         # pool_shape = pool_c_.get_shape().as_list()
         # reshape_c = tf.reshape(pool_c_, [-1, pool_shape[1] * pool_shape[2] * pool_shape[3]])
         # cnn_output = tf.nn.relu(tf.matmul(reshape_c, fc1_weights) + fc1_biases)  # shape(pool_c)=word lens * 256
@@ -280,7 +282,7 @@ class MemN2N_char(object):
         # cnn_output=tf.squeeze(cnn_output)
         return cnn_output
 
-    def _cnn_character2(self, word_emb,char_emb, variable_scope, reuse=None):
+    def _cnn_character2(self, word_emb, char_emb, variable_scope, reuse=None):
         with tf.variable_scope(variable_scope, reuse=reuse):
             # pdb.set_trace()
             input_shape = char_emb.get_shape().as_list()
@@ -288,22 +290,22 @@ class MemN2N_char(object):
             conv1_weights = tf.Variable(
                 tf.truncated_normal([1, 5, self._memory_size, self._memory_size], stddev=0.1))
             conv1_biases = tf.Variable(tf.zeros([self._memory_size]), dtype=tf.float32)
-            cnn_input=tf.transpose(cnn_input,[0,2,3,1])
-            conv = tf.nn.conv2d(cnn_input, conv1_weights, strides=[1, 10,1, 1], padding='SAME')
+            cnn_input = tf.transpose(cnn_input, [0, 2, 3, 1])
+            conv = tf.nn.conv2d(cnn_input, conv1_weights, strides=[1, 10, 1, 1], padding='SAME')
             relu = tf.nn.relu(tf.nn.bias_add(conv, conv1_biases))
-            word_emb=tf.transpose(word_emb,[0,2,3,1])
+            word_emb = tf.transpose(word_emb, [0, 2, 3, 1])
             conv_char_word = tf.concat([word_emb, relu], 2)
             pool_c_ = tf.nn.max_pool(conv_char_word, ksize=[1, 1, 5, 1], strides=[1, 1, 2, 1], padding='SAME')
-            cnn_output =tf.transpose(pool_c_,[0,3,1,2])
+            cnn_output = tf.transpose(pool_c_, [0, 3, 1, 2])
 
         return cnn_output
 
-    def _inference(self, stories, queries,stories_char, queries_char):
+    def _inference(self, stories, queries, stories_char, queries_char):
         with tf.variable_scope(self._name):
             # Use A_1 for thee question embedding as per Adjacent Weight Sharing
             q_emb = tf.nn.embedding_lookup(self.A_1, queries)
             q_emb_char = tf.nn.embedding_lookup(self.A_1_char, queries_char)
-            q_emb = self._cnn_character(q_emb,q_emb_char)
+            q_emb = self._cnn_character(q_emb, q_emb_char)
             u_0 = tf.reduce_sum(q_emb * self._encoding, 1)
             u = [u_0]
 
@@ -311,14 +313,14 @@ class MemN2N_char(object):
                 if hopn == 0:
                     m_emb_A = tf.nn.embedding_lookup(self.A_1, stories)
                     m_emb_A_char = tf.nn.embedding_lookup(self.A_1_char, stories_char)
-                    m_emb_A = self._cnn_character2(m_emb_A,m_emb_A_char, tf.get_variable_scope())
+                    m_emb_A = self._cnn_character2(m_emb_A, m_emb_A_char, tf.get_variable_scope())
                     m_A = tf.reduce_sum(m_emb_A * self._encoding, 2)
 
                 else:
                     with tf.variable_scope('hop_{}'.format(hopn - 1)):
                         m_emb_A = tf.nn.embedding_lookup(self.C[hopn - 1], stories)
                         m_emb_A_char = tf.nn.embedding_lookup(self.C_char[hopn - 1], stories_char)
-                        m_emb_A = self._cnn_character2(m_emb_A,m_emb_A_char, tf.get_variable_scope(), reuse=True)
+                        m_emb_A = self._cnn_character2(m_emb_A, m_emb_A_char, tf.get_variable_scope(), reuse=True)
                         m_A = tf.reduce_sum(m_emb_A * self._encoding, 2)
 
                 # hack to get around no reduce_dot
@@ -333,7 +335,7 @@ class MemN2N_char(object):
                     # pdb.set_trace()
                     m_emb_C = tf.nn.embedding_lookup(self.C[hopn], stories)
                     m_emb_C_char = tf.nn.embedding_lookup(self.C_char[hopn], stories_char)
-                    m_emb_C = self._cnn_character2(m_emb_C,m_emb_C_char, tf.get_variable_scope())
+                    m_emb_C = self._cnn_character2(m_emb_C, m_emb_C_char, tf.get_variable_scope())
                 m_C = tf.reduce_sum(m_emb_C * self._encoding, 2)
 
                 c_temp = tf.transpose(m_C, [0, 2, 1])
@@ -353,7 +355,6 @@ class MemN2N_char(object):
             # Use last C for output (transposed)
             with tf.variable_scope('hop_{}'.format(self._hops)):
                 output = tf.matmul(u_k, tf.transpose(self.C[-1], [1, 0]))
-
 
                 return output
 
@@ -381,10 +382,10 @@ class MemN2N_char(object):
         a = train_data[2]
         tags_train = train_data[3]
         tags_test = test_tags
-        train_char=char_data[0] #for introspection training to use char embedding
-        test_char=char_data[1]
+        train_char = char_data[0]  # for introspection training to use char embedding
+        test_char = char_data[1]
         # pdb.set_trace()
-        name_map_,char_name_map = self.entities_map(tags_test, tags_train, s, test_stories, train_word_set)
+        name_map_ = self.entities_map(tags_test, tags_train, s, test_stories, train_word_set)
         # pdb.set_trace()
         name_map = {}
         for test_entity, train_entities in name_map_.items():
@@ -407,8 +408,8 @@ class MemN2N_char(object):
         # print('simulate querying...')
 
         # losses = 0
-        for s_e in range(100):
-            losses = self.simulate_train(name_map, s, q, a, 0.01,train_char, test_char)
+        for s_e in range(50):
+            losses = self.simulate_train(name_map, s, q, a, 0.01, train_char, test_char)
             print('The %d th simulation loss:%f' % (s_e, losses))
 
     def entities_map(self, tags_test, tags_train, train_stories, test_stories, train_set):
@@ -457,22 +458,22 @@ class MemN2N_char(object):
                         # pdb.set_trace()
                         for train_position in similar_smaple_in_train_positions:
                             # try:
-                                if tags_train[train_position[0]][train_position[1]][position] == \
-                                        tags_test[idx_story][idx_sents][position]:
-                                    # pdb.set_trace()
-                                    value = train_stories[train_position[0]][train_position[1]][position]
-                                    if sents[position] not in name_map.keys():
-                                        name_map[sents[position]] = [value]
-                                    elif value not in name_map[sents[position]]:
-                                        name_map[sents[position]].append(value)
-                            # except:
-                            #     pdb.set_trace()
+                            if tags_train[train_position[0]][train_position[1]][position] == \
+                                    tags_test[idx_story][idx_sents][position]:
+                                # pdb.set_trace()
+                                value = train_stories[train_position[0]][train_position[1]][position]
+                                if sents[position] not in name_map.keys():
+                                    name_map[sents[position]] = [value]
+                                elif value not in name_map[sents[position]]:
+                                    name_map[sents[position]].append(value)
+                                    # except:
+                                    #     pdb.set_trace()
 
         return name_map
 
-    def simulate_train(self, name_map, story, query, answer, lr,train_char, test_char):
+    def simulate_train(self, name_map, story, query, answer, lr, train_char, test_char):
         stories, queries, answers = [], [], []
-        stories_char,queries_char=[],[]
+        stories_char, queries_char = [], []
         # for key,value in name_map.items():
         #     name_map_temp={value:key}
         flag = False
@@ -501,8 +502,9 @@ class MemN2N_char(object):
                 stories.append(s)
                 queries.append(q)
                 answers.append(a)
-                stories_char.append(train_char[i][0])
-                queries_char.append(train_char[i][1])
+                # pdb.set_trace()
+                stories_char.append(train_char[0][i])
+                queries_char.append(train_char[1][i])
                 flag = False
 
         if len(queries) <= 0: pdb.set_trace()
@@ -516,13 +518,17 @@ class MemN2N_char(object):
                 s = stories[start:end]
                 q = queries[start:end]
                 a = answers[start:end]
-                cost_t = self.batch_fit(s, q, a, lr, stories_char, queries_char)
+                story_char = stories_char[start:end]
+                query_char = queries_char[start:end]
+
+                cost_t = self.batch_fit(s, q, a, lr, story_char, query_char)
                 total_cost += cost_t
         else:
             total_cost = self.batch_fit(stories, queries, answers, lr, stories_char, queries_char)
         return total_cost
 
-    def predict(self, stories, queries,stories_char,queries_char,char_train=None, type=None, test_tags=None, train_data=None, word_idx=None, train_set=None):
+    def predict(self, stories, queries, stories_char, queries_char, char_train=None, type=None, test_tags=None,
+                train_data=None, word_idx=None, train_set=None):
         """Predicts answers as one-hot encoding.
 
         Args:
@@ -533,13 +539,14 @@ class MemN2N_char(object):
             answers: Tensor (None, vocab_size)
         """
         if type == 'introspect':
-            char_test=[stories_char,queries_char]
-            self.simulate_query(stories, queries, test_tags, train_data,[char_train,char_test], word_idx, train_set)
+            char_test = [stories_char, queries_char]
+            self.simulate_query(stories, queries, test_tags, train_data, [char_train, char_test], word_idx, train_set)
             feed_dict = {self._stories: stories, self._queries: queries}
             return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
         else:
             # pdb.set_trace()
-            feed_dict = {self._stories: stories, self._queries: queries,self._stories_char:stories_char,self._queries_char:queries_char}
+            feed_dict = {self._stories: stories, self._queries: queries, self._stories_char: stories_char,
+                         self._queries_char: queries_char}
             return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
 
     def predict_proba(self, stories, queries):
