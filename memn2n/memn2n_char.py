@@ -408,7 +408,7 @@ class MemN2N_char(object):
         # print('simulate querying...')
 
         # losses = 0
-        for s_e in range(50):
+        for s_e in range(10):
             losses = self.simulate_train(name_map, s, q, a, 0.01, train_char, test_char)
             print('The %d th simulation loss:%f' % (s_e, losses))
 
@@ -509,7 +509,7 @@ class MemN2N_char(object):
 
         if len(queries) <= 0: pdb.set_trace()
         total_cost = 0.0
-        if len(queries) > 32:
+        if len(queries) > 50:
             batches = zip(range(0, len(queries) - 32, 32), range(32, len(queries), 32))
             batches = [(start, end) for start, end in batches]
             np.random.shuffle(batches)
@@ -541,7 +541,8 @@ class MemN2N_char(object):
         if type == 'introspect':
             char_test = [stories_char, queries_char]
             self.simulate_query(stories, queries, test_tags, train_data, [char_train, char_test], word_idx, train_set)
-            feed_dict = {self._stories: stories, self._queries: queries}
+            feed_dict = {self._stories: stories, self._queries: queries, self._stories_char: stories_char,
+                         self._queries_char: queries_char}
             return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
         else:
             # pdb.set_trace()
