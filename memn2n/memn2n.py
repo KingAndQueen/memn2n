@@ -309,29 +309,6 @@ class MemN2N(object):
         return loss
 
     def simulate_query(self, test_stories, test_queries, test_tags, train_data, word_idx, train_word_set):
-        # babi_fb_map = {'daniel': 'conn',
-        #                'john': 'colliani',
-        #                'mary': 'doud',
-        #                'sandra': 'burnhard'}
-        # babi_fb_map = {'daniel': 'burnhard',
-        #                'john': 'conn',
-        #                'mary': 'colliani',
-        #                'sandra': 'doud'}
-        # babi_fb_map = {'bathroom': 'moon',
-        #                'bedroom': 'earth',
-        #                'cinema': 'mercury',
-        #                'garden': 'venus',
-        #                'kitchen': 'mars',
-        #                'office': 'jupiter',
-        #                'park': 'saturn',
-        #                'school': 'uranus',
-        #                'hallway': 'neptune'
-        #                }
-        # name_map = {}
-        # for key in babi_fb_map:
-        #     if key in word_idx:
-        #         name_map[word_idx[key]] = word_idx[babi_fb_map[key]]
-
         # pdb.set_trace()
         s = train_data[0]
         q = train_data[1]
