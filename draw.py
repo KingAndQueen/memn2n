@@ -80,7 +80,7 @@ def draw_line():
     plt.figure(figsize=(5.1, 4))
     plt.xticks(x1)
     plt.plot(x1, train, "r", linewidth=1, label='Train')
-    plt.plot(x2, suftrain, "b--", linewidth=1, label='Suf-train')
+    plt.plot(x2, suftrain, "b--", linewidth=1, label='C-train')
     plt.xlabel("Training Epoch")
     plt.ylabel("Loss")
     plt.title("Task 13")
@@ -203,9 +203,9 @@ def drew_embedding(final_embeddings,reverse_dictionary,name=None):
         print("Please install sklearn and matplotlib to visualize embeddings.")
 
 if __name__=='__main__':
-    embedding=[[1,0,2,1,0,0,1,0.4]]
-    idx_word={0:'test',1:'test1'}
-    drew_embedding(embedding,idx_word)
-    # draw_line()
+    # embedding=[[1,0,2,1,0,0,1,0.4]]
+    # idx_word={0:'test',1:'test1'}
+    # drew_embedding(embedding,idx_word)
+    draw_line()
     # draw_relation([ 1.40497342E-01	,	1.3055712E-01],[ 1.40497342E-01	,	1.3055712E-01])
     # draw_eval()
