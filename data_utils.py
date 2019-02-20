@@ -95,6 +95,32 @@ def get_stories(f, only_supporting=False):
         data,tags=parse_stories(f.readlines(), only_supporting=only_supporting)
         return data,tags
 
+
+def vectorize_tag(data,tag_idx,sentence_size,memory_size):
+    s_tags=[]
+    # pdb.set_trace()
+    for memory_tags in data:
+        ss = []
+        for i, sentence in enumerate(memory_tags, 1):
+            ls = max(0, sentence_size - len(sentence))
+            ss.append([tag_idx[w] for w in sentence] + [0] * ls)
+
+        # take only the most recent sentences that fit in memory
+        ss = ss[::-1][:memory_size][::-1]
+
+        # Make the last word of each sentence the time 'word' which
+        # corresponds to vector of lookup table
+        # for i in range(len(ss)):
+        #     ss[i][-1] = len(tag_idx) - memory_size - i + len(ss)
+
+        # pad to memory_size
+        lm = max(0, memory_size - len(ss))
+        for _ in range(lm):
+            ss.append([0] * sentence_size)
+        s_tags.append(ss)
+    # pdb.set_trace()
+    return s_tags
+
 def vectorize_data(data, word_idx, sentence_size, memory_size):
     """
     Vectorize stories and queries.

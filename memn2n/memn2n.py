@@ -99,14 +99,14 @@ def add_gradient_noise(t, stddev=1e-3, name=None):
 class MemN2N(object):
     """End-To-End Memory Network."""
 
-    def __init__(self, batch_size, vocab_size, sentence_size, memory_size, embedding_size,
+    def __init__(self, batch_size, vocab_size,tags_size, sentence_size, memory_size, embedding_size,
                  hops=3,
                  max_grad_norm=40.0,
                  nonlin=None,
                  initializer=tf.random_normal_initializer(stddev=0.1),
                  encoding=position_encoding,
                  session=tf.Session(),
-                 name='MemN2N',trained_embedding=False,_my_embedding=None):
+                 name='MemN2N_tags',trained_embedding=False,_my_embedding=None):
         """Creates an End-To-End Memory Network
 
         Args:
@@ -154,7 +154,7 @@ class MemN2N(object):
         self._name = name
         self._my_embedding = _my_embedding
         self.trained_embedding =trained_embedding
-
+        self._tags_size=tags_size
         self._build_inputs()
         self._build_vars()
 
@@ -163,7 +163,7 @@ class MemN2N(object):
         self._encoding = tf.constant(encoding(self._sentence_size, self._embedding_size), name="encoding")
 
         # cross entropy
-        logits = self._inference(self._stories, self._queries)  # (batch_size, vocab_size)
+        logits = self._inference(self._stories, self._queries,self._tags)  # (batch_size, vocab_size)
         cross_entropy = tf.nn.softmax_cross_entropy_with_logits_v2(logits=logits,
                                                                 labels=tf.cast(self._answers, tf.float32),
                                                                 name="cross_entropy")
@@ -205,10 +205,11 @@ class MemN2N(object):
         self._stories = tf.placeholder(tf.int32, [None, self._memory_size, self._sentence_size], name="stories")
         self._queries = tf.placeholder(tf.int32, [None, self._sentence_size], name="queries")
         self._answers = tf.placeholder(tf.int32, [None, self._vocab_size], name="answers")
+        self._tags=tf.placeholder(tf.int32,[None,self._memory_size,self._sentence_size],name='stories_tag')
         self._lr = tf.placeholder(tf.float32, [], name="learning_rate")
 
     def _build_vars(self):
-        with tf.variable_scope(self._name):
+        with tf.variable_scope('build_vars'):
             # nil_word_slot = tf.zeros([1, self._embedding_size])
             # A = tf.concat(axis=0, values=[ nil_word_slot, self._init([self._vocab_size-1, self._embedding_size]) ])
             # C = tf.concat(axis=0, values=[ nil_word_slot, self._init([self._vocab_size-1, self._embedding_size]) ])
@@ -229,11 +230,12 @@ class MemN2N(object):
                                                    initializer=tf.constant_initializer(value=self._my_embedding,
                                                                                        dtype=tf.float32),trainable=True))
             else:
-                A = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
+                A = tf.random_normal([self._vocab_size, int(self._embedding_size)], stddev=0.1)
                 self.A_1 = tf.Variable(A, name="A")
-                C = tf.random_normal([self._vocab_size, self._embedding_size], stddev=0.1)
+                C = tf.random_normal([self._vocab_size,int(self._embedding_size)], stddev=0.1)
                 self.C = []
-
+                T=tf.random_normal([self._tags_size,int(self._embedding_size)],stddev=0.1)
+                self.T=tf.Variable(T,name='T')
                 for hopn in range(self._hops):
                     with tf.variable_scope('hop_{}'.format(hopn)):
                         self.C.append(tf.Variable(C, name="C"))
@@ -246,21 +248,34 @@ class MemN2N(object):
 
         self._nil_vars = set([self.A_1.name] + [x.name for x in self.C])
 
-    def _inference(self, stories, queries):
-        with tf.variable_scope(self._name):
+    def _inference(self, stories, queries, tags):
+        with tf.variable_scope('inference'):
             # Use A_1 for thee question embedding as per Adjacent Weight Sharing
             q_emb = tf.nn.embedding_lookup(self.A_1, queries)
             u_0 = tf.reduce_sum(q_emb * self._encoding, 1)
             u = [u_0]
 
             for hopn in range(self._hops):
+
+
                 if hopn == 0:
                     m_emb_A = tf.nn.embedding_lookup(self.A_1, stories)
+                    m_tag=tf.nn.embedding_lookup(self.T,tags)
+                    m_emb_A=tf.concat([m_emb_A,m_tag],axis=-1)
+                    # pdb.set_trace()
+                    w_merge = tf.get_variable('w_init', [1, 1, 2 * self._embedding_size, self._embedding_size],
+                                              initializer=tf.random_normal_initializer(stddev=0.02))
+                    m_emb_A=tf.nn.conv2d(m_emb_A, w_merge, [1,1,1,1], 'SAME')
                     m_A = tf.reduce_sum(m_emb_A * self._encoding, 2)
 
                 else:
                     with tf.variable_scope('hop_{}'.format(hopn - 1)):
                         m_emb_A = tf.nn.embedding_lookup(self.C[hopn - 1], stories)
+                        m_tag = tf.nn.embedding_lookup(self.T, tags)
+                        m_emb_A = tf.concat([m_emb_A, m_tag], axis=-1)
+                        w_merge = tf.get_variable('w'+str(hopn - 1), [1, 1, 2 * self._embedding_size, self._embedding_size],
+                                                  initializer=tf.random_normal_initializer(stddev=0.02))
+                        m_emb_A = tf.nn.conv2d(m_emb_A, w_merge, [1, 1, 1, 1], 'SAME')
                         m_A = tf.reduce_sum(m_emb_A * self._encoding, 2)
 
                 # hack to get around no reduce_dot
@@ -273,6 +288,11 @@ class MemN2N(object):
                 probs_temp = tf.transpose(tf.expand_dims(probs, -1), [0, 2, 1])
                 with tf.variable_scope('hop_{}'.format(hopn)):
                     m_emb_C = tf.nn.embedding_lookup(self.C[hopn], stories)
+                    m_tag = tf.nn.embedding_lookup(self.T, tags)
+                    m_emb_C = tf.concat([m_emb_C, m_tag], axis=-1)
+                    # w_merge = tf.get_variable('w'+str(hopn), [1, 1, 2 * self._embedding_size, self._embedding_size],
+                    #                           initializer=tf.random_normal_initializer(stddev=0.02))
+                    m_emb_C = tf.nn.conv2d(m_emb_C, w_merge, [1, 1, 1, 1], 'SAME')
                 m_C = tf.reduce_sum(m_emb_C * self._encoding, 2)
 
                 c_temp = tf.transpose(m_C, [0, 2, 1])
@@ -293,7 +313,7 @@ class MemN2N(object):
             with tf.variable_scope('hop_{}'.format(self._hops)):
                 return tf.matmul(u_k, tf.transpose(self.C[-1], [1, 0]))
 
-    def batch_fit(self, stories, queries, answers, learning_rate):
+    def batch_fit(self, stories, queries, answers,tag, learning_rate):
         """Runs the training algorithm over the passed batch
 
         Args:
@@ -304,7 +324,7 @@ class MemN2N(object):
         Returns:
             loss: floating-point number, the loss computed for the batch
         """
-        feed_dict = {self._stories: stories, self._queries: queries, self._answers: answers, self._lr: learning_rate}
+        feed_dict = {self._tags:tag,self._stories: stories, self._queries: queries, self._answers: answers, self._lr: learning_rate}
         loss, _ = self._sess.run([self.loss_op, self.train_op], feed_dict=feed_dict)
         return loss
 
@@ -450,7 +470,7 @@ class MemN2N(object):
             total_cost = self.batch_fit(stories, queries, answers, lr)
         return total_cost
 
-    def predict(self, stories, queries, type=None, test_tags=None, train_data=None, word_idx=None, train_set=None):
+    def predict(self, stories, queries,tags, type=None, test_tags=None, train_data=None, word_idx=None, train_set=None):
         """Predicts answers as one-hot encoding.
 
         Args:
@@ -460,12 +480,13 @@ class MemN2N(object):
         Returns:
             answers: Tensor (None, vocab_size)
         """
+        # pdb.set_trace()
         if type == 'introspect':
             self.simulate_query(stories, queries, test_tags, train_data, word_idx, train_set)
             feed_dict = {self._stories: stories, self._queries: queries}
             return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
         else:
-            feed_dict = {self._stories: stories, self._queries: queries}
+            feed_dict = {self._stories: stories, self._queries: queries,self._tags:tags}
             return self._sess.run([self.predict_op, self.A_1], feed_dict=feed_dict)
 
     def predict_proba(self, stories, queries):

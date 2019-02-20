@@ -3,7 +3,7 @@ Download tasks from facebook.ai/babi """
 from __future__ import absolute_import
 from __future__ import print_function
 
-from data_utils import load_task, vectorize_data,character_data
+from data_utils import load_task, vectorize_data,vectorize_tag,character_data
 from sklearn import metrics, model_selection
 from memn2n import MemN2N
 
@@ -29,11 +29,11 @@ tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
 tf.flags.DEFINE_string("data_dir", "my_data_rename", "Directory containing bAbI tasks")
-tf.flags.DEFINE_boolean('visual', True, 'whether visualize the embedding')
+tf.flags.DEFINE_boolean('visual', False, 'whether visualize the embedding')
 tf.flags.DEFINE_boolean('joint', False, 'whether to train all tasks')
 tf.flags.DEFINE_boolean('trained_emb', False, 'whether use trained embedding, such as Glove')
-tf.flags.DEFINE_boolean('introspect', True, 'whether use the introspect unit')
-
+tf.flags.DEFINE_boolean('introspect', False, 'whether use the introspect unit')
+# tf.flags.DEFINE_boolean('embed_pos',True,'whether to use the pos embedding in input')
 FLAGS = tf.flags.FLAGS
 
 print("Started Task:", FLAGS.task_id)
@@ -54,7 +54,14 @@ else:
     # task data
     train, test, train_tags, test_tags = load_task(FLAGS.data_dir, FLAGS.task_id)
 data = train + test
-
+data_tags=train_tags+test_tags
+# pdb.set_trace()
+tags_set=set()
+for s_tags in data_tags:
+    tags_set.update(set(chain.from_iterable(s_tags)))
+tags_idx=dict((c, i + 1) for i, c in enumerate(tags_set))
+print('Tags:',tags_idx)
+tags_size=len(tags_set)+1
 # pdb.set_trace()
 # vocab = sorted(reduce(lambda x, y: x | y, (set(list(chain.from_iterable(s)) + q + a) for s, q, a in data)))
 vocab_my = []
@@ -99,12 +106,14 @@ print("Longest sentence length", sentence_size)
 print("Longest story length", max_story_size)
 print("Average story length", mean_story_size)
 
+S_tags=vectorize_tag(train_tags,tags_idx,sentence_size,memory_size)
 # train/validation/test sets
 S, Q, A = vectorize_data(train, word_idx, sentence_size, memory_size)
 
-trainS, valS, trainQ, valQ, trainA, valA = model_selection.train_test_split(S, Q, A, test_size=.1,
+trainS, valS, trainQ, valQ, trainA, valA ,trainS_tags,valS_tags = model_selection.train_test_split(S, Q, A,S_tags, test_size=.1,
                                                                             random_state=FLAGS.random_state)
 testS, testQ, testA = vectorize_data(test, word_idx, sentence_size, memory_size)
+testS_tags=vectorize_tag(test_tags,tags_idx,sentence_size,memory_size)
 # pdb.set_trace()
 print(testS[1])
 
@@ -151,7 +160,7 @@ idx_word={value:key for key, value in word_idx.items()}
 
 
 with tf.Session() as sess:
-    model = MemN2N(batch_size, vocab_size, sentence_size, memory_size, FLAGS.embedding_size, session=sess,
+    model = MemN2N(batch_size, vocab_size,tags_size, sentence_size, memory_size, FLAGS.embedding_size, session=sess,
                    hops=FLAGS.hops, max_grad_norm=FLAGS.max_grad_norm, trained_embedding=FLAGS.trained_emb,
                    _my_embedding=my_embedding)
     for t in range(1, FLAGS.epochs + 1):
@@ -168,7 +177,8 @@ with tf.Session() as sess:
             s = trainS[start:end]
             q = trainQ[start:end]
             a = trainA[start:end]
-            cost_t = model.batch_fit(s, q, a, lr)
+            tag=trainS_tags[start:end]
+            cost_t = model.batch_fit(s, q, a, tag,lr)
             total_cost += cost_t
 
         if t % FLAGS.evaluation_interval == 0:
@@ -177,10 +187,11 @@ with tf.Session() as sess:
                 end = start + batch_size
                 s = trainS[start:end]
                 q = trainQ[start:end]
-                pred, _ = model.predict(s, q)
+                tag=trainS_tags[start:end]
+                pred, _ = model.predict(s, q,tag)
                 train_preds += list(pred)
 
-            val_preds, _ = model.predict(valS, valQ)
+            val_preds, _ = model.predict(valS, valQ,valS_tags)
             train_acc = metrics.accuracy_score(np.array(train_preds), train_labels)
             val_acc = metrics.accuracy_score(val_preds, val_labels)
 
@@ -191,7 +202,7 @@ with tf.Session() as sess:
             print('Validation Accuracy:', val_acc)
             print('-----------------------')
 
-    test_preds, word_embedding = model.predict(testS, testQ, type='test')
+    test_preds, word_embedding = model.predict(testS, testQ,testS_tags, type='test')
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Testing Accuracy:", test_acc)
 
