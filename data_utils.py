@@ -20,9 +20,9 @@ def load_task(data_dir, task_id, joint=False):
         test_file = [f for f in files if s in f and 'test' in f][0]
     else:
         test_file = [f for f in files if 'joint_test' in f][0]
-    train_data,tags_train = get_stories(train_file,)
-    test_data,tags_test = get_stories(test_file,)
-    return train_data, test_data, tags_train,tags_test
+    train_data,tags_train_s,tags_train_q = get_stories(train_file,)
+    test_data,tags_test_s,tags_test_q = get_stories(test_file,)
+    return train_data, test_data, tags_train_s,tags_test_s,tags_train_q,tags_test_q
 
 def tokenize(sent):
     '''Return the tokens of a sentence including punctuation.
@@ -39,6 +39,7 @@ def parse_stories(lines, only_supporting=False):
     data = []
     story = []
     tags_data=[]
+    tags_query=[]
     for line in lines:
         line = str.lower(line)
         nid, line = line.split(' ', 1)
@@ -51,11 +52,16 @@ def parse_stories(lines, only_supporting=False):
             #a = tokenize(a)
             # answer is one vocab word even if it's actually multiple words
             a = [a]
-            substory = None
 
             # remove question marks
             if q[-1] == "?":
                 q = q[:-1]
+
+            tags_q = []
+            for tags in nltk.pos_tag(q):
+                tags_q.append(tags[1])
+            tags_query.append(tags_q)
+            # pdb.set_trace()
 
             if only_supporting:
                 # Only select the related substory
@@ -84,7 +90,7 @@ def parse_stories(lines, only_supporting=False):
                 sent = sent[:-1]
             story.append(sent)
     # pdb.set_trace()
-    return data, tags_data
+    return data, tags_data,tags_query
 
 
 def get_stories(f, only_supporting=False):
@@ -92,34 +98,41 @@ def get_stories(f, only_supporting=False):
     If max_length is supplied, any stories longer than max_length tokens will be discarded.
     '''
     with open(f) as f:
-        data,tags=parse_stories(f.readlines(), only_supporting=only_supporting)
-        return data,tags
+        data,tags_s,tags_q=parse_stories(f.readlines(), only_supporting=only_supporting)
+        return data,tags_s,tags_q
 
 
-def vectorize_tag(data,tag_idx,sentence_size,memory_size):
-    s_tags=[]
-    # pdb.set_trace()
-    for memory_tags in data:
+def vectorize_tag(data,tag_idx,sentence_size,memory_size=None,type='memory'):
+    if type=='memory':
+        s_tags=[]
+        # pdb.set_trace()
+        for memory_tags in data:
+            ss = []
+            for i, sentence in enumerate(memory_tags, 1):
+                ls = max(0, sentence_size - len(sentence))
+                ss.append([tag_idx[w] for w in sentence] + [0] * ls)
+
+            # take only the most recent sentences that fit in memory
+            ss = ss[::-1][:memory_size][::-1]
+
+            # Make the last word of each sentence the time 'word' which
+            # corresponds to vector of lookup table
+            # for i in range(len(ss)):
+            #     ss[i][-1] = len(tag_idx) - memory_size - i + len(ss)
+
+            # pad to memory_size
+            lm = max(0, memory_size - len(ss))
+            for _ in range(lm):
+                ss.append([0] * sentence_size)
+            s_tags.append(ss)
+        # pdb.set_trace()
+        return s_tags
+    else:
         ss = []
-        for i, sentence in enumerate(memory_tags, 1):
+        for i, sentence in enumerate(data, 1):
             ls = max(0, sentence_size - len(sentence))
             ss.append([tag_idx[w] for w in sentence] + [0] * ls)
-
-        # take only the most recent sentences that fit in memory
-        ss = ss[::-1][:memory_size][::-1]
-
-        # Make the last word of each sentence the time 'word' which
-        # corresponds to vector of lookup table
-        # for i in range(len(ss)):
-        #     ss[i][-1] = len(tag_idx) - memory_size - i + len(ss)
-
-        # pad to memory_size
-        lm = max(0, memory_size - len(ss))
-        for _ in range(lm):
-            ss.append([0] * sentence_size)
-        s_tags.append(ss)
-    # pdb.set_trace()
-    return s_tags
+        return ss
 
 def vectorize_data(data, word_idx, sentence_size, memory_size):
     """

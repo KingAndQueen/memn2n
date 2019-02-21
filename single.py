@@ -28,7 +28,7 @@ tf.flags.DEFINE_integer("embedding_size", 25, "Embedding size for embedding matr
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
 tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
-tf.flags.DEFINE_string("data_dir", "my_data_rename", "Directory containing bAbI tasks")
+tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI tasks")
 tf.flags.DEFINE_boolean('visual', False, 'whether visualize the embedding')
 tf.flags.DEFINE_boolean('joint', False, 'whether to train all tasks')
 tf.flags.DEFINE_boolean('trained_emb', False, 'whether use trained embedding, such as Glove')
@@ -52,13 +52,15 @@ if FLAGS.joint:
 
 else:
     # task data
-    train, test, train_tags, test_tags = load_task(FLAGS.data_dir, FLAGS.task_id)
+    train, test, train_tags_s, test_tags_s,train_tags_q,test_tags_q = load_task(FLAGS.data_dir, FLAGS.task_id)
 data = train + test
-data_tags=train_tags+test_tags
-# pdb.set_trace()
+data_tags=train_tags_s+test_tags_s
+
 tags_set=set()
 for s_tags in data_tags:
     tags_set.update(set(chain.from_iterable(s_tags)))
+# pdb.set_trace()
+tags_set.update(set(chain.from_iterable(train_tags_q+test_tags_q)))
 tags_idx=dict((c, i + 1) for i, c in enumerate(tags_set))
 print('Tags:',tags_idx)
 tags_size=len(tags_set)+1
@@ -106,14 +108,16 @@ print("Longest sentence length", sentence_size)
 print("Longest story length", max_story_size)
 print("Average story length", mean_story_size)
 
-S_tags=vectorize_tag(train_tags,tags_idx,sentence_size,memory_size)
+S_tags=vectorize_tag(train_tags_s,tags_idx,sentence_size,memory_size,type='memory')
+Q_tags=vectorize_tag(train_tags_q,tags_idx,sentence_size,type='query')
 # train/validation/test sets
 S, Q, A = vectorize_data(train, word_idx, sentence_size, memory_size)
 
-trainS, valS, trainQ, valQ, trainA, valA ,trainS_tags,valS_tags = model_selection.train_test_split(S, Q, A,S_tags, test_size=.1,
+trainS, valS, trainQ, valQ, trainA, valA ,trainS_tags,valS_tags,trainQ_tags,valQ_tags = model_selection.train_test_split(S, Q, A,S_tags,Q_tags, test_size=.1,
                                                                             random_state=FLAGS.random_state)
 testS, testQ, testA = vectorize_data(test, word_idx, sentence_size, memory_size)
-testS_tags=vectorize_tag(test_tags,tags_idx,sentence_size,memory_size)
+testS_tags=vectorize_tag(test_tags_s,tags_idx,sentence_size,memory_size,type='memory')
+testQ_tags=vectorize_tag(test_tags_q,tags_idx,sentence_size,type='query')
 # pdb.set_trace()
 print(testS[1])
 
@@ -178,7 +182,8 @@ with tf.Session() as sess:
             q = trainQ[start:end]
             a = trainA[start:end]
             tag=trainS_tags[start:end]
-            cost_t = model.batch_fit(s, q, a, tag,lr)
+            tagQ=trainQ_tags[start:end]
+            cost_t = model.batch_fit(s, q, a, tag,tagQ,lr)
             total_cost += cost_t
 
         if t % FLAGS.evaluation_interval == 0:
@@ -188,10 +193,11 @@ with tf.Session() as sess:
                 s = trainS[start:end]
                 q = trainQ[start:end]
                 tag=trainS_tags[start:end]
-                pred, _ = model.predict(s, q,tag)
+                tagQ=trainQ_tags[start:end]
+                pred, _ = model.predict(s, q,tag,tagQ)
                 train_preds += list(pred)
 
-            val_preds, _ = model.predict(valS, valQ,valS_tags)
+            val_preds, _ = model.predict(valS, valQ,valS_tags,valQ_tags)
             train_acc = metrics.accuracy_score(np.array(train_preds), train_labels)
             val_acc = metrics.accuracy_score(val_preds, val_labels)
 
@@ -202,7 +208,7 @@ with tf.Session() as sess:
             print('Validation Accuracy:', val_acc)
             print('-----------------------')
 
-    test_preds, word_embedding = model.predict(testS, testQ,testS_tags, type='test')
+    test_preds, word_embedding = model.predict(testS, testQ,testS_tags,testQ_tags, type='test')
     test_acc = metrics.accuracy_score(test_preds, test_labels)
     print("Testing Accuracy:", test_acc)
 
