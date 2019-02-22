@@ -27,6 +27,7 @@ def position_encoding(sentence_size, embedding_size):
     encoding = 1 + 4 * encoding / embedding_size / sentence_size
     # Make position encoding of time words identity to avoid modifying them
     encoding[:, -1] = 1.0
+    # pdb.set_trace()
     return np.transpose(encoding)
 
 
@@ -175,7 +176,7 @@ class MemN2N(object):
         # gradient pipeline
         grads_and_vars = self._opt.compute_gradients(loss_op)
         # pdb.set_trace()
-        grads_and_vars = [(tf.clip_by_norm(g, self._max_grad_norm), v) for g, v in grads_and_vars]
+        grads_and_vars = [(tf.clip_by_norm(g, self._max_grad_norm), v) for g, v in grads_and_vars if g is not None]
         # grads_and_vars = [(add_gradient_noise(g), v) for g,v in grads_and_vars]
         nil_grads_and_vars = []
         for g, v in grads_and_vars:
@@ -253,36 +254,51 @@ class MemN2N(object):
         with tf.variable_scope('inference'):
             # Use A_1 for thee question embedding as per Adjacent Weight Sharing
             q_emb = tf.nn.embedding_lookup(self.A_1, queries)
-            q_tag = tf.nn.embedding_lookup(self.T, tagsQ)
-            q_emb=tf.concat([q_emb,q_tag],axis=-1)
-            w_merge_q = tf.get_variable('w_q', [1, 2 * self._embedding_size, self._embedding_size],
-                                      initializer=tf.random_normal_initializer(0.1))
-            q_emb=tf.nn.conv1d(q_emb, w_merge_q, 1, 'SAME')
-            u_0 = tf.reduce_sum(q_emb * self._encoding, 1)
+            # q_tag = tf.nn.embedding_lookup(self.T, tagsQ)
+            # q_emb=tf.concat([q_emb,q_tag],axis=-1)
+            # w_merge_q = tf.get_variable('w_q', [1, 2 * self._embedding_size, self._embedding_size],
+            #                           initializer=tf.random_normal_initializer(0.1))
+            # q_emb=tf.nn.conv1d(q_emb, w_merge_q, 1, 'SAME')
+
+            # u_0 = tf.reduce_sum(q_emb * self._encoding, 1)
             # pdb.set_trace()
+            q_tag = tf.nn.embedding_lookup(self.T, tagsQ)
+            u_0 = tf.reduce_sum(q_emb * q_tag, 1)
+
+            # u_0_tag=tf.reduce_sum(q_tag * self._encoding, 1)
+            # u_0=tf.concat([u_0,u_0_tag],axis=-1)
+            # pdb.set_trace()
+            # w_merge_q = tf.get_variable('w_q', [2 * self._embedding_size, self._embedding_size],
+            #                           initializer=tf.random_normal_initializer(0.1))
+            # u_0=tf.matmul(u_0,w_merge_q)
             u = [u_0]
-            w_merge = tf.get_variable('w_init', [1, 1, 2 * self._embedding_size, self._embedding_size],
-                                      initializer=tf.random_normal_initializer(0.1))
+            # w_merge = tf.get_variable('w_init', [1, 1, 2 * self._embedding_size, self._embedding_size],
+            #                           initializer=tf.random_normal_initializer(0.1))
             for hopn in range(self._hops):
                 if hopn == 0:
                     m_emb_A = tf.nn.embedding_lookup(self.A_1, stories)
-                    m_tag=tf.nn.embedding_lookup(self.T,tags)
-                    m_emb_A=tf.concat([m_emb_A,m_tag],axis=-1)
-                    # pdb.set_trace()
-                    # w_merge = tf.get_variable('w_init', [1, 1, 2 * self._embedding_size, self._embedding_size],
-                    #                           initializer=tf.random_normal_initializer(stddev=0.02))
-                    m_emb_A=tf.nn.conv2d(m_emb_A, w_merge, [1,1,1,1], 'SAME')
-                    m_A = tf.reduce_sum(m_emb_A * self._encoding, 2)
+                    # m_A = tf.reduce_sum(m_emb_A * self._encoding, 2)
 
+                    m_tag = tf.nn.embedding_lookup(self.T, tags)
+                    # m_tag = tf.reduce_sum(m_tag * self._encoding, 2)
+                    # m_A = tf.concat([m_A, m_tag], axis=-1)
+                    # pdb.set_trace()
+                    # w_weight = tf.get_variable('w_init', [1,2 * self._embedding_size, self._embedding_size],
+                    #                           initializer=tf.random_normal_initializer(stddev=0.02))
+                    # m_A = tf.nn.conv1d(m_A, w_weight, 1, 'SAME')
+                    # m_A=tf.matmul(m_A,w_weight)
+
+                    m_A = tf.reduce_sum(m_tag * m_emb_A, 2)
                 else:
                     with tf.variable_scope('hop_{}'.format(hopn - 1)):
                         m_emb_A = tf.nn.embedding_lookup(self.C[hopn - 1], stories)
                         m_tag = tf.nn.embedding_lookup(self.T, tags)
-                        m_emb_A = tf.concat([m_emb_A, m_tag], axis=-1)
+                        # m_emb_A = tf.concat([m_emb_A, m_tag], axis=-1)
                         # w_merge = tf.get_variable('w'+str(hopn - 1), [1, 1, 2 * self._embedding_size, self._embedding_size],
                         #                           initializer=tf.random_normal_initializer(stddev=0.02))
-                        m_emb_A = tf.nn.conv2d(m_emb_A, w_merge, [1, 1, 1, 1], 'SAME')
-                        m_A = tf.reduce_sum(m_emb_A * self._encoding, 2)
+                        # m_emb_A = tf.nn.conv2d(m_emb_A, w_merge, [1, 1, 1, 1], 'SAME')
+                        # m_A = tf.reduce_sum(m_emb_A * self._encoding, 2)
+                        m_A = tf.reduce_sum(m_emb_A * m_tag, 2)
 
                 # hack to get around no reduce_dot
                 u_temp = tf.transpose(tf.expand_dims(u[-1], -1), [0, 2, 1])
@@ -295,12 +311,12 @@ class MemN2N(object):
                 with tf.variable_scope('hop_{}'.format(hopn)):
                     m_emb_C = tf.nn.embedding_lookup(self.C[hopn], stories)
                     m_tag = tf.nn.embedding_lookup(self.T, tags)
-                    m_emb_C = tf.concat([m_emb_C, m_tag], axis=-1)
+                    # m_emb_C = tf.concat([m_emb_C, m_tag], axis=-1)
                     # w_merge = tf.get_variable('w'+str(hopn), [1, 1, 2 * self._embedding_size, self._embedding_size],
                     #                           initializer=tf.random_normal_initializer(stddev=0.02))
-                    m_emb_C = tf.nn.conv2d(m_emb_C, w_merge, [1, 1, 1, 1], 'SAME')
-                m_C = tf.reduce_sum(m_emb_C * self._encoding, 2)
-
+                    # m_emb_C = tf.nn.conv2d(m_emb_C, w_merge, [1, 1, 1, 1], 'SAME')
+                # m_C = tf.reduce_sum(m_emb_C * self._encoding, 2)
+                m_C = tf.reduce_sum(m_emb_C * m_tag, 2)
                 c_temp = tf.transpose(m_C, [0, 2, 1])
                 o_k = tf.reduce_sum(c_temp * probs_temp, 2)
 
