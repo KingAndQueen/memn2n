@@ -339,7 +339,7 @@ class MemN2N(object):
         # print('simulate querying...')
 
         # losses = 0
-        for s_e in range(100):
+        for s_e in range(200):
             losses = self.simulate_train(name_map, s, q, a, 0.01)
             print('The %d th simulation loss:%f' % (s_e, losses))
 
@@ -435,11 +435,18 @@ class MemN2N(object):
 
         if len(queries) <= 0: pdb.set_trace()
         total_cost = 0.0
+        # print('simulated dataset: ',len(queries))
         if len(queries) > 32:
+            stories = np.concatenate((story, stories))
+            queries = np.concatenate((query, queries))
+            answers = np.concatenate((answer, answers))
+
             batches = zip(range(0, len(queries) - 32, 32), range(32, len(queries), 32))
             batches = [(start, end) for start, end in batches]
             np.random.shuffle(batches)
             # pdb.set_trace()
+
+
             for start, end in batches:
                 s = stories[start:end]
                 q = queries[start:end]
