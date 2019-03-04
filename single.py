@@ -26,10 +26,10 @@ tf.flags.DEFINE_integer("hops", 3, "Number of hops in the Memory Network.")
 tf.flags.DEFINE_integer("epochs", 100, "Number of epochs to train for.")
 tf.flags.DEFINE_integer("embedding_size", 25, "Embedding size for embedding matrices.")
 tf.flags.DEFINE_integer("memory_size", 50, "Maximum size of memory.")
-tf.flags.DEFINE_integer("task_id", 1, "bAbI task id, 1 <= id <= 20")
+tf.flags.DEFINE_integer("task_id", 2, "bAbI task id, 1 <= id <= 20")
 tf.flags.DEFINE_integer("random_state", None, "Random state.")
-tf.flags.DEFINE_string("data_dir", "my_data_rename", "Directory containing bAbI tasks")
-tf.flags.DEFINE_boolean('visual', True, 'whether visualize the embedding')
+tf.flags.DEFINE_string("data_dir", "my_data_replace", "Directory containing bAbI tasks")
+tf.flags.DEFINE_boolean('visual', False, 'whether visualize the embedding')
 tf.flags.DEFINE_boolean('joint', False, 'whether to train all tasks')
 tf.flags.DEFINE_boolean('trained_emb', False, 'whether use trained embedding, such as Glove')
 tf.flags.DEFINE_boolean('introspect', True, 'whether use the introspect unit')
@@ -53,6 +53,8 @@ if FLAGS.joint:
 else:
     # task data
     train, test, train_tags, test_tags = load_task(FLAGS.data_dir, FLAGS.task_id)
+    _,original_test,_,_ =load_task('data',FLAGS.task_id)
+
 data = train + test
 
 # pdb.set_trace()
@@ -105,6 +107,7 @@ S, Q, A = vectorize_data(train, word_idx, sentence_size, memory_size)
 trainS, valS, trainQ, valQ, trainA, valA = model_selection.train_test_split(S, Q, A, test_size=.1,
                                                                             random_state=FLAGS.random_state)
 testS, testQ, testA = vectorize_data(test, word_idx, sentence_size, memory_size)
+ori_testS, ori_testQ, ori_testA = vectorize_data(original_test, word_idx, sentence_size, memory_size)
 # pdb.set_trace()
 print(testS[1])
 
@@ -122,6 +125,7 @@ print("Testing Size", n_test)
 train_labels = np.argmax(trainA, axis=1)
 test_labels = np.argmax(testA, axis=1)
 val_labels = np.argmax(valA, axis=1)
+ori_test_labels=np.argmax(ori_testA,axis=1)
 
 tf.set_random_seed(FLAGS.random_state)
 batch_size = FLAGS.batch_size
@@ -196,11 +200,20 @@ with tf.Session() as sess:
     print("Testing Accuracy:", test_acc)
 
     if FLAGS.introspect:
+        ori_test_preds, _ = model.predict(ori_testS, ori_testQ, type='test')
+        ori_test_acc = metrics.accuracy_score(ori_test_preds, ori_test_labels)
+        print("Original Testing Accuracy before IU:", ori_test_acc)
+
         test_preds, word_embedding_iu = model.predict(testS, testQ, type='introspect', test_tags=test_tags,
                                                   train_data=[S, Q, A, train_tags],
                                                   word_idx=word_idx, train_set=train_set)
         test_acc = metrics.accuracy_score(test_preds, test_labels)
         print("Introspection Testing Accuracy:", test_acc)
+
+        ori_test_preds, _ = model.predict(ori_testS, ori_testQ, type='test')
+        ori_test_acc = metrics.accuracy_score(ori_test_preds, ori_test_labels)
+        print("Original Testing Accuracy after IU:", ori_test_acc)
+
     if FLAGS.visual:
         import draw
         draw.drew_embedding(word_embedding,idx_word,name='trained_word_emb')
